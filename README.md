@@ -34,10 +34,10 @@ updated later.
 ### Contribute
 There is a lot of data out there. Please help by providing some data and 
 sending a pull request. See the [Contributing 
-page](https://github.com/darmeth/football-fixtures/blob/main/CONTRIBUTING)
+page](https://github.com/darmeth/football-fixtures/blob/main/CONTRIBUTING).
 
 
 ## Licences
 Football Fixtures are available under a [GPL3
-license](https://github.com/darmeth/football-fixtures/blob/main/LICENSE)
+license](https://github.com/darmeth/football-fixtures/blob/main/LICENSE).
 
