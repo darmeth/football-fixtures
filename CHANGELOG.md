@@ -6,6 +6,8 @@
 * Added Copa do Brasil 2022
 * Added International Friendlies 2022
 * Added UEFA Nations League 2022/2023
+* Final ordering of data: league by date by time
+* Added football-fixtures-women.csv
 
 2022-06-24
 * Added La Liga 2022/2023
