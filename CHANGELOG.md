@@ -1,5 +1,8 @@
 # Change Log
 
+2022-06-27
+* Added EFL League Two 2022/2023
+
 2022-06-26
 * Added EFL League One 2022/2023
 * Added USA MLS 2022
