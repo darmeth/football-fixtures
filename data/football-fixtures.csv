@@ -1,13 +1,4 @@
 date,league,teams,time,note_1
-2022-06-27,AFC Cup,Visakha FC v Bali United,09:00:00,Group Stage
-2022-06-27,AFC Cup,Phnom Penh Crown v Viettel,10:00:00,Group Stage
-2022-06-27,AFC Cup,Tainan City v Lee Man,10:00:00,Group Stage
-2022-06-27,AFC Cup,Tampines Rovers v PSM Makassar,12:00:00,Group Stage
-2022-06-27,AFC Cup,Kedah v Kaya FC,13:00:00,Group Stage
-2022-06-27,AFC Cup,Dordoi Bishkek v Köpetdag,14:00:00,Group Stage
-2022-06-27,AFC Cup,Neftchi v Altyn Asyr,14:00:00,Group Stage
-2022-06-27,AFC Cup,Young Elephants v Hougang United,14:00:00,Group Stage
-2022-06-27,AFC Cup,CSKA Pamir Dushanbe v Sogdiana Jizzakh,17:00:00,Group Stage
 2022-06-30,AFC Cup,Kaya FC v Bali United,09:00:00,Group Stage
 2022-06-30,AFC Cup,Eastern SC v Tainan City,10:00:00,Group Stage
 2022-06-30,AFC Cup,Viettel v Hougang United,10:00:00,Group Stage
@@ -3712,7 +3703,6 @@ date,league,teams,time,note_1
 2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-2022-06-27,USA MLS,Vancouver Whitecaps v New England Revolution,00:00:00,Regular Season
 2022-06-29,USA MLS,FC Cincinnati v New York City FC,23:30:00,Regular Season
 2022-06-29,USA MLS,Toronto FC v Columbus Crew,23:30:00,Regular Season
 2022-06-30,USA MLS,Chicago Fire v Philadelphia Union,00:00:00,Regular Season
