@@ -1,5 +1,10 @@
 # Change Log
 
+2022-06-28
+* Added J1 League 2022
+* Added Serie A 2022/2023
+* Enabled remote Bot to clean old dates
+
 2022-06-27
 * Added EFL League Two 2022/2023
 

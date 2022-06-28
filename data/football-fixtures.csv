@@ -1995,6 +1995,150 @@ date,league,teams,time,note_1
 2022-09-27,International Friendly,Saudi Arabia v USA,,Murcia – Spain
 2022-11-06,International Friendly,Iceland v Saudi Arabia,,
 2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
+2022-07-02,J1 League,FC Tokyo v Avispa Fukuoka,09:00:00,Match 19
+2022-07-02,J1 League,Kashiwa Reysol v Kashima Antlers,09:30:00,Match 19
+2022-07-02,J1 League,Kyoto Sanga FC v Hokkaido Consadole Sapporo,09:30:00,Match 19
+2022-07-02,J1 League,Sanfrecce Hiroshima v Júbilo Iwata,09:30:00,Match 19
+2022-07-02,J1 League,Shonan Bellmare v Nagoya Grampus,10:00:00,Match 19
+2022-07-02,J1 League,Shimizu S-Pulse v Yokohama F. Marinos,10:00:00,Match 19
+2022-07-02,J1 League,Gamba Osaka v Urawa Red Diamonds,10:00:00,Match 19
+2022-07-02,J1 League,Cerezo Osaka v Kawasaki Frontale,10:00:00,Match 19
+2022-07-02,J1 League,Sagan Tosu v Vissel Kobe,10:30:00,Match 19
+2022-07-06,J1 League,Kashima Antlers v Cerezo Osaka,10:00:00,Match 20
+2022-07-06,J1 League,Kashiwa Reysol v Nagoya Grampus,10:00:00,Match 20
+2022-07-06,J1 League,FC Tokyo v Hokkaido Consadole Sapporo,10:00:00,Match 20
+2022-07-06,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
+2022-07-06,J1 League,Yokohama F. Marinos v Sanfrecce Hiroshima,10:00:00,Match 20
+2022-07-06,J1 League,Shonan Bellmare v Gamba Osaka,10:00:00,Match 20
+2022-07-06,J1 League,Júbilo Iwata v Avispa Fukuoka,10:00:00,Match 20
+2022-07-06,J1 League,Vissel Kobe v Shimizu S-Pulse,10:00:00,Match 20
+2022-07-06,J1 League,Urawa Red Diamonds v Kyoto Sanga FC,10:30:00,Match 20
+2022-07-09,J1 League,Kawasaki Frontale v Gamba Osaka,10:00:00,Match 21
+2022-07-09,J1 League,Júbilo Iwata v Vissel Kobe,10:00:00,Match 21
+2022-07-10,J1 League,Hokkaido Consadole Sapporo v Kashima Antlers,05:00:00,Match 21
+2022-07-10,J1 League,Nagoya Grampus v Shimizu S-Pulse,09:00:00,Match 21
+2022-07-10,J1 League,Sanfrecce Hiroshima v Shonan Bellmare,09:00:00,Match 21
+2022-07-10,J1 League,Urawa Red Diamonds v FC Tokyo,10:00:00,Match 21
+2022-07-10,J1 League,Cerezo Osaka v Yokohama F. Marinos,10:00:00,Match 21
+2022-07-10,J1 League,Avispa Fukuoka v Kyoto Sanga FC,10:00:00,Match 21
+2022-07-10,J1 League,Sagan Tosu v Kashiwa Reysol,10:00:00,Match 21
+2022-07-16,J1 League,Kashima Antlers v Vissel Kobe,09:00:00,Match 22
+2022-07-16,J1 League,Shimizu S-Pulse v Urawa Red Diamonds,09:00:00,Match 22
+2022-07-16,J1 League,Nagoya Grampus v Kawasaki Frontale,10:00:00,Match 22
+2022-07-16,J1 League,Kashiwa Reysol v Hokkaido Consadole Sapporo,10:00:00,Match 22
+2022-07-16,J1 League,Shonan Bellmare v Avispa Fukuoka,10:00:00,Match 22
+2022-07-16,J1 League,Gamba Osaka v Cerezo Osaka,10:00:00,Match 22
+2022-07-16,J1 League,Sagan Tosu v Yokohama F. Marinos,10:00:00,Match 22
+2022-07-17,J1 League,FC Tokyo v Júbilo Iwata,09:00:00,Match 22
+2022-07-17,J1 League,Kyoto Sanga FC v Sanfrecce Hiroshima,09:30:00,Match 22
+2022-07-30,J1 League,Hokkaido Consadole Sapporo v Nagoya Grampus,05:00:00,Match 23
+2022-07-30,J1 League,Júbilo Iwata v Shonan Bellmare,09:30:00,Match 23
+2022-07-30,J1 League,Urawa Red Diamonds v Kawasaki Frontale,10:00:00,Match 23
+2022-07-30,J1 League,Yokohama F. Marinos v Kashima Antlers,10:00:00,Match 23
+2022-07-30,J1 League,Gamba Osaka v Kyoto Sanga FC,10:00:00,Match 23
+2022-07-30,J1 League,Cerezo Osaka v Avispa Fukuoka,10:00:00,Match 23
+2022-07-30,J1 League,Vissel Kobe v Kashiwa Reysol,10:00:00,Match 23
+2022-07-30,J1 League,Sanfrecce Hiroshima v FC Tokyo,10:00:00,Match 23
+2022-07-31,J1 League,Shimizu S-Pulse v Sagan Tosu,09:00:00,Match 23
+2022-08-06,J1 League,Kashima Antlers v Sanfrecce Hiroshima,09:00:00,Match 24
+2022-08-06,J1 League,Kyoto Sanga FC v Kashiwa Reysol,09:30:00,Match 24
+2022-08-06,J1 League,Nagoya Grampus v Urawa Red Diamonds,10:00:00,Match 24
+2022-08-06,J1 League,Cerezo Osaka v Vissel Kobe,10:00:00,Match 24
+2022-08-06,J1 League,Avispa Fukuoka v Gamba Osaka,10:00:00,Match 24
+2022-08-07,J1 League,FC Tokyo v Shimizu S-Pulse,09:00:00,Match 24
+2022-08-07,J1 League,Kawasaki Frontale v Yokohama F. Marinos,10:00:00,Match 24
+2022-08-07,J1 League,Shonan Bellmare v Hokkaido Consadole Sapporo,10:00:00,Match 24
+2022-08-07,J1 League,Sagan Tosu v Júbilo Iwata,10:00:00,Match 24
+2022-08-13,J1 League,Hokkaido Consadole Sapporo v Vissel Kobe,05:00:00,Match 25
+2022-08-13,J1 League,Júbilo Iwata v Urawa Red Diamonds,09:30:00,Match 25
+2022-08-13,J1 League,FC Tokyo v Cerezo Osaka,10:00:00,Match 25
+2022-08-13,J1 League,Kawasaki Frontale v Kyoto Sanga FC,10:00:00,Match 25
+2022-08-13,J1 League,Yokohama F. Marinos v Shonan Bellmare,10:00:00,Match 25
+2022-08-14,J1 League,Kashima Antlers v Avispa Fukuoka,09:00:00,Match 25
+2022-08-14,J1 League,Kashiwa Reysol v Sanfrecce Hiroshima,09:30:00,Match 25
+2022-08-14,J1 League,Gamba Osaka v Shimizu S-Pulse,10:00:00,Match 25
+2022-08-14,J1 League,Sagan Tosu v Nagoya Grampus,10:00:00,Match 25
+2022-08-19,J1 League,Nagoya Grampus v Júbilo Iwata,10:30:00,Match 26
+2022-08-20,J1 League,Hokkaido Consadole Sapporo v Sagan Tosu,05:00:00,Match 26
+2022-08-20,J1 League,Shimizu S-Pulse v Kashiwa Reysol,09:00:00,Match 26
+2022-08-20,J1 League,Sanfrecce Hiroshima v Gamba Osaka,10:00:00,Match 26
+2022-08-20,J1 League,Avispa Fukuoka v Kawasaki Frontale,10:00:00,Match 26
+2022-08-21,J1 League,Shonan Bellmare v Kashima Antlers,10:00:00,Match 26
+2022-08-26,J1 League,Sagan Tosu v Avispa Fukuoka,10:00:00,Match 27
+2022-08-27,J1 League,Shimizu S-Pulse v Kyoto Sanga FC,09:00:00,Match 27
+2022-08-27,J1 League,Nagoya Grampus v Gamba Osaka,09:00:00,Match 27
+2022-08-27,J1 League,Kashiwa Reysol v FC Tokyo,10:00:00,Match 27
+2022-08-27,J1 League,Cerezo Osaka v Sanfrecce Hiroshima,10:00:00,Match 27
+2022-08-27,J1 League,Kawasaki Frontale v Kashima Antlers,10:00:00,Match 27
+2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,,Match 28
+2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,,Match 28
+2022-09-03,J1 League,FC Tokyo v Yokohama F. Marinos,,Match 28
+2022-09-03,J1 League,Shonan Bellmare v Kawasaki Frontale,,Match 28
+2022-09-03,J1 League,Júbilo Iwata v Kashiwa Reysol,,Match 28
+2022-09-03,J1 League,Kyoto Sanga FC v Vissel Kobe,,Match 28
+2022-09-03,J1 League,Gamba Osaka v Sagan Tosu,,Match 28
+2022-09-03,J1 League,Sanfrecce Hiroshima v Shimizu S-Pulse,,Match 28
+2022-09-03,J1 League,Avispa Fukuoka v Nagoya Grampus,,Match 28
+2022-09-10,J1 League,Hokkaido Consadole Sapporo v Júbilo Iwata,,Match 29
+2022-09-10,J1 League,Urawa Red Diamonds v Kashiwa Reysol,,Match 29
+2022-09-10,J1 League,Kawasaki Frontale v Sanfrecce Hiroshima,,Match 29
+2022-09-10,J1 League,Yokohama F. Marinos v Avispa Fukuoka,,Match 29
+2022-09-10,J1 League,Shimizu S-Pulse v Shonan Bellmare,,Match 29
+2022-09-10,J1 League,Kyoto Sanga FC v Kashima Antlers,,Match 29
+2022-09-10,J1 League,Gamba Osaka v FC Tokyo,,Match 29
+2022-09-10,J1 League,Cerezo Osaka v Sagan Tosu,,Match 29
+2022-09-10,J1 League,Vissel Kobe v Nagoya Grampus,,Match 29
+2022-09-13,J1 League,Urawa Red Diamonds v Cerezo Osaka,,Match 26
+2022-09-13,J1 League,Kyoto Sanga FC v Yokohama F. Marinos,,Match 26
+2022-09-13,J1 League,Vissel Kobe v FC Tokyo,,Match 26
+2022-09-17,J1 League,Kashiwa Reysol v Kawasaki Frontale,,Match 30
+2022-09-17,J1 League,FC Tokyo v Kyoto Sanga FC,,Match 30
+2022-09-17,J1 League,Yokohama F. Marinos v Hokkaido Consadole Sapporo,,Match 30
+2022-09-17,J1 League,Shonan Bellmare v Urawa Red Diamonds,,Match 30
+2022-09-17,J1 League,Júbilo Iwata v Cerezo Osaka,,Match 30
+2022-09-17,J1 League,Nagoya Grampus v Sanfrecce Hiroshima,,Match 30
+2022-09-17,J1 League,Vissel Kobe v Gamba Osaka,,Match 30
+2022-09-17,J1 League,Avispa Fukuoka v Shimizu S-Pulse,,Match 30
+2022-09-17,J1 League,Sagan Tosu v Kashima Antlers,,Match 30
+2022-10-01,J1 League,Hokkaido Consadole Sapporo v Kawasaki Frontale,,Match 31
+2022-10-01,J1 League,Kashima Antlers v FC Tokyo,,Match 31
+2022-10-01,J1 League,Shimizu S-Pulse v Júbilo Iwata,,Match 31
+2022-10-01,J1 League,Nagoya Grampus v Yokohama F. Marinos,,Match 31
+2022-10-01,J1 League,Gamba Osaka v Kashiwa Reysol,,Match 31
+2022-10-01,J1 League,Cerezo Osaka v Shonan Bellmare,,Match 31
+2022-10-01,J1 League,Sanfrecce Hiroshima v Urawa Red Diamonds,,Match 31
+2022-10-01,J1 League,Avispa Fukuoka v Vissel Kobe,,Match 31
+2022-10-01,J1 League,Sagan Tosu v Kyoto Sanga FC,,Match 31
+2022-10-08,J1 League,Hokkaido Consadole Sapporo v Avispa Fukuoka,,Match 32
+2022-10-08,J1 League,Urawa Red Diamonds v Sagan Tosu,,Match 32
+2022-10-08,J1 League,Kashiwa Reysol v Cerezo Osaka,,Match 32
+2022-10-08,J1 League,FC Tokyo v Shonan Bellmare,,Match 32
+2022-10-08,J1 League,Kawasaki Frontale v Shimizu S-Pulse,,Match 32
+2022-10-08,J1 League,Yokohama F. Marinos v Gamba Osaka,,Match 32
+2022-10-08,J1 League,Júbilo Iwata v Kashima Antlers,,Match 32
+2022-10-08,J1 League,Kyoto Sanga FC v Nagoya Grampus,,Match 32
+2022-10-08,J1 League,Vissel Kobe v Sanfrecce Hiroshima,,Match 32
+2022-10-12,J1 League,Urawa Red Diamonds v Hokkaido Consadole Sapporo,,Match 27
+2022-10-12,J1 League,Yokohama F. Marinos v Júbilo Iwata,,Match 27
+2022-10-12,J1 League,Vissel Kobe v Shonan Bellmare,,Match 27
+2022-10-29,J1 League,Kawasaki Frontale v Vissel Kobe,,Match 33
+2022-10-29,J1 League,Yokohama F. Marinos v Urawa Red Diamonds,,Match 33
+2022-10-29,J1 League,Shonan Bellmare v Sagan Tosu,,Match 33
+2022-10-29,J1 League,Shimizu S-Pulse v Kashima Antlers,,Match 33
+2022-10-29,J1 League,Nagoya Grampus v FC Tokyo,,Match 33
+2022-10-29,J1 League,Kyoto Sanga FC v Cerezo Osaka,,Match 33
+2022-10-29,J1 League,Gamba Osaka v Júbilo Iwata,,Match 33
+2022-10-29,J1 League,Sanfrecce Hiroshima v Hokkaido Consadole Sapporo,,Match 33
+2022-10-29,J1 League,Avispa Fukuoka v Kashiwa Reysol,,Match 33
+2022-11-05,J1 League,Hokkaido Consadole Sapporo v Shimizu S-Pulse,,Match 34
+2022-11-05,J1 League,Kashima Antlers v Gamba Osaka,,Match 34
+2022-11-05,J1 League,Urawa Red Diamonds v Avispa Fukuoka,,Match 34
+2022-11-05,J1 League,Kashiwa Reysol v Shonan Bellmare,,Match 34
+2022-11-05,J1 League,FC Tokyo v Kawasaki Frontale,,Match 34
+2022-11-05,J1 League,Júbilo Iwata v Kyoto Sanga FC,,Match 34
+2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
+2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
+2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
 2022-08-14,La Liga,Almeria v Real Madrid,,Match 1
 2022-08-14,La Liga,Athletic Bilbao v Real Mallorca,,Match 1
 2022-08-14,La Liga,Barcelona v Rayo Vallecano,,Match 1
@@ -3135,6 +3279,386 @@ date,league,teams,time,note_1
 2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
+2022-08-14,Serie A,AC Milan v Udinese,,Match 1
+2022-08-14,Serie A,Fiorentina v Cremonese,,Match 1
+2022-08-14,Serie A,Juventus v Sassuolo,,Match 1
+2022-08-14,Serie A,Lazio v Bologna,,Match 1
+2022-08-14,Serie A,Lecce v Inter Milan,,Match 1
+2022-08-14,Serie A,Monza v Torino,,Match 1
+2022-08-14,Serie A,Salernitana v Roma,,Match 1
+2022-08-14,Serie A,Sampdoria v Atalanta,,Match 1
+2022-08-14,Serie A,Spezia v Empoli,,Match 1
+2022-08-14,Serie A,Verona v Napoli,,Match 1
+2022-08-21,Serie A,Atalanta v AC Milan,,Match 2
+2022-08-21,Serie A,Bologna v Verona,,Match 2
+2022-08-21,Serie A,Empoli v Fiorentina,,Match 2
+2022-08-21,Serie A,Inter Milan v Spezia,,Match 2
+2022-08-21,Serie A,Napoli v Monza,,Match 2
+2022-08-21,Serie A,Roma v Cremonese,,Match 2
+2022-08-21,Serie A,Sampdoria v Juventus,,Match 2
+2022-08-21,Serie A,Sassuolo v Lecce,,Match 2
+2022-08-21,Serie A,Torino v Lazio,,Match 2
+2022-08-21,Serie A,Udinese v Salernitana,,Match 2
+2022-08-28,Serie A,AC Milan v Bologna,,Match 3
+2022-08-28,Serie A,Cremonese v Torino,,Match 3
+2022-08-28,Serie A,Fiorentina v Napoli,,Match 3
+2022-08-28,Serie A,Juventus v Roma,,Match 3
+2022-08-28,Serie A,Lazio v Inter Milan,,Match 3
+2022-08-28,Serie A,Lecce v Empoli,,Match 3
+2022-08-28,Serie A,Monza v Udinese,,Match 3
+2022-08-28,Serie A,Salernitana v Sampdoria,,Match 3
+2022-08-28,Serie A,Spezia v Sassuolo,,Match 3
+2022-08-28,Serie A,Verona v Atalanta,,Match 3
+2022-08-31,Serie A,Atalanta v Torino,,Match 4
+2022-08-31,Serie A,Bologna v Salernitana,,Match 4
+2022-08-31,Serie A,Empoli v Verona,,Match 4
+2022-08-31,Serie A,Inter Milan v Cremonese,,Match 4
+2022-08-31,Serie A,Juventus v Spezia,,Match 4
+2022-08-31,Serie A,Napoli v Lecce,,Match 4
+2022-08-31,Serie A,Roma v Monza,,Match 4
+2022-08-31,Serie A,Sampdoria v Lazio,,Match 4
+2022-08-31,Serie A,Sassuolo v AC Milan,,Match 4
+2022-08-31,Serie A,Udinese v Fiorentina,,Match 4
+2022-09-04,Serie A,AC Milan v Inter Milan,,Match 5
+2022-09-04,Serie A,Cremonese v Sassuolo,,Match 5
+2022-09-04,Serie A,Fiorentina v Juventus,,Match 5
+2022-09-04,Serie A,Lazio v Napoli,,Match 5
+2022-09-04,Serie A,Monza v Atalanta,,Match 5
+2022-09-04,Serie A,Salernitana v Empoli,,Match 5
+2022-09-04,Serie A,Spezia v Bologna,,Match 5
+2022-09-04,Serie A,Torino v Lecce,,Match 5
+2022-09-04,Serie A,Udinese v Roma,,Match 5
+2022-09-04,Serie A,Verona v Sampdoria,,Match 5
+2022-09-11,Serie A,Atalanta v Cremonese,,Match 6
+2022-09-11,Serie A,Bologna v Fiorentina,,Match 6
+2022-09-11,Serie A,Empoli v Roma,,Match 6
+2022-09-11,Serie A,Inter Milan v Torino,,Match 6
+2022-09-11,Serie A,Juventus v Salernitana,,Match 6
+2022-09-11,Serie A,Lazio v Verona,,Match 6
+2022-09-11,Serie A,Lecce v Monza,,Match 6
+2022-09-11,Serie A,Napoli v Spezia,,Match 6
+2022-09-11,Serie A,Sampdoria v AC Milan,,Match 6
+2022-09-11,Serie A,Sassuolo v Udinese,,Match 6
+2022-09-18,Serie A,AC Milan v Napoli,,Match 7
+2022-09-18,Serie A,Bologna v Empoli,,Match 7
+2022-09-18,Serie A,Cremonese v Lazio,,Match 7
+2022-09-18,Serie A,Fiorentina v Verona,,Match 7
+2022-09-18,Serie A,Monza v Juventus,,Match 7
+2022-09-18,Serie A,Roma v Atalanta,,Match 7
+2022-09-18,Serie A,Salernitana v Lecce,,Match 7
+2022-09-18,Serie A,Spezia v Sampdoria,,Match 7
+2022-09-18,Serie A,Torino v Sassuolo,,Match 7
+2022-09-18,Serie A,Udinese v Inter Milan,,Match 7
+2022-10-02,Serie A,Atalanta v Fiorentina,,Match 8
+2022-10-02,Serie A,Empoli v AC Milan,,Match 8
+2022-10-02,Serie A,Inter Milan v Roma,,Match 8
+2022-10-02,Serie A,Juventus v Bologna,,Match 8
+2022-10-02,Serie A,Lazio v Spezia,,Match 8
+2022-10-02,Serie A,Lecce v Cremonese,,Match 8
+2022-10-02,Serie A,Napoli v Torino,,Match 8
+2022-10-02,Serie A,Sampdoria v Monza,,Match 8
+2022-10-02,Serie A,Sassuolo v Salernitana,,Match 8
+2022-10-02,Serie A,Verona v Udinese,,Match 8
+2022-10-09,Serie A,AC Milan v Juventus,,Match 9
+2022-10-09,Serie A,Bologna v Sampdoria,,Match 9
+2022-10-09,Serie A,Cremonese v Napoli,,Match 9
+2022-10-09,Serie A,Fiorentina v Lazio,,Match 9
+2022-10-09,Serie A,Monza v Spezia,,Match 9
+2022-10-09,Serie A,Roma v Lecce,,Match 9
+2022-10-09,Serie A,Salernitana v Verona,,Match 9
+2022-10-09,Serie A,Sassuolo v Inter Milan,,Match 9
+2022-10-09,Serie A,Torino v Empoli,,Match 9
+2022-10-09,Serie A,Udinese v Atalanta,,Match 9
+2022-10-16,Serie A,Atalanta v Sassuolo,,Match 10
+2022-10-16,Serie A,Empoli v Monza,,Match 10
+2022-10-16,Serie A,Inter Milan v Salernitana,,Match 10
+2022-10-16,Serie A,Lazio v Udinese,,Match 10
+2022-10-16,Serie A,Lecce v Fiorentina,,Match 10
+2022-10-16,Serie A,Napoli v Bologna,,Match 10
+2022-10-16,Serie A,Sampdoria v Roma,,Match 10
+2022-10-16,Serie A,Spezia v Cremonese,,Match 10
+2022-10-16,Serie A,Torino v Juventus,,Match 10
+2022-10-16,Serie A,Verona v AC Milan,,Match 10
+2022-10-23,Serie A,AC Milan v Monza,,Match 11
+2022-10-23,Serie A,Atalanta v Lazio,,Match 11
+2022-10-23,Serie A,Bologna v Lecce,,Match 11
+2022-10-23,Serie A,Cremonese v Sampdoria,,Match 11
+2022-10-23,Serie A,Fiorentina v Inter Milan,,Match 11
+2022-10-23,Serie A,Juventus v Empoli,,Match 11
+2022-10-23,Serie A,Roma v Napoli,,Match 11
+2022-10-23,Serie A,Salernitana v Spezia,,Match 11
+2022-10-23,Serie A,Sassuolo v Verona,,Match 11
+2022-10-23,Serie A,Udinese v Torino,,Match 11
+2022-10-30,Serie A,Cremonese v Udinese,,Match 12
+2022-10-30,Serie A,Empoli v Atalanta,,Match 12
+2022-10-30,Serie A,Inter Milan v Sampdoria,,Match 12
+2022-10-30,Serie A,Lazio v Salernitana,,Match 12
+2022-10-30,Serie A,Lecce v Juventus,,Match 12
+2022-10-30,Serie A,Monza v Bologna,,Match 12
+2022-10-30,Serie A,Napoli v Sassuolo,,Match 12
+2022-10-30,Serie A,Spezia v Fiorentina,,Match 12
+2022-10-30,Serie A,Torino v AC Milan,,Match 12
+2022-10-30,Serie A,Verona v Roma,,Match 12
+2022-11-06,Serie A,AC Milan v Spezia,,Match 13
+2022-11-06,Serie A,Atalanta v Napoli,,Match 13
+2022-11-06,Serie A,Bologna v Torino,,Match 13
+2022-11-06,Serie A,Empoli v Sassuolo,,Match 13
+2022-11-06,Serie A,Juventus v Inter Milan,,Match 13
+2022-11-06,Serie A,Monza v Verona,,Match 13
+2022-11-06,Serie A,Roma v Lazio,,Match 13
+2022-11-06,Serie A,Salernitana v Cremonese,,Match 13
+2022-11-06,Serie A,Sampdoria v Fiorentina,,Match 13
+2022-11-06,Serie A,Udinese v Lecce,,Match 13
+2022-11-09,Serie A,Cremonese v AC Milan,,Match 14
+2022-11-09,Serie A,Fiorentina v Salernitana,,Match 14
+2022-11-09,Serie A,Inter Milan v Bologna,,Match 14
+2022-11-09,Serie A,Lazio v Monza,,Match 14
+2022-11-09,Serie A,Lecce v Atalanta,,Match 14
+2022-11-09,Serie A,Napoli v Empoli,,Match 14
+2022-11-09,Serie A,Sassuolo v Roma,,Match 14
+2022-11-09,Serie A,Spezia v Udinese,,Match 14
+2022-11-09,Serie A,Torino v Sampdoria,,Match 14
+2022-11-09,Serie A,Verona v Juventus,,Match 14
+2022-11-13,Serie A,AC Milan v Fiorentina,,Match 15
+2022-11-13,Serie A,Atalanta v Inter Milan,,Match 15
+2022-11-13,Serie A,Bologna v Sassuolo,,Match 15
+2022-11-13,Serie A,Empoli v Cremonese,,Match 15
+2022-11-13,Serie A,Juventus v Lazio,,Match 15
+2022-11-13,Serie A,Monza v Salernitana,,Match 15
+2022-11-13,Serie A,Napoli v Udinese,,Match 15
+2022-11-13,Serie A,Roma v Torino,,Match 15
+2022-11-13,Serie A,Sampdoria v Lecce,,Match 15
+2022-11-13,Serie A,Verona v Spezia,,Match 15
+2023-01-04,Serie A,Cremonese v Juventus,,Match 16
+2023-01-04,Serie A,Fiorentina v Monza,,Match 16
+2023-01-04,Serie A,Inter Milan v Napoli,,Match 16
+2023-01-04,Serie A,Lecce v Lazio,,Match 16
+2023-01-04,Serie A,Roma v Bologna,,Match 16
+2023-01-04,Serie A,Salernitana v AC Milan,,Match 16
+2023-01-04,Serie A,Sassuolo v Sampdoria,,Match 16
+2023-01-04,Serie A,Spezia v Atalanta,,Match 16
+2023-01-04,Serie A,Torino v Verona,,Match 16
+2023-01-04,Serie A,Udinese v Empoli,,Match 16
+2023-01-08,Serie A,AC Milan v Roma,,Match 17
+2023-01-08,Serie A,Bologna v Atalanta,,Match 17
+2023-01-08,Serie A,Fiorentina v Sassuolo,,Match 17
+2023-01-08,Serie A,Juventus v Udinese,,Match 17
+2023-01-08,Serie A,Lazio v Empoli,,Match 17
+2023-01-08,Serie A,Monza v Inter Milan,,Match 17
+2023-01-08,Serie A,Salernitana v Torino,,Match 17
+2023-01-08,Serie A,Sampdoria v Napoli,,Match 17
+2023-01-08,Serie A,Spezia v Lecce,,Match 17
+2023-01-08,Serie A,Verona v Cremonese,,Match 17
+2023-01-15,Serie A,Atalanta v Salernitana,,Match 18
+2023-01-15,Serie A,Cremonese v Monza,,Match 18
+2023-01-15,Serie A,Empoli v Sampdoria,,Match 18
+2023-01-15,Serie A,Inter Milan v Verona,,Match 18
+2023-01-15,Serie A,Lecce v AC Milan,,Match 18
+2023-01-15,Serie A,Napoli v Juventus,,Match 18
+2023-01-15,Serie A,Roma v Fiorentina,,Match 18
+2023-01-15,Serie A,Sassuolo v Lazio,,Match 18
+2023-01-15,Serie A,Torino v Spezia,,Match 18
+2023-01-15,Serie A,Udinese v Bologna,,Match 18
+2023-01-22,Serie A,Bologna v Cremonese,,Match 19
+2023-01-22,Serie A,Fiorentina v Torino,,Match 19
+2023-01-22,Serie A,Inter Milan v Empoli,,Match 19
+2023-01-22,Serie A,Juventus v Atalanta,,Match 19
+2023-01-22,Serie A,Lazio v AC Milan,,Match 19
+2023-01-22,Serie A,Monza v Sassuolo,,Match 19
+2023-01-22,Serie A,Salernitana v Napoli,,Match 19
+2023-01-22,Serie A,Sampdoria v Udinese,,Match 19
+2023-01-22,Serie A,Spezia v Roma,,Match 19
+2023-01-22,Serie A,Verona v Lecce,,Match 19
+2023-01-29,Serie A,AC Milan v Sassuolo,,Match 20
+2023-01-29,Serie A,Atalanta v Sampdoria,,Match 20
+2023-01-29,Serie A,Bologna v Spezia,,Match 20
+2023-01-29,Serie A,Cremonese v Inter Milan,,Match 20
+2023-01-29,Serie A,Empoli v Torino,,Match 20
+2023-01-29,Serie A,Juventus v Monza,,Match 20
+2023-01-29,Serie A,Lazio v Fiorentina,,Match 20
+2023-01-29,Serie A,Lecce v Salernitana,,Match 20
+2023-01-29,Serie A,Napoli v Roma,,Match 20
+2023-01-29,Serie A,Udinese v Verona,,Match 20
+2023-02-05,Serie A,Cremonese v Lecce,,Match 21
+2023-02-05,Serie A,Fiorentina v Bologna,,Match 21
+2023-02-05,Serie A,Inter Milan v AC Milan,,Match 21
+2023-02-05,Serie A,Monza v Sampdoria,,Match 21
+2023-02-05,Serie A,Roma v Empoli,,Match 21
+2023-02-05,Serie A,Salernitana v Juventus,,Match 21
+2023-02-05,Serie A,Sassuolo v Atalanta,,Match 21
+2023-02-05,Serie A,Spezia v Napoli,,Match 21
+2023-02-05,Serie A,Torino v Udinese,,Match 21
+2023-02-05,Serie A,Verona v Lazio,,Match 21
+2023-02-12,Serie A,AC Milan v Torino,,Match 22
+2023-02-12,Serie A,Bologna v Monza,,Match 22
+2023-02-12,Serie A,Empoli v Spezia,,Match 22
+2023-02-12,Serie A,Juventus v Fiorentina,,Match 22
+2023-02-12,Serie A,Lazio v Atalanta,,Match 22
+2023-02-12,Serie A,Lecce v Roma,,Match 22
+2023-02-12,Serie A,Napoli v Cremonese,,Match 22
+2023-02-12,Serie A,Sampdoria v Inter Milan,,Match 22
+2023-02-12,Serie A,Udinese v Sassuolo,,Match 22
+2023-02-12,Serie A,Verona v Salernitana,,Match 22
+2023-02-19,Serie A,Atalanta v Lecce,,Match 23
+2023-02-19,Serie A,Fiorentina v Empoli,,Match 23
+2023-02-19,Serie A,Inter Milan v Udinese,,Match 23
+2023-02-19,Serie A,Monza v AC Milan,,Match 23
+2023-02-19,Serie A,Roma v Verona,,Match 23
+2023-02-19,Serie A,Salernitana v Lazio,,Match 23
+2023-02-19,Serie A,Sampdoria v Bologna,,Match 23
+2023-02-19,Serie A,Sassuolo v Napoli,,Match 23
+2023-02-19,Serie A,Spezia v Juventus,,Match 23
+2023-02-19,Serie A,Torino v Cremonese,,Match 23
+2023-02-26,Serie A,AC Milan v Atalanta,,Match 24
+2023-02-26,Serie A,Bologna v Inter Milan,,Match 24
+2023-02-26,Serie A,Cremonese v Roma,,Match 24
+2023-02-26,Serie A,Empoli v Napoli,,Match 24
+2023-02-26,Serie A,Juventus v Torino,,Match 24
+2023-02-26,Serie A,Lazio v Sampdoria,,Match 24
+2023-02-26,Serie A,Lecce v Sassuolo,,Match 24
+2023-02-26,Serie A,Salernitana v Monza,,Match 24
+2023-02-26,Serie A,Udinese v Spezia,,Match 24
+2023-02-26,Serie A,Verona v Fiorentina,,Match 24
+2023-03-05,Serie A,Atalanta v Udinese,,Match 25
+2023-03-05,Serie A,Fiorentina v AC Milan,,Match 25
+2023-03-05,Serie A,Inter Milan v Lecce,,Match 25
+2023-03-05,Serie A,Monza v Empoli,,Match 25
+2023-03-05,Serie A,Napoli v Lazio,,Match 25
+2023-03-05,Serie A,Roma v Juventus,,Match 25
+2023-03-05,Serie A,Sampdoria v Salernitana,,Match 25
+2023-03-05,Serie A,Sassuolo v Cremonese,,Match 25
+2023-03-05,Serie A,Spezia v Verona,,Match 25
+2023-03-05,Serie A,Torino v Bologna,,Match 25
+2023-03-12,Serie A,AC Milan v Salernitana,,Match 26
+2023-03-12,Serie A,Bologna v Lazio,,Match 26
+2023-03-12,Serie A,Cremonese v Fiorentina,,Match 26
+2023-03-12,Serie A,Empoli v Udinese,,Match 26
+2023-03-12,Serie A,Juventus v Sampdoria,,Match 26
+2023-03-12,Serie A,Lecce v Torino,,Match 26
+2023-03-12,Serie A,Napoli v Atalanta,,Match 26
+2023-03-12,Serie A,Roma v Sassuolo,,Match 26
+2023-03-12,Serie A,Spezia v Inter Milan,,Match 26
+2023-03-12,Serie A,Verona v Monza,,Match 26
+2023-03-19,Serie A,Atalanta v Empoli,,Match 27
+2023-03-19,Serie A,Fiorentina v Lecce,,Match 27
+2023-03-19,Serie A,Inter Milan v Juventus,,Match 27
+2023-03-19,Serie A,Lazio v Roma,,Match 27
+2023-03-19,Serie A,Monza v Cremonese,,Match 27
+2023-03-19,Serie A,Salernitana v Bologna,,Match 27
+2023-03-19,Serie A,Sampdoria v Verona,,Match 27
+2023-03-19,Serie A,Sassuolo v Spezia,,Match 27
+2023-03-19,Serie A,Torino v Napoli,,Match 27
+2023-03-19,Serie A,Udinese v AC Milan,,Match 27
+2023-04-02,Serie A,Bologna v Udinese,,Match 28
+2023-04-02,Serie A,Cremonese v Atalanta,,Match 28
+2023-04-02,Serie A,Empoli v Lecce,,Match 28
+2023-04-02,Serie A,Inter Milan v Fiorentina,,Match 28
+2023-04-02,Serie A,Juventus v Verona,,Match 28
+2023-04-02,Serie A,Monza v Lazio,,Match 28
+2023-04-02,Serie A,Napoli v AC Milan,,Match 28
+2023-04-02,Serie A,Roma v Sampdoria,,Match 28
+2023-04-02,Serie A,Sassuolo v Torino,,Match 28
+2023-04-02,Serie A,Spezia v Salernitana,,Match 28
+2023-04-08,Serie A,AC Milan v Empoli,,Match 29
+2023-04-08,Serie A,Atalanta v Bologna,,Match 29
+2023-04-08,Serie A,Fiorentina v Spezia,,Match 29
+2023-04-08,Serie A,Lazio v Juventus,,Match 29
+2023-04-08,Serie A,Lecce v Napoli,,Match 29
+2023-04-08,Serie A,Salernitana v Inter Milan,,Match 29
+2023-04-08,Serie A,Sampdoria v Cremonese,,Match 29
+2023-04-08,Serie A,Torino v Roma,,Match 29
+2023-04-08,Serie A,Udinese v Monza,,Match 29
+2023-04-08,Serie A,Verona v Sassuolo,,Match 29
+2023-04-16,Serie A,Bologna v AC Milan,,Match 30
+2023-04-16,Serie A,Cremonese v Empoli,,Match 30
+2023-04-16,Serie A,Fiorentina v Atalanta,,Match 30
+2023-04-16,Serie A,Inter Milan v Monza,,Match 30
+2023-04-16,Serie A,Lecce v Sampdoria,,Match 30
+2023-04-16,Serie A,Napoli v Verona,,Match 30
+2023-04-16,Serie A,Roma v Udinese,,Match 30
+2023-04-16,Serie A,Sassuolo v Juventus,,Match 30
+2023-04-16,Serie A,Spezia v Lazio,,Match 30
+2023-04-16,Serie A,Torino v Salernitana,,Match 30
+2023-04-23,Serie A,AC Milan v Lecce,,Match 31
+2023-04-23,Serie A,Atalanta v Roma,,Match 31
+2023-04-23,Serie A,Empoli v Inter Milan,,Match 31
+2023-04-23,Serie A,Juventus v Napoli,,Match 31
+2023-04-23,Serie A,Lazio v Torino,,Match 31
+2023-04-23,Serie A,Monza v Fiorentina,,Match 31
+2023-04-23,Serie A,Salernitana v Sassuolo,,Match 31
+2023-04-23,Serie A,Sampdoria v Spezia,,Match 31
+2023-04-23,Serie A,Udinese v Cremonese,,Match 31
+2023-04-23,Serie A,Verona v Bologna,,Match 31
+2023-04-30,Serie A,Bologna v Juventus,,Match 32
+2023-04-30,Serie A,Cremonese v Verona,,Match 32
+2023-04-30,Serie A,Fiorentina v Sampdoria,,Match 32
+2023-04-30,Serie A,Inter Milan v Lazio,,Match 32
+2023-04-30,Serie A,Lecce v Udinese,,Match 32
+2023-04-30,Serie A,Napoli v Salernitana,,Match 32
+2023-04-30,Serie A,Roma v AC Milan,,Match 32
+2023-04-30,Serie A,Sassuolo v Empoli,,Match 32
+2023-04-30,Serie A,Spezia v Monza,,Match 32
+2023-04-30,Serie A,Torino v Atalanta,,Match 32
+2023-05-03,Serie A,AC Milan v Cremonese,,Match 33
+2023-05-03,Serie A,Atalanta v Spezia,,Match 33
+2023-05-03,Serie A,Empoli v Bologna,,Match 33
+2023-05-03,Serie A,Juventus v Lecce,,Match 33
+2023-05-03,Serie A,Lazio v Sassuolo,,Match 33
+2023-05-03,Serie A,Monza v Roma,,Match 33
+2023-05-03,Serie A,Salernitana v Fiorentina,,Match 33
+2023-05-03,Serie A,Sampdoria v Torino,,Match 33
+2023-05-03,Serie A,Udinese v Napoli,,Match 33
+2023-05-03,Serie A,Verona v Inter Milan,,Match 33
+2023-05-07,Serie A,AC Milan v Lazio,,Match 34
+2023-05-07,Serie A,Atalanta v Juventus,,Match 34
+2023-05-07,Serie A,Cremonese v Spezia,,Match 34
+2023-05-07,Serie A,Empoli v Salernitana,,Match 34
+2023-05-07,Serie A,Lecce v Verona,,Match 34
+2023-05-07,Serie A,Napoli v Fiorentina,,Match 34
+2023-05-07,Serie A,Roma v Inter Milan,,Match 34
+2023-05-07,Serie A,Sassuolo v Bologna,,Match 34
+2023-05-07,Serie A,Torino v Monza,,Match 34
+2023-05-07,Serie A,Udinese v Sampdoria,,Match 34
+2023-05-14,Serie A,Bologna v Roma,,Match 35
+2023-05-14,Serie A,Fiorentina v Udinese,,Match 35
+2023-05-14,Serie A,Inter Milan v Sassuolo,,Match 35
+2023-05-14,Serie A,Juventus v Cremonese,,Match 35
+2023-05-14,Serie A,Lazio v Lecce,,Match 35
+2023-05-14,Serie A,Monza v Napoli,,Match 35
+2023-05-14,Serie A,Salernitana v Atalanta,,Match 35
+2023-05-14,Serie A,Sampdoria v Empoli,,Match 35
+2023-05-14,Serie A,Spezia v AC Milan,,Match 35
+2023-05-14,Serie A,Verona v Torino,,Match 35
+2023-05-21,Serie A,AC Milan v Sampdoria,,Match 36
+2023-05-21,Serie A,Atalanta v Verona,,Match 36
+2023-05-21,Serie A,Cremonese v Bologna,,Match 36
+2023-05-21,Serie A,Empoli v Juventus,,Match 36
+2023-05-21,Serie A,Lecce v Spezia,,Match 36
+2023-05-21,Serie A,Napoli v Inter Milan,,Match 36
+2023-05-21,Serie A,Roma v Salernitana,,Match 36
+2023-05-21,Serie A,Sassuolo v Monza,,Match 36
+2023-05-21,Serie A,Torino v Fiorentina,,Match 36
+2023-05-21,Serie A,Udinese v Lazio,,Match 36
+2023-05-28,Serie A,Bologna v Napoli,,Match 37
+2023-05-28,Serie A,Fiorentina v Roma,,Match 37
+2023-05-28,Serie A,Inter Milan v Atalanta,,Match 37
+2023-05-28,Serie A,Juventus v AC Milan,,Match 37
+2023-05-28,Serie A,Lazio v Cremonese,,Match 37
+2023-05-28,Serie A,Monza v Lecce,,Match 37
+2023-05-28,Serie A,Salernitana v Udinese,,Match 37
+2023-05-28,Serie A,Sampdoria v Sassuolo,,Match 37
+2023-05-28,Serie A,Spezia v Torino,,Match 37
+2023-05-28,Serie A,Verona v Empoli,,Match 37
+2023-06-04,Serie A,AC Milan v Verona,,Match 38
+2023-06-04,Serie A,Atalanta v Monza,,Match 38
+2023-06-04,Serie A,Cremonese v Salernitana,,Match 38
+2023-06-04,Serie A,Empoli v Lazio,,Match 38
+2023-06-04,Serie A,Lecce v Bologna,,Match 38
+2023-06-04,Serie A,Napoli v Sampdoria,,Match 38
+2023-06-04,Serie A,Roma v Spezia,,Match 38
+2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
+2023-06-04,Serie A,Torino v Inter Milan,,Match 38
+2023-06-04,Serie A,Udinese v Juventus,,Match 38
 2022-09-21,UEFA Nations League,Scotland v Ukraine,18:45:00,Group Stage
 2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
 2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
