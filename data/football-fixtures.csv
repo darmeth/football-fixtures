@@ -1979,6 +1979,312 @@ date,league,teams,time,note_1
 2023-05-06,EFL League Two,Port Vale v Plymouth Argyle,14:00:00,Match 46
 2023-05-06,EFL League Two,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 2023-05-06,EFL League Two,Sheffield Wednesday v Derby County,14:00:00,Match 46
+2022-08-05,Eredivisie,Heerenveen v Sparta Rotterdam,18:00:00,Match 1
+2022-08-06,Eredivisie,Fortuna Sittard v Ajax,14:30:00,Match 1
+2022-08-06,Eredivisie,Cambuur Leeuwarden v Excelsior,16:45:00,Match 1
+2022-08-06,Eredivisie,PSV Eindhoven v Emmen,18:00:00,Match 1
+2022-08-06,Eredivisie,RKC Waalwijk v FC Utrecht,19:00:00,Match 1
+2022-08-07,Eredivisie,Groningen v FC Volendam,10:15:00,Match 1
+2022-08-07,Eredivisie,NEC Nijmegen v FC Twente,12:30:00,Match 1
+2022-08-07,Eredivisie,Vitesse Arnhem v Feyenoord,12:30:00,Match 1
+2022-08-07,Eredivisie,AZ Alkmaar v Go Ahead Eagles,14:45:00,Match 1
+2022-08-12,Eredivisie,Excelsior v Vitesse Arnhem,18:00:00,Match 2
+2022-08-13,Eredivisie,Go Ahead Eagles v PSV Eindhoven,16:45:00,Match 2
+2022-08-13,Eredivisie,Emmen v RKC Waalwijk,18:00:00,Match 2
+2022-08-13,Eredivisie,FC Utrecht v Cambuur Leeuwarden,18:00:00,Match 2
+2022-08-13,Eredivisie,Feyenoord v Heerenveen,19:00:00,Match 2
+2022-08-14,Eredivisie,FC Volendam v NEC Nijmegen,10:15:00,Match 2
+2022-08-14,Eredivisie,Ajax v Groningen,12:30:00,Match 2
+2022-08-14,Eredivisie,FC Twente v Fortuna Sittard,12:30:00,Match 2
+2022-08-14,Eredivisie,Sparta Rotterdam v AZ Alkmaar,14:45:00,Match 2
+2022-08-20,Eredivisie,Vitesse Arnhem v Heerenveen,14:30:00,Match 3
+2022-08-20,Eredivisie,Fortuna Sittard v Cambuur Leeuwarden,16:45:00,Match 3
+2022-08-20,Eredivisie,PSV Eindhoven v FC Volendam,18:00:00,Match 3
+2022-08-20,Eredivisie,Emmen v FC Utrecht,19:00:00,Match 3
+2022-08-21,Eredivisie,Groningen v Go Ahead Eagles,10:15:00,Match 3
+2022-08-21,Eredivisie,AZ Alkmaar v NEC Nijmegen,12:30:00,Match 3
+2022-08-21,Eredivisie,Sparta Rotterdam v Ajax,12:30:00,Match 3
+2022-08-21,Eredivisie,RKC Waalwijk v Feyenoord,14:45:00,Match 3
+2022-08-26,Eredivisie,NEC Nijmegen v Groningen,18:00:00,Match 3
+2022-08-27,Eredivisie,Go Ahead Eagles v Sparta Rotterdam,14:30:00,Match 4
+2022-08-27,Eredivisie,Vitesse Arnhem v RKC Waalwijk,16:45:00,Match 4
+2022-08-27,Eredivisie,Feyenoord v Emmen,18:00:00,Match 4
+2022-08-27,Eredivisie,Heerenveen v Fortuna Sittard,19:00:00,Match 4
+2022-08-28,Eredivisie,FC Utrecht v Ajax,10:15:00,Match 4
+2022-08-28,Eredivisie,Excelsior v PSV Eindhoven,12:30:00,Match 4
+2022-08-28,Eredivisie,FC Volendam v FC Twente,12:30:00,Match 4
+2022-08-28,Eredivisie,Cambuur Leeuwarden v AZ Alkmaar,14:45:00,Match 4
+2022-08-31,Eredivisie,FC Twente v Excelsior,19:00:00,Match 4
+2022-09-02,Eredivisie,Fortuna Sittard v FC Utrecht,18:00:00,Match 5
+2022-09-03,Eredivisie,Ajax v Cambuur Leeuwarden,14:30:00,Match 5
+2022-09-03,Eredivisie,FC Twente v PSV Eindhoven,16:45:00,Match 5
+2022-09-03,Eredivisie,Sparta Rotterdam v FC Volendam,18:00:00,Match 5
+2022-09-03,Eredivisie,Go Ahead Eagles v Feyenoord,19:00:00,Match 5
+2022-09-04,Eredivisie,RKC Waalwijk v Excelsior,10:15:00,Match 5
+2022-09-04,Eredivisie,Emmen v AZ Alkmaar,12:30:00,Match 5
+2022-09-04,Eredivisie,Heerenveen v NEC Nijmegen,12:30:00,Match 5
+2022-09-04,Eredivisie,Groningen v Vitesse Arnhem,14:45:00,Match 5
+2022-09-09,Eredivisie,FC Volendam v Go Ahead Eagles,18:00:00,Match 6
+2022-09-10,Eredivisie,NEC Nijmegen v Fortuna Sittard,14:30:00,Match 6
+2022-09-10,Eredivisie,Ajax v Heerenveen,16:45:00,Match 6
+2022-09-10,Eredivisie,Excelsior v Emmen,18:00:00,Match 6
+2022-09-10,Eredivisie,PSV Eindhoven v RKC Waalwijk,19:00:00,Match 6
+2022-09-11,Eredivisie,FC Utrecht v Vitesse Arnhem,10:15:00,Match 6
+2022-09-11,Eredivisie,AZ Alkmaar v FC Twente,12:30:00,Match 6
+2022-09-11,Eredivisie,Cambuur Leeuwarden v Groningen,12:30:00,Match 6
+2022-09-11,Eredivisie,Feyenoord v Sparta Rotterdam,14:45:00,Match 6
+2022-09-16,Eredivisie,FC Utrecht v NEC Nijmegen,18:00:00,Match 7
+2022-09-17,Eredivisie,Sparta Rotterdam v Groningen,14:30:00,Match 7
+2022-09-17,Eredivisie,Vitesse Arnhem v FC Volendam,16:45:00,Match 7
+2022-09-17,Eredivisie,RKC Waalwijk v Cambuur Leeuwarden,18:00:00,Match 7
+2022-09-17,Eredivisie,Fortuna Sittard v Excelsior,19:00:00,Match 7
+2022-09-18,Eredivisie,Go Ahead Eagles v Emmen,10:15:00,Match 7
+2022-09-18,Eredivisie,Heerenveen v FC Twente,12:30:00,Match 7
+2022-09-18,Eredivisie,PSV Eindhoven v Feyenoord,12:30:00,Match 7
+2022-09-18,Eredivisie,AZ Alkmaar v Ajax,14:45:00,Match 7
+2022-10-01,Eredivisie,Cambuur Leeuwarden v PSV Eindhoven,14:30:00,Match 8
+2022-10-01,Eredivisie,Excelsior v FC Utrecht,16:45:00,Match 8
+2022-10-01,Eredivisie,Ajax v Go Ahead Eagles,18:00:00,Match 8
+2022-10-01,Eredivisie,FC Twente v Vitesse Arnhem,18:00:00,Match 8
+2022-10-01,Eredivisie,Groningen v AZ Alkmaar,19:00:00,Match 8
+2022-10-02,Eredivisie,Emmen v Heerenveen,10:15:00,Match 8
+2022-10-02,Eredivisie,Fortuna Sittard v FC Volendam,12:30:00,Match 8
+2022-10-02,Eredivisie,NEC Nijmegen v Feyenoord,12:30:00,Match 8
+2022-10-02,Eredivisie,RKC Waalwijk v Sparta Rotterdam,14:45:00,Match 8
+2022-10-07,Eredivisie,Groningen v RKC Waalwijk,18:00:00,Match 9
+2022-10-08,Eredivisie,FC Volendam v Ajax,16:45:00,Match 9
+2022-10-08,Eredivisie,NEC Nijmegen v Excelsior,18:00:00,Match 9
+2022-10-08,Eredivisie,Sparta Rotterdam v Emmen,18:00:00,Match 9
+2022-10-08,Eredivisie,Heerenveen v PSV Eindhoven,19:00:00,Match 9
+2022-10-09,Eredivisie,Go Ahead Eagles v Cambuur Leeuwarden,10:15:00,Match 9
+2022-10-09,Eredivisie,Feyenoord v FC Twente,12:30:00,Match 9
+2022-10-09,Eredivisie,Vitesse Arnhem v Fortuna Sittard,12:30:00,Match 9
+2022-10-09,Eredivisie,FC Utrecht v AZ Alkmaar,14:45:00,Match 9
+2022-10-14,Eredivisie,Emmen v FC Volendam,18:00:00,Match 10
+2022-10-15,Eredivisie,Go Ahead Eagles v Heerenveen,16:45:00,Match 10
+2022-10-15,Eredivisie,Ajax v Excelsior,18:00:00,Match 10
+2022-10-15,Eredivisie,Fortuna Sittard v RKC Waalwijk,18:00:00,Match 10
+2022-10-15,Eredivisie,Cambuur Leeuwarden v Vitesse Arnhem,19:00:00,Match 10
+2022-10-16,Eredivisie,Sparta Rotterdam v NEC Nijmegen,10:15:00,Match 10
+2022-10-16,Eredivisie,FC Twente v Groningen,12:30:00,Match 10
+2022-10-16,Eredivisie,PSV Eindhoven v FC Utrecht,12:30:00,Match 10
+2022-10-16,Eredivisie,AZ Alkmaar v Feyenoord,14:45:00,Match 10
+2022-10-22,Eredivisie,Feyenoord v Fortuna Sittard,14:30:00,Match 11
+2022-10-22,Eredivisie,RKC Waalwijk v Ajax,16:45:00,Match 11
+2022-10-22,Eredivisie,Cambuur Leeuwarden v FC Twente,18:00:00,Match 11
+2022-10-22,Eredivisie,Vitesse Arnhem v Emmen,18:00:00,Match 11
+2022-10-22,Eredivisie,Groningen v PSV Eindhoven,19:00:00,Match 11
+2022-10-23,Eredivisie,Excelsior v AZ Alkmaar,10:15:00,Match 11
+2022-10-23,Eredivisie,FC Volendam v Heerenveen,12:30:00,Match 11
+2022-10-23,Eredivisie,NEC Nijmegen v Go Ahead Eagles,12:30:00,Match 11
+2022-10-23,Eredivisie,FC Utrecht v Sparta Rotterdam,14:45:00,Match 11
+2022-10-30,Eredivisie,AZ Alkmaar v FC Volendam,,Match 12
+2022-10-30,Eredivisie,Ajax v Vitesse Arnhem,,Match 12
+2022-10-30,Eredivisie,Emmen v Groningen,,Match 12
+2022-10-30,Eredivisie,FC Twente v RKC Waalwijk,,Match 12
+2022-10-30,Eredivisie,Feyenoord v Cambuur Leeuwarden,,Match 12
+2022-10-30,Eredivisie,Go Ahead Eagles v Excelsior,,Match 12
+2022-10-30,Eredivisie,Heerenveen v FC Utrecht,,Match 12
+2022-10-30,Eredivisie,PSV Eindhoven v NEC Nijmegen,,Match 12
+2022-10-30,Eredivisie,Sparta Rotterdam v Fortuna Sittard,,Match 12
+2022-11-06,Eredivisie,Ajax v PSV Eindhoven,,Match 13
+2022-11-06,Eredivisie,Cambuur Leeuwarden v NEC Nijmegen,,Match 13
+2022-11-06,Eredivisie,Excelsior v Heerenveen,,Match 13
+2022-11-06,Eredivisie,FC Twente v Go Ahead Eagles,,Match 13
+2022-11-06,Eredivisie,FC Utrecht v Groningen,,Match 13
+2022-11-06,Eredivisie,FC Volendam v Feyenoord,,Match 13
+2022-11-06,Eredivisie,Fortuna Sittard v Emmen,,Match 13
+2022-11-06,Eredivisie,RKC Waalwijk v AZ Alkmaar,,Match 13
+2022-11-06,Eredivisie,Vitesse Arnhem v Sparta Rotterdam,,Match 13
+2022-11-13,Eredivisie,Emmen v Ajax,,Match 14
+2022-11-13,Eredivisie,FC Volendam v FC Utrecht,,Match 14
+2022-11-13,Eredivisie,Feyenoord v Excelsior,,Match 14
+2022-11-13,Eredivisie,Go Ahead Eagles v Vitesse Arnhem,,Match 14
+2022-11-13,Eredivisie,Groningen v Fortuna Sittard,,Match 14
+2022-11-13,Eredivisie,Heerenveen v Cambuur Leeuwarden,,Match 14
+2022-11-13,Eredivisie,NEC Nijmegen v RKC Waalwijk,,Match 14
+2022-11-13,Eredivisie,PSV Eindhoven v AZ Alkmaar,,Match 14
+2022-11-13,Eredivisie,Sparta Rotterdam v FC Twente,,Match 14
+2023-01-06,Eredivisie,FC Twente v Emmen,19:00:00,Match 15
+2023-01-07,Eredivisie,RKC Waalwijk v Heerenveen,15:30:00,Match 15
+2023-01-07,Eredivisie,AZ Alkmaar v Vitesse Arnhem,17:45:00,Match 15
+2023-01-07,Eredivisie,Fortuna Sittard v Go Ahead Eagles,19:00:00,Match 15
+2023-01-07,Eredivisie,PSV Eindhoven v Sparta Rotterdam,20:00:00,Match 15
+2023-01-08,Eredivisie,FC Utrecht v Feyenoord,11:15:00,Match 15
+2023-01-08,Eredivisie,Cambuur Leeuwarden v FC Volendam,13:30:00,Match 15
+2023-01-08,Eredivisie,NEC Nijmegen v Ajax,13:30:00,Match 15
+2023-01-08,Eredivisie,Excelsior v Groningen,15:45:00,Match 15
+2023-01-13,Eredivisie,Heerenveen v AZ Alkmaar,19:00:00,Match 16
+2023-01-14,Eredivisie,Groningen v Feyenoord,15:30:00,Match 16
+2023-01-14,Eredivisie,Sparta Rotterdam v Excelsior,17:45:00,Match 16
+2023-01-14,Eredivisie,Ajax v FC Twente,19:00:00,Match 16
+2023-01-14,Eredivisie,FC Volendam v RKC Waalwijk,20:00:00,Match 16
+2023-01-15,Eredivisie,Vitesse Arnhem v NEC Nijmegen,11:15:00,Match 16
+2023-01-15,Eredivisie,Fortuna Sittard v PSV Eindhoven,13:30:00,Match 16
+2023-01-15,Eredivisie,Go Ahead Eagles v FC Utrecht,13:30:00,Match 16
+2023-01-15,Eredivisie,Emmen v Cambuur Leeuwarden,15:45:00,Match 16
+2023-01-20,Eredivisie,Excelsior v FC Volendam,19:00:00,Match 17
+2023-01-21,Eredivisie,NEC Nijmegen v Emmen,17:45:00,Match 17
+2023-01-21,Eredivisie,Cambuur Leeuwarden v Sparta Rotterdam,19:00:00,Match 17
+2023-01-21,Eredivisie,PSV Eindhoven v Vitesse Arnhem,19:00:00,Match 17
+2023-01-21,Eredivisie,RKC Waalwijk v Go Ahead Eagles,20:00:00,Match 17
+2023-01-22,Eredivisie,Heerenveen v Groningen,11:15:00,Match 17
+2023-01-22,Eredivisie,FC Twente v FC Utrecht,13:30:00,Match 17
+2023-01-22,Eredivisie,Feyenoord v Ajax,13:30:00,Match 17
+2023-01-22,Eredivisie,AZ Alkmaar v Fortuna Sittard,15:45:00,Match 17
+2023-01-24,Eredivisie,Emmen v PSV Eindhoven,17:45:00,Match 18
+2023-01-24,Eredivisie,Sparta Rotterdam v RKC Waalwijk,20:00:00,Match 18
+2023-01-25,Eredivisie,Go Ahead Eagles v AZ Alkmaar,17:45:00,Match 18
+2023-01-25,Eredivisie,Vitesse Arnhem v FC Twente,17:45:00,Match 18
+2023-01-25,Eredivisie,Fortuna Sittard v Heerenveen,19:00:00,Match 18
+2023-01-25,Eredivisie,FC Utrecht v Excelsior,20:00:00,Match 18
+2023-01-25,Eredivisie,Feyenoord v NEC Nijmegen,20:00:00,Match 18
+2023-01-26,Eredivisie,Groningen v Cambuur Leeuwarden,17:45:00,Match 18
+2023-01-26,Eredivisie,Ajax v FC Volendam,20:00:00,Match 18
+2023-01-27,Eredivisie,RKC Waalwijk v Emmen,19:00:00,Match 19
+2023-01-28,Eredivisie,PSV Eindhoven v Go Ahead Eagles,17:45:00,Match 19
+2023-01-28,Eredivisie,Heerenveen v Vitesse Arnhem,19:00:00,Match 19
+2023-01-28,Eredivisie,NEC Nijmegen v Sparta Rotterdam,19:00:00,Match 19
+2023-01-28,Eredivisie,AZ Alkmaar v FC Utrecht,20:00:00,Match 19
+2023-01-29,Eredivisie,FC Twente v Feyenoord,11:15:00,Match 19
+2023-01-29,Eredivisie,Excelsior v Ajax,13:30:00,Match 19
+2023-01-29,Eredivisie,FC Volendam v Groningen,13:30:00,Match 19
+2023-01-29,Eredivisie,Cambuur Leeuwarden v Fortuna Sittard,15:45:00,Match 19
+2023-02-03,Eredivisie,Fortuna Sittard v Sparta Rotterdam,19:00:00,Match 20
+2023-02-04,Eredivisie,FC Volendam v AZ Alkmaar,17:45:00,Match 20
+2023-02-04,Eredivisie,Emmen v Vitesse Arnhem,19:00:00,Match 20
+2023-02-04,Eredivisie,FC Utrecht v Heerenveen,19:00:00,Match 20
+2023-02-04,Eredivisie,Excelsior v RKC Waalwijk,20:00:00,Match 20
+2023-02-05,Eredivisie,Cambuur Leeuwarden v Ajax,11:15:00,Match 20
+2023-02-05,Eredivisie,Feyenoord v PSV Eindhoven,13:30:00,Match 20
+2023-02-05,Eredivisie,Go Ahead Eagles v NEC Nijmegen,13:30:00,Match 20
+2023-02-05,Eredivisie,Groningen v FC Twente,15:45:00,Match 20
+2023-02-12,Eredivisie,AZ Alkmaar v Excelsior,,Match 21
+2023-02-12,Eredivisie,Ajax v RKC Waalwijk,,Match 21
+2023-02-12,Eredivisie,Emmen v Fortuna Sittard,,Match 21
+2023-02-12,Eredivisie,FC Twente v FC Volendam,,Match 21
+2023-02-12,Eredivisie,Heerenveen v Feyenoord,,Match 21
+2023-02-12,Eredivisie,NEC Nijmegen v Cambuur Leeuwarden,,Match 21
+2023-02-12,Eredivisie,PSV Eindhoven v Groningen,,Match 21
+2023-02-12,Eredivisie,Sparta Rotterdam v Go Ahead Eagles,,Match 21
+2023-02-12,Eredivisie,Vitesse Arnhem v FC Utrecht,,Match 21
+2023-02-19,Eredivisie,Ajax v Sparta Rotterdam,,Match 22
+2023-02-19,Eredivisie,Cambuur Leeuwarden v Heerenveen,,Match 22
+2023-02-19,Eredivisie,Excelsior v NEC Nijmegen,,Match 22
+2023-02-19,Eredivisie,FC Utrecht v PSV Eindhoven,,Match 22
+2023-02-19,Eredivisie,FC Volendam v Vitesse Arnhem,,Match 22
+2023-02-19,Eredivisie,Feyenoord v AZ Alkmaar,,Match 22
+2023-02-19,Eredivisie,Go Ahead Eagles v FC Twente,,Match 22
+2023-02-19,Eredivisie,Groningen v Emmen,,Match 22
+2023-02-19,Eredivisie,RKC Waalwijk v Fortuna Sittard,,Match 22
+2023-02-26,Eredivisie,AZ Alkmaar v Cambuur Leeuwarden,,Match 23
+2023-02-26,Eredivisie,Emmen v Go Ahead Eagles,,Match 23
+2023-02-26,Eredivisie,Fortuna Sittard v Feyenoord,,Match 23
+2023-02-26,Eredivisie,Groningen v Excelsior,,Match 23
+2023-02-26,Eredivisie,Heerenveen v RKC Waalwijk,,Match 23
+2023-02-26,Eredivisie,NEC Nijmegen v FC Volendam,,Match 23
+2023-02-26,Eredivisie,PSV Eindhoven v FC Twente,,Match 23
+2023-02-26,Eredivisie,Sparta Rotterdam v FC Utrecht,,Match 23
+2023-02-26,Eredivisie,Vitesse Arnhem v Ajax,,Match 23
+2023-03-05,Eredivisie,Ajax v NEC Nijmegen,,Match 24
+2023-03-05,Eredivisie,Cambuur Leeuwarden v Go Ahead Eagles,,Match 24
+2023-03-05,Eredivisie,Excelsior v Sparta Rotterdam,,Match 24
+2023-03-05,Eredivisie,FC Twente v Heerenveen,,Match 24
+2023-03-05,Eredivisie,FC Utrecht v Fortuna Sittard,,Match 24
+2023-03-05,Eredivisie,FC Volendam v Emmen,,Match 24
+2023-03-05,Eredivisie,Feyenoord v Groningen,,Match 24
+2023-03-05,Eredivisie,RKC Waalwijk v PSV Eindhoven,,Match 24
+2023-03-05,Eredivisie,Vitesse Arnhem v AZ Alkmaar,,Match 24
+2023-03-12,Eredivisie,AZ Alkmaar v Groningen,,Match 25
+2023-03-12,Eredivisie,Emmen v Excelsior,,Match 25
+2023-03-12,Eredivisie,Feyenoord v FC Volendam,,Match 25
+2023-03-12,Eredivisie,Fortuna Sittard v FC Twente,,Match 25
+2023-03-12,Eredivisie,Go Ahead Eagles v RKC Waalwijk,,Match 25
+2023-03-12,Eredivisie,Heerenveen v Ajax,,Match 25
+2023-03-12,Eredivisie,NEC Nijmegen v FC Utrecht,,Match 25
+2023-03-12,Eredivisie,PSV Eindhoven v Cambuur Leeuwarden,,Match 25
+2023-03-12,Eredivisie,Sparta Rotterdam v Vitesse Arnhem,,Match 25
+2023-03-19,Eredivisie,Ajax v Feyenoord,,Match 26
+2023-03-19,Eredivisie,Emmen v Sparta Rotterdam,,Match 26
+2023-03-19,Eredivisie,Excelsior v Cambuur Leeuwarden,,Match 26
+2023-03-19,Eredivisie,FC Twente v AZ Alkmaar,,Match 26
+2023-03-19,Eredivisie,FC Utrecht v Go Ahead Eagles,,Match 26
+2023-03-19,Eredivisie,FC Volendam v Fortuna Sittard,,Match 26
+2023-03-19,Eredivisie,Groningen v Heerenveen,,Match 26
+2023-03-19,Eredivisie,RKC Waalwijk v NEC Nijmegen,,Match 26
+2023-03-19,Eredivisie,Vitesse Arnhem v PSV Eindhoven,,Match 26
+2023-03-26,Eredivisie,AZ Alkmaar v Heerenveen,,Match 27
+2023-03-26,Eredivisie,Cambuur Leeuwarden v Emmen,,Match 27
+2023-03-26,Eredivisie,Excelsior v FC Twente,,Match 27
+2023-03-26,Eredivisie,FC Utrecht v FC Volendam,,Match 27
+2023-03-26,Eredivisie,Fortuna Sittard v Groningen,,Match 27
+2023-03-26,Eredivisie,Go Ahead Eagles v Ajax,,Match 27
+2023-03-26,Eredivisie,NEC Nijmegen v PSV Eindhoven,,Match 27
+2023-03-26,Eredivisie,RKC Waalwijk v Vitesse Arnhem,,Match 27
+2023-03-26,Eredivisie,Sparta Rotterdam v Feyenoord,,Match 27
+2023-04-02,Eredivisie,AZ Alkmaar v Sparta Rotterdam,,Match 28
+2023-04-02,Eredivisie,Ajax v Fortuna Sittard,,Match 28
+2023-04-02,Eredivisie,Emmen v NEC Nijmegen,,Match 28
+2023-04-02,Eredivisie,FC Twente v Cambuur Leeuwarden,,Match 28
+2023-04-02,Eredivisie,Feyenoord v RKC Waalwijk,,Match 28
+2023-04-02,Eredivisie,Groningen v FC Utrecht,,Match 28
+2023-04-02,Eredivisie,Heerenveen v FC Volendam,,Match 28
+2023-04-02,Eredivisie,PSV Eindhoven v Excelsior,,Match 28
+2023-04-02,Eredivisie,Vitesse Arnhem v Go Ahead Eagles,,Match 28
+2023-04-09,Eredivisie,Ajax v Emmen,,Match 29
+2023-04-09,Eredivisie,Cambuur Leeuwarden v Feyenoord,,Match 29
+2023-04-09,Eredivisie,Excelsior v Go Ahead Eagles,,Match 29
+2023-04-09,Eredivisie,FC Utrecht v FC Twente,,Match 29
+2023-04-09,Eredivisie,FC Volendam v PSV Eindhoven,,Match 29
+2023-04-09,Eredivisie,Fortuna Sittard v AZ Alkmaar,,Match 29
+2023-04-09,Eredivisie,NEC Nijmegen v Vitesse Arnhem,,Match 29
+2023-04-09,Eredivisie,RKC Waalwijk v Groningen,,Match 29
+2023-04-09,Eredivisie,Sparta Rotterdam v Heerenveen,,Match 29
+2023-04-16,Eredivisie,AZ Alkmaar v RKC Waalwijk,,Match 30
+2023-04-16,Eredivisie,FC Twente v Sparta Rotterdam,,Match 30
+2023-04-16,Eredivisie,FC Volendam v Cambuur Leeuwarden,,Match 30
+2023-04-16,Eredivisie,Feyenoord v FC Utrecht,,Match 30
+2023-04-16,Eredivisie,Go Ahead Eagles v Fortuna Sittard,,Match 30
+2023-04-16,Eredivisie,Groningen v NEC Nijmegen,,Match 30
+2023-04-16,Eredivisie,Heerenveen v Emmen,,Match 30
+2023-04-16,Eredivisie,PSV Eindhoven v Ajax,,Match 30
+2023-04-16,Eredivisie,Vitesse Arnhem v Excelsior,,Match 30
+2023-04-23,Eredivisie,Ajax v AZ Alkmaar,,Match 31
+2023-04-23,Eredivisie,Cambuur Leeuwarden v FC Utrecht,,Match 31
+2023-04-23,Eredivisie,Emmen v FC Twente,,Match 31
+2023-04-23,Eredivisie,Excelsior v Feyenoord,,Match 31
+2023-04-23,Eredivisie,Fortuna Sittard v Vitesse Arnhem,,Match 31
+2023-04-23,Eredivisie,Go Ahead Eagles v Groningen,,Match 31
+2023-04-23,Eredivisie,NEC Nijmegen v Heerenveen,,Match 31
+2023-04-23,Eredivisie,RKC Waalwijk v FC Volendam,,Match 31
+2023-04-23,Eredivisie,Sparta Rotterdam v PSV Eindhoven,,Match 31
+2023-04-30,Eredivisie,AZ Alkmaar v Emmen,,Match 32
+2023-04-30,Eredivisie,FC Twente v NEC Nijmegen,,Match 32
+2023-04-30,Eredivisie,FC Utrecht v RKC Waalwijk,,Match 32
+2023-04-30,Eredivisie,FC Volendam v Sparta Rotterdam,,Match 32
+2023-04-30,Eredivisie,Feyenoord v Go Ahead Eagles,,Match 32
+2023-04-30,Eredivisie,Groningen v Ajax,,Match 32
+2023-04-30,Eredivisie,Heerenveen v Excelsior,,Match 32
+2023-04-30,Eredivisie,PSV Eindhoven v Fortuna Sittard,,Match 32
+2023-04-30,Eredivisie,Vitesse Arnhem v Cambuur Leeuwarden,,Match 32
+2023-05-21,Eredivisie,Ajax v FC Utrecht,12:30:00,Match 33
+2023-05-21,Eredivisie,Emmen v Feyenoord,12:30:00,Match 33
+2023-05-21,Eredivisie,Excelsior v Fortuna Sittard,12:30:00,Match 33
+2023-05-21,Eredivisie,Go Ahead Eagles v FC Volendam,12:30:00,Match 33
+2023-05-21,Eredivisie,NEC Nijmegen v AZ Alkmaar,12:30:00,Match 33
+2023-05-21,Eredivisie,PSV Eindhoven v Heerenveen,12:30:00,Match 33
+2023-05-21,Eredivisie,RKC Waalwijk v FC Twente,12:30:00,Match 33
+2023-05-21,Eredivisie,Sparta Rotterdam v Cambuur Leeuwarden,12:30:00,Match 33
+2023-05-21,Eredivisie,Vitesse Arnhem v Groningen,12:30:00,Match 33
+2023-05-28,Eredivisie,AZ Alkmaar v PSV Eindhoven,12:30:00,Match 34
+2023-05-28,Eredivisie,Cambuur Leeuwarden v RKC Waalwijk,12:30:00,Match 34
+2023-05-28,Eredivisie,FC Twente v Ajax,12:30:00,Match 34
+2023-05-28,Eredivisie,FC Utrecht v Emmen,12:30:00,Match 34
+2023-05-28,Eredivisie,FC Volendam v Excelsior,12:30:00,Match 34
+2023-05-28,Eredivisie,Feyenoord v Vitesse Arnhem,12:30:00,Match 34
+2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
+2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
+2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
 2022-09-01,International Friendly,Mexico v Paraguay,01:00:00,Atlanta – USA
 2022-09-23,International Friendly,Saudi Arabia v Ecuador,17:00:00,Murcia – Spain
 2022-09-23,International Friendly,Japan v USA,,
@@ -3952,3 +4258,65 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
+2022-07-02,Veikkausliiga,FC Honka v IFK Mariehamn,12:00:00,Match 12
+2022-07-02,Veikkausliiga,AC Oulu v VPS Vaasa,14:00:00,Match 12
+2022-07-02,Veikkausliiga,HJK Helsinki v KuPS Kuopio,14:00:00,Match 13
+2022-07-02,Veikkausliiga,Lahti v Inter Turku,15:00:00,Match 13
+2022-07-04,Veikkausliiga,HIFK Helsinki v Ilves,15:00:00,Match 13
+2022-07-09,Veikkausliiga,HIFK Helsinki v Haka,14:00:00,Match 13
+2022-07-09,Veikkausliiga,VPS Vaasa v IFK Mariehamn,14:30:00,Match 13
+2022-07-10,Veikkausliiga,KuPS Kuopio v Lahti,13:00:00,Match 13
+2022-07-10,Veikkausliiga,SJK v FC Honka,13:00:00,Match 14
+2022-07-11,Veikkausliiga,Ilves v AC Oulu,15:00:00,Match 14
+2022-07-15,Veikkausliiga,FC Honka v Lahti,15:00:00,Match 14
+2022-07-16,Veikkausliiga,HJK Helsinki v VPS Vaasa,14:00:00,Match 14
+2022-07-16,Veikkausliiga,IFK Mariehamn v HIFK Helsinki,15:30:00,Match 14
+2022-07-17,Veikkausliiga,SJK v Ilves,13:00:00,Match 14
+2022-07-18,Veikkausliiga,Haka v Inter Turku,15:00:00,Match 15
+2022-07-23,Veikkausliiga,AC Oulu v IFK Mariehamn,14:00:00,Match 15
+2022-07-23,Veikkausliiga,Ilves v HJK Helsinki,14:00:00,Match 15
+2022-07-23,Veikkausliiga,KuPS Kuopio v HIFK Helsinki,14:00:00,Match 15
+2022-07-23,Veikkausliiga,VPS Vaasa v Haka,14:00:00,Match 15
+2022-07-24,Veikkausliiga,Lahti v SJK,13:00:00,Match 15
+2022-07-25,Veikkausliiga,Inter Turku v FC Honka,15:00:00,Match 16
+2022-07-29,Veikkausliiga,Lahti v Ilves,15:00:00,Match 16
+2022-07-30,Veikkausliiga,FC Honka v VPS Vaasa,14:00:00,Match 16
+2022-07-30,Veikkausliiga,HJK Helsinki v IFK Mariehamn,14:00:00,Match 16
+2022-07-30,Veikkausliiga,SJK v AC Oulu,14:00:00,Match 16
+2022-07-31,Veikkausliiga,Haka v KuPS Kuopio,12:00:00,Match 16
+2022-08-01,Veikkausliiga,HIFK Helsinki v Inter Turku,15:00:00,Match 17
+2022-08-06,Veikkausliiga,VPS Vaasa v Ilves,12:00:00,Match 17
+2022-08-06,Veikkausliiga,AC Oulu v HJK Helsinki,14:00:00,Match 17
+2022-08-06,Veikkausliiga,Inter Turku v SJK,14:00:00,Match 17
+2022-08-06,Veikkausliiga,KuPS Kuopio v FC Honka,14:00:00,Match 17
+2022-08-06,Veikkausliiga,IFK Mariehamn v Haka,15:30:00,Match 17
+2022-08-08,Veikkausliiga,Lahti v HIFK Helsinki,15:00:00,Match 18
+2022-08-12,Veikkausliiga,Haka v AC Oulu,15:00:00,Match 18
+2022-08-13,Veikkausliiga,Ilves v FC Honka,14:00:00,Match 18
+2022-08-13,Veikkausliiga,Inter Turku v VPS Vaasa,14:00:00,Match 18
+2022-08-13,Veikkausliiga,KuPS Kuopio v IFK Mariehamn,14:00:00,Match 18
+2022-08-15,Veikkausliiga,HIFK Helsinki v SJK,15:00:00,Match 18
+2022-08-20,Veikkausliiga,FC Honka v HIFK Helsinki,12:00:00,Match 19
+2022-08-20,Veikkausliiga,SJK v KuPS Kuopio,14:00:00,Match 19
+2022-08-20,Veikkausliiga,VPS Vaasa v Lahti,14:00:00,Match 19
+2022-08-21,Veikkausliiga,AC Oulu v Inter Turku,13:00:00,Match 19
+2022-08-21,Veikkausliiga,Haka v HJK Helsinki,13:00:00,Match 19
+2022-08-21,Veikkausliiga,IFK Mariehamn v Ilves,15:30:00,Match 19
+2022-08-26,Veikkausliiga,Lahti v IFK Mariehamn,15:00:00,Match 20
+2022-08-27,Veikkausliiga,FC Honka v AC Oulu,12:00:00,Match 20
+2022-08-27,Veikkausliiga,Ilves v Haka,14:00:00,Match 20
+2022-08-27,Veikkausliiga,Inter Turku v KuPS Kuopio,14:00:00,Match 20
+2022-08-28,Veikkausliiga,VPS Vaasa v HIFK Helsinki,13:00:00,Match 20
+2022-08-28,Veikkausliiga,HJK Helsinki v SJK,15:30:00,Match 20
+2022-09-01,Veikkausliiga,Haka v FC Honka,15:00:00,Match 21
+2022-09-03,Veikkausliiga,KuPS Kuopio v Ilves,14:00:00,Match 21
+2022-09-03,Veikkausliiga,SJK v VPS Vaasa,14:00:00,Match 21
+2022-09-04,Veikkausliiga,AC Oulu v Lahti,13:00:00,Match 21
+2022-09-04,Veikkausliiga,IFK Mariehamn v Inter Turku,15:30:00,Match 21
+2022-09-05,Veikkausliiga,HJK Helsinki v HIFK Helsinki,15:00:00,Match 21
+2022-09-10,Veikkausliiga,FC Honka v HJK Helsinki,14:00:00,Match 22
+2022-09-10,Veikkausliiga,HIFK Helsinki v AC Oulu,14:00:00,Match 22
+2022-09-10,Veikkausliiga,IFK Mariehamn v SJK,14:00:00,Match 22
+2022-09-10,Veikkausliiga,Ilves v Inter Turku,14:00:00,Match 22
+2022-09-10,Veikkausliiga,Lahti v Haka,14:00:00,Match 22
+2022-09-10,Veikkausliiga,VPS Vaasa v KuPS Kuopio,14:00:00,Match 22

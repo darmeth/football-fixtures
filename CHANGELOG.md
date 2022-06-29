@@ -1,5 +1,9 @@
 # Change Log
 
+2022-06-29
+* Added Eredivisie 2022/2023
+* Added Veikkausliiga 2022
+
 2022-06-28
 * Added J1 League 2022
 * Added Serie A 2022/2023
