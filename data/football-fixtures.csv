@@ -8,6 +8,396 @@ date,league,teams,time,note_1
 2022-06-30,AFC Cup,Phnom Penh Crown v Young Elephants,14:00:00,Group Stage
 2022-06-30,AFC Cup,Sogdiana Jizzakh v Altyn Asyr,14:00:00,Group Stage
 2022-06-30,AFC Cup,CSKA Pamir Dushanbe v Neftchi,17:00:00,Group Stage
+2022-07-01,Allsvenskan,GIF Sundsvall v Malmö FF,17:00:00,Match 12
+2022-07-02,Allsvenskan,AIK v Mjällby AIF,13:00:00,Match 12
+2022-07-02,Allsvenskan,Helsingborgs IF v Kalmar FF,15:30:00,Match 12
+2022-07-03,Allsvenskan,Djurgårdens IF v Hammarby IF,13:00:00,Match 12
+2022-07-03,Allsvenskan,Varbergs BoIS v IFK Värnamo,13:00:00,Match 12
+2022-07-03,Allsvenskan,BK Häcken v IF Elfsborg,15:30:00,Match 12
+2022-07-03,Allsvenskan,IFK Norrköping v IK Sirius,15:30:00,Match 12
+2022-07-04,Allsvenskan,IFK Göteborg v Degerfors IF,17:00:00,Match 12
+2022-07-09,Allsvenskan,Malmö FF v Varbergs BoIS,13:00:00,Match 13
+2022-07-09,Allsvenskan,Degerfors IF v IFK Norrköping,15:30:00,Match 13
+2022-07-10,Allsvenskan,IF Elfsborg v AIK,13:00:00,Match 13
+2022-07-10,Allsvenskan,Mjällby AIF v BK Häcken,13:00:00,Match 13
+2022-07-10,Allsvenskan,Kalmar FF v IK Sirius,15:30:00,Match 13
+2022-07-11,Allsvenskan,Hammarby IF v IFK Göteborg,17:00:00,Match 13
+2022-07-11,Allsvenskan,Helsingborgs IF v Djurgårdens IF,17:00:00,Match 13
+2022-07-11,Allsvenskan,IFK Värnamo v GIF Sundsvall,17:00:00,Match 13
+2022-07-16,Allsvenskan,IFK Norrköping v Malmö FF,13:00:00,Match 14
+2022-07-16,Allsvenskan,Djurgårdens IF v IFK Värnamo,15:30:00,Match 14
+2022-07-17,Allsvenskan,AIK v Kalmar FF,13:00:00,Match 14
+2022-07-17,Allsvenskan,Hammarby IF v IF Elfsborg,13:00:00,Match 14
+2022-07-17,Allsvenskan,IFK Göteborg v Mjällby AIF,13:00:00,Match 14
+2022-07-17,Allsvenskan,IK Sirius v Degerfors IF,13:00:00,Match 14
+2022-07-18,Allsvenskan,GIF Sundsvall v BK Häcken,17:00:00,Match 14
+2022-07-18,Allsvenskan,Varbergs BoIS v Helsingborgs IF,17:00:00,Match 14
+2022-07-23,Allsvenskan,Malmö FF v IK Sirius,13:00:00,Match 15
+2022-07-23,Allsvenskan,Mjällby AIF v Degerfors IF,15:30:00,Match 15
+2022-07-24,Allsvenskan,Helsingborgs IF v GIF Sundsvall,13:00:00,Match 15
+2022-07-24,Allsvenskan,IFK Värnamo v AIK,13:00:00,Match 15
+2022-07-24,Allsvenskan,BK Häcken v Djurgårdens IF,15:30:00,Match 15
+2022-07-24,Allsvenskan,Kalmar FF v IF Elfsborg,15:30:00,Match 15
+2022-07-25,Allsvenskan,IFK Norrköping v IFK Göteborg,17:00:00,Match 15
+2022-07-25,Allsvenskan,Varbergs BoIS v Hammarby IF,17:00:00,Match 15
+2022-07-30,Allsvenskan,Degerfors IF v Kalmar FF,13:00:00,Match 16
+2022-07-30,Allsvenskan,GIF Sundsvall v Varbergs BoIS,15:30:00,Match 16
+2022-07-31,Allsvenskan,Hammarby IF v IFK Värnamo,13:00:00,Match 16
+2022-07-31,Allsvenskan,IF Elfsborg v BK Häcken,13:00:00,Match 16
+2022-07-31,Allsvenskan,IK Sirius v Mjällby AIF,13:00:00,Match 16
+2022-08-01,Allsvenskan,IFK Göteborg v IFK Norrköping,17:00:00,Match 16
+2022-08-06,Allsvenskan,IFK Norrköping v Degerfors IF,13:00:00,Match 17
+2022-08-06,Allsvenskan,IK Sirius v Malmö FF,13:00:00,Match 17
+2022-08-07,Allsvenskan,Hammarby IF v GIF Sundsvall,13:00:00,Match 17
+2022-08-07,Allsvenskan,Kalmar FF v AIK,13:00:00,Match 17
+2022-08-07,Allsvenskan,IFK Värnamo v Djurgårdens IF,15:30:00,Match 17
+2022-08-07,Allsvenskan,Mjällby AIF v IF Elfsborg,15:30:00,Match 17
+2022-08-08,Allsvenskan,BK Häcken v Helsingborgs IF,17:00:00,Match 17
+2022-08-08,Allsvenskan,Varbergs BoIS v IFK Göteborg,17:00:00,Match 17
+2022-08-13,Allsvenskan,Malmö FF v GIF Sundsvall,13:00:00,Match 18
+2022-08-13,Allsvenskan,Helsingborgs IF v IK Sirius,15:30:00,Match 18
+2022-08-14,Allsvenskan,AIK v IFK Värnamo,13:00:00,Match 18
+2022-08-14,Allsvenskan,Djurgårdens IF v Kalmar FF,13:00:00,Match 18
+2022-08-14,Allsvenskan,Degerfors IF v Varbergs BoIS,15:30:00,Match 18
+2022-08-14,Allsvenskan,IF Elfsborg v IFK Norrköping,15:30:00,Match 18
+2022-08-15,Allsvenskan,BK Häcken v Mjällby AIF,17:00:00,Match 18
+2022-08-15,Allsvenskan,IFK Göteborg v Hammarby IF,17:10:00,Match 18
+2022-08-20,Allsvenskan,Mjällby AIF v Malmö FF,13:00:00,Match 19
+2022-08-21,Allsvenskan,IFK Värnamo v IF Elfsborg,13:00:00,Match 19
+2022-08-21,Allsvenskan,Varbergs BoIS v Djurgårdens IF,13:00:00,Match 19
+2022-08-21,Allsvenskan,GIF Sundsvall v Helsingborgs IF,15:30:00,Match 19
+2022-08-21,Allsvenskan,IFK Norrköping v AIK,15:30:00,Match 19
+2022-08-22,Allsvenskan,IK Sirius v BK Häcken,17:00:00,Match 19
+2022-08-22,Allsvenskan,Kalmar FF v IFK Göteborg,17:00:00,Match 19
+2022-08-22,Allsvenskan,Hammarby IF v Degerfors IF,17:10:00,Match 19
+2022-08-27,Allsvenskan,BK Häcken v IFK Värnamo,13:00:00,Match 20
+2022-08-27,Allsvenskan,Degerfors IF v GIF Sundsvall,15:30:00,Match 20
+2022-08-28,Allsvenskan,AIK v Hammarby IF,13:00:00,Match 20
+2022-08-28,Allsvenskan,IFK Göteborg v IK Sirius,13:00:00,Match 20
+2022-08-28,Allsvenskan,Varbergs BoIS v IFK Norrköping,13:00:00,Match 20
+2022-08-28,Allsvenskan,Helsingborgs IF v Mjällby AIF,15:30:00,Match 20
+2022-08-28,Allsvenskan,Malmö FF v Kalmar FF,15:30:00,Match 20
+2022-08-29,Allsvenskan,Djurgårdens IF v IF Elfsborg,17:10:00,Match 20
+2022-09-04,Allsvenskan,BK Häcken v Degerfors IF,13:00:00,Match 21
+2022-09-04,Allsvenskan,IK Sirius v Djurgårdens IF,13:00:00,Match 21
+2022-09-04,Allsvenskan,AIK v GIF Sundsvall,15:30:00,Match 21
+2022-09-04,Allsvenskan,IF Elfsborg v Malmö FF,15:30:00,Match 21
+2022-09-05,Allsvenskan,IFK Värnamo v Helsingborgs IF,17:00:00,Match 21
+2022-09-05,Allsvenskan,Kalmar FF v Varbergs BoIS,17:00:00,Match 21
+2022-09-05,Allsvenskan,Mjällby AIF v IFK Göteborg,17:00:00,Match 21
+2022-09-05,Allsvenskan,IFK Norrköping v Hammarby IF,17:10:00,Match 21
+2022-09-10,Allsvenskan,IK Sirius v IFK Värnamo,13:00:00,Match 22
+2022-09-10,Allsvenskan,Degerfors IF v Mjällby AIF,15:30:00,Match 22
+2022-09-11,Allsvenskan,GIF Sundsvall v IF Elfsborg,13:00:00,Match 22
+2022-09-11,Allsvenskan,Hammarby IF v Djurgårdens IF,13:00:00,Match 22
+2022-09-11,Allsvenskan,Malmö FF v IFK Norrköping,15:30:00,Match 22
+2022-09-11,Allsvenskan,Varbergs BoIS v AIK,15:30:00,Match 22
+2022-09-12,Allsvenskan,Kalmar FF v BK Häcken,17:00:00,Match 22
+2022-09-12,Allsvenskan,IFK Göteborg v Helsingborgs IF,17:10:00,Match 22
+2022-09-17,Allsvenskan,BK Häcken v Hammarby IF,13:00:00,Match 23
+2022-09-17,Allsvenskan,IFK Norrköping v Kalmar FF,13:00:00,Match 23
+2022-09-17,Allsvenskan,IFK Värnamo v Varbergs BoIS,15:30:00,Match 23
+2022-09-18,Allsvenskan,Helsingborgs IF v Malmö FF,13:00:00,Match 23
+2022-09-18,Allsvenskan,IF Elfsborg v IK Sirius,13:00:00,Match 23
+2022-09-18,Allsvenskan,Mjällby AIF v GIF Sundsvall,13:00:00,Match 23
+2022-09-18,Allsvenskan,AIK v Degerfors IF,15:30:00,Match 23
+2022-09-18,Allsvenskan,Djurgårdens IF v IFK Göteborg,15:30:00,Match 23
+2022-10-02,Allsvenskan,Degerfors IF v Djurgårdens IF,,Match 24
+2022-10-02,Allsvenskan,GIF Sundsvall v IFK Norrköping,,Match 24
+2022-10-02,Allsvenskan,IFK Göteborg v IF Elfsborg,,Match 24
+2022-10-02,Allsvenskan,IFK Värnamo v Mjällby AIF,,Match 24
+2022-10-02,Allsvenskan,IK Sirius v AIK,,Match 24
+2022-10-02,Allsvenskan,Kalmar FF v Helsingborgs IF,,Match 24
+2022-10-02,Allsvenskan,Malmö FF v Hammarby IF,,Match 24
+2022-10-02,Allsvenskan,Varbergs BoIS v BK Häcken,,Match 24
+2022-10-09,Allsvenskan,AIK v Helsingborgs IF,,Match 25
+2022-10-09,Allsvenskan,Degerfors IF v IK Sirius,,Match 25
+2022-10-09,Allsvenskan,Djurgårdens IF v BK Häcken,,Match 25
+2022-10-09,Allsvenskan,GIF Sundsvall v IFK Göteborg,,Match 25
+2022-10-09,Allsvenskan,Hammarby IF v Varbergs BoIS,,Match 25
+2022-10-09,Allsvenskan,IF Elfsborg v Kalmar FF,,Match 25
+2022-10-09,Allsvenskan,IFK Norrköping v Mjällby AIF,,Match 25
+2022-10-09,Allsvenskan,Malmö FF v IFK Värnamo,,Match 25
+2022-10-16,Allsvenskan,BK Häcken v GIF Sundsvall,,Match 26
+2022-10-16,Allsvenskan,Djurgårdens IF v AIK,,Match 26
+2022-10-16,Allsvenskan,Helsingborgs IF v Varbergs BoIS,,Match 26
+2022-10-16,Allsvenskan,IF Elfsborg v Degerfors IF,,Match 26
+2022-10-16,Allsvenskan,IFK Göteborg v Malmö FF,,Match 26
+2022-10-16,Allsvenskan,IFK Värnamo v Kalmar FF,,Match 26
+2022-10-16,Allsvenskan,IK Sirius v IFK Norrköping,,Match 26
+2022-10-16,Allsvenskan,Mjällby AIF v Hammarby IF,,Match 26
+2022-10-19,Allsvenskan,AIK v BK Häcken,,Match 27
+2022-10-19,Allsvenskan,Degerfors IF v IFK Göteborg,,Match 27
+2022-10-19,Allsvenskan,GIF Sundsvall v IFK Värnamo,,Match 27
+2022-10-19,Allsvenskan,Hammarby IF v IK Sirius,,Match 27
+2022-10-19,Allsvenskan,IFK Norrköping v Helsingborgs IF,,Match 27
+2022-10-19,Allsvenskan,Kalmar FF v Mjällby AIF,,Match 27
+2022-10-19,Allsvenskan,Malmö FF v Djurgårdens IF,,Match 27
+2022-10-19,Allsvenskan,Varbergs BoIS v IF Elfsborg,,Match 27
+2022-10-23,Allsvenskan,BK Häcken v Malmö FF,,Match 28
+2022-10-23,Allsvenskan,Djurgårdens IF v GIF Sundsvall,,Match 28
+2022-10-23,Allsvenskan,Helsingborgs IF v Degerfors IF,,Match 28
+2022-10-23,Allsvenskan,IF Elfsborg v Hammarby IF,,Match 28
+2022-10-23,Allsvenskan,IFK Göteborg v AIK,,Match 28
+2022-10-23,Allsvenskan,IFK Värnamo v IFK Norrköping,,Match 28
+2022-10-23,Allsvenskan,IK Sirius v Kalmar FF,,Match 28
+2022-10-23,Allsvenskan,Mjällby AIF v Varbergs BoIS,,Match 28
+2022-10-30,Allsvenskan,Degerfors IF v IFK Värnamo,,Match 29
+2022-10-30,Allsvenskan,GIF Sundsvall v IK Sirius,,Match 29
+2022-10-30,Allsvenskan,Hammarby IF v Kalmar FF,,Match 29
+2022-10-30,Allsvenskan,IF Elfsborg v Helsingborgs IF,,Match 29
+2022-10-30,Allsvenskan,IFK Göteborg v BK Häcken,,Match 29
+2022-10-30,Allsvenskan,IFK Norrköping v Djurgårdens IF,,Match 29
+2022-10-30,Allsvenskan,Mjällby AIF v AIK,,Match 29
+2022-10-30,Allsvenskan,Varbergs BoIS v Malmö FF,,Match 29
+2022-11-06,Allsvenskan,AIK v IF Elfsborg,,Match 30
+2022-11-06,Allsvenskan,BK Häcken v IFK Norrköping,,Match 30
+2022-11-06,Allsvenskan,Djurgårdens IF v Mjällby AIF,,Match 30
+2022-11-06,Allsvenskan,Helsingborgs IF v Hammarby IF,,Match 30
+2022-11-06,Allsvenskan,IFK Värnamo v IFK Göteborg,,Match 30
+2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
+2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
+2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
+2022-07-02,Brazilian Série A,Fluminense v Corinthians,19:30:00,Match 15
+2022-07-02,Brazilian Série A,Juventude v Atletico Mineiro,19:30:00,Match 15
+2022-07-02,Brazilian Série A,Santos v Flamengo,22:00:00,Match 15
+2022-07-02,Brazilian Série A,Ceara v Internacional,22:00:00,Match 15
+2022-07-03,Brazilian Série A,Palmeiras v Atletico Paranaense,00:00:00,Match 15
+2022-07-03,Brazilian Série A,Avai v Cuiaba,14:00:00,Match 15
+2022-07-03,Brazilian Série A,Atletico Goianiense v Sao Paulo,19:00:00,Match 15
+2022-07-03,Brazilian Série A,Coritiba v Fortaleza,21:00:00,Match 15
+2022-07-03,Brazilian Série A,America Mineiro v Goias,21:00:00,Match 15
+2022-07-04,Brazilian Série A,Bragantino v Botafogo,23:00:00,Match 15
+2022-07-09,Brazilian Série A,Bragantino v Avai,19:30:00,Match 16
+2022-07-09,Brazilian Série A,Fluminense v Ceara,22:00:00,Match 16
+2022-07-09,Brazilian Série A,Goias v Atletico Paranaense,23:30:00,Match 16
+2022-07-10,Brazilian Série A,Coritiba v Juventude,14:00:00,Match 16
+2022-07-10,Brazilian Série A,Corinthians v Flamengo,19:00:00,Match 16
+2022-07-10,Brazilian Série A,Atletico Mineiro v Sao Paulo,21:00:00,Match 16
+2022-07-10,Brazilian Série A,Santos v Atletico Goianiense,21:00:00,Match 16
+2022-07-10,Brazilian Série A,Fortaleza v Palmeiras,21:00:00,Match 16
+2022-07-10,Brazilian Série A,Cuiaba v Botafogo,22:00:00,Match 16
+2022-07-11,Brazilian Série A,Internacional v America Mineiro,23:00:00,Match 16
+2022-07-16,Brazilian Série A,Atletico Goianiense v Fortaleza,19:30:00,Match 17
+2022-07-16,Brazilian Série A,Atletico Paranaense v Internacional,19:30:00,Match 17
+2022-07-16,Brazilian Série A,Flamengo v Coritiba,22:00:00,Match 17
+2022-07-16,Brazilian Série A,Avai v Santos,22:00:00,Match 17
+2022-07-17,Brazilian Série A,Ceara v Corinthians,00:00:00,Match 17
+2022-07-17,Brazilian Série A,Juventude v Goias,14:00:00,Match 17
+2022-07-17,Brazilian Série A,Sao Paulo v Fluminense,19:00:00,Match 17
+2022-07-17,Brazilian Série A,Botafogo v Atletico Mineiro,21:00:00,Match 17
+2022-07-17,Brazilian Série A,America Mineiro v Bragantino,22:00:00,Match 17
+2022-07-18,Brazilian Série A,Palmeiras v Cuiaba,23:00:00,Match 17
+2022-07-20,Brazilian Série A,Ceara v Avai,00:30:00,Match 18
+2022-07-20,Brazilian Série A,Goias v Fluminense,22:00:00,Match 18
+2022-07-20,Brazilian Série A,Bragantino v Fortaleza,22:00:00,Match 18
+2022-07-20,Brazilian Série A,Atletico Paranaense v Atletico Goianiense,22:30:00,Match 18
+2022-07-20,Brazilian Série A,Flamengo v Juventude,23:30:00,Match 18
+2022-07-20,Brazilian Série A,Internacional v Sao Paulo,23:30:00,Match 18
+2022-07-21,Brazilian Série A,Corinthians v Coritiba,00:30:00,Match 18
+2022-07-21,Brazilian Série A,Santos v Botafogo,00:30:00,Match 18
+2022-07-21,Brazilian Série A,Cuiaba v Atletico Mineiro,22:00:00,Match 18
+2022-07-21,Brazilian Série A,America Mineiro v Palmeiras,23:00:00,Match 18
+2022-07-23,Brazilian Série A,Sao Paulo v Goias,22:00:00,Match 19
+2022-07-24,Brazilian Série A,Botafogo v Atletico Paranaense,00:00:00,Match 19
+2022-07-24,Brazilian Série A,Avai v Flamengo,14:00:00,Match 19
+2022-07-24,Brazilian Série A,Fluminense v Bragantino,19:00:00,Match 19
+2022-07-24,Brazilian Série A,Palmeiras v Internacional,19:00:00,Match 19
+2022-07-24,Brazilian Série A,Juventude v Ceara,19:00:00,Match 19
+2022-07-24,Brazilian Série A,Atletico Mineiro v Corinthians,21:00:00,Match 19
+2022-07-24,Brazilian Série A,Atletico Goianiense v America Mineiro,21:00:00,Match 19
+2022-07-24,Brazilian Série A,Fortaleza v Santos,22:00:00,Match 19
+2022-07-25,Brazilian Série A,Coritiba v Cuiaba,23:00:00,Match 19
+2022-07-30,Brazilian Série A,Goias v Coritiba,19:30:00,Match 20
+2022-07-30,Brazilian Série A,Ceara v Palmeiras,19:30:00,Match 20
+2022-07-30,Brazilian Série A,Corinthians v Botafogo,22:00:00,Match 20
+2022-07-30,Brazilian Série A,Flamengo v Atletico Goianiense,23:30:00,Match 20
+2022-07-31,Brazilian Série A,America Mineiro v Avai,14:00:00,Match 20
+2022-07-31,Brazilian Série A,Internacional v Atletico Mineiro,19:00:00,Match 20
+2022-07-31,Brazilian Série A,Atletico Paranaense v Sao Paulo,19:00:00,Match 20
+2022-07-31,Brazilian Série A,Cuiaba v Fortaleza,21:00:00,Match 20
+2022-07-31,Brazilian Série A,Bragantino v Juventude,22:00:00,Match 20
+2022-08-01,Brazilian Série A,Santos v Fluminense,23:00:00,Match 20
+2022-08-06,Brazilian Série A,Juventude v America Mineiro,19:30:00,Match 21
+2022-08-06,Brazilian Série A,Fluminense v Cuiaba,19:30:00,Match 21
+2022-08-06,Brazilian Série A,Atletico Goianiense v Bragantino,22:00:00,Match 21
+2022-08-06,Brazilian Série A,Avai v Corinthians,22:00:00,Match 21
+2022-08-06,Brazilian Série A,Palmeiras v Goias,23:30:00,Match 21
+2022-08-07,Brazilian Série A,Botafogo v Ceara,14:00:00,Match 21
+2022-08-07,Brazilian Série A,Sao Paulo v Flamengo,19:00:00,Match 21
+2022-08-07,Brazilian Série A,Fortaleza v Internacional,21:00:00,Match 21
+2022-08-07,Brazilian Série A,Atletico Mineiro v Atletico Paranaense,22:00:00,Match 21
+2022-08-08,Brazilian Série A,Coritiba v Santos,23:00:00,Match 21
+2022-08-13,Brazilian Série A,Goias v Avai,19:30:00,Match 22
+2022-08-13,Brazilian Série A,Corinthians v Palmeiras,22:00:00,Match 22
+2022-08-13,Brazilian Série A,Cuiaba v Juventude,23:30:00,Match 22
+2022-08-14,Brazilian Série A,Coritiba v Atletico Mineiro,14:00:00,Match 22
+2022-08-14,Brazilian Série A,Flamengo v Atletico Paranaense,19:00:00,Match 22
+2022-08-14,Brazilian Série A,Ceara v Fortaleza,19:00:00,Match 22
+2022-08-14,Brazilian Série A,Sao Paulo v Bragantino,19:00:00,Match 22
+2022-08-14,Brazilian Série A,America Mineiro v Santos,21:00:00,Match 22
+2022-08-14,Brazilian Série A,Internacional v Fluminense,22:00:00,Match 22
+2022-08-15,Brazilian Série A,Botafogo v Atletico Goianiense,23:00:00,Match 22
+2022-08-20,Brazilian Série A,Santos v Sao Paulo,19:30:00,Match 23
+2022-08-20,Brazilian Série A,Avai v Internacional,19:30:00,Match 23
+2022-08-20,Brazilian Série A,Fortaleza v Corinthians,22:00:00,Match 23
+2022-08-20,Brazilian Série A,Atletico Paranaense v America Mineiro,22:00:00,Match 23
+2022-08-20,Brazilian Série A,Atletico Goianiense v Cuiaba,23:30:00,Match 23
+2022-08-21,Brazilian Série A,Juventude v Botafogo,14:00:00,Match 23
+2022-08-21,Brazilian Série A,Palmeiras v Flamengo,19:00:00,Match 23
+2022-08-21,Brazilian Série A,Bragantino v Ceara,21:00:00,Match 23
+2022-08-21,Brazilian Série A,Atletico Mineiro v Goias,22:00:00,Match 23
+2022-08-22,Brazilian Série A,Fluminense v Coritiba,23:00:00,Match 23
+2022-08-27,Brazilian Série A,Goias v Atletico Goianiense,19:30:00,Match 24
+2022-08-27,Brazilian Série A,Coritiba v Avai,19:30:00,Match 24
+2022-08-27,Brazilian Série A,Botafogo v Flamengo,22:00:00,Match 24
+2022-08-27,Brazilian Série A,Corinthians v Bragantino,23:30:00,Match 24
+2022-08-28,Brazilian Série A,Fluminense v Palmeiras,14:00:00,Match 24
+2022-08-28,Brazilian Série A,Sao Paulo v Fortaleza,19:00:00,Match 24
+2022-08-28,Brazilian Série A,America Mineiro v Atletico Mineiro,19:00:00,Match 24
+2022-08-28,Brazilian Série A,Cuiaba v Santos,21:00:00,Match 24
+2022-08-28,Brazilian Série A,Ceara v Atletico Paranaense,22:00:00,Match 24
+2022-08-29,Brazilian Série A,Internacional v Juventude,23:00:00,Match 24
+2022-09-03,Brazilian Série A,Juventude v Avai,19:30:00,Match 25
+2022-09-03,Brazilian Série A,Bragantino v Palmeiras,22:00:00,Match 25
+2022-09-03,Brazilian Série A,America Mineiro v Coritiba,23:30:00,Match 25
+2022-09-04,Brazilian Série A,Flamengo v Ceara,14:00:00,Match 25
+2022-09-04,Brazilian Série A,Corinthians v Internacional,19:00:00,Match 25
+2022-09-04,Brazilian Série A,Fortaleza v Botafogo,19:00:00,Match 25
+2022-09-04,Brazilian Série A,Santos v Goias,21:00:00,Match 25
+2022-09-04,Brazilian Série A,Atletico Goianiense v Atletico Mineiro,22:00:00,Match 25
+2022-09-04,Brazilian Série A,Atletico Paranaense v Fluminense,22:00:00,Match 25
+2022-09-05,Brazilian Série A,Cuiaba v Sao Paulo,23:00:00,Match 25
+2022-09-11,Brazilian Série A,Fluminense v Fortaleza,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Sao Paulo v Corinthians,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Botafogo v America Mineiro,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Coritiba v Atletico Goianiense,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Internacional v Cuiaba,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Ceara v Santos,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Goias v Flamengo,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Avai v Atletico Paranaense,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Palmeiras v Juventude,20:00:00,Match 26
+2022-09-11,Brazilian Série A,Atletico Mineiro v Bragantino,20:00:00,Match 26
+2022-09-18,Brazilian Série A,America Mineiro v Corinthians,,Match 27
+2022-09-18,Brazilian Série A,Flamengo v Fluminense,,Match 27
+2022-09-18,Brazilian Série A,Bragantino v Goias,,Match 27
+2022-09-18,Brazilian Série A,Palmeiras v Santos,,Match 27
+2022-09-18,Brazilian Série A,Botafogo v Coritiba,,Match 27
+2022-09-18,Brazilian Série A,Atletico Paranaense v Cuiaba,,Match 27
+2022-09-18,Brazilian Série A,Atletico Goianiense v Internacional,,Match 27
+2022-09-18,Brazilian Série A,Avai v Atletico Mineiro,,Match 27
+2022-09-18,Brazilian Série A,Juventude v Fortaleza,,Match 27
+2022-09-18,Brazilian Série A,Ceara v Sao Paulo,,Match 27
+2022-09-28,Brazilian Série A,Santos v Atletico Paranaense,,Match 28
+2022-09-28,Brazilian Série A,Corinthians v Atletico Goianiense,,Match 28
+2022-09-28,Brazilian Série A,Sao Paulo v Avai,,Match 28
+2022-09-28,Brazilian Série A,Fluminense v Juventude,,Match 28
+2022-09-28,Brazilian Série A,Coritiba v Ceara,,Match 28
+2022-09-28,Brazilian Série A,Atletico Mineiro v Palmeiras,,Match 28
+2022-09-28,Brazilian Série A,Cuiaba v America Mineiro,,Match 28
+2022-09-28,Brazilian Série A,Goias v Botafogo,,Match 28
+2022-09-28,Brazilian Série A,Fortaleza v Flamengo,,Match 28
+2022-09-28,Brazilian Série A,Internacional v Bragantino,,Match 28
+2022-10-01,Brazilian Série A,Ceara v America Mineiro,,Match 29
+2022-10-01,Brazilian Série A,Atletico Paranaense v Juventude,,Match 29
+2022-10-01,Brazilian Série A,Avai v Atletico Goianiense,,Match 29
+2022-10-01,Brazilian Série A,Goias v Fortaleza,,Match 29
+2022-10-01,Brazilian Série A,Internacional v Santos,,Match 29
+2022-10-01,Brazilian Série A,Botafogo v Palmeiras,,Match 29
+2022-10-01,Brazilian Série A,Corinthians v Cuiaba,,Match 29
+2022-10-01,Brazilian Série A,Sao Paulo v Coritiba,,Match 29
+2022-10-01,Brazilian Série A,Atletico Mineiro v Fluminense,,Match 29
+2022-10-01,Brazilian Série A,Flamengo v Bragantino,,Match 29
+2022-10-05,Brazilian Série A,Santos v Atletico Mineiro,,Match 30
+2022-10-05,Brazilian Série A,Juventude v Corinthians,,Match 30
+2022-10-05,Brazilian Série A,Bragantino v Cuiaba,,Match 30
+2022-10-05,Brazilian Série A,Palmeiras v Coritiba,,Match 30
+2022-10-05,Brazilian Série A,Ceara v Goias,,Match 30
+2022-10-05,Brazilian Série A,America Mineiro v Sao Paulo,,Match 30
+2022-10-05,Brazilian Série A,Atletico Goianiense v Fluminense,,Match 30
+2022-10-05,Brazilian Série A,Avai v Botafogo,,Match 30
+2022-10-05,Brazilian Série A,Atletico Paranaense v Fortaleza,,Match 30
+2022-10-05,Brazilian Série A,Flamengo v Internacional,,Match 30
+2022-10-09,Brazilian Série A,Sao Paulo v Botafogo,,Match 31
+2022-10-09,Brazilian Série A,Corinthians v Atletico Paranaense,,Match 31
+2022-10-09,Brazilian Série A,Santos v Juventude,,Match 31
+2022-10-09,Brazilian Série A,Fluminense v America Mineiro,,Match 31
+2022-10-09,Brazilian Série A,Cuiaba v Flamengo,,Match 31
+2022-10-09,Brazilian Série A,Atletico Mineiro v Ceara,,Match 31
+2022-10-09,Brazilian Série A,Internacional v Goias,,Match 31
+2022-10-09,Brazilian Série A,Fortaleza v Avai,,Match 31
+2022-10-09,Brazilian Série A,Atletico Goianiense v Palmeiras,,Match 31
+2022-10-09,Brazilian Série A,Coritiba v Bragantino,,Match 31
+2022-10-16,Brazilian Série A,Palmeiras v Sao Paulo,,Match 32
+2022-10-16,Brazilian Série A,Goias v Corinthians,,Match 32
+2022-10-16,Brazilian Série A,Botafogo v Internacional,,Match 32
+2022-10-16,Brazilian Série A,Flamengo v Atletico Mineiro,,Match 32
+2022-10-16,Brazilian Série A,America Mineiro v Fortaleza,,Match 32
+2022-10-16,Brazilian Série A,Bragantino v Santos,,Match 32
+2022-10-16,Brazilian Série A,Juventude v Atletico Goianiense,,Match 32
+2022-10-16,Brazilian Série A,Ceara v Cuiaba,,Match 32
+2022-10-16,Brazilian Série A,Avai v Fluminense,,Match 32
+2022-10-16,Brazilian Série A,Atletico Paranaense v Coritiba,,Match 32
+2022-10-23,Brazilian Série A,Juventude v Sao Paulo,,Match 33
+2022-10-23,Brazilian Série A,Fortaleza v Atletico Mineiro,,Match 33
+2022-10-23,Brazilian Série A,America Mineiro v Flamengo,,Match 33
+2022-10-23,Brazilian Série A,Atletico Goianiense v Ceara,,Match 33
+2022-10-23,Brazilian Série A,Bragantino v Atletico Paranaense,,Match 33
+2022-10-23,Brazilian Série A,Coritiba v Internacional,,Match 33
+2022-10-23,Brazilian Série A,Santos v Corinthians,,Match 33
+2022-10-23,Brazilian Série A,Palmeiras v Avai,,Match 33
+2022-10-23,Brazilian Série A,Fluminense v Botafogo,,Match 33
+2022-10-23,Brazilian Série A,Cuiaba v Goias,,Match 33
+2022-10-26,Brazilian Série A,Flamengo v Santos,,Match 34
+2022-10-26,Brazilian Série A,Sao Paulo v Atletico Goianiense,,Match 34
+2022-10-26,Brazilian Série A,Corinthians v Fluminense,,Match 34
+2022-10-26,Brazilian Série A,Botafogo v Bragantino,,Match 34
+2022-10-26,Brazilian Série A,Atletico Paranaense v Palmeiras,,Match 34
+2022-10-26,Brazilian Série A,Fortaleza v Coritiba,,Match 34
+2022-10-26,Brazilian Série A,Goias v America Mineiro,,Match 34
+2022-10-26,Brazilian Série A,Atletico Mineiro v Juventude,,Match 34
+2022-10-26,Brazilian Série A,Cuiaba v Avai,,Match 34
+2022-10-26,Brazilian Série A,Internacional v Ceara,,Match 34
+2022-10-29,Brazilian Série A,Flamengo v Corinthians,,Match 35
+2022-10-29,Brazilian Série A,Palmeiras v Fortaleza,,Match 35
+2022-10-29,Brazilian Série A,Botafogo v Cuiaba,,Match 35
+2022-10-29,Brazilian Série A,Juventude v Coritiba,,Match 35
+2022-10-29,Brazilian Série A,America Mineiro v Internacional,,Match 35
+2022-10-29,Brazilian Série A,Sao Paulo v Atletico Mineiro,,Match 35
+2022-10-29,Brazilian Série A,Ceara v Fluminense,,Match 35
+2022-10-29,Brazilian Série A,Atletico Goianiense v Santos,,Match 35
+2022-10-29,Brazilian Série A,Avai v Bragantino,,Match 35
+2022-10-29,Brazilian Série A,Atletico Paranaense v Goias,,Match 35
+2022-11-06,Brazilian Série A,Fluminense v Sao Paulo,,Match 36
+2022-11-06,Brazilian Série A,Bragantino v America Mineiro,,Match 36
+2022-11-06,Brazilian Série A,Corinthians v Ceara,,Match 36
+2022-11-06,Brazilian Série A,Santos v Avai,,Match 36
+2022-11-06,Brazilian Série A,Cuiaba v Palmeiras,,Match 36
+2022-11-06,Brazilian Série A,Atletico Mineiro v Botafogo,,Match 36
+2022-11-06,Brazilian Série A,Coritiba v Flamengo,,Match 36
+2022-11-06,Brazilian Série A,Internacional v Atletico Paranaense,,Match 36
+2022-11-06,Brazilian Série A,Fortaleza v Atletico Goianiense,,Match 36
+2022-11-06,Brazilian Série A,Goias v Juventude,,Match 36
+2022-11-09,Brazilian Série A,Coritiba v Corinthians,,Match 37
+2022-11-09,Brazilian Série A,Atletico Mineiro v Cuiaba,,Match 37
+2022-11-09,Brazilian Série A,Fluminense v Goias,,Match 37
+2022-11-09,Brazilian Série A,Juventude v Flamengo,,Match 37
+2022-11-09,Brazilian Série A,Avai v Ceara,,Match 37
+2022-11-09,Brazilian Série A,Sao Paulo v Internacional,,Match 37
+2022-11-09,Brazilian Série A,Atletico Goianiense v Atletico Paranaense,,Match 37
+2022-11-09,Brazilian Série A,Botafogo v Santos,,Match 37
+2022-11-09,Brazilian Série A,Fortaleza v Bragantino,,Match 37
+2022-11-09,Brazilian Série A,Palmeiras v America Mineiro,,Match 37
+2022-11-13,Brazilian Série A,Corinthians v Atletico Mineiro,,Match 38
+2022-11-13,Brazilian Série A,Internacional v Palmeiras,,Match 38
+2022-11-13,Brazilian Série A,Santos v Fortaleza,,Match 38
+2022-11-13,Brazilian Série A,Ceara v Juventude,,Match 38
+2022-11-13,Brazilian Série A,Atletico Paranaense v Botafogo,,Match 38
+2022-11-13,Brazilian Série A,America Mineiro v Atletico Goianiense,,Match 38
+2022-11-13,Brazilian Série A,Cuiaba v Coritiba,,Match 38
+2022-11-13,Brazilian Série A,Flamengo v Avai,,Match 38
+2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
+2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
 2022-08-05,Bundesliga,Eintracht Frankfurt 19:30 Bayern Munich,18:30:00,Match 1
 2022-08-06,Bundesliga,1. FC Union Berlin v Hertha Berlin,,Match 1
 2022-08-06,Bundesliga,Bochum v Mainz,,Match 1

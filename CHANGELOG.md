@@ -1,5 +1,9 @@
 # Change Log
 
+2022-06-30
+* Added Brazilian Série A 2022
+* Added Allsvenskan 2022
+
 2022-06-29
 * Added Eredivisie 2022/2023
 * Added Veikkausliiga 2022
