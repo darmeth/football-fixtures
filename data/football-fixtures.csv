@@ -1,13 +1,4 @@
 date,league,teams,time,note_1
-2022-06-30,AFC Cup,Kaya FC v Bali United,09:00:00,Group Stage
-2022-06-30,AFC Cup,Eastern SC v Tainan City,10:00:00,Group Stage
-2022-06-30,AFC Cup,Viettel v Hougang United,10:00:00,Group Stage
-2022-06-30,AFC Cup,Kuala Lumpur v Tampines Rovers,12:00:00,Group Stage
-2022-06-30,AFC Cup,Kedah v Visakha FC,13:00:00,Group Stage
-2022-06-30,AFC Cup,Khujand v Dordoi Bishkek,14:00:00,Group Stage
-2022-06-30,AFC Cup,Phnom Penh Crown v Young Elephants,14:00:00,Group Stage
-2022-06-30,AFC Cup,Sogdiana Jizzakh v Altyn Asyr,14:00:00,Group Stage
-2022-06-30,AFC Cup,CSKA Pamir Dushanbe v Neftchi,17:00:00,Group Stage
 2022-07-01,Allsvenskan,GIF Sundsvall v Malmö FF,17:00:00,Match 12
 2022-07-02,Allsvenskan,AIK v Mjällby AIF,13:00:00,Match 12
 2022-07-02,Allsvenskan,Helsingborgs IF v Kalmar FF,15:30:00,Match 12
@@ -704,7 +695,6 @@ date,league,teams,time,note_1
 2023-05-27,Bundesliga,RB Leipzig v Schalke,,Match 34
 2023-05-27,Bundesliga,Stuttgart v Hoffenheim,,Match 34
 2023-05-27,Bundesliga,Wolfsburg v Hertha Berlin,,Match 34
-2022-06-30,Copa do Brasil,América Mineiro v Botafogo,22:00:00,Round of 16 - Leg 1
 2022-07-12,Copa do Brasil,Atletico PR v Bahia,23:30:00,Round of 16 - Leg 2
 2022-07-13,Copa do Brasil,Cruzeiro v Fluminense,00:00:00,Round of 16 - Leg 2
 2022-07-13,Copa do Brasil,Goias v Atlético Goianiense,22:00:00,Round of 16 - Leg 2
@@ -4399,14 +4389,6 @@ date,league,teams,time,note_1
 2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-2022-06-29,USA MLS,FC Cincinnati v New York City FC,23:30:00,Regular Season
-2022-06-29,USA MLS,Toronto FC v Columbus Crew,23:30:00,Regular Season
-2022-06-30,USA MLS,Chicago Fire v Philadelphia Union,00:00:00,Regular Season
-2022-06-30,USA MLS,Seattle Sounders FC v CF Montréal,02:00:00,Regular Season
-2022-06-30,USA MLS,Los Angeles Football Club v FC Dallas,02:30:00,Regular Season
-2022-06-30,USA MLS,Los Angeles Galaxy v Minnesota United FC,02:30:00,Regular Season
-2022-06-30,USA MLS,Portland Timbers v Houston Dynamo,02:30:00,Regular Season
-2022-06-30,USA MLS,Charlotte FC v Austin FC,23:00:00,Regular Season
 2022-07-01,USA MLS,New York Red Bulls v Atlanta United FC,00:00:00,Regular Season
 2022-07-02,USA MLS,Toronto FC v Seattle Sounders FC,23:30:00,Regular Season
 2022-07-03,USA MLS,Vancouver Whitecaps v Los Angeles Football Club,02:00:00,Regular Season
@@ -4710,3 +4692,68 @@ date,league,teams,time,note_1
 2022-09-10,Veikkausliiga,Ilves v Inter Turku,14:00:00,Match 22
 2022-09-10,Veikkausliiga,Lahti v Haka,14:00:00,Match 22
 2022-09-10,Veikkausliiga,VPS Vaasa v KuPS Kuopio,14:00:00,Match 22
+2022-09-22,World Cup 2022,Brazil v Argentina,19:00:00,Qualifiers (replay)
+2022-11-21,World Cup 2022,Senegal v Netherlands,10:00:00,Group Stage (A)
+2022-11-21,World Cup 2022,England v Iran,13:00:00,Group Stage (B)
+2022-11-21,World Cup 2022,Qatar v Ecuador,16:00:00,Group Stage (A)
+2022-11-21,World Cup 2022,USA v Wales,19:00:00,Group Stage (B)
+2022-11-22,World Cup 2022,Argentina v Saudi Arabia,10:00:00,Group Stage (C)
+2022-11-22,World Cup 2022,Denmark v Tunisia,13:00:00,Group Stage (D)
+2022-11-22,World Cup 2022,Mexico v Poland,16:00:00,Group Stage (C)
+2022-11-22,World Cup 2022,France v Australia,19:00:00,Group Stage (D)
+2022-11-23,World Cup 2022,Morocco v Croatia,10:00:00,Group Stage (F)
+2022-11-23,World Cup 2022,Germany v Japan,13:00:00,Group Stage (E)
+2022-11-23,World Cup 2022,Spain v Costa Rica,16:00:00,Group Stage (E)
+2022-11-23,World Cup 2022,Belgium v Canada,19:00:00,Group Stage (F)
+2022-11-24,World Cup 2022,Switzerland v Cameroon,10:00:00,Group Stage (G)
+2022-11-24,World Cup 2022,Uruguay v South Korea,13:00:00,Group Stage (H)
+2022-11-24,World Cup 2022,Portugal v Ghana,16:00:00,Group Stage (H)
+2022-11-24,World Cup 2022,Brazil v Serbia,19:00:00,Group Stage (G)
+2022-11-25,World Cup 2022,Iran v Wales,10:00:00,Group Stage (B)
+2022-11-25,World Cup 2022,Qatar v Senegal,13:00:00,Group Stage (A)
+2022-11-25,World Cup 2022,Netherlands v Ecuador,16:00:00,Group Stage (A)
+2022-11-25,World Cup 2022,England v USA,19:00:00,Group Stage (B)
+2022-11-26,World Cup 2022,Tunisia v Australia,10:00:00,Group Stage (D)
+2022-11-26,World Cup 2022,Poland v Saudi Arabia,13:00:00,Group Stage (C)
+2022-11-26,World Cup 2022,France v Denmark,16:00:00,Group Stage (D)
+2022-11-26,World Cup 2022,Argentina v Mexico,19:00:00,Group Stage (C)
+2022-11-27,World Cup 2022,Japan v Costa Rica,10:00:00,Group Stage (E)
+2022-11-27,World Cup 2022,Belgium v Morocco,13:00:00,Group Stage (F)
+2022-11-27,World Cup 2022,Croatia v Canada,16:00:00,Group Stage (F)
+2022-11-27,World Cup 2022,Spain v Germany,19:00:00,Group Stage (E)
+2022-11-28,World Cup 2022,Serbia v Cameroon,10:00:00,Group Stage (G)
+2022-11-28,World Cup 2022,South Korea v Ghana,13:00:00,Group Stage (H)
+2022-11-28,World Cup 2022,Brazil v Switzerland ,16:00:00,Group Stage (G)
+2022-11-28,World Cup 2022,Portugal v Uruguay,19:00:00,Group Stage (H)
+2022-11-29,World Cup 2022,Ecuador v Senegal,15:00:00,Group Stage (A)
+2022-11-29,World Cup 2022,Netherlands v Qatar,15:00:00,Group Stage (A)
+2022-11-29,World Cup 2022,England v Wales,19:00:00,Group Stage (B)
+2022-11-29,World Cup 2022,Iran v USA,19:00:00,Group Stage (B)
+2022-11-30,World Cup 2022,Denmark v Australia,15:00:00,Group Stage (D)
+2022-11-30,World Cup 2022,Tunisia v France,15:00:00,Group Stage (D)
+2022-11-30,World Cup 2022,Poland v Argentina,19:00:00,Group Stage (C)
+2022-11-30,World Cup 2022,Saudi Arabia v Mexico,19:00:00,Group Stage (C)
+2022-12-01,World Cup 2022,Croatia v Belgium,15:00:00,Group Stage (F)
+2022-12-01,World Cup 2022,Canada v Morocco,15:00:00,Group Stage (F)
+2022-12-01,World Cup 2022,Japan v Spain,19:00:00,Group Stage (E)
+2022-12-01,World Cup 2022,Costa Rica v Germany,19:00:00,Group Stage (E)
+2022-12-02,World Cup 2022,Ghana v Uruguay,15:00:00,Group Stage (H)
+2022-12-02,World Cup 2022,South Korea v Portugal,15:00:00,Group Stage (H)
+2022-12-02,World Cup 2022,Serbia v Switzerland ,19:00:00,Group Stage (G)
+2022-12-02,World Cup 2022,Brazil v Cameroon,19:00:00,Group Stage (G)
+2022-12-03,World Cup 2022,Group A 1st v Group B 2nd,15:00:00,Round of 16
+2022-12-03,World Cup 2022,Group C 1st v Group D 2nd,19:00:00,Round of 16
+2022-12-04,World Cup 2022,Group D 1st v Group C 2nd,15:00:00,Round of 16
+2022-12-04,World Cup 2022,Group B 1st v Group A 2nd,19:00:00,Round of 16
+2022-12-05,World Cup 2022,Group E 1st v Group F 2nd,15:00:00,Round of 16
+2022-12-05,World Cup 2022,Group G 1st v Group H 2nd,19:00:00,Round of 16
+2022-12-06,World Cup 2022,Group F 1st v Group E 2nd,15:00:00,Round of 16
+2022-12-06,World Cup 2022,Group H 1st v Group G 2nd,19:00:00,Round of 16
+2022-12-09,World Cup 2022,Winner Match 53 v Winner Match 54,15:00:00,Quarter Finals
+2022-12-09,World Cup 2022,Winner Match 49 v Winner Match 50,19:00:00,Quarter Finals
+2022-12-10,World Cup 2022,Winner Match 55 v Winner Match 56,15:00:00,Quarter Finals
+2022-12-10,World Cup 2022,Winner Match 51 v Winner Match 52,19:00:00,Quarter Finals
+2022-12-13,World Cup 2022,Winner Match 57 v Winner Match 58,19:00:00,Semi Finals
+2022-12-14,World Cup 2022,Winner Match 59 v Winner Match 60,19:00:00,Semi Finals
+2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
+2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals

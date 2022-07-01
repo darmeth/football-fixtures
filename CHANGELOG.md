@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-01
+* Added World Cup 2022
+
 2022-06-30
 * Added Brazilian Série A 2022
 * Added Allsvenskan 2022
