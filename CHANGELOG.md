@@ -1,5 +1,9 @@
 # Change Log
 
+2022-07-04
+* Added Norway 1. Divisjon 2022
+* Added Eliteserien 2022
+
 2022-07-01
 * Added World Cup 2022
 
