@@ -1,11 +1,4 @@
 date,league,teams,time,note_1
-2022-07-01,Allsvenskan,GIF Sundsvall v Malmö FF,17:00:00,Match 12
-2022-07-02,Allsvenskan,AIK v Mjällby AIF,13:00:00,Match 12
-2022-07-02,Allsvenskan,Helsingborgs IF v Kalmar FF,15:30:00,Match 12
-2022-07-03,Allsvenskan,Djurgårdens IF v Hammarby IF,13:00:00,Match 12
-2022-07-03,Allsvenskan,Varbergs BoIS v IFK Värnamo,13:00:00,Match 12
-2022-07-03,Allsvenskan,BK Häcken v IF Elfsborg,15:30:00,Match 12
-2022-07-03,Allsvenskan,IFK Norrköping v IK Sirius,15:30:00,Match 12
 2022-07-04,Allsvenskan,IFK Göteborg v Degerfors IF,17:00:00,Match 12
 2022-07-09,Allsvenskan,Malmö FF v Varbergs BoIS,13:00:00,Match 13
 2022-07-09,Allsvenskan,Degerfors IF v IFK Norrköping,15:30:00,Match 13
@@ -149,15 +142,6 @@ date,league,teams,time,note_1
 2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-2022-07-02,Brazilian Série A,Fluminense v Corinthians,19:30:00,Match 15
-2022-07-02,Brazilian Série A,Juventude v Atletico Mineiro,19:30:00,Match 15
-2022-07-02,Brazilian Série A,Santos v Flamengo,22:00:00,Match 15
-2022-07-02,Brazilian Série A,Ceara v Internacional,22:00:00,Match 15
-2022-07-03,Brazilian Série A,Palmeiras v Atletico Paranaense,00:00:00,Match 15
-2022-07-03,Brazilian Série A,Avai v Cuiaba,14:00:00,Match 15
-2022-07-03,Brazilian Série A,Atletico Goianiense v Sao Paulo,19:00:00,Match 15
-2022-07-03,Brazilian Série A,Coritiba v Fortaleza,21:00:00,Match 15
-2022-07-03,Brazilian Série A,America Mineiro v Goias,21:00:00,Match 15
 2022-07-04,Brazilian Série A,Bragantino v Botafogo,23:00:00,Match 15
 2022-07-09,Brazilian Série A,Bragantino v Avai,19:30:00,Match 16
 2022-07-09,Brazilian Série A,Fluminense v Ceara,22:00:00,Match 16
@@ -2672,15 +2656,6 @@ date,league,teams,time,note_1
 2022-09-27,International Friendly,Saudi Arabia v USA,,Murcia – Spain
 2022-11-06,International Friendly,Iceland v Saudi Arabia,,
 2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2022-07-02,J1 League,FC Tokyo v Avispa Fukuoka,09:00:00,Match 19
-2022-07-02,J1 League,Kashiwa Reysol v Kashima Antlers,09:30:00,Match 19
-2022-07-02,J1 League,Kyoto Sanga FC v Hokkaido Consadole Sapporo,09:30:00,Match 19
-2022-07-02,J1 League,Sanfrecce Hiroshima v Júbilo Iwata,09:30:00,Match 19
-2022-07-02,J1 League,Shonan Bellmare v Nagoya Grampus,10:00:00,Match 19
-2022-07-02,J1 League,Shimizu S-Pulse v Yokohama F. Marinos,10:00:00,Match 19
-2022-07-02,J1 League,Gamba Osaka v Urawa Red Diamonds,10:00:00,Match 19
-2022-07-02,J1 League,Cerezo Osaka v Kawasaki Frontale,10:00:00,Match 19
-2022-07-02,J1 League,Sagan Tosu v Vissel Kobe,10:30:00,Match 19
 2022-07-06,J1 League,Kashima Antlers v Cerezo Osaka,10:00:00,Match 20
 2022-07-06,J1 League,Kashiwa Reysol v Nagoya Grampus,10:00:00,Match 20
 2022-07-06,J1 League,FC Tokyo v Hokkaido Consadole Sapporo,10:00:00,Match 20
@@ -4389,12 +4364,6 @@ date,league,teams,time,note_1
 2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-2022-07-01,USA MLS,New York Red Bulls v Atlanta United FC,00:00:00,Regular Season
-2022-07-02,USA MLS,Toronto FC v Seattle Sounders FC,23:30:00,Regular Season
-2022-07-03,USA MLS,Vancouver Whitecaps v Los Angeles Football Club,02:00:00,Regular Season
-2022-07-03,USA MLS,New York City FC v Atlanta United FC,21:00:00,Regular Season
-2022-07-03,USA MLS,Columbus Crew v Philadelphia Union,23:30:00,Regular Season
-2022-07-03,USA MLS,New England Revolution v FC Cincinnati,23:30:00,Regular Season
 2022-07-04,USA MLS,Minnesota United FC v Real Salt Lake,00:00:00,Regular Season
 2022-07-04,USA MLS,Sporting Kansas City v New York Red Bulls,00:00:00,Regular Season
 2022-07-04,USA MLS,Houston Dynamo v Charlotte FC,00:30:00,Regular Season
@@ -4630,10 +4599,6 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-2022-07-02,Veikkausliiga,FC Honka v IFK Mariehamn,12:00:00,Match 12
-2022-07-02,Veikkausliiga,AC Oulu v VPS Vaasa,14:00:00,Match 12
-2022-07-02,Veikkausliiga,HJK Helsinki v KuPS Kuopio,14:00:00,Match 13
-2022-07-02,Veikkausliiga,Lahti v Inter Turku,15:00:00,Match 13
 2022-07-04,Veikkausliiga,HIFK Helsinki v Ilves,15:00:00,Match 13
 2022-07-09,Veikkausliiga,HIFK Helsinki v Haka,14:00:00,Match 13
 2022-07-09,Veikkausliiga,VPS Vaasa v IFK Mariehamn,14:30:00,Match 13
