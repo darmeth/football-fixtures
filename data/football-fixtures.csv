@@ -1,5 +1,4 @@
 date,league,teams,time,note_1
-2022-07-04,Allsvenskan,IFK Göteborg v Degerfors IF,17:00:00,Match 12
 2022-07-09,Allsvenskan,Malmö FF v Varbergs BoIS,13:00:00,Match 13
 2022-07-09,Allsvenskan,Degerfors IF v IFK Norrköping,15:30:00,Match 13
 2022-07-10,Allsvenskan,IF Elfsborg v AIK,13:00:00,Match 13
@@ -142,7 +141,6 @@ date,league,teams,time,note_1
 2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-2022-07-04,Brazilian Série A,Bragantino v Botafogo,23:00:00,Match 15
 2022-07-09,Brazilian Série A,Bragantino v Avai,19:30:00,Match 16
 2022-07-09,Brazilian Série A,Fluminense v Ceara,22:00:00,Match 16
 2022-07-09,Brazilian Série A,Goias v Atletico Paranaense,23:30:00,Match 16
@@ -374,41 +372,41 @@ date,league,teams,time,note_1
 2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
 2022-08-05,Bundesliga,Eintracht Frankfurt 19:30 Bayern Munich,18:30:00,Match 1
-2022-08-06,Bundesliga,1. FC Union Berlin v Hertha Berlin,,Match 1
-2022-08-06,Bundesliga,Bochum v Mainz,,Match 1
-2022-08-06,Bundesliga,Borussia Dortmund v Bayer Leverkusen,,Match 1
-2022-08-06,Bundesliga,Cologne v Schalke,,Match 1
-2022-08-06,Bundesliga,FC Augsburg v SC Freiburg,,Match 1
-2022-08-06,Bundesliga,M'gladbach v Hoffenheim,,Match 1
-2022-08-06,Bundesliga,Stuttgart v RB Leipzig,,Match 1
-2022-08-06,Bundesliga,Wolfsburg v Werder Bremen,,Match 1
-2022-08-13,Bundesliga,Bayer Leverkusen v FC Augsburg,,Match 2
-2022-08-13,Bundesliga,Bayern Munich v Wolfsburg,,Match 2
-2022-08-13,Bundesliga,Hertha Berlin v Eintracht Frankfurt,,Match 2
-2022-08-13,Bundesliga,Hoffenheim v Bochum,,Match 2
-2022-08-13,Bundesliga,Mainz v 1. FC Union Berlin,,Match 2
-2022-08-13,Bundesliga,RB Leipzig v Cologne,,Match 2
-2022-08-13,Bundesliga,SC Freiburg v Borussia Dortmund,,Match 2
-2022-08-13,Bundesliga,Schalke v M'gladbach,,Match 2
-2022-08-13,Bundesliga,Werder Bremen v Stuttgart,,Match 2
-2022-08-20,Bundesliga,1. FC Union Berlin v RB Leipzig,,Match 3
-2022-08-20,Bundesliga,Bayer Leverkusen v Hoffenheim,,Match 3
-2022-08-20,Bundesliga,Bochum v Bayern Munich,,Match 3
-2022-08-20,Bundesliga,Borussia Dortmund v Werder Bremen,,Match 3
-2022-08-20,Bundesliga,Eintracht Frankfurt v Cologne,,Match 3
-2022-08-20,Bundesliga,FC Augsburg v Mainz,,Match 3
-2022-08-20,Bundesliga,M'gladbach v Hertha Berlin,,Match 3
-2022-08-20,Bundesliga,Stuttgart v SC Freiburg,,Match 3
-2022-08-20,Bundesliga,Wolfsburg v Schalke,,Match 3
-2022-08-27,Bundesliga,Bayern Munich v M'gladbach,,Match 4
-2022-08-27,Bundesliga,Cologne v Stuttgart,,Match 4
-2022-08-27,Bundesliga,Hertha Berlin v Borussia Dortmund,,Match 4
-2022-08-27,Bundesliga,Hoffenheim v FC Augsburg,,Match 4
-2022-08-27,Bundesliga,Mainz v Bayer Leverkusen,,Match 4
-2022-08-27,Bundesliga,RB Leipzig v Wolfsburg,,Match 4
-2022-08-27,Bundesliga,SC Freiburg v Bochum,,Match 4
-2022-08-27,Bundesliga,Schalke v 1. FC Union Berlin,,Match 4
-2022-08-27,Bundesliga,Werder Bremen v Eintracht Frankfurt,,Match 4
+2022-08-06,Bundesliga,1. FC Union Berlin v Hertha Berlin,13:30:00,Match 1
+2022-08-06,Bundesliga,Bochum v Mainz,13:30:00,Match 1
+2022-08-06,Bundesliga,FC Augsburg v SC Freiburg,13:30:00,Match 1
+2022-08-06,Bundesliga,M'gladbach v Hoffenheim,13:30:00,Match 1
+2022-08-06,Bundesliga,Wolfsburg v Werder Bremen,13:30:00,Match 1
+2022-08-06,Bundesliga,Borussia Dortmund v Bayer Leverkusen,16:30:00,Match 1
+2022-08-07,Bundesliga,Stuttgart v RB Leipzig,13:30:00,Match 1
+2022-08-07,Bundesliga,Cologne v Schalke,15:30:00,Match 1
+2022-08-12,Bundesliga,SC Freiburg v Borussia Dortmund,18:30:00,Match 2
+2022-08-13,Bundesliga,Bayer Leverkusen v FC Augsburg,13:30:00,Match 2
+2022-08-13,Bundesliga,Hertha Berlin v Eintracht Frankfurt,13:30:00,Match 2
+2022-08-13,Bundesliga,Hoffenheim v Bochum,13:30:00,Match 2
+2022-08-13,Bundesliga,RB Leipzig v Cologne,13:30:00,Match 2
+2022-08-13,Bundesliga,Werder Bremen v Stuttgart,13:30:00,Match 2
+2022-08-13,Bundesliga,Schalke v M'gladbach,16:30:00,Match 2
+2022-08-14,Bundesliga,Mainz v 1. FC Union Berlin,13:30:00,Match 2
+2022-08-14,Bundesliga,Bayern Munich v Wolfsburg,15:30:00,Match 2
+2022-08-19,Bundesliga,M'gladbach v Hertha Berlin,18:30:00,Match 3
+2022-08-20,Bundesliga,Bayer Leverkusen v Hoffenheim,13:30:00,Match 3
+2022-08-20,Bundesliga,Borussia Dortmund v Werder Bremen,13:30:00,Match 3
+2022-08-20,Bundesliga,FC Augsburg v Mainz,13:30:00,Match 3
+2022-08-20,Bundesliga,Stuttgart v SC Freiburg,13:30:00,Match 3
+2022-08-20,Bundesliga,Wolfsburg v Schalke,13:30:00,Match 3
+2022-08-20,Bundesliga,1. FC Union Berlin v RB Leipzig,16:30:00,Match 3
+2022-08-21,Bundesliga,Eintracht Frankfurt v Cologne,13:30:00,Match 3
+2022-08-21,Bundesliga,Bochum v Bayern Munich,15:30:00,Match 3
+2022-08-26,Bundesliga,SC Freiburg v Bochum,18:30:00,Match 4
+2022-08-27,Bundesliga,Hertha Berlin v Borussia Dortmund,13:30:00,Match 4
+2022-08-27,Bundesliga,Hoffenheim v FC Augsburg,13:30:00,Match 4
+2022-08-27,Bundesliga,Mainz v Bayer Leverkusen,13:30:00,Match 4
+2022-08-27,Bundesliga,RB Leipzig v Wolfsburg,13:30:00,Match 4
+2022-08-27,Bundesliga,Schalke v 1. FC Union Berlin,13:30:00,Match 4
+2022-08-27,Bundesliga,Bayern Munich v M'gladbach,16:30:00,Match 4
+2022-08-28,Bundesliga,Cologne v Stuttgart,13:30:00,Match 4
+2022-08-28,Bundesliga,Werder Bremen v Eintracht Frankfurt,15:30:00,Match 4
 2022-09-03,Bundesliga,1. FC Union Berlin v Bayern Munich,,Match 5
 2022-09-03,Bundesliga,Bayer Leverkusen v SC Freiburg,,Match 5
 2022-09-03,Bundesliga,Bochum v Werder Bremen,,Match 5
@@ -699,30 +697,30 @@ date,league,teams,time,note_1
 2022-07-30,EFL Championship,Middlesbrough v West Bromwich Albion,16:30:00,Match 1
 2022-07-31,EFL Championship,Sunderland v Coventry City,11:00:00,Match 1
 2022-08-01,EFL Championship,Watford v Sheffield United,19:00:00,Match 1
+2022-08-06,EFL Championship,Norwich City v Wigan Athletic,11:30:00,Match 2
 2022-08-06,EFL Championship,Birmingham City v Huddersfield Town,14:00:00,Match 2
 2022-08-06,EFL Championship,Bristol City v Sunderland,14:00:00,Match 2
 2022-08-06,EFL Championship,Burnley v Luton Town,14:00:00,Match 2
-2022-08-06,EFL Championship,Coventry City v Rotherham United,14:00:00,Match 2
-2022-08-06,EFL Championship,Norwich City v Wigan Athletic,14:00:00,Match 2
 2022-08-06,EFL Championship,Preston North End v Hull City,14:00:00,Match 2
 2022-08-06,EFL Championship,Queens Park Rangers v Middlesbrough,14:00:00,Match 2
 2022-08-06,EFL Championship,Reading v Cardiff City,14:00:00,Match 2
 2022-08-06,EFL Championship,Sheffield United v Millwall,14:00:00,Match 2
 2022-08-06,EFL Championship,Stoke City v Blackpool,14:00:00,Match 2
 2022-08-06,EFL Championship,Swansea City v Blackburn Rovers,14:00:00,Match 2
-2022-08-06,EFL Championship,West Bromwich Albion v Watford,14:00:00,Match 2
-2022-08-13,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
+2022-08-07,EFL Championship,Coventry City v Rotherham United,14:00:00,Match 2
+2022-08-08,EFL Championship,West Bromwich Albion v Watford,19:00:00,Match 2
 2022-08-13,EFL Championship,Blackpool v Swansea City,14:00:00,Match 3
 2022-08-13,EFL Championship,Cardiff City v Birmingham City,14:00:00,Match 3
 2022-08-13,EFL Championship,Huddersfield Town v Stoke City,14:00:00,Match 3
 2022-08-13,EFL Championship,Hull City v Norwich City,14:00:00,Match 3
 2022-08-13,EFL Championship,Luton Town v Preston North End,14:00:00,Match 3
-2022-08-13,EFL Championship,Middlesbrough v Sheffield United,14:00:00,Match 3
 2022-08-13,EFL Championship,Millwall v Coventry City,14:00:00,Match 3
 2022-08-13,EFL Championship,Rotherham United v Reading,14:00:00,Match 3
 2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,14:00:00,Match 3
 2022-08-13,EFL Championship,Watford v Burnley,14:00:00,Match 3
 2022-08-13,EFL Championship,Wigan Athletic v Bristol City,14:00:00,Match 3
+2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
+2022-08-14,EFL Championship,Middlesbrough v Sheffield United,14:00:00,Match 3
 2022-08-16,EFL Championship,Birmingham City v Watford,18:45:00,Match 4
 2022-08-16,EFL Championship,Bristol City v Luton Town,18:45:00,Match 4
 2022-08-16,EFL Championship,Burnley v Hull City,18:45:00,Match 4
@@ -730,11 +728,11 @@ date,league,teams,time,note_1
 2022-08-16,EFL Championship,Norwich City v Huddersfield Town,18:45:00,Match 4
 2022-08-16,EFL Championship,Preston North End v Rotherham United,18:45:00,Match 4
 2022-08-16,EFL Championship,Queens Park Rangers v Blackpool,18:45:00,Match 4
-2022-08-16,EFL Championship,Sheffield United v Sunderland,18:45:00,Match 4
 2022-08-16,EFL Championship,Swansea City v Millwall,18:45:00,Match 4
-2022-08-16,EFL Championship,Reading v Blackburn Rovers,19:00:00,Match 4
-2022-08-16,EFL Championship,Stoke City v Middlesbrough,19:00:00,Match 4
-2022-08-16,EFL Championship,West Bromwich Albion v Cardiff City,19:00:00,Match 4
+2022-08-17,EFL Championship,Sheffield United v Sunderland,18:45:00,Match 4
+2022-08-17,EFL Championship,Stoke City v Middlesbrough,18:45:00,Match 4
+2022-08-17,EFL Championship,Reading v Blackburn Rovers,19:00:00,Match 4
+2022-08-17,EFL Championship,West Bromwich Albion v Cardiff City,19:00:00,Match 4
 2022-08-20,EFL Championship,Birmingham City v Wigan Athletic,14:00:00,Match 5
 2022-08-20,EFL Championship,Bristol City v Cardiff City,14:00:00,Match 5
 2022-08-20,EFL Championship,Burnley v Blackpool,14:00:00,Match 5
@@ -2934,36 +2932,36 @@ date,league,teams,time,note_1
 2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2022-08-14,La Liga,Almeria v Real Madrid,,Match 1
-2022-08-14,La Liga,Athletic Bilbao v Real Mallorca,,Match 1
-2022-08-14,La Liga,Barcelona v Rayo Vallecano,,Match 1
-2022-08-14,La Liga,Cadiz v Real Sociedad,,Match 1
-2022-08-14,La Liga,Celta Vigo v Espanyol,,Match 1
-2022-08-14,La Liga,Getafe v Atletico Madrid,,Match 1
-2022-08-14,La Liga,Osasuna v Sevilla,,Match 1
-2022-08-14,La Liga,Real Betis v Elche,,Match 1
-2022-08-14,La Liga,Real Valladolid v Villarreal,,Match 1
-2022-08-14,La Liga,Valencia v Girona,,Match 1
-2022-08-21,La Liga,Athletic Bilbao v Valencia,,Match 2
-2022-08-21,La Liga,Atletico Madrid v Villarreal,,Match 2
-2022-08-21,La Liga,Celta Vigo v Real Madrid,,Match 2
-2022-08-21,La Liga,Elche v Almeria,,Match 2
-2022-08-21,La Liga,Espanyol v Rayo Vallecano,,Match 2
-2022-08-21,La Liga,Girona v Getafe,,Match 2
-2022-08-21,La Liga,Osasuna v Cadiz,,Match 2
-2022-08-21,La Liga,Real Mallorca v Real Betis,,Match 2
-2022-08-21,La Liga,Real Sociedad v Barcelona,,Match 2
-2022-08-21,La Liga,Sevilla v Real Valladolid,,Match 2
-2022-08-28,La Liga,Almeria v Sevilla,,Match 3
-2022-08-28,La Liga,Barcelona v Real Valladolid,,Match 3
-2022-08-28,La Liga,Cadiz v Athletic Bilbao,,Match 3
-2022-08-28,La Liga,Elche v Real Sociedad,,Match 3
-2022-08-28,La Liga,Espanyol v Real Madrid,,Match 3
-2022-08-28,La Liga,Getafe v Villarreal,,Match 3
-2022-08-28,La Liga,Girona v Celta Vigo,,Match 3
-2022-08-28,La Liga,Rayo Vallecano v Real Mallorca,,Match 3
-2022-08-28,La Liga,Real Betis v Osasuna,,Match 3
-2022-08-28,La Liga,Valencia v Atletico Madrid,,Match 3
+2022-08-12,La Liga,Osasuna v Sevilla,19:00:00,Match 1
+2022-08-13,La Liga,Celta Vigo v Espanyol,15:00:00,Match 1
+2022-08-13,La Liga,Real Valladolid v Villarreal,17:00:00,Match 1
+2022-08-13,La Liga,Barcelona v Rayo Vallecano,19:00:00,Match 1
+2022-08-14,La Liga,Cadiz v Real Sociedad,15:30:00,Match 1
+2022-08-14,La Liga,Valencia v Girona,17:30:00,Match 1
+2022-08-14,La Liga,Almeria v Real Madrid,20:00:00,Match 1
+2022-08-15,La Liga,Athletic Bilbao v Real Mallorca,15:30:00,Match 1
+2022-08-15,La Liga,Getafe v Atletico Madrid,17:30:00,Match 1
+2022-08-15,La Liga,Real Betis v Elche,19:30:00,Match 1
+2022-08-19,La Liga,Espanyol v Rayo Vallecano,18:00:00,Match 2
+2022-08-19,La Liga,Sevilla v Real Valladolid,20:00:00,Match 2
+2022-08-20,La Liga,Osasuna v Cadiz,15:30:00,Match 2
+2022-08-20,La Liga,Real Mallorca v Real Betis,17:30:00,Match 2
+2022-08-20,La Liga,Celta Vigo v Real Madrid,20:00:00,Match 2
+2022-08-21,La Liga,Athletic Bilbao v Valencia,15:30:00,Match 2
+2022-08-21,La Liga,Atletico Madrid v Villarreal,17:30:00,Match 2
+2022-08-21,La Liga,Real Sociedad v Barcelona,20:00:00,Match 2
+2022-08-22,La Liga,Elche v Almeria,18:00:00,Match 2
+2022-08-22,La Liga,Girona v Getafe,20:00:00,Match 2
+2022-08-26,La Liga,Girona v Celta Vigo,18:00:00,Match 3
+2022-08-26,La Liga,Real Betis v Osasuna,20:00:00,Match 3
+2022-08-27,La Liga,Elche v Real Sociedad,15:30:00,Match 3
+2022-08-27,La Liga,Rayo Vallecano v Real Mallorca,17:30:00,Match 3
+2022-08-27,La Liga,Almeria v Sevilla,20:00:00,Match 3
+2022-08-28,La Liga,Getafe v Villarreal,15:30:00,Match 3
+2022-08-28,La Liga,Barcelona v Real Valladolid,17:30:00,Match 3
+2022-08-28,La Liga,Espanyol v Real Madrid,20:00:00,Match 3
+2022-08-29,La Liga,Cadiz v Athletic Bilbao,18:00:00,Match 3
+2022-08-29,La Liga,Valencia v Atletico Madrid,20:00:00,Match 3
 2022-09-04,La Liga,Athletic Bilbao v Espanyol,,Match 4
 2022-09-04,La Liga,Celta Vigo v Cadiz,,Match 4
 2022-09-04,La Liga,Osasuna v Rayo Vallecano,,Match 4
@@ -3694,11 +3692,6 @@ date,league,teams,time,note_1
 2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-2022-07-04,Norway 1. Divisjon,Fredrikstad v Åsane,16:00:00,Match 12
-2022-07-04,Norway 1. Divisjon,Kongsvinger v Ranheim TF,16:00:00,Match 12
-2022-07-04,Norway 1. Divisjon,Sandnes Ulf v Raufoss,16:00:00,Match 12
-2022-07-04,Norway 1. Divisjon,Stjørdals-Blink v Start,16:00:00,Match 12
-2022-07-04,Norway 1. Divisjon,Brann v Bryne,16:00:00,Match 12
 2022-07-07,Norway 1. Divisjon,Grorud v Sandnes Ulf,16:00:00,Match 13
 2022-07-07,Norway 1. Divisjon,Åsane v Kfum Oslo,16:00:00,Match 13
 2022-07-07,Norway 1. Divisjon,Bryne v Kongsvinger,16:00:00,Match 13
@@ -3848,10 +3841,10 @@ date,league,teams,time,note_1
 2022-08-06,Premier League,Fulham v Liverpool,11:30:00,Match 1
 2022-08-06,Premier League,Bournemouth v Aston Villa,14:00:00,Match 1
 2022-08-06,Premier League,Leeds United v Wolverhampton Wanderers,14:00:00,Match 1
-2022-08-06,Premier League,Leicester City v Brentford,14:00:00,Match 1
 2022-08-06,Premier League,Newcastle United v Nottingham Forest,14:00:00,Match 1
 2022-08-06,Premier League,Tottenham Hotspur v Southampton,14:00:00,Match 1
 2022-08-06,Premier League,Everton v Chelsea,16:30:00,Match 1
+2022-08-07,Premier League,Leicester City v Brentford,13:00:00,Match 1
 2022-08-07,Premier League,Manchester United v Brighton and Hove Albion,13:00:00,Match 1
 2022-08-07,Premier League,West Ham United v Manchester City,15:30:00,Match 1
 2022-08-13,Premier League,Arsenal v Leicester City,14:00:00,Match 2
@@ -4224,56 +4217,56 @@ date,league,teams,time,note_1
 2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-2022-08-14,Serie A,AC Milan v Udinese,,Match 1
-2022-08-14,Serie A,Fiorentina v Cremonese,,Match 1
-2022-08-14,Serie A,Juventus v Sassuolo,,Match 1
-2022-08-14,Serie A,Lazio v Bologna,,Match 1
-2022-08-14,Serie A,Lecce v Inter Milan,,Match 1
-2022-08-14,Serie A,Monza v Torino,,Match 1
-2022-08-14,Serie A,Salernitana v Roma,,Match 1
-2022-08-14,Serie A,Sampdoria v Atalanta,,Match 1
-2022-08-14,Serie A,Spezia v Empoli,,Match 1
-2022-08-14,Serie A,Verona v Napoli,,Match 1
-2022-08-21,Serie A,Atalanta v AC Milan,,Match 2
-2022-08-21,Serie A,Bologna v Verona,,Match 2
-2022-08-21,Serie A,Empoli v Fiorentina,,Match 2
-2022-08-21,Serie A,Inter Milan v Spezia,,Match 2
-2022-08-21,Serie A,Napoli v Monza,,Match 2
-2022-08-21,Serie A,Roma v Cremonese,,Match 2
-2022-08-21,Serie A,Sampdoria v Juventus,,Match 2
-2022-08-21,Serie A,Sassuolo v Lecce,,Match 2
-2022-08-21,Serie A,Torino v Lazio,,Match 2
-2022-08-21,Serie A,Udinese v Salernitana,,Match 2
-2022-08-28,Serie A,AC Milan v Bologna,,Match 3
-2022-08-28,Serie A,Cremonese v Torino,,Match 3
-2022-08-28,Serie A,Fiorentina v Napoli,,Match 3
-2022-08-28,Serie A,Juventus v Roma,,Match 3
-2022-08-28,Serie A,Lazio v Inter Milan,,Match 3
-2022-08-28,Serie A,Lecce v Empoli,,Match 3
-2022-08-28,Serie A,Monza v Udinese,,Match 3
-2022-08-28,Serie A,Salernitana v Sampdoria,,Match 3
-2022-08-28,Serie A,Spezia v Sassuolo,,Match 3
-2022-08-28,Serie A,Verona v Atalanta,,Match 3
-2022-08-31,Serie A,Atalanta v Torino,,Match 4
-2022-08-31,Serie A,Bologna v Salernitana,,Match 4
-2022-08-31,Serie A,Empoli v Verona,,Match 4
-2022-08-31,Serie A,Inter Milan v Cremonese,,Match 4
-2022-08-31,Serie A,Juventus v Spezia,,Match 4
-2022-08-31,Serie A,Napoli v Lecce,,Match 4
-2022-08-31,Serie A,Roma v Monza,,Match 4
-2022-08-31,Serie A,Sampdoria v Lazio,,Match 4
-2022-08-31,Serie A,Sassuolo v AC Milan,,Match 4
-2022-08-31,Serie A,Udinese v Fiorentina,,Match 4
-2022-09-04,Serie A,AC Milan v Inter Milan,,Match 5
-2022-09-04,Serie A,Cremonese v Sassuolo,,Match 5
-2022-09-04,Serie A,Fiorentina v Juventus,,Match 5
-2022-09-04,Serie A,Lazio v Napoli,,Match 5
-2022-09-04,Serie A,Monza v Atalanta,,Match 5
-2022-09-04,Serie A,Salernitana v Empoli,,Match 5
-2022-09-04,Serie A,Spezia v Bologna,,Match 5
-2022-09-04,Serie A,Torino v Lecce,,Match 5
-2022-09-04,Serie A,Udinese v Roma,,Match 5
-2022-09-04,Serie A,Verona v Sampdoria,,Match 5
+2022-08-13,Serie A,AC Milan v Udinese,16:30:00,Match 1
+2022-08-13,Serie A,Sampdoria v Atalanta,16:30:00,Match 1
+2022-08-13,Serie A,Lecce v Inter Milan,18:45:00,Match 1
+2022-08-13,Serie A,Monza v Torino,18:45:00,Match 1
+2022-08-14,Serie A,Fiorentina v Cremonese,16:30:00,Match 1
+2022-08-14,Serie A,Lazio v Bologna,16:30:00,Match 1
+2022-08-14,Serie A,Salernitana v Roma,18:45:00,Match 1
+2022-08-14,Serie A,Spezia v Empoli,18:45:00,Match 1
+2022-08-15,Serie A,Verona v Napoli,16:30:00,Match 1
+2022-08-15,Serie A,Juventus v Sassuolo,18:45:00,Match 1
+2022-08-20,Serie A,Torino v Lazio,16:30:00,Match 2
+2022-08-20,Serie A,Udinese v Salernitana,16:30:00,Match 2
+2022-08-20,Serie A,Inter Milan v Spezia,18:45:00,Match 2
+2022-08-20,Serie A,Sassuolo v Lecce,18:45:00,Match 2
+2022-08-21,Serie A,Empoli v Fiorentina,16:30:00,Match 2
+2022-08-21,Serie A,Napoli v Monza,16:30:00,Match 2
+2022-08-21,Serie A,Atalanta v AC Milan,18:45:00,Match 2
+2022-08-21,Serie A,Bologna v Verona,18:45:00,Match 2
+2022-08-22,Serie A,Roma v Cremonese,16:30:00,Match 2
+2022-08-22,Serie A,Sampdoria v Juventus,18:45:00,Match 2
+2022-08-26,Serie A,Monza v Udinese,16:30:00,Match 3
+2022-08-26,Serie A,Lazio v Inter Milan,18:45:00,Match 3
+2022-08-27,Serie A,Cremonese v Torino,16:30:00,Match 3
+2022-08-27,Serie A,Juventus v Roma,16:30:00,Match 3
+2022-08-27,Serie A,AC Milan v Bologna,18:45:00,Match 3
+2022-08-27,Serie A,Spezia v Sassuolo,18:45:00,Match 3
+2022-08-28,Serie A,Salernitana v Sampdoria,16:30:00,Match 3
+2022-08-28,Serie A,Verona v Atalanta,16:30:00,Match 3
+2022-08-28,Serie A,Fiorentina v Napoli,18:45:00,Match 3
+2022-08-28,Serie A,Lecce v Empoli,18:45:00,Match 3
+2022-08-30,Serie A,Sassuolo v AC Milan,16:30:00,Match 4
+2022-08-30,Serie A,Inter Milan v Cremonese,18:45:00,Match 4
+2022-08-30,Serie A,Roma v Monza,18:45:00,Match 4
+2022-08-31,Serie A,Empoli v Verona,16:30:00,Match 4
+2022-08-31,Serie A,Sampdoria v Lazio,16:30:00,Match 4
+2022-08-31,Serie A,Udinese v Fiorentina,16:30:00,Match 4
+2022-08-31,Serie A,Juventus v Spezia,18:45:00,Match 4
+2022-08-31,Serie A,Napoli v Lecce,18:45:00,Match 4
+2022-09-01,Serie A,Atalanta v Torino,18:45:00,Match 4
+2022-09-01,Serie A,Bologna v Salernitana,18:45:00,Match 4
+2022-09-03,Serie A,Fiorentina v Juventus,13:00:00,Match 5
+2022-09-03,Serie A,AC Milan v Inter Milan,16:00:00,Match 5
+2022-09-03,Serie A,Lazio v Napoli,18:45:00,Match 5
+2022-09-04,Serie A,Cremonese v Sassuolo,10:30:00,Match 5
+2022-09-04,Serie A,Spezia v Bologna,13:00:00,Match 5
+2022-09-04,Serie A,Verona v Sampdoria,16:00:00,Match 5
+2022-09-04,Serie A,Udinese v Roma,18:45:00,Match 5
+2022-09-05,Serie A,Monza v Atalanta,16:30:00,Match 5
+2022-09-05,Serie A,Salernitana v Empoli,16:30:00,Match 5
+2022-09-05,Serie A,Torino v Lecce,18:45:00,Match 5
 2022-09-11,Serie A,Atalanta v Cremonese,,Match 6
 2022-09-11,Serie A,Bologna v Fiorentina,,Match 6
 2022-09-11,Serie A,Empoli v Roma,,Match 6
@@ -4657,12 +4650,6 @@ date,league,teams,time,note_1
 2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-2022-07-04,USA MLS,Minnesota United FC v Real Salt Lake,00:00:00,Regular Season
-2022-07-04,USA MLS,Sporting Kansas City v New York Red Bulls,00:00:00,Regular Season
-2022-07-04,USA MLS,Houston Dynamo v Charlotte FC,00:30:00,Regular Season
-2022-07-04,USA MLS,Nashville SC v Portland Timbers,00:30:00,Regular Season
-2022-07-04,USA MLS,San Jose Earthquakes v Chicago Fire,01:00:00,Regular Season
-2022-07-04,USA MLS,Orlando City SC v D.C. United,23:00:00,Regular Season
 2022-07-05,USA MLS,Colorado Rapids v Austin FC,01:00:00,Regular Season
 2022-07-05,USA MLS,FC Dallas v Inter Miami CF,01:00:00,Regular Season
 2022-07-05,USA MLS,Los Angeles Galaxy v CF Montréal,02:30:00,Regular Season
@@ -4892,7 +4879,6 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-2022-07-04,Veikkausliiga,HIFK Helsinki v Ilves,15:00:00,Match 13
 2022-07-09,Veikkausliiga,HIFK Helsinki v Haka,14:00:00,Match 13
 2022-07-09,Veikkausliiga,VPS Vaasa v IFK Mariehamn,14:30:00,Match 13
 2022-07-10,Veikkausliiga,KuPS Kuopio v Lahti,13:00:00,Match 13

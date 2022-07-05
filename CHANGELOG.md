@@ -1,5 +1,9 @@
 # Change Log
 
+2022-07-05
+* Updated August 2022 kick-off times for Bundesliga, EFL Championship, La Liga, 
+Premier League, Serie A
+
 2022-07-04
 * Added Norway 1. Divisjon 2022
 * Added Eliteserien 2022
