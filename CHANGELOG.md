@@ -1,5 +1,9 @@
 # Change Log
 
+2022-07-06
+* Added Copa América Femenina 2022
+* Added Turkish Süper Lig 2022/2023
+
 2022-07-05
 * Updated August 2022 kick-off times for Bundesliga, EFL Championship, La Liga, 
 Premier League, Serie A

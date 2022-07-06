@@ -4597,6 +4597,348 @@ date,league,teams,time,note_1
 2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 2023-06-04,Serie A,Udinese v Juventus,,Match 38
+2022-08-07,Süper Lig,Sivasspor v Gaziantep,,Match 1
+2022-08-07,Süper Lig,Beşiktaş v Kayserispor,,Match 1
+2022-08-07,Süper Lig,Fatih Karagümrük v Alanyaspor,,Match 1
+2022-08-07,Süper Lig,Ankaragücü v Konyaspor,,Match 1
+2022-08-07,Süper Lig,İstanbul Başakşehir v Kasımpaşa,,Match 1
+2022-08-07,Süper Lig,Giresunspor v Adana Demirspor,,Match 1
+2022-08-07,Süper Lig,Fenerbahçe v Ümraniyespor,,Match 1
+2022-08-07,Süper Lig,Antalyaspor v Galatasaray,,Match 1
+2022-08-07,Süper Lig,İstanbulspor v Trabzonspor,,Match 1
+2022-08-14,Süper Lig,Kayserispor v İstanbulspor,,Match 2
+2022-08-14,Süper Lig,Alanyaspor v Beşiktaş,,Match 2
+2022-08-14,Süper Lig,Gaziantep v Ankaragücü,,Match 2
+2022-08-14,Süper Lig,Adana Demirspor v Sivasspor,,Match 2
+2022-08-14,Süper Lig,Galatasaray v Giresunspor,,Match 2
+2022-08-14,Süper Lig,Konyaspor v İstanbul Başakşehir,,Match 2
+2022-08-14,Süper Lig,Kasımpaşa v Fenerbahçe,,Match 2
+2022-08-14,Süper Lig,Ümraniyespor v Antalyaspor,,Match 2
+2022-08-14,Süper Lig,Trabzonspor v Hatayspor,,Match 2
+2022-08-21,Süper Lig,Ümraniyespor v Galatasaray,,Match 3
+2022-08-21,Süper Lig,Beşiktaş v Fatih Karagümrük,,Match 3
+2022-08-21,Süper Lig,Hatayspor v Gaziantep,,Match 3
+2022-08-21,Süper Lig,Fenerbahçe v Adana Demirspor,,Match 3
+2022-08-21,Süper Lig,Sivasspor v Alanyaspor,,Match 3
+2022-08-21,Süper Lig,Giresunspor v Kasımpaşa,,Match 3
+2022-08-21,Süper Lig,İstanbulspor v Konyaspor,,Match 3
+2022-08-21,Süper Lig,İstanbul Başakşehir v Kayserispor,,Match 3
+2022-08-21,Süper Lig,Antalyaspor v Trabzonspor,,Match 3
+2022-08-28,Süper Lig,Fatih Karagümrük v Ankaragücü,,Match 4
+2022-08-28,Süper Lig,Alanyaspor v İstanbulspor,,Match 4
+2022-08-28,Süper Lig,Beşiktaş v Sivasspor,,Match 4
+2022-08-28,Süper Lig,Kayserispor v Giresunspor,,Match 4
+2022-08-28,Süper Lig,Konyaspor v Fenerbahçe,,Match 4
+2022-08-28,Süper Lig,Trabzonspor v Galatasaray,,Match 4
+2022-08-28,Süper Lig,Gaziantep v Antalyaspor,,Match 4
+2022-08-28,Süper Lig,Adana Demirspor v Ümraniyespor,,Match 4
+2022-08-28,Süper Lig,Kasımpaşa v Hatayspor,,Match 4
+2022-09-04,Süper Lig,İstanbul Başakşehir v Alanyaspor,,Match 5
+2022-09-04,Süper Lig,Galatasaray v Gaziantep,,Match 5
+2022-09-04,Süper Lig,Sivasspor v Fatih Karagümrük,,Match 5
+2022-09-04,Süper Lig,Ankaragücü v Beşiktaş,,Match 5
+2022-09-04,Süper Lig,Giresunspor v Konyaspor,,Match 5
+2022-09-04,Süper Lig,Ümraniyespor v Trabzonspor,,Match 5
+2022-09-04,Süper Lig,Antalyaspor v Kasımpaşa,,Match 5
+2022-09-04,Süper Lig,Fenerbahçe v Kayserispor,,Match 5
+2022-09-04,Süper Lig,Hatayspor v Adana Demirspor,,Match 5
+2022-09-11,Süper Lig,Sivasspor v İstanbulspor,,Match 6
+2022-09-11,Süper Lig,Beşiktaş v İstanbul Başakşehir,,Match 6
+2022-09-11,Süper Lig,Konyaspor v Hatayspor,,Match 6
+2022-09-11,Süper Lig,Kasımpaşa v Galatasaray,,Match 6
+2022-09-11,Süper Lig,Adana Demirspor v Trabzonspor,,Match 6
+2022-09-11,Süper Lig,Gaziantep v Ümraniyespor,,Match 6
+2022-09-11,Süper Lig,Alanyaspor v Ankaragücü,,Match 6
+2022-09-11,Süper Lig,Fatih Karagümrük v Giresunspor,,Match 6
+2022-09-11,Süper Lig,Kayserispor v Antalyaspor,,Match 6
+2022-09-18,Süper Lig,Trabzonspor v Gaziantep,,Match 7
+2022-09-18,Süper Lig,Galatasaray v Konyaspor,,Match 7
+2022-09-18,Süper Lig,Ümraniyespor v Kasımpaşa,,Match 7
+2022-09-18,Süper Lig,Hatayspor v Kayserispor,,Match 7
+2022-09-18,Süper Lig,Fenerbahçe v Alanyaspor,,Match 7
+2022-09-18,Süper Lig,İstanbulspor v Beşiktaş,,Match 7
+2022-09-18,Süper Lig,İstanbul Başakşehir v Fatih Karagümrük,,Match 7
+2022-09-18,Süper Lig,Ankaragücü v Sivasspor,,Match 7
+2022-09-18,Süper Lig,Antalyaspor v Adana Demirspor,,Match 7
+2022-10-02,Süper Lig,Kayserispor v Trabzonspor,,Match 8
+2022-10-02,Süper Lig,Beşiktaş v Fenerbahçe,,Match 8
+2022-10-02,Süper Lig,Kasımpaşa v Gaziantep,,Match 8
+2022-10-02,Süper Lig,Adana Demirspor v Galatasaray,,Match 8
+2022-10-02,Süper Lig,Ankaragücü v İstanbul Başakşehir,,Match 8
+2022-10-02,Süper Lig,Sivasspor v Hatayspor,,Match 8
+2022-10-02,Süper Lig,Fatih Karagümrük v İstanbulspor,,Match 8
+2022-10-02,Süper Lig,Alanyaspor v Giresunspor,,Match 8
+2022-10-02,Süper Lig,Konyaspor v Ümraniyespor,,Match 8
+2022-10-09,Süper Lig,İstanbulspor v Ankaragücü,,Match 9
+2022-10-09,Süper Lig,Giresunspor v Beşiktaş,,Match 9
+2022-10-09,Süper Lig,Ümraniyespor v Kayserispor,,Match 9
+2022-10-09,Süper Lig,Antalyaspor v Konyaspor,,Match 9
+2022-10-09,Süper Lig,Fenerbahçe v Fatih Karagümrük,,Match 9
+2022-10-09,Süper Lig,Gaziantep v Adana Demirspor,,Match 9
+2022-10-09,Süper Lig,İstanbul Başakşehir v Sivasspor,,Match 9
+2022-10-09,Süper Lig,Hatayspor v Alanyaspor,,Match 9
+2022-10-09,Süper Lig,Trabzonspor v Kasımpaşa,,Match 9
+2022-10-16,Süper Lig,İstanbul Başakşehir v İstanbulspor,,Match 10
+2022-10-16,Süper Lig,Kasımpaşa v Adana Demirspor,,Match 10
+2022-10-16,Süper Lig,Alanyaspor v Antalyaspor,,Match 10
+2022-10-16,Süper Lig,Beşiktaş v Trabzonspor,,Match 10
+2022-10-16,Süper Lig,Sivasspor v Giresunspor,,Match 10
+2022-10-16,Süper Lig,Ankaragücü v Fenerbahçe,,Match 10
+2022-10-16,Süper Lig,Kayserispor v Galatasaray,,Match 10
+2022-10-16,Süper Lig,Konyaspor v Gaziantep,,Match 10
+2022-10-16,Süper Lig,Fatih Karagümrük v Hatayspor,,Match 10
+2022-10-23,Süper Lig,Antalyaspor v İstanbulspor,,Match 11
+2022-10-23,Süper Lig,Giresunspor v Ankaragücü,,Match 11
+2022-10-23,Süper Lig,Hatayspor v Beşiktaş,,Match 11
+2022-10-23,Süper Lig,Ümraniyespor v Fatih Karagümrük,,Match 11
+2022-10-23,Süper Lig,Kasımpaşa v Kayserispor,,Match 11
+2022-10-23,Süper Lig,Fenerbahçe v İstanbul Başakşehir,,Match 11
+2022-10-23,Süper Lig,Galatasaray v Alanyaspor,,Match 11
+2022-10-23,Süper Lig,Trabzonspor v Sivasspor,,Match 11
+2022-10-23,Süper Lig,Adana Demirspor v Konyaspor,,Match 11
+2022-10-30,Süper Lig,Sivasspor v Antalyaspor,,Match 12
+2022-10-30,Süper Lig,Kayserispor v Adana Demirspor,,Match 12
+2022-10-30,Süper Lig,Ankaragücü v Hatayspor,,Match 12
+2022-10-30,Süper Lig,Fatih Karagümrük v Galatasaray,,Match 12
+2022-10-30,Süper Lig,Beşiktaş v Ümraniyespor,,Match 12
+2022-10-30,Süper Lig,İstanbul Başakşehir v Giresunspor,,Match 12
+2022-10-30,Süper Lig,İstanbulspor v Fenerbahçe,,Match 12
+2022-10-30,Süper Lig,Konyaspor v Kasımpaşa,,Match 12
+2022-10-30,Süper Lig,Alanyaspor v Gaziantep,,Match 12
+2022-11-06,Süper Lig,Trabzonspor v Konyaspor,,Match 13
+2022-11-06,Süper Lig,Galatasaray v Beşiktaş,,Match 13
+2022-11-06,Süper Lig,Fenerbahçe v Sivasspor,,Match 13
+2022-11-06,Süper Lig,Antalyaspor v Fatih Karagümrük,,Match 13
+2022-11-06,Süper Lig,Ümraniyespor v Alanyaspor,,Match 13
+2022-11-06,Süper Lig,Giresunspor v İstanbulspor,,Match 13
+2022-11-06,Süper Lig,Gaziantep v Kayserispor,,Match 13
+2022-11-06,Süper Lig,Hatayspor v İstanbul Başakşehir,,Match 13
+2022-11-06,Süper Lig,Kasımpaşa v Ankaragücü,,Match 13
+2022-11-13,Süper Lig,Ankaragücü v Trabzonspor,,Match 14
+2022-11-13,Süper Lig,Beşiktaş v Antalyaspor,,Match 14
+2022-11-13,Süper Lig,Fatih Karagümrük v Gaziantep,,Match 14
+2022-11-13,Süper Lig,Sivasspor v Ümraniyespor,,Match 14
+2022-11-13,Süper Lig,Alanyaspor v Adana Demirspor,,Match 14
+2022-11-13,Süper Lig,Kayserispor v Konyaspor,,Match 14
+2022-11-13,Süper Lig,Fenerbahçe v Giresunspor,,Match 14
+2022-11-13,Süper Lig,İstanbulspor v Hatayspor,,Match 14
+2022-11-13,Süper Lig,İstanbul Başakşehir v Galatasaray,,Match 14
+2022-12-25,Süper Lig,Gaziantep v Beşiktaş,,Match 15
+2022-12-25,Süper Lig,Adana Demirspor v Fatih Karagümrük,,Match 15
+2022-12-25,Süper Lig,Kasımpaşa v Sivasspor,,Match 15
+2022-12-25,Süper Lig,Galatasaray v İstanbulspor,,Match 15
+2022-12-25,Süper Lig,Hatayspor v Giresunspor,,Match 15
+2022-12-25,Süper Lig,Trabzonspor v Fenerbahçe,,Match 15
+2022-12-25,Süper Lig,Antalyaspor v Ankaragücü,,Match 15
+2022-12-25,Süper Lig,Ümraniyespor v İstanbul Başakşehir,,Match 15
+2022-12-25,Süper Lig,Konyaspor v Alanyaspor,,Match 15
+2022-12-28,Süper Lig,Ankaragücü v Ümraniyespor,,Match 16
+2022-12-28,Süper Lig,Sivasspor v Galatasaray,,Match 16
+2022-12-28,Süper Lig,Beşiktaş v Adana Demirspor,,Match 16
+2022-12-28,Süper Lig,Fatih Karagümrük v Trabzonspor,,Match 16
+2022-12-28,Süper Lig,Giresunspor v Gaziantep,,Match 16
+2022-12-28,Süper Lig,Fenerbahçe v Hatayspor,,Match 16
+2022-12-28,Süper Lig,İstanbulspor v Kasımpaşa,,Match 16
+2022-12-28,Süper Lig,İstanbul Başakşehir v Antalyaspor,,Match 16
+2022-12-28,Süper Lig,Alanyaspor v Kayserispor,,Match 16
+2023-01-04,Süper Lig,Adana Demirspor v İstanbulspor,,Match 17
+2023-01-04,Süper Lig,Antalyaspor v Fenerbahçe,,Match 17
+2023-01-04,Süper Lig,Galatasaray v Ankaragücü,,Match 17
+2023-01-04,Süper Lig,Kayserispor v Fatih Karagümrük,,Match 17
+2023-01-04,Süper Lig,Konyaspor v Sivasspor,,Match 17
+2023-01-04,Süper Lig,Kasımpaşa v Alanyaspor,,Match 17
+2023-01-04,Süper Lig,Ümraniyespor v Hatayspor,,Match 17
+2023-01-04,Süper Lig,Trabzonspor v Giresunspor,,Match 17
+2023-01-04,Süper Lig,Gaziantep v İstanbul Başakşehir,,Match 17
+2023-01-08,Süper Lig,Beşiktaş v Kasımpaşa,,Match 18
+2023-01-08,Süper Lig,İstanbulspor v Gaziantep,,Match 18
+2023-01-08,Süper Lig,Giresunspor v Ümraniyespor,,Match 18
+2023-01-08,Süper Lig,Fatih Karagümrük v Konyaspor,,Match 18
+2023-01-08,Süper Lig,İstanbul Başakşehir v Adana Demirspor,,Match 18
+2023-01-08,Süper Lig,Alanyaspor v Trabzonspor,,Match 18
+2023-01-08,Süper Lig,Ankaragücü v Kayserispor,,Match 18
+2023-01-08,Süper Lig,Hatayspor v Antalyaspor,,Match 18
+2023-01-08,Süper Lig,Fenerbahçe v Galatasaray,,Match 18
+2023-01-15,Süper Lig,Kayserispor v Sivasspor,,Match 19
+2023-01-15,Süper Lig,Gaziantep v Fenerbahçe,,Match 19
+2023-01-15,Süper Lig,Konyaspor v Beşiktaş,,Match 19
+2023-01-15,Süper Lig,Galatasaray v Hatayspor,,Match 19
+2023-01-15,Süper Lig,Kasımpaşa v Fatih Karagümrük,,Match 19
+2023-01-15,Süper Lig,Adana Demirspor v Ankaragücü,,Match 19
+2023-01-15,Süper Lig,Ümraniyespor v İstanbulspor,,Match 19
+2023-01-15,Süper Lig,Trabzonspor v İstanbul Başakşehir,,Match 19
+2023-01-15,Süper Lig,Antalyaspor v Giresunspor,,Match 19
+2023-01-22,Süper Lig,Ümraniyespor v Fenerbahçe,,Match 20
+2023-01-22,Süper Lig,Trabzonspor v İstanbulspor,,Match 20
+2023-01-22,Süper Lig,Adana Demirspor v Giresunspor,,Match 20
+2023-01-22,Süper Lig,Kasımpaşa v İstanbul Başakşehir,,Match 20
+2023-01-22,Süper Lig,Gaziantep v Sivasspor,,Match 20
+2023-01-22,Süper Lig,Kayserispor v Beşiktaş,,Match 20
+2023-01-22,Süper Lig,Alanyaspor v Fatih Karagümrük,,Match 20
+2023-01-22,Süper Lig,Galatasaray v Antalyaspor,,Match 20
+2023-01-22,Süper Lig,Konyaspor v Ankaragücü,,Match 20
+2023-01-29,Süper Lig,Antalyaspor v Ümraniyespor,,Match 21
+2023-01-29,Süper Lig,Giresunspor v Galatasaray,,Match 21
+2023-01-29,Süper Lig,Hatayspor v Trabzonspor,,Match 21
+2023-01-29,Süper Lig,Ankaragücü v Gaziantep,,Match 21
+2023-01-29,Süper Lig,Fenerbahçe v Kasımpaşa,,Match 21
+2023-01-29,Süper Lig,Beşiktaş v Alanyaspor,,Match 21
+2023-01-29,Süper Lig,Sivasspor v Adana Demirspor,,Match 21
+2023-01-29,Süper Lig,İstanbul Başakşehir v Konyaspor,,Match 21
+2023-01-29,Süper Lig,İstanbulspor v Kayserispor,,Match 21
+2023-02-01,Süper Lig,Galatasaray v Ümraniyespor,,Match 22
+2023-02-01,Süper Lig,Kayserispor v İstanbul Başakşehir,,Match 22
+2023-02-01,Süper Lig,Konyaspor v İstanbulspor,,Match 22
+2023-02-01,Süper Lig,Alanyaspor v Sivasspor,,Match 22
+2023-02-01,Süper Lig,Fatih Karagümrük v Beşiktaş,,Match 22
+2023-02-01,Süper Lig,Trabzonspor v Antalyaspor,,Match 22
+2023-02-01,Süper Lig,Kasımpaşa v Giresunspor,,Match 22
+2023-02-01,Süper Lig,Adana Demirspor v Fenerbahçe,,Match 22
+2023-02-01,Süper Lig,Gaziantep v Hatayspor,,Match 22
+2023-02-05,Süper Lig,Hatayspor v Kasımpaşa,,Match 23
+2023-02-05,Süper Lig,Fenerbahçe v Konyaspor,,Match 23
+2023-02-05,Süper Lig,İstanbulspor v Alanyaspor,,Match 23
+2023-02-05,Süper Lig,Galatasaray v Trabzonspor,,Match 23
+2023-02-05,Süper Lig,Antalyaspor v Gaziantep,,Match 23
+2023-02-05,Süper Lig,Ümraniyespor v Adana Demirspor,,Match 23
+2023-02-05,Süper Lig,Giresunspor v Kayserispor,,Match 23
+2023-02-05,Süper Lig,Ankaragücü v Fatih Karagümrük,,Match 23
+2023-02-05,Süper Lig,Sivasspor v Beşiktaş,,Match 23
+2023-02-12,Süper Lig,Konyaspor v Giresunspor,,Match 24
+2023-02-12,Süper Lig,Fatih Karagümrük v Sivasspor,,Match 24
+2023-02-12,Süper Lig,Adana Demirspor v Hatayspor,,Match 24
+2023-02-12,Süper Lig,Beşiktaş v Ankaragücü,,Match 24
+2023-02-12,Süper Lig,Kasımpaşa v Antalyaspor,,Match 24
+2023-02-12,Süper Lig,Trabzonspor v Ümraniyespor,,Match 24
+2023-02-12,Süper Lig,Gaziantep v Galatasaray,,Match 24
+2023-02-12,Süper Lig,Kayserispor v Fenerbahçe,,Match 24
+2023-02-12,Süper Lig,Alanyaspor v İstanbul Başakşehir,,Match 24
+2023-02-19,Süper Lig,Giresunspor v Fatih Karagümrük,,Match 25
+2023-02-19,Süper Lig,İstanbul Başakşehir v Beşiktaş,,Match 25
+2023-02-19,Süper Lig,Galatasaray v Kasımpaşa,,Match 25
+2023-02-19,Süper Lig,Ümraniyespor v Gaziantep,,Match 25
+2023-02-19,Süper Lig,Trabzonspor v Adana Demirspor,,Match 25
+2023-02-19,Süper Lig,İstanbulspor v Sivasspor,,Match 25
+2023-02-19,Süper Lig,Ankaragücü v Alanyaspor,,Match 25
+2023-02-19,Süper Lig,Hatayspor v Konyaspor,,Match 25
+2023-02-19,Süper Lig,Antalyaspor v Kayserispor,,Match 25
+2023-02-26,Süper Lig,Sivasspor v Ankaragücü,,Match 26
+2023-02-26,Süper Lig,Gaziantep v Trabzonspor,,Match 26
+2023-02-26,Süper Lig,Konyaspor v Galatasaray,,Match 26
+2023-02-26,Süper Lig,Kasımpaşa v Ümraniyespor,,Match 26
+2023-02-26,Süper Lig,Kayserispor v Hatayspor,,Match 26
+2023-02-26,Süper Lig,Alanyaspor v Fenerbahçe,,Match 26
+2023-02-26,Süper Lig,Beşiktaş v İstanbulspor,,Match 26
+2023-02-26,Süper Lig,Fatih Karagümrük v İstanbul Başakşehir,,Match 26
+2023-02-26,Süper Lig,Adana Demirspor v Antalyaspor,,Match 26
+2023-03-05,Süper Lig,Gaziantep v Kasımpaşa,,Match 27
+2023-03-05,Süper Lig,Galatasaray v Adana Demirspor,,Match 27
+2023-03-05,Süper Lig,İstanbul Başakşehir v Ankaragücü,,Match 27
+2023-03-05,Süper Lig,Hatayspor v Sivasspor,,Match 27
+2023-03-05,Süper Lig,Giresunspor v Alanyaspor,,Match 27
+2023-03-05,Süper Lig,Ümraniyespor v Konyaspor,,Match 27
+2023-03-05,Süper Lig,Fenerbahçe v Beşiktaş,,Match 27
+2023-03-05,Süper Lig,İstanbulspor v Fatih Karagümrük,,Match 27
+2023-03-05,Süper Lig,Trabzonspor v Kayserispor,,Match 27
+2023-03-12,Süper Lig,Konyaspor v Antalyaspor,,Match 28
+2023-03-12,Süper Lig,Alanyaspor v Hatayspor,,Match 28
+2023-03-12,Süper Lig,Beşiktaş v Giresunspor,,Match 28
+2023-03-12,Süper Lig,Ankaragücü v İstanbulspor,,Match 28
+2023-03-12,Süper Lig,Fatih Karagümrük v Fenerbahçe,,Match 28
+2023-03-12,Süper Lig,Sivasspor v İstanbul Başakşehir,,Match 28
+2023-03-12,Süper Lig,Adana Demirspor v Gaziantep,,Match 28
+2023-03-12,Süper Lig,Kasımpaşa v Trabzonspor,,Match 28
+2023-03-12,Süper Lig,Kayserispor v Ümraniyespor,,Match 28
+2023-03-19,Süper Lig,Hatayspor v Fatih Karagümrük,,Match 29
+2023-03-19,Süper Lig,Antalyaspor v Alanyaspor,,Match 29
+2023-03-19,Süper Lig,Galatasaray v Kayserispor,,Match 29
+2023-03-19,Süper Lig,Gaziantep v Konyaspor,,Match 29
+2023-03-19,Süper Lig,Trabzonspor v Beşiktaş,,Match 29
+2023-03-19,Süper Lig,Adana Demirspor v Kasımpaşa,,Match 29
+2023-03-19,Süper Lig,İstanbulspor v İstanbul Başakşehir,,Match 29
+2023-03-19,Süper Lig,Fenerbahçe v Ankaragücü,,Match 29
+2023-03-19,Süper Lig,Giresunspor v Sivasspor,,Match 29
+2023-04-02,Süper Lig,Fatih Karagümrük v Ümraniyespor,,Match 30
+2023-04-02,Süper Lig,İstanbulspor v Antalyaspor,,Match 30
+2023-04-02,Süper Lig,Alanyaspor v Galatasaray,,Match 30
+2023-04-02,Süper Lig,Konyaspor v Adana Demirspor,,Match 30
+2023-04-02,Süper Lig,Sivasspor v Trabzonspor,,Match 30
+2023-04-02,Süper Lig,Beşiktaş v Hatayspor,,Match 30
+2023-04-02,Süper Lig,Ankaragücü v Giresunspor,,Match 30
+2023-04-02,Süper Lig,İstanbul Başakşehir v Fenerbahçe,,Match 30
+2023-04-02,Süper Lig,Kayserispor v Kasımpaşa,,Match 30
+2023-04-09,Süper Lig,Antalyaspor v Sivasspor,,Match 31
+2023-04-09,Süper Lig,Ümraniyespor v Beşiktaş,,Match 31
+2023-04-09,Süper Lig,Galatasaray v Fatih Karagümrük,,Match 31
+2023-04-09,Süper Lig,Gaziantep v Alanyaspor,,Match 31
+2023-04-09,Süper Lig,Fenerbahçe v İstanbulspor,,Match 31
+2023-04-09,Süper Lig,Giresunspor v İstanbul Başakşehir,,Match 31
+2023-04-09,Süper Lig,Hatayspor v Ankaragücü,,Match 31
+2023-04-09,Süper Lig,Adana Demirspor v Kayserispor,,Match 31
+2023-04-09,Süper Lig,Kasımpaşa v Konyaspor,,Match 31
+2023-04-16,Süper Lig,İstanbul Başakşehir v Hatayspor,,Match 32
+2023-04-16,Süper Lig,İstanbulspor v Giresunspor,,Match 32
+2023-04-16,Süper Lig,Sivasspor v Fenerbahçe,,Match 32
+2023-04-16,Süper Lig,Ankaragücü v Kasımpaşa,,Match 32
+2023-04-16,Süper Lig,Kayserispor v Gaziantep,,Match 32
+2023-04-16,Süper Lig,Konyaspor v Trabzonspor,,Match 32
+2023-04-16,Süper Lig,Beşiktaş v Galatasaray,,Match 32
+2023-04-16,Süper Lig,Alanyaspor v Ümraniyespor,,Match 32
+2023-04-16,Süper Lig,Fatih Karagümrük v Antalyaspor,,Match 32
+2023-04-23,Süper Lig,Galatasaray v İstanbul Başakşehir,,Match 33
+2023-04-23,Süper Lig,Trabzonspor v Ankaragücü,,Match 33
+2023-04-23,Süper Lig,Ümraniyespor v Sivasspor,,Match 33
+2023-04-23,Süper Lig,Antalyaspor v Beşiktaş,,Match 33
+2023-04-23,Süper Lig,Gaziantep v Fatih Karagümrük,,Match 33
+2023-04-23,Süper Lig,Adana Demirspor v Alanyaspor,,Match 33
+2023-04-23,Süper Lig,Hatayspor v İstanbulspor,,Match 33
+2023-04-23,Süper Lig,Konyaspor v Kayserispor,,Match 33
+2023-04-23,Süper Lig,Giresunspor v Fenerbahçe,,Match 33
+2023-04-30,Süper Lig,Sivasspor v Kasımpaşa,,Match 34
+2023-04-30,Süper Lig,İstanbul Başakşehir v Ümraniyespor,,Match 34
+2023-04-30,Süper Lig,Ankaragücü v Antalyaspor,,Match 34
+2023-04-30,Süper Lig,Fatih Karagümrük v Adana Demirspor,,Match 34
+2023-04-30,Süper Lig,Beşiktaş v Gaziantep,,Match 34
+2023-04-30,Süper Lig,Fenerbahçe v Trabzonspor,,Match 34
+2023-04-30,Süper Lig,İstanbulspor v Galatasaray,,Match 34
+2023-04-30,Süper Lig,Giresunspor v Hatayspor,,Match 34
+2023-04-30,Süper Lig,Alanyaspor v Konyaspor,,Match 34
+2023-05-07,Süper Lig,Adana Demirspor v Beşiktaş,,Match 35
+2023-05-07,Süper Lig,Antalyaspor v İstanbul Başakşehir,,Match 35
+2023-05-07,Süper Lig,Galatasaray v Sivasspor,,Match 35
+2023-05-07,Süper Lig,Gaziantep FK v Giresunspor,,Match 35
+2023-05-07,Süper Lig,Hatayspor v Fenerbahçe,,Match 35
+2023-05-07,Süper Lig,Kasımpaşa v İstanbulspor,,Match 35
+2023-05-07,Süper Lig,Kayserispor v Alanyaspor,,Match 35
+2023-05-07,Süper Lig,Trabzonspor v Fatih Karagümrük,,Match 35
+2023-05-07,Süper Lig,Ümraniyespor v Ankaragücü,,Match 35
+2023-05-14,Süper Lig,Alanyaspor v Kasımpaşa,,Match 36
+2023-05-14,Süper Lig,Ankaragücü v Galatasaray,,Match 36
+2023-05-14,Süper Lig,Fatih Karagümrük v Kayserispor,,Match 36
+2023-05-14,Süper Lig,Fenerbahçe v Antalyaspor,,Match 36
+2023-05-14,Süper Lig,Giresunspor v Trabzonspor,,Match 36
+2023-05-14,Süper Lig,Hatayspor v Ümraniyespor,,Match 36
+2023-05-14,Süper Lig,İstanbul Başakşehir v Gaziantep FK,,Match 36
+2023-05-14,Süper Lig,İstanbulspor v Adana Demirspor,,Match 36
+2023-05-14,Süper Lig,Sivasspor v Konyaspor,,Match 36
+2023-05-21,Süper Lig,Adana Demirspor v İstanbul Başakşehir,,Match 37
+2023-05-21,Süper Lig,Antalyaspor v Hatayspor,,Match 37
+2023-05-21,Süper Lig,Galatasaray v Fenerbahçe,,Match 37
+2023-05-21,Süper Lig,Gaziantep FK v İstanbulspor,,Match 37
+2023-05-21,Süper Lig,Kasımpaşa v Beşiktaş,,Match 37
+2023-05-21,Süper Lig,Kayserispor v Ankaragücü,,Match 37
+2023-05-21,Süper Lig,Konyaspor v Fatih Karagümrük,,Match 37
+2023-05-21,Süper Lig,Trabzonspor v Alanyaspor,,Match 37
+2023-05-21,Süper Lig,Ümraniyespor v Giresunspor,,Match 37
+2023-05-28,Süper Lig,Ankaragücü v Adana Demirspor,,Match 38
+2023-05-28,Süper Lig,Beşiktaş v Konyaspor,,Match 38
+2023-05-28,Süper Lig,Fatih Karagümrük v Kasımpaşa,,Match 38
+2023-05-28,Süper Lig,Fenerbahçe v Gaziantep FK,,Match 38
+2023-05-28,Süper Lig,Giresunspor v Antalyaspor,,Match 38
+2023-05-28,Süper Lig,Hatayspor v Galatasaray,,Match 38
+2023-05-28,Süper Lig,İstanbul Başakşehir v Trabzonspor,,Match 38
+2023-05-28,Süper Lig,İstanbulspor v Ümraniyespor,,Match 38
+2023-05-28,Süper Lig,Sivasspor v Kayserispor,,Match 38
 2022-09-21,UEFA Nations League,Scotland v Ukraine,18:45:00,Group Stage
 2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
 2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
