@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-07
+* Added Primeira Liga (Portugal) 2022/2023
+
 2022-07-06
 * Added Copa América Femenina 2022
 * Added Turkish Süper Lig 2022/2023

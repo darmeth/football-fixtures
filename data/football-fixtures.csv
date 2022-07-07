@@ -2341,7 +2341,6 @@ date,league,teams,time,note_1
 2023-05-06,EFL League Two,Port Vale v Plymouth Argyle,14:00:00,Match 46
 2023-05-06,EFL League Two,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 2023-05-06,EFL League Two,Sheffield Wednesday v Derby County,14:00:00,Match 46
-2022-07-06,Eliteserien,Molde v Jerv,17:00:00,Match 11
 2022-07-07,Eliteserien,Kristiansund Bk v Tromsø,16:00:00,Match 8
 2022-07-09,Eliteserien,Bodø/Glimt v Sarpsborg 08,14:00:00,Match 13
 2022-07-09,Eliteserien,Strømsgodset v Odd Ballklubb,16:00:00,Match 13
@@ -2797,15 +2796,6 @@ date,league,teams,time,note_1
 2022-09-27,International Friendly,Saudi Arabia v USA,,Murcia – Spain
 2022-11-06,International Friendly,Iceland v Saudi Arabia,,
 2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2022-07-06,J1 League,Kashima Antlers v Cerezo Osaka,10:00:00,Match 20
-2022-07-06,J1 League,Kashiwa Reysol v Nagoya Grampus,10:00:00,Match 20
-2022-07-06,J1 League,FC Tokyo v Hokkaido Consadole Sapporo,10:00:00,Match 20
-2022-07-06,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
-2022-07-06,J1 League,Yokohama F. Marinos v Sanfrecce Hiroshima,10:00:00,Match 20
-2022-07-06,J1 League,Shonan Bellmare v Gamba Osaka,10:00:00,Match 20
-2022-07-06,J1 League,Júbilo Iwata v Avispa Fukuoka,10:00:00,Match 20
-2022-07-06,J1 League,Vissel Kobe v Shimizu S-Pulse,10:00:00,Match 20
-2022-07-06,J1 League,Urawa Red Diamonds v Kyoto Sanga FC,10:30:00,Match 20
 2022-07-09,J1 League,Kawasaki Frontale v Gamba Osaka,10:00:00,Match 21
 2022-07-09,J1 League,Júbilo Iwata v Vissel Kobe,10:00:00,Match 21
 2022-07-10,J1 League,Hokkaido Consadole Sapporo v Kashima Antlers,05:00:00,Match 21
@@ -4217,6 +4207,312 @@ date,league,teams,time,note_1
 2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
+2022-08-07,Primeira Liga,Benfica v Arouca,,Match 1
+2022-08-07,Primeira Liga,Chaves v Vitória Guimarães,,Match 1
+2022-08-07,Primeira Liga,Estoril Praia v FC Famalicão,,Match 1
+2022-08-07,Primeira Liga,FC Porto v Marítimo,,Match 1
+2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,,Match 1
+2022-08-07,Primeira Liga,Portimonense v Boavista,,Match 1
+2022-08-07,Primeira Liga,Rio Ave v Vizela,,Match 1
+2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,,Match 1
+2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,,Match 1
+2022-08-14,Primeira Liga,Arouca v Gil Vicente,,Match 2
+2022-08-14,Primeira Liga,Boavista v Santa Clara,,Match 2
+2022-08-14,Primeira Liga,Casa Pia AC v Benfica,,Match 2
+2022-08-14,Primeira Liga,FC Famalicão v Sporting Braga,,Match 2
+2022-08-14,Primeira Liga,Marítimo v Chaves,,Match 2
+2022-08-14,Primeira Liga,Paços de Ferreira v Portimonense,,Match 2
+2022-08-14,Primeira Liga,Sporting Lisbon v Rio Ave,,Match 2
+2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,,Match 2
+2022-08-14,Primeira Liga,Vizela v FC Porto,,Match 2
+2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,,Match 3
+2022-08-21,Primeira Liga,Casa Pia AC v Boavista,,Match 3
+2022-08-21,Primeira Liga,Chaves v Vizela,,Match 3
+2022-08-21,Primeira Liga,Estoril Praia v Rio Ave,,Match 3
+2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,,Match 3
+2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,,Match 3
+2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,,Match 3
+2022-08-21,Primeira Liga,Santa Clara v Arouca,,Match 3
+2022-08-21,Primeira Liga,Sporting Braga v Marítimo,,Match 3
+2022-08-28,Primeira Liga,Arouca v Sporting Braga,,Match 4
+2022-08-28,Primeira Liga,Boavista v Benfica,,Match 4
+2022-08-28,Primeira Liga,FC Famalicão v Santa Clara,,Match 4
+2022-08-28,Primeira Liga,Marítimo v Portimonense,,Match 4
+2022-08-28,Primeira Liga,Paços de Ferreira v Estoril Praia,,Match 4
+2022-08-28,Primeira Liga,Rio Ave v FC Porto,,Match 4
+2022-08-28,Primeira Liga,Sporting Lisbon v Chaves,,Match 4
+2022-08-28,Primeira Liga,Vitória Guimarães v Casa Pia AC,,Match 4
+2022-08-28,Primeira Liga,Vizela v Gil Vicente,,Match 4
+2022-09-04,Primeira Liga,Benfica v Vizela,,Match 5
+2022-09-04,Primeira Liga,Boavista v Paços de Ferreira,,Match 5
+2022-09-04,Primeira Liga,Casa Pia AC v Arouca,,Match 5
+2022-09-04,Primeira Liga,Chaves v Rio Ave,,Match 5
+2022-09-04,Primeira Liga,Estoril Praia v Sporting Lisbon,,Match 5
+2022-09-04,Primeira Liga,Gil Vicente v FC Porto,,Match 5
+2022-09-04,Primeira Liga,Portimonense v FC Famalicão,,Match 5
+2022-09-04,Primeira Liga,Santa Clara v Marítimo,,Match 5
+2022-09-04,Primeira Liga,Sporting Braga v Vitória Guimarães,,Match 5
+2022-09-11,Primeira Liga,Arouca v Boavista,,Match 6
+2022-09-11,Primeira Liga,FC Famalicão v Benfica,,Match 6
+2022-09-11,Primeira Liga,FC Porto v Chaves,,Match 6
+2022-09-11,Primeira Liga,Marítimo v Gil Vicente,,Match 6
+2022-09-11,Primeira Liga,Paços de Ferreira v Casa Pia AC,,Match 6
+2022-09-11,Primeira Liga,Rio Ave v Sporting Braga,,Match 6
+2022-09-11,Primeira Liga,Sporting Lisbon v Portimonense,,Match 6
+2022-09-11,Primeira Liga,Vitória Guimarães v Santa Clara,,Match 6
+2022-09-11,Primeira Liga,Vizela v Estoril Praia,,Match 6
+2022-09-18,Primeira Liga,Arouca v Vitória Guimarães,,Match 7
+2022-09-18,Primeira Liga,Benfica v Marítimo,,Match 7
+2022-09-18,Primeira Liga,Boavista v Sporting Lisbon,,Match 7
+2022-09-18,Primeira Liga,Casa Pia AC v FC Famalicão,,Match 7
+2022-09-18,Primeira Liga,Estoril Praia v FC Porto,,Match 7
+2022-09-18,Primeira Liga,Gil Vicente v Rio Ave,,Match 7
+2022-09-18,Primeira Liga,Portimonense v Chaves,,Match 7
+2022-09-18,Primeira Liga,Santa Clara v Paços de Ferreira,,Match 7
+2022-09-18,Primeira Liga,Sporting Braga v Vizela,,Match 7
+2022-10-02,Primeira Liga,Chaves v Estoril Praia,,Match 8
+2022-10-02,Primeira Liga,FC Famalicão v Boavista,,Match 8
+2022-10-02,Primeira Liga,FC Porto v Sporting Braga,,Match 8
+2022-10-02,Primeira Liga,Marítimo v Casa Pia AC,,Match 8
+2022-10-02,Primeira Liga,Paços de Ferreira v Arouca,,Match 8
+2022-10-02,Primeira Liga,Rio Ave v Santa Clara,,Match 8
+2022-10-02,Primeira Liga,Sporting Lisbon v Gil Vicente,,Match 8
+2022-10-02,Primeira Liga,Vitória Guimarães v Benfica,,Match 8
+2022-10-02,Primeira Liga,Vizela v Portimonense,,Match 8
+2022-10-09,Primeira Liga,Arouca v FC Famalicão,,Match 9
+2022-10-09,Primeira Liga,Benfica v Rio Ave,,Match 9
+2022-10-09,Primeira Liga,Boavista v Marítimo,,Match 9
+2022-10-09,Primeira Liga,Casa Pia AC v Vizela,,Match 9
+2022-10-09,Primeira Liga,Gil Vicente v Estoril Praia,,Match 9
+2022-10-09,Primeira Liga,Paços de Ferreira v Vitória Guimarães,,Match 9
+2022-10-09,Primeira Liga,Portimonense v FC Porto,,Match 9
+2022-10-09,Primeira Liga,Santa Clara v Sporting Lisbon,,Match 9
+2022-10-09,Primeira Liga,Sporting Braga v Chaves,,Match 9
+2022-10-23,Primeira Liga,Chaves v Gil Vicente,,Match 10
+2022-10-23,Primeira Liga,Estoril Praia v Sporting Braga,,Match 10
+2022-10-23,Primeira Liga,FC Famalicão v Paços de Ferreira,,Match 10
+2022-10-23,Primeira Liga,FC Porto v Benfica,,Match 10
+2022-10-23,Primeira Liga,Marítimo v Arouca,,Match 10
+2022-10-23,Primeira Liga,Rio Ave v Portimonense,,Match 10
+2022-10-23,Primeira Liga,Sporting Lisbon v Casa Pia AC,,Match 10
+2022-10-23,Primeira Liga,Vitória Guimarães v Boavista,,Match 10
+2022-10-23,Primeira Liga,Vizela v Santa Clara,,Match 10
+2022-10-30,Primeira Liga,Arouca v Sporting Lisbon,,Match 11
+2022-10-30,Primeira Liga,Benfica v Chaves,,Match 11
+2022-10-30,Primeira Liga,Boavista v Vizela,,Match 11
+2022-10-30,Primeira Liga,Casa Pia AC v Rio Ave,,Match 11
+2022-10-30,Primeira Liga,Gil Vicente v Sporting Braga,,Match 11
+2022-10-30,Primeira Liga,Paços de Ferreira v Marítimo,,Match 11
+2022-10-30,Primeira Liga,Portimonense v Estoril Praia,,Match 11
+2022-10-30,Primeira Liga,Santa Clara v FC Porto,,Match 11
+2022-10-30,Primeira Liga,Vitória Guimarães v FC Famalicão,,Match 11
+2022-11-06,Primeira Liga,Chaves v Santa Clara,,Match 12
+2022-11-06,Primeira Liga,Estoril Praia v Benfica,,Match 12
+2022-11-06,Primeira Liga,FC Porto v Paços de Ferreira,,Match 12
+2022-11-06,Primeira Liga,Gil Vicente v Portimonense,,Match 12
+2022-11-06,Primeira Liga,Marítimo v FC Famalicão,,Match 12
+2022-11-06,Primeira Liga,Rio Ave v Boavista,,Match 12
+2022-11-06,Primeira Liga,Sporting Braga v Casa Pia AC,,Match 12
+2022-11-06,Primeira Liga,Sporting Lisbon v Vitória Guimarães,,Match 12
+2022-11-06,Primeira Liga,Vizela v Arouca,,Match 12
+2022-11-13,Primeira Liga,Arouca v Rio Ave,,Match 13
+2022-11-13,Primeira Liga,Benfica v Gil Vicente,,Match 13
+2022-11-13,Primeira Liga,Boavista v FC Porto,,Match 13
+2022-11-13,Primeira Liga,Casa Pia AC v Chaves,,Match 13
+2022-11-13,Primeira Liga,FC Famalicão v Sporting Lisbon,,Match 13
+2022-11-13,Primeira Liga,Paços de Ferreira v Vizela,,Match 13
+2022-11-13,Primeira Liga,Portimonense v Sporting Braga,,Match 13
+2022-11-13,Primeira Liga,Santa Clara v Estoril Praia,,Match 13
+2022-11-13,Primeira Liga,Vitória Guimarães v Marítimo,,Match 13
+2022-12-28,Primeira Liga,Chaves v FC Famalicão,,Match 14
+2022-12-28,Primeira Liga,Estoril Praia v Boavista,,Match 14
+2022-12-28,Primeira Liga,FC Porto v Arouca,,Match 14
+2022-12-28,Primeira Liga,Gil Vicente v Santa Clara,,Match 14
+2022-12-28,Primeira Liga,Portimonense v Casa Pia AC,,Match 14
+2022-12-28,Primeira Liga,Rio Ave v Marítimo,,Match 14
+2022-12-28,Primeira Liga,Sporting Braga v Benfica,,Match 14
+2022-12-28,Primeira Liga,Sporting Lisbon v Paços de Ferreira,,Match 14
+2022-12-28,Primeira Liga,Vizela v Vitória Guimarães,,Match 14
+2023-01-08,Primeira Liga,Arouca v Estoril Praia,,Match 15
+2023-01-08,Primeira Liga,Benfica v Portimonense,,Match 15
+2023-01-08,Primeira Liga,Boavista v Gil Vicente,,Match 15
+2023-01-08,Primeira Liga,Casa Pia AC v FC Porto,,Match 15
+2023-01-08,Primeira Liga,FC Famalicão v Vizela,,Match 15
+2023-01-08,Primeira Liga,Marítimo v Sporting Lisbon,,Match 15
+2023-01-08,Primeira Liga,Paços de Ferreira v Chaves,,Match 15
+2023-01-08,Primeira Liga,Santa Clara v Sporting Braga,,Match 15
+2023-01-08,Primeira Liga,Vitória Guimarães v Rio Ave,,Match 15
+2023-01-15,Primeira Liga,Benfica v Sporting Lisbon,,Match 16
+2023-01-15,Primeira Liga,Chaves v Arouca,,Match 16
+2023-01-15,Primeira Liga,Estoril Praia v Casa Pia AC,,Match 16
+2023-01-15,Primeira Liga,FC Porto v FC Famalicão,,Match 16
+2023-01-15,Primeira Liga,Gil Vicente v Vitória Guimarães,,Match 16
+2023-01-15,Primeira Liga,Portimonense v Santa Clara,,Match 16
+2023-01-15,Primeira Liga,Rio Ave v Paços de Ferreira,,Match 16
+2023-01-15,Primeira Liga,Sporting Braga v Boavista,,Match 16
+2023-01-15,Primeira Liga,Vizela v Marítimo,,Match 16
+2023-01-21,Primeira Liga,Arouca v Portimonense,,Match 17
+2023-01-21,Primeira Liga,Boavista v Chaves,,Match 17
+2023-01-21,Primeira Liga,Casa Pia AC v Gil Vicente,,Match 17
+2023-01-21,Primeira Liga,FC Famalicão v Rio Ave,,Match 17
+2023-01-21,Primeira Liga,Marítimo v Estoril Praia,,Match 17
+2023-01-21,Primeira Liga,Paços de Ferreira v Sporting Braga,,Match 17
+2023-01-21,Primeira Liga,Santa Clara v Benfica,,Match 17
+2023-01-21,Primeira Liga,Sporting Lisbon v Vizela,,Match 17
+2023-01-21,Primeira Liga,Vitória Guimarães v FC Porto,,Match 17
+2023-01-29,Primeira Liga,Arouca v Benfica,,Match 18
+2023-01-29,Primeira Liga,Boavista v Portimonense,,Match 18
+2023-01-29,Primeira Liga,Casa Pia AC v Santa Clara,,Match 18
+2023-01-29,Primeira Liga,FC Famalicão v Estoril Praia,,Match 18
+2023-01-29,Primeira Liga,Marítimo v FC Porto,,Match 18
+2023-01-29,Primeira Liga,Paços de Ferreira v Gil Vicente,,Match 18
+2023-01-29,Primeira Liga,Sporting Lisbon v Sporting Braga,,Match 18
+2023-01-29,Primeira Liga,Vitória Guimarães v Chaves,,Match 18
+2023-01-29,Primeira Liga,Vizela v Rio Ave,,Match 18
+2023-02-05,Primeira Liga,Benfica v Casa Pia AC,,Match 19
+2023-02-05,Primeira Liga,Chaves v Marítimo,,Match 19
+2023-02-05,Primeira Liga,Estoril Praia v Vitória Guimarães,,Match 19
+2023-02-05,Primeira Liga,FC Porto v Vizela,,Match 19
+2023-02-05,Primeira Liga,Gil Vicente v Arouca,,Match 19
+2023-02-05,Primeira Liga,Portimonense v Paços de Ferreira,,Match 19
+2023-02-05,Primeira Liga,Rio Ave v Sporting Lisbon,,Match 19
+2023-02-05,Primeira Liga,Santa Clara v Boavista,,Match 19
+2023-02-05,Primeira Liga,Sporting Braga v FC Famalicão,,Match 19
+2023-02-12,Primeira Liga,Arouca v Santa Clara,,Match 20
+2023-02-12,Primeira Liga,Boavista v Casa Pia AC,,Match 20
+2023-02-12,Primeira Liga,FC Famalicão v Gil Vicente,,Match 20
+2023-02-12,Primeira Liga,Marítimo v Sporting Braga,,Match 20
+2023-02-12,Primeira Liga,Paços de Ferreira v Benfica,,Match 20
+2023-02-12,Primeira Liga,Rio Ave v Estoril Praia,,Match 20
+2023-02-12,Primeira Liga,Sporting Lisbon v FC Porto,,Match 20
+2023-02-12,Primeira Liga,Vitória Guimarães v Portimonense,,Match 20
+2023-02-12,Primeira Liga,Vizela v Chaves,,Match 20
+2023-02-19,Primeira Liga,Benfica v Boavista,,Match 21
+2023-02-19,Primeira Liga,Casa Pia AC v Vitória Guimarães,,Match 21
+2023-02-19,Primeira Liga,Chaves v Sporting Lisbon,,Match 21
+2023-02-19,Primeira Liga,Estoril Praia v Paços de Ferreira,,Match 21
+2023-02-19,Primeira Liga,FC Porto v Rio Ave,,Match 21
+2023-02-19,Primeira Liga,Gil Vicente v Vizela,,Match 21
+2023-02-19,Primeira Liga,Portimonense v Marítimo,,Match 21
+2023-02-19,Primeira Liga,Santa Clara v FC Famalicão,,Match 21
+2023-02-19,Primeira Liga,Sporting Braga v Arouca,,Match 21
+2023-02-26,Primeira Liga,Arouca v Casa Pia AC,,Match 22
+2023-02-26,Primeira Liga,FC Famalicão v Portimonense,,Match 22
+2023-02-26,Primeira Liga,FC Porto v Gil Vicente,,Match 22
+2023-02-26,Primeira Liga,Marítimo v Santa Clara,,Match 22
+2023-02-26,Primeira Liga,Paços de Ferreira v Boavista,,Match 22
+2023-02-26,Primeira Liga,Rio Ave v Chaves,,Match 22
+2023-02-26,Primeira Liga,Sporting Lisbon v Estoril Praia,,Match 22
+2023-02-26,Primeira Liga,Vitória Guimarães v Sporting Braga,,Match 22
+2023-02-26,Primeira Liga,Vizela v Benfica,,Match 22
+2023-03-05,Primeira Liga,Benfica v FC Famalicão,,Match 23
+2023-03-05,Primeira Liga,Boavista v Arouca,,Match 23
+2023-03-05,Primeira Liga,Casa Pia AC v Paços de Ferreira,,Match 23
+2023-03-05,Primeira Liga,Chaves v FC Porto,,Match 23
+2023-03-05,Primeira Liga,Estoril Praia v Vizela,,Match 23
+2023-03-05,Primeira Liga,Gil Vicente v Marítimo,,Match 23
+2023-03-05,Primeira Liga,Portimonense v Sporting Lisbon,,Match 23
+2023-03-05,Primeira Liga,Santa Clara v Vitória Guimarães,,Match 23
+2023-03-05,Primeira Liga,Sporting Braga v Rio Ave,,Match 23
+2023-03-12,Primeira Liga,Chaves v Portimonense,,Match 24
+2023-03-12,Primeira Liga,FC Famalicão v Casa Pia AC,,Match 24
+2023-03-12,Primeira Liga,FC Porto v Estoril Praia,,Match 24
+2023-03-12,Primeira Liga,Marítimo v Benfica,,Match 24
+2023-03-12,Primeira Liga,Paços de Ferreira v Santa Clara,,Match 24
+2023-03-12,Primeira Liga,Rio Ave v Gil Vicente,,Match 24
+2023-03-12,Primeira Liga,Sporting Lisbon v Boavista,,Match 24
+2023-03-12,Primeira Liga,Vitória Guimarães v Arouca,,Match 24
+2023-03-12,Primeira Liga,Vizela v Sporting Braga,,Match 24
+2023-03-19,Primeira Liga,Arouca v Paços de Ferreira,,Match 25
+2023-03-19,Primeira Liga,Benfica v Vitória Guimarães,,Match 25
+2023-03-19,Primeira Liga,Boavista v FC Famalicão,,Match 25
+2023-03-19,Primeira Liga,Casa Pia AC v Marítimo,,Match 25
+2023-03-19,Primeira Liga,Estoril Praia v Chaves,,Match 25
+2023-03-19,Primeira Liga,Gil Vicente v Sporting Lisbon,,Match 25
+2023-03-19,Primeira Liga,Portimonense v Vizela,,Match 25
+2023-03-19,Primeira Liga,Santa Clara v Rio Ave,,Match 25
+2023-03-19,Primeira Liga,Sporting Braga v FC Porto,,Match 25
+2023-04-02,Primeira Liga,Chaves v Sporting Braga,,Match 26
+2023-04-02,Primeira Liga,Estoril Praia v Gil Vicente,,Match 26
+2023-04-02,Primeira Liga,FC Famalicão v Arouca,,Match 26
+2023-04-02,Primeira Liga,FC Porto v Portimonense,,Match 26
+2023-04-02,Primeira Liga,Marítimo v Boavista,,Match 26
+2023-04-02,Primeira Liga,Rio Ave v Benfica,,Match 26
+2023-04-02,Primeira Liga,Sporting Lisbon v Santa Clara,,Match 26
+2023-04-02,Primeira Liga,Vitória Guimarães v Paços de Ferreira,,Match 26
+2023-04-02,Primeira Liga,Vizela v Casa Pia AC,,Match 26
+2023-04-09,Primeira Liga,Arouca v Marítimo,,Match 27
+2023-04-09,Primeira Liga,Benfica v FC Porto,,Match 27
+2023-04-09,Primeira Liga,Boavista v Vitória Guimarães,,Match 27
+2023-04-09,Primeira Liga,Casa Pia AC v Sporting Lisbon,,Match 27
+2023-04-09,Primeira Liga,Gil Vicente v Chaves,,Match 27
+2023-04-09,Primeira Liga,Paços de Ferreira v FC Famalicão,,Match 27
+2023-04-09,Primeira Liga,Portimonense v Rio Ave,,Match 27
+2023-04-09,Primeira Liga,Santa Clara v Vizela,,Match 27
+2023-04-09,Primeira Liga,Sporting Braga v Estoril Praia,,Match 27
+2023-04-16,Primeira Liga,Chaves v Benfica,,Match 28
+2023-04-16,Primeira Liga,Estoril Praia v Portimonense,,Match 28
+2023-04-16,Primeira Liga,FC Famalicão v Vitória Guimarães,,Match 28
+2023-04-16,Primeira Liga,FC Porto v Santa Clara,,Match 28
+2023-04-16,Primeira Liga,Marítimo v Paços de Ferreira,,Match 28
+2023-04-16,Primeira Liga,Rio Ave v Casa Pia AC,,Match 28
+2023-04-16,Primeira Liga,Sporting Braga v Gil Vicente,,Match 28
+2023-04-16,Primeira Liga,Sporting Lisbon v Arouca,,Match 28
+2023-04-16,Primeira Liga,Vizela v Boavista,,Match 28
+2023-04-23,Primeira Liga,Arouca v Vizela,,Match 29
+2023-04-23,Primeira Liga,Benfica v Estoril Praia,,Match 29
+2023-04-23,Primeira Liga,Boavista v Rio Ave,,Match 29
+2023-04-23,Primeira Liga,Casa Pia AC v Sporting Braga,,Match 29
+2023-04-23,Primeira Liga,FC Famalicão v Marítimo,,Match 29
+2023-04-23,Primeira Liga,Paços de Ferreira v FC Porto,,Match 29
+2023-04-23,Primeira Liga,Portimonense v Gil Vicente,,Match 29
+2023-04-23,Primeira Liga,Santa Clara v Chaves,,Match 29
+2023-04-23,Primeira Liga,Vitória Guimarães v Sporting Lisbon,,Match 29
+2023-04-30,Primeira Liga,Chaves v Casa Pia AC,,Match 30
+2023-04-30,Primeira Liga,Estoril Praia v Santa Clara,,Match 30
+2023-04-30,Primeira Liga,FC Porto v Boavista,,Match 30
+2023-04-30,Primeira Liga,Gil Vicente v Benfica,,Match 30
+2023-04-30,Primeira Liga,Marítimo v Vitória Guimarães,,Match 30
+2023-04-30,Primeira Liga,Rio Ave v Arouca,,Match 30
+2023-04-30,Primeira Liga,Sporting Braga v Portimonense,,Match 30
+2023-04-30,Primeira Liga,Sporting Lisbon v FC Famalicão,,Match 30
+2023-04-30,Primeira Liga,Vizela v Paços de Ferreira,,Match 30
+2023-05-07,Primeira Liga,Arouca v FC Porto,,Match 31
+2023-05-07,Primeira Liga,Benfica v Sporting Braga,,Match 31
+2023-05-07,Primeira Liga,Boavista v Estoril Praia,,Match 31
+2023-05-07,Primeira Liga,Casa Pia AC v Portimonense,,Match 31
+2023-05-07,Primeira Liga,FC Famalicão v Chaves,,Match 31
+2023-05-07,Primeira Liga,Marítimo v Rio Ave,,Match 31
+2023-05-07,Primeira Liga,Paços de Ferreira v Sporting Lisbon,,Match 31
+2023-05-07,Primeira Liga,Santa Clara v Gil Vicente,,Match 31
+2023-05-07,Primeira Liga,Vitória Guimarães v Vizela,,Match 31
+2023-05-14,Primeira Liga,Chaves v Paços de Ferreira,,Match 32
+2023-05-14,Primeira Liga,Estoril Praia v Arouca,,Match 32
+2023-05-14,Primeira Liga,FC Porto v Casa Pia AC,,Match 32
+2023-05-14,Primeira Liga,Gil Vicente v Boavista,,Match 32
+2023-05-14,Primeira Liga,Portimonense v Benfica,,Match 32
+2023-05-14,Primeira Liga,Rio Ave v Vitória Guimarães,,Match 32
+2023-05-14,Primeira Liga,Sporting Braga v Santa Clara,,Match 32
+2023-05-14,Primeira Liga,Sporting Lisbon v Marítimo,,Match 32
+2023-05-14,Primeira Liga,Vizela v FC Famalicão,,Match 32
+2023-05-21,Primeira Liga,Arouca v Chaves,,Match 33
+2023-05-21,Primeira Liga,Boavista v Sporting Braga,,Match 33
+2023-05-21,Primeira Liga,Casa Pia AC v Estoril Praia,,Match 33
+2023-05-21,Primeira Liga,FC Famalicão v FC Porto,,Match 33
+2023-05-21,Primeira Liga,Marítimo v Vizela,,Match 33
+2023-05-21,Primeira Liga,Paços de Ferreira v Rio Ave,,Match 33
+2023-05-21,Primeira Liga,Santa Clara v Portimonense,,Match 33
+2023-05-21,Primeira Liga,Sporting Lisbon v Benfica,,Match 33
+2023-05-21,Primeira Liga,Vitória Guimarães v Gil Vicente,,Match 33
+2023-05-28,Primeira Liga,Benfica v Santa Clara,,Match 34
+2023-05-28,Primeira Liga,Chaves v Boavista,,Match 34
+2023-05-28,Primeira Liga,Estoril Praia v Marítimo,,Match 34
+2023-05-28,Primeira Liga,FC Porto v Vitória Guimarães,,Match 34
+2023-05-28,Primeira Liga,Gil Vicente v Casa Pia AC,,Match 34
+2023-05-28,Primeira Liga,Portimonense v Arouca,,Match 34
+2023-05-28,Primeira Liga,Rio Ave v FC Famalicão,,Match 34
+2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
+2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
 2022-08-13,Serie A,AC Milan v Udinese,16:30:00,Match 1
 2022-08-13,Serie A,Sampdoria v Atalanta,16:30:00,Match 1
 2022-08-13,Serie A,Lecce v Inter Milan,18:45:00,Match 1
