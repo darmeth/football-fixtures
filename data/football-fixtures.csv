@@ -1,7 +1,4 @@
 date,league,teams,time,note_1
-2022-07-11,Allsvenskan,Hammarby IF v IFK Göteborg,17:00:00,Match 13
-2022-07-11,Allsvenskan,Helsingborgs IF v Djurgårdens IF,17:00:00,Match 13
-2022-07-11,Allsvenskan,IFK Värnamo v GIF Sundsvall,17:00:00,Match 13
 2022-07-16,Allsvenskan,IFK Norrköping v Malmö FF,13:00:00,Match 14
 2022-07-16,Allsvenskan,Djurgårdens IF v IFK Värnamo,15:30:00,Match 14
 2022-07-17,Allsvenskan,AIK v Kalmar FF,13:00:00,Match 14
@@ -136,7 +133,6 @@ date,league,teams,time,note_1
 2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-2022-07-11,Brazilian Série A,Internacional v America Mineiro,23:00:00,Match 16
 2022-07-16,Brazilian Série A,Atletico Goianiense v Fortaleza,19:30:00,Match 17
 2022-07-16,Brazilian Série A,Atletico Paranaense v Internacional,19:30:00,Match 17
 2022-07-16,Brazilian Série A,Flamengo v Coritiba,22:00:00,Match 17
@@ -3650,11 +3646,6 @@ date,league,teams,time,note_1
 2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-2022-07-11,Norway 1. Divisjon,Kfum Oslo v Start,16:00:00,Match 14
-2022-07-11,Norway 1. Divisjon,Mjøndalen v Åsane,16:00:00,Match 14
-2022-07-11,Norway 1. Divisjon,Skeid v Bryne,16:00:00,Match 14
-2022-07-11,Norway 1. Divisjon,Sogndal v Grorud,16:00:00,Match 14
-2022-07-11,Norway 1. Divisjon,Fredrikstad v Kongsvinger,16:00:00,Match 14
 2022-07-17,Norway 1. Divisjon,Stabæk v Kfum Oslo,13:00:00,Match 15
 2022-07-17,Norway 1. Divisjon,Kongsvinger v Stjørdals-Blink,13:00:00,Match 15
 2022-07-17,Norway 1. Divisjon,Ranheim TF v Sogndal,13:00:00,Match 15
@@ -5457,7 +5448,6 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-2022-07-11,Veikkausliiga,Ilves v AC Oulu,15:00:00,Match 14
 2022-07-15,Veikkausliiga,FC Honka v Lahti,15:00:00,Match 14
 2022-07-16,Veikkausliiga,HJK Helsinki v VPS Vaasa,14:00:00,Match 14
 2022-07-16,Veikkausliiga,IFK Mariehamn v HIFK Helsinki,15:30:00,Match 14
