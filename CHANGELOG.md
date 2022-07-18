@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-18
+* Added Quarter-finals for UEFA Women’s Euro 2022
+
 2022-07-07
 * Added Primeira Liga (Portugal) 2022/2023
 
