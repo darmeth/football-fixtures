@@ -1,6 +1,4 @@
 date,league,teams,time,note_1
-2022-07-18,Allsvenskan,GIF Sundsvall v BK Häcken,17:00:00,Match 14
-2022-07-18,Allsvenskan,Varbergs BoIS v Helsingborgs IF,17:00:00,Match 14
 2022-07-23,Allsvenskan,Malmö FF v IK Sirius,13:00:00,Match 15
 2022-07-23,Allsvenskan,Mjällby AIF v Degerfors IF,15:30:00,Match 15
 2022-07-24,Allsvenskan,Helsingborgs IF v GIF Sundsvall,13:00:00,Match 15
@@ -127,7 +125,6 @@ date,league,teams,time,note_1
 2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-2022-07-18,Brazilian Série A,Palmeiras v Cuiaba,23:00:00,Match 17
 2022-07-20,Brazilian Série A,Ceara v Avai,00:30:00,Match 18
 2022-07-20,Brazilian Série A,Goias v Fluminense,22:00:00,Match 18
 2022-07-20,Brazilian Série A,Bragantino v Fortaleza,22:00:00,Match 18
@@ -374,15 +371,15 @@ date,league,teams,time,note_1
 2022-08-27,Bundesliga,Bayern Munich v M'gladbach,16:30:00,Match 4
 2022-08-28,Bundesliga,Cologne v Stuttgart,13:30:00,Match 4
 2022-08-28,Bundesliga,Werder Bremen v Eintracht Frankfurt,15:30:00,Match 4
-2022-09-03,Bundesliga,1. FC Union Berlin v Bayern Munich,,Match 5
-2022-09-03,Bundesliga,Bayer Leverkusen v SC Freiburg,,Match 5
-2022-09-03,Bundesliga,Bochum v Werder Bremen,,Match 5
-2022-09-03,Bundesliga,Borussia Dortmund v Hoffenheim,,Match 5
-2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,,Match 5
-2022-09-03,Bundesliga,FC Augsburg v Hertha Berlin,,Match 5
-2022-09-03,Bundesliga,M'gladbach v Mainz,,Match 5
-2022-09-03,Bundesliga,Stuttgart v Schalke,,Match 5
-2022-09-03,Bundesliga,Wolfsburg v Cologne,,Match 5
+2022-09-03,Bundesliga,1. FC Union Berlin v Bayern Munich,13:30:00,Match 5
+2022-09-03,Bundesliga,Bayer Leverkusen v SC Freiburg,13:30:00,Match 5
+2022-09-03,Bundesliga,Bochum v Werder Bremen,13:30:00,Match 5
+2022-09-02,Bundesliga,Borussia Dortmund v Hoffenheim,18:30:00,Match 5
+2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,16:30:00,Match 5
+2022-09-03,Bundesliga,FC Augsburg v Hertha Berlin,13:30:00,Match 5
+2022-09-04,Bundesliga,M'gladbach v Mainz,15:30:00,Match 5
+2022-09-04,Bundesliga,Stuttgart v Schalke,13:30:00,Match 5
+2022-09-03,Bundesliga,Wolfsburg v Cologne,13:30:00,Match 5
 2022-09-10,Bundesliga,Bayern Munich v Stuttgart,,Match 6
 2022-09-10,Bundesliga,Cologne v 1. FC Union Berlin,,Match 6
 2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,,Match 6
@@ -2777,6 +2774,7 @@ date,league,teams,time,note_1
 2022-08-27,J1 League,Kashiwa Reysol v FC Tokyo,10:00:00,Match 27
 2022-08-27,J1 League,Cerezo Osaka v Sanfrecce Hiroshima,10:00:00,Match 27
 2022-08-27,J1 League,Kawasaki Frontale v Kashima Antlers,10:00:00,Match 27
+2022-08-31,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
 2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,,Match 28
 2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,,Match 28
 2022-09-03,J1 League,FC Tokyo v Yokohama F. Marinos,,Match 28
@@ -2876,16 +2874,16 @@ date,league,teams,time,note_1
 2022-08-28,La Liga,Espanyol v Real Madrid,20:00:00,Match 3
 2022-08-29,La Liga,Cadiz v Athletic Bilbao,18:00:00,Match 3
 2022-08-29,La Liga,Valencia v Atletico Madrid,20:00:00,Match 3
-2022-09-04,La Liga,Athletic Bilbao v Espanyol,,Match 4
-2022-09-04,La Liga,Celta Vigo v Cadiz,,Match 4
-2022-09-04,La Liga,Osasuna v Rayo Vallecano,,Match 4
-2022-09-04,La Liga,Real Madrid v Real Betis,,Match 4
-2022-09-04,La Liga,Real Mallorca v Girona,,Match 4
-2022-09-04,La Liga,Real Sociedad v Atletico Madrid,,Match 4
-2022-09-04,La Liga,Real Valladolid v Almeria,,Match 4
-2022-09-04,La Liga,Sevilla v Barcelona,,Match 4
-2022-09-04,La Liga,Valencia v Getafe,,Match 4
-2022-09-04,La Liga,Villarreal v Elche,,Match 4
+2022-09-04,La Liga,Athletic Bilbao v Espanyol,14:15:00,Match 4
+2022-09-02,La Liga,Celta Vigo v Cadiz,19:00:00,Match 4
+2022-09-04,La Liga,Osasuna v Rayo Vallecano,12:00:00,Match 4
+2022-09-03,La Liga,Real Madrid v Real Betis,14:15:00,Match 4
+2022-09-03,La Liga,Real Mallorca v Girona,12:00:00,Match 4
+2022-09-03,La Liga,Real Sociedad v Atletico Madrid,16:30:00,Match 4
+2022-09-04,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
+2022-09-03,La Liga,Sevilla v Barcelona,19:00:00,Match 4
+2022-09-04,La Liga,Valencia v Getafe,19:00:00,Match 4
+2022-09-04,La Liga,Villarreal v Elche,16:30:00,Match 4
 2022-09-11,La Liga,Almeria v Osasuna,,Match 5
 2022-09-11,La Liga,Atletico Madrid v Celta Vigo,,Match 5
 2022-09-11,La Liga,Cadiz v Barcelona,,Match 5
@@ -3226,26 +3224,26 @@ date,league,teams,time,note_1
 2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-2022-08-07,Ligue 1,Angers v Nantes,,Match 1
-2022-08-07,Ligue 1,Clermont v Paris Saint-Germain,,Match 1
-2022-08-07,Ligue 1,Lille v Auxerre,,Match 1
-2022-08-07,Ligue 1,Lyon v AC Ajaccio,,Match 1
-2022-08-07,Ligue 1,Marseille v Reims,,Match 1
-2022-08-07,Ligue 1,Montpellier v Troyes,,Match 1
-2022-08-07,Ligue 1,RC Lens v Brest,,Match 1
-2022-08-07,Ligue 1,Rennes v Lorient,,Match 1
-2022-08-07,Ligue 1,Strasbourg v Monaco,,Match 1
-2022-08-07,Ligue 1,Toulouse v Nice,,Match 1
-2022-08-14,Ligue 1,AC Ajaccio v RC Lens,,Match 2
-2022-08-14,Ligue 1,Auxerre v Angers,,Match 2
-2022-08-14,Ligue 1,Brest v Marseille,,Match 2
-2022-08-14,Ligue 1,Lorient v Lyon,,Match 2
-2022-08-14,Ligue 1,Monaco v Rennes,,Match 2
-2022-08-14,Ligue 1,Nantes v Lille,,Match 2
-2022-08-14,Ligue 1,Nice v Strasbourg,,Match 2
-2022-08-14,Ligue 1,Paris Saint-Germain v Montpellier,,Match 2
-2022-08-14,Ligue 1,Reims v Clermont,,Match 2
-2022-08-14,Ligue 1,Troyes v Toulouse,,Match 2
+2022-08-07,Ligue 1,Angers v Nantes,13:00:00,Match 1
+2022-08-06,Ligue 1,Clermont v Paris Saint-Germain,19:00:00,Match 1
+2022-08-07,Ligue 1,Lille v Auxerre,13:00:00,Match 1
+2022-08-05,Ligue 1,Lyon v AC Ajaccio,19:00:00,Match 1
+2022-08-07,Ligue 1,Marseille v Reims,18:45:00,Match 1
+2022-08-07,Ligue 1,Montpellier v Troyes,13:00:00,Match 1
+2022-08-07,Ligue 1,RC Lens v Brest,13:00:00,Match 1
+2022-08-07,Ligue 1,Rennes v Lorient,15:05:00,Match 1
+2022-08-06,Ligue 1,Strasbourg v Monaco,15:00:00,Match 1
+2022-08-07,Ligue 1,Toulouse v Nice,11:00:00,Match 1
+2022-08-14,Ligue 1,AC Ajaccio v RC Lens,13:00:00,Match 2
+2022-08-14,Ligue 1,Auxerre v Angers,13:00:00,Match 2
+2022-08-14,Ligue 1,Brest v Marseille,18:45:00,Match 2
+2022-08-14,Ligue 1,Lorient v Lyon,11:00:00,Match 2
+2022-08-13,Ligue 1,Monaco v Rennes,15:00:00,Match 2
+2022-08-12,Ligue 1,Nantes v Lille,19:00:00,Match 2
+2022-08-14,Ligue 1,Nice v Strasbourg,15:05:00,Match 2
+2022-08-13,Ligue 1,Paris Saint-Germain v Montpellier,19:00:00,Match 2
+2022-08-14,Ligue 1,Reims v Clermont,13:00:00,Match 2
+2022-08-14,Ligue 1,Troyes v Toulouse,13:00:00,Match 2
 2022-08-21,Ligue 1,Angers v Brest,,Match 3
 2022-08-21,Ligue 1,Clermont v Nice,,Match 3
 2022-08-21,Ligue 1,Lille v Paris Saint-Germain,,Match 3
@@ -3606,11 +3604,6 @@ date,league,teams,time,note_1
 2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-2022-07-18,Norway 1. Divisjon,Start v Sandnes Ulf,16:00:00,Match 15
-2022-07-18,Norway 1. Divisjon,Grorud v Mjøndalen,16:00:00,Match 15
-2022-07-18,Norway 1. Divisjon,Raufoss v Brann,16:00:00,Match 15
-2022-07-18,Norway 1. Divisjon,Åsane v Skeid,16:00:00,Match 15
-2022-07-18,Norway 1. Divisjon,Bryne v Fredrikstad,16:00:00,Match 15
 2022-07-24,Norway 1. Divisjon,Skeid v Raufoss,13:00:00,Match 16
 2022-07-24,Norway 1. Divisjon,Fredrikstad v Grorud,13:00:00,Match 16
 2022-07-24,Norway 1. Divisjon,Mjøndalen v Start,13:00:00,Match 16
@@ -4112,33 +4105,33 @@ date,league,teams,time,note_1
 2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-2022-08-07,Primeira Liga,Benfica v Arouca,,Match 1
-2022-08-07,Primeira Liga,Chaves v Vitória Guimarães,,Match 1
-2022-08-07,Primeira Liga,Estoril Praia v FC Famalicão,,Match 1
-2022-08-07,Primeira Liga,FC Porto v Marítimo,,Match 1
-2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,,Match 1
-2022-08-07,Primeira Liga,Portimonense v Boavista,,Match 1
-2022-08-07,Primeira Liga,Rio Ave v Vizela,,Match 1
-2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,,Match 1
-2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,,Match 1
-2022-08-14,Primeira Liga,Arouca v Gil Vicente,,Match 2
-2022-08-14,Primeira Liga,Boavista v Santa Clara,,Match 2
-2022-08-14,Primeira Liga,Casa Pia AC v Benfica,,Match 2
-2022-08-14,Primeira Liga,FC Famalicão v Sporting Braga,,Match 2
-2022-08-14,Primeira Liga,Marítimo v Chaves,,Match 2
-2022-08-14,Primeira Liga,Paços de Ferreira v Portimonense,,Match 2
-2022-08-14,Primeira Liga,Sporting Lisbon v Rio Ave,,Match 2
-2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,,Match 2
-2022-08-14,Primeira Liga,Vizela v FC Porto,,Match 2
-2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,,Match 3
-2022-08-21,Primeira Liga,Casa Pia AC v Boavista,,Match 3
-2022-08-21,Primeira Liga,Chaves v Vizela,,Match 3
-2022-08-21,Primeira Liga,Estoril Praia v Rio Ave,,Match 3
-2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,,Match 3
-2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,,Match 3
-2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,,Match 3
-2022-08-21,Primeira Liga,Santa Clara v Arouca,,Match 3
-2022-08-21,Primeira Liga,Sporting Braga v Marítimo,,Match 3
+2022-08-07,Primeira Liga,Benfica v Arouca,15:00:00,Match 1
+2022-08-07,Primeira Liga,Chaves v Vitória Guimarães,15:00:00,Match 1
+2022-08-07,Primeira Liga,Estoril Praia v FC Famalicão,15:00:00,Match 1
+2022-08-07,Primeira Liga,FC Porto v Marítimo,15:00:00,Match 1
+2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,15:00:00,Match 1
+2022-08-07,Primeira Liga,Portimonense v Boavista,15:00:00,Match 1
+2022-08-07,Primeira Liga,Rio Ave v Vizela,15:00:00,Match 1
+2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:00:00,Match 1
+2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,15:00:00,Match 1
+2022-08-14,Primeira Liga,Arouca v Gil Vicente,15:00:00,Match 2
+2022-08-14,Primeira Liga,Boavista v Santa Clara,15:00:00,Match 2
+2022-08-14,Primeira Liga,Casa Pia AC v Benfica,15:00:00,Match 2
+2022-08-14,Primeira Liga,FC Famalicão v Sporting Braga,15:00:00,Match 2
+2022-08-14,Primeira Liga,Marítimo v Chaves,15:00:00,Match 2
+2022-08-14,Primeira Liga,Paços de Ferreira v Portimonense,15:00:00,Match 2
+2022-08-14,Primeira Liga,Sporting Lisbon v Rio Ave,15:00:00,Match 2
+2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,15:00:00,Match 2
+2022-08-14,Primeira Liga,Vizela v FC Porto,15:00:00,Match 2
+2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,15:00:00,Match 3
+2022-08-21,Primeira Liga,Casa Pia AC v Boavista,15:00:00,Match 3
+2022-08-21,Primeira Liga,Chaves v Vizela,15:00:00,Match 3
+2022-08-21,Primeira Liga,Estoril Praia v Rio Ave,15:00:00,Match 3
+2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,15:00:00,Match 3
+2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,15:00:00,Match 3
+2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,15:00:00,Match 3
+2022-08-21,Primeira Liga,Santa Clara v Arouca,14:00:00,Match 3
+2022-08-21,Primeira Liga,Sporting Braga v Marítimo,15:00:00,Match 3
 2022-08-28,Primeira Liga,Arouca v Sporting Braga,,Match 4
 2022-08-28,Primeira Liga,Boavista v Benfica,,Match 4
 2022-08-28,Primeira Liga,FC Famalicão v Santa Clara,,Match 4
@@ -5193,10 +5186,6 @@ date,league,teams,time,note_1
 2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-2022-07-18,USA MLS,Nashville SC v Los Angeles Football Club,00:30:00,Regular Season
-2022-07-18,USA MLS,Real Salt Lake v Sporting Kansas City,01:30:00,Regular Season
-2022-07-18,USA MLS,San Jose Earthquakes v Houston Dynamo,01:30:00,Regular Season
-2022-07-18,USA MLS,Portland Timbers v Vancouver Whitecaps,02:30:00,Regular Season
 2022-07-23,USA MLS,New York City FC v Inter Miami CF,23:00:00,Regular Season
 2022-07-23,USA MLS,Columbus Crew v New England Revolution,23:30:00,Regular Season
 2022-07-23,USA MLS,FC Cincinnati v Nashville SC,23:30:00,Regular Season
@@ -5384,7 +5373,6 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-2022-07-18,Veikkausliiga,Haka v Inter Turku,15:00:00,Match 15
 2022-07-23,Veikkausliiga,AC Oulu v IFK Mariehamn,14:00:00,Match 15
 2022-07-23,Veikkausliiga,Ilves v HJK Helsinki,14:00:00,Match 15
 2022-07-23,Veikkausliiga,KuPS Kuopio v HIFK Helsinki,14:00:00,Match 15

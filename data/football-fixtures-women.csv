@@ -1,27 +1,21 @@
 date,league,teams,time,note_1
-2022-07-20,UEFA Women’s Euro 2022,England v Spain,19:00:00,Quarter-final
-2022-07-21,UEFA Women’s Euro 2022,Germany v Austria,19:00:00,Quarter-final
-2022-07-22,UEFA Women’s Euro 2022,Sweden v TBD,19:00:00,Quarter-final
-2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
-2022-07-18,Copa América Femenina,Ecuador v Colombia,00:00:00,Group Stage – Group A
-2022-07-18,Copa América Femenina,Venezuela v Brazil,21:00:00,Group Stage – Group B
-2022-07-18,UEFA Women’s Euro 2022,Iceland v France,19:00:00,Group Stage
-2022-07-18,UEFA Women’s Euro 2022,Italy v Belgium,19:00:00,Group Stage
-2022-07-18,Women’s World Cup Qualifiers,Ecuador v Colombia,00:00:00,Group A (CONMEBOL)
-2022-07-18,Women’s World Cup Qualifiers,Venezuela v Brazil,21:00:00,Group B (CONMEBOL)
 2022-07-19,Copa América Femenina,Peru v Uruguay,00:00:00,Group Stage – Group B
 2022-07-19,Women’s World Cup Qualifiers,Peru v Uruguay,00:00:00,Group B (CONMEBOL)
 2022-07-19,Women’s World Cup Qualifiers,Cook Islands v Samoa,07:00:00,Group A (OFC)
 2022-07-20,Women’s World Cup Qualifiers,Tahiti v Vanuatu,04:00:00,Group B (OFC)
 2022-07-20,Women’s World Cup Qualifiers,New Caledonia v Solomon Islands,07:00:00,Group C (OFC)
+2022-07-20,UEFA Women’s Euro 2022,England v Spain,19:00:00,Quarter-final
 2022-07-21,Copa América Femenina,Ecuador v Paraguay,00:00:00,Group Stage – Group A
 2022-07-21,Copa América Femenina,Colombia v Chile,00:00:00,Group Stage – Group A
 2022-07-21,Women’s World Cup Qualifiers,Colombia v Chile,00:00:00,Group A (CONMEBOL)
 2022-07-21,Women’s World Cup Qualifiers,Ecuador v Paraguay,00:00:00,Group A (CONMEBOL)
+2022-07-21,UEFA Women’s Euro 2022,Germany v Austria,19:00:00,Quarter-final
 2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
 2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
 2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
 2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
+2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
+2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
 2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
 2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
 2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
@@ -42,22 +36,22 @@ date,league,teams,time,note_1
 2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
 2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
 2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
+2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
 2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
 2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
 2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
-2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
 2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
 2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
 2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
 2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
 2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
+2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
+2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
 2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
 2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
 2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
 2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
 2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
 2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18

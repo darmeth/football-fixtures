@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-19
+* Updates to dates/times
+
 2022-07-18
 * Added Quarter-finals for UEFA Women’s Euro 2022
 
