@@ -1,7 +1,4 @@
 date,league,teams,time,note_1
-2022-07-19,Copa América Femenina,Peru v Uruguay,00:00:00,Group Stage – Group B
-2022-07-19,Women’s World Cup Qualifiers,Peru v Uruguay,00:00:00,Group B (CONMEBOL)
-2022-07-19,Women’s World Cup Qualifiers,Cook Islands v Samoa,07:00:00,Group A (OFC)
 2022-07-20,Women’s World Cup Qualifiers,Tahiti v Vanuatu,04:00:00,Group B (OFC)
 2022-07-20,Women’s World Cup Qualifiers,New Caledonia v Solomon Islands,07:00:00,Group C (OFC)
 2022-07-20,UEFA Women’s Euro 2022,England v Spain,19:00:00,Quarter-final
@@ -15,7 +12,13 @@ date,league,teams,time,note_1
 2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
 2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
 2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
+2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
 2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
+2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
+2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
+2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
+2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
+2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
 2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
 2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
 2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
