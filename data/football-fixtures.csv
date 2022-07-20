@@ -371,15 +371,15 @@ date,league,teams,time,note_1
 2022-08-27,Bundesliga,Bayern Munich v M'gladbach,16:30:00,Match 4
 2022-08-28,Bundesliga,Cologne v Stuttgart,13:30:00,Match 4
 2022-08-28,Bundesliga,Werder Bremen v Eintracht Frankfurt,15:30:00,Match 4
+2022-09-02,Bundesliga,Borussia Dortmund v Hoffenheim,18:30:00,Match 5
 2022-09-03,Bundesliga,1. FC Union Berlin v Bayern Munich,13:30:00,Match 5
 2022-09-03,Bundesliga,Bayer Leverkusen v SC Freiburg,13:30:00,Match 5
 2022-09-03,Bundesliga,Bochum v Werder Bremen,13:30:00,Match 5
-2022-09-02,Bundesliga,Borussia Dortmund v Hoffenheim,18:30:00,Match 5
-2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,16:30:00,Match 5
 2022-09-03,Bundesliga,FC Augsburg v Hertha Berlin,13:30:00,Match 5
-2022-09-04,Bundesliga,M'gladbach v Mainz,15:30:00,Match 5
-2022-09-04,Bundesliga,Stuttgart v Schalke,13:30:00,Match 5
 2022-09-03,Bundesliga,Wolfsburg v Cologne,13:30:00,Match 5
+2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,16:30:00,Match 5
+2022-09-04,Bundesliga,Stuttgart v Schalke,13:30:00,Match 5
+2022-09-04,Bundesliga,M'gladbach v Mainz,15:30:00,Match 5
 2022-09-10,Bundesliga,Bayern Munich v Stuttgart,,Match 6
 2022-09-10,Bundesliga,Cologne v 1. FC Union Berlin,,Match 6
 2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,,Match 6
@@ -665,15 +665,15 @@ date,league,teams,time,note_1
 2022-08-06,EFL Championship,Swansea City v Blackburn Rovers,14:00:00,Match 2
 2022-08-07,EFL Championship,Coventry City v Rotherham United,14:00:00,Match 2
 2022-08-08,EFL Championship,West Bromwich Albion v Watford,19:00:00,Match 2
+2022-08-12,EFL Championship,Watford v Burnley,19:00:00,Match 3
+2022-08-13,EFL Championship,Cardiff City v Birmingham City,11:30:00,Match 3
 2022-08-13,EFL Championship,Blackpool v Swansea City,14:00:00,Match 3
-2022-08-13,EFL Championship,Cardiff City v Birmingham City,14:00:00,Match 3
 2022-08-13,EFL Championship,Huddersfield Town v Stoke City,14:00:00,Match 3
 2022-08-13,EFL Championship,Hull City v Norwich City,14:00:00,Match 3
 2022-08-13,EFL Championship,Luton Town v Preston North End,14:00:00,Match 3
 2022-08-13,EFL Championship,Millwall v Coventry City,14:00:00,Match 3
 2022-08-13,EFL Championship,Rotherham United v Reading,14:00:00,Match 3
 2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,14:00:00,Match 3
-2022-08-13,EFL Championship,Watford v Burnley,14:00:00,Match 3
 2022-08-13,EFL Championship,Wigan Athletic v Bristol City,14:00:00,Match 3
 2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
 2022-08-14,EFL Championship,Middlesbrough v Sheffield United,14:00:00,Match 3
@@ -685,8 +685,8 @@ date,league,teams,time,note_1
 2022-08-16,EFL Championship,Preston North End v Rotherham United,18:45:00,Match 4
 2022-08-16,EFL Championship,Queens Park Rangers v Blackpool,18:45:00,Match 4
 2022-08-16,EFL Championship,Swansea City v Millwall,18:45:00,Match 4
-2022-08-17,EFL Championship,Sheffield United v Sunderland,18:45:00,Match 4
 2022-08-17,EFL Championship,Stoke City v Middlesbrough,18:45:00,Match 4
+2022-08-17,EFL Championship,Sheffield United v Sunderland,19:00:00,Match 4
 2022-08-17,EFL Championship,Reading v Blackburn Rovers,19:00:00,Match 4
 2022-08-17,EFL Championship,West Bromwich Albion v Cardiff City,19:00:00,Match 4
 2022-08-20,EFL Championship,Birmingham City v Wigan Athletic,14:00:00,Match 5
@@ -2874,16 +2874,16 @@ date,league,teams,time,note_1
 2022-08-28,La Liga,Espanyol v Real Madrid,20:00:00,Match 3
 2022-08-29,La Liga,Cadiz v Athletic Bilbao,18:00:00,Match 3
 2022-08-29,La Liga,Valencia v Atletico Madrid,20:00:00,Match 3
-2022-09-04,La Liga,Athletic Bilbao v Espanyol,14:15:00,Match 4
 2022-09-02,La Liga,Celta Vigo v Cadiz,19:00:00,Match 4
-2022-09-04,La Liga,Osasuna v Rayo Vallecano,12:00:00,Match 4
-2022-09-03,La Liga,Real Madrid v Real Betis,14:15:00,Match 4
 2022-09-03,La Liga,Real Mallorca v Girona,12:00:00,Match 4
+2022-09-03,La Liga,Real Madrid v Real Betis,14:15:00,Match 4
 2022-09-03,La Liga,Real Sociedad v Atletico Madrid,16:30:00,Match 4
-2022-09-04,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
 2022-09-03,La Liga,Sevilla v Barcelona,19:00:00,Match 4
-2022-09-04,La Liga,Valencia v Getafe,19:00:00,Match 4
+2022-09-04,La Liga,Osasuna v Rayo Vallecano,12:00:00,Match 4
+2022-09-04,La Liga,Athletic Bilbao v Espanyol,14:15:00,Match 4
 2022-09-04,La Liga,Villarreal v Elche,16:30:00,Match 4
+2022-09-04,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
+2022-09-04,La Liga,Valencia v Getafe,19:00:00,Match 4
 2022-09-11,La Liga,Almeria v Osasuna,,Match 5
 2022-09-11,La Liga,Atletico Madrid v Celta Vigo,,Match 5
 2022-09-11,La Liga,Cadiz v Barcelona,,Match 5
@@ -3224,26 +3224,26 @@ date,league,teams,time,note_1
 2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-2022-08-07,Ligue 1,Angers v Nantes,13:00:00,Match 1
-2022-08-06,Ligue 1,Clermont v Paris Saint-Germain,19:00:00,Match 1
-2022-08-07,Ligue 1,Lille v Auxerre,13:00:00,Match 1
 2022-08-05,Ligue 1,Lyon v AC Ajaccio,19:00:00,Match 1
-2022-08-07,Ligue 1,Marseille v Reims,18:45:00,Match 1
+2022-08-06,Ligue 1,Strasbourg v Monaco,15:00:00,Match 1
+2022-08-06,Ligue 1,Clermont v Paris Saint-Germain,19:00:00,Match 1
+2022-08-07,Ligue 1,Toulouse v Nice,11:00:00,Match 1
+2022-08-07,Ligue 1,Angers v Nantes,13:00:00,Match 1
+2022-08-07,Ligue 1,Lille v Auxerre,13:00:00,Match 1
 2022-08-07,Ligue 1,Montpellier v Troyes,13:00:00,Match 1
 2022-08-07,Ligue 1,RC Lens v Brest,13:00:00,Match 1
 2022-08-07,Ligue 1,Rennes v Lorient,15:05:00,Match 1
-2022-08-06,Ligue 1,Strasbourg v Monaco,15:00:00,Match 1
-2022-08-07,Ligue 1,Toulouse v Nice,11:00:00,Match 1
+2022-08-07,Ligue 1,Marseille v Reims,18:45:00,Match 1
+2022-08-12,Ligue 1,Nantes v Lille,19:00:00,Match 2
+2022-08-13,Ligue 1,Monaco v Rennes,15:00:00,Match 2
+2022-08-13,Ligue 1,Paris Saint-Germain v Montpellier,19:00:00,Match 2
+2022-08-14,Ligue 1,Lorient v Lyon,11:00:00,Match 2
 2022-08-14,Ligue 1,AC Ajaccio v RC Lens,13:00:00,Match 2
 2022-08-14,Ligue 1,Auxerre v Angers,13:00:00,Match 2
-2022-08-14,Ligue 1,Brest v Marseille,18:45:00,Match 2
-2022-08-14,Ligue 1,Lorient v Lyon,11:00:00,Match 2
-2022-08-13,Ligue 1,Monaco v Rennes,15:00:00,Match 2
-2022-08-12,Ligue 1,Nantes v Lille,19:00:00,Match 2
-2022-08-14,Ligue 1,Nice v Strasbourg,15:05:00,Match 2
-2022-08-13,Ligue 1,Paris Saint-Germain v Montpellier,19:00:00,Match 2
 2022-08-14,Ligue 1,Reims v Clermont,13:00:00,Match 2
 2022-08-14,Ligue 1,Troyes v Toulouse,13:00:00,Match 2
+2022-08-14,Ligue 1,Nice v Strasbourg,15:05:00,Match 2
+2022-08-14,Ligue 1,Brest v Marseille,18:45:00,Match 2
 2022-08-21,Ligue 1,Angers v Brest,,Match 3
 2022-08-21,Ligue 1,Clermont v Nice,,Match 3
 2022-08-21,Ligue 1,Lille v Paris Saint-Germain,,Match 3
@@ -3735,366 +3735,366 @@ date,league,teams,time,note_1
 2022-08-07,Premier League,Leicester City v Brentford,13:00:00,Match 1
 2022-08-07,Premier League,Manchester United v Brighton and Hove Albion,13:00:00,Match 1
 2022-08-07,Premier League,West Ham United v Manchester City,15:30:00,Match 1
+2022-08-13,Premier League,Aston Villa v Everton,11:30:00,Match 2
 2022-08-13,Premier League,Arsenal v Leicester City,14:00:00,Match 2
-2022-08-13,Premier League,Aston Villa v Everton,14:00:00,Match 2
-2022-08-13,Premier League,Brentford v Manchester United,14:00:00,Match 2
 2022-08-13,Premier League,Brighton and Hove Albion v Newcastle United,14:00:00,Match 2
-2022-08-13,Premier League,Chelsea v Tottenham Hotspur,14:00:00,Match 2
-2022-08-13,Premier League,Liverpool v Crystal Palace,14:00:00,Match 2
 2022-08-13,Premier League,Manchester City v Bournemouth,14:00:00,Match 2
-2022-08-13,Premier League,Nottingham Forest v West Ham United,14:00:00,Match 2
 2022-08-13,Premier League,Southampton v Leeds United,14:00:00,Match 2
 2022-08-13,Premier League,Wolverhampton Wanderers v Fulham,14:00:00,Match 2
-2022-08-20,Premier League,Bournemouth v Arsenal,14:00:00,Match 3
+2022-08-13,Premier League,Brentford v Manchester United,16:30:00,Match 2
+2022-08-14,Premier League,Nottingham Forest v West Ham United,13:00:00,Match 2
+2022-08-14,Premier League,Chelsea v Tottenham Hotspur,15:30:00,Match 2
+2022-08-15,Premier League,Liverpool v Crystal Palace,19:00:00,Match 2
+2022-08-20,Premier League,Tottenham Hotspur v Wolverhampton Wanderers,11:30:00,Match 3
 2022-08-20,Premier League,Crystal Palace v Aston Villa,14:00:00,Match 3
 2022-08-20,Premier League,Everton v Nottingham Forest,14:00:00,Match 3
 2022-08-20,Premier League,Fulham v Brentford,14:00:00,Match 3
-2022-08-20,Premier League,Leeds United v Chelsea,14:00:00,Match 3
 2022-08-20,Premier League,Leicester City v Southampton,14:00:00,Match 3
-2022-08-20,Premier League,Manchester United v Liverpool,14:00:00,Match 3
-2022-08-20,Premier League,Newcastle United v Manchester City,14:00:00,Match 3
-2022-08-20,Premier League,Tottenham Hotspur v Wolverhampton Wanderers,14:00:00,Match 3
-2022-08-20,Premier League,West Ham United v Brighton and Hove Albion,14:00:00,Match 3
-2022-08-27,Premier League,Arsenal v Fulham,14:00:00,Match 4
-2022-08-27,Premier League,Aston Villa v West Ham United,14:00:00,Match 4
+2022-08-20,Premier League,Bournemouth v Arsenal,16:30:00,Match 3
+2022-08-21,Premier League,Leeds United v Chelsea,13:00:00,Match 3
+2022-08-21,Premier League,West Ham United v Brighton and Hove Albion,13:00:00,Match 3
+2022-08-21,Premier League,Newcastle United v Manchester City,15:30:00,Match 3
+2022-08-22,Premier League,Manchester United v Liverpool,19:00:00,Match 3
+2022-08-27,Premier League,Southampton v Manchester United,11:30:00,Match 4
 2022-08-27,Premier League,Brentford v Everton,14:00:00,Match 4
 2022-08-27,Premier League,Brighton and Hove Albion v Leeds United,14:00:00,Match 4
 2022-08-27,Premier League,Chelsea v Leicester City,14:00:00,Match 4
 2022-08-27,Premier League,Liverpool v Bournemouth,14:00:00,Match 4
 2022-08-27,Premier League,Manchester City v Crystal Palace,14:00:00,Match 4
-2022-08-27,Premier League,Nottingham Forest v Tottenham Hotspur,14:00:00,Match 4
-2022-08-27,Premier League,Southampton v Manchester United,14:00:00,Match 4
-2022-08-27,Premier League,Wolverhampton Wanderers v Newcastle United,14:00:00,Match 4
-2022-08-30,Premier League,Arsenal v  Aston Villa,18:45:00,Match 5
-2022-08-30,Premier League,Bournemouth v  Wolverhampton Wanderers,18:45:00,Match 5
-2022-08-30,Premier League,Fulham v  Brighton and Hove Albion,18:45:00,Match 5
-2022-08-30,Premier League,Leeds United v  Everton,18:45:00,Match 5
-2022-08-30,Premier League,Leicester City v  Manchester United,18:45:00,Match 5
-2022-08-30,Premier League,West Ham United v  Tottenham Hotspur,18:45:00,Match 5
+2022-08-27,Premier League,Arsenal v Fulham,16:30:00,Match 4
+2022-08-28,Premier League,Aston Villa v West Ham United,13:00:00,Match 4
+2022-08-28,Premier League,Wolverhampton Wanderers v Newcastle United,13:00:00,Match 4
+2022-08-28,Premier League,Nottingham Forest v Tottenham Hotspur,15:30:00,Match 4
+2022-08-30,Premier League,Fulham v  Brighton and Hove Albion,18:30:00,Match 5
+2022-08-30,Premier League,Leeds United v  Everton,18:30:00,Match 5
 2022-08-30,Premier League,Crystal Palace v Brentford,19:00:00,Match 5
+2022-08-31,Premier League,Arsenal v  Aston Villa,18:30:00,Match 5
+2022-08-31,Premier League,Bournemouth v  Wolverhampton Wanderers,18:30:00,Match 5
+2022-08-31,Premier League,Manchester City v Nottingham Forest,18:30:00,Match 5
+2022-08-31,Premier League,West Ham United v  Tottenham Hotspur,18:45:00,Match 5
 2022-08-31,Premier League,Southampton v  Chelsea,18:45:00,Match 5
 2022-08-31,Premier League,Liverpool v Newcastle United,19:00:00,Match 5
-2022-08-31,Premier League,Manchester City v Nottingham Forest,19:00:00,Match 5
-2022-09-03,Premier League,Aston Villa v Manchester City,14:00:00,Match 6
-2022-09-03,Premier League,Brentford v Leeds United,14:00:00,Match 6
-2022-09-03,Premier League,Brighton and Hove Albion v Leicester City,14:00:00,Match 6
-2022-09-03,Premier League,Chelsea v West Ham United,14:00:00,Match 6
-2022-09-03,Premier League,Everton v Liverpool,14:00:00,Match 6
-2022-09-03,Premier League,Manchester United v Arsenal,14:00:00,Match 6
-2022-09-03,Premier League,Newcastle United v Crystal Palace,14:00:00,Match 6
-2022-09-03,Premier League,Nottingham Forest v Bournemouth,14:00:00,Match 6
-2022-09-03,Premier League,Tottenham Hotspur v Fulham,14:00:00,Match 6
-2022-09-03,Premier League,Wolverhampton Wanderers v Southampton,14:00:00,Match 6
-2022-09-10,Premier League,Arsenal v Everton,14:00:00,Match 7
-2022-09-10,Premier League,Bournemouth v Brighton and Hove Albion,14:00:00,Match 7
-2022-09-10,Premier League,Crystal Palace v Manchester United,14:00:00,Match 7
-2022-09-10,Premier League,Fulham v Chelsea,14:00:00,Match 7
-2022-09-10,Premier League,Leeds United v Nottingham Forest,14:00:00,Match 7
-2022-09-10,Premier League,Leicester City v Aston Villa,14:00:00,Match 7
-2022-09-10,Premier League,Liverpool v Wolverhampton Wanderers,14:00:00,Match 7
-2022-09-10,Premier League,Manchester City v Tottenham Hotspur,14:00:00,Match 7
-2022-09-10,Premier League,Southampton v Brentford,14:00:00,Match 7
-2022-09-10,Premier League,West Ham United v Newcastle United,14:00:00,Match 7
-2022-09-17,Premier League,Aston Villa v Southampton,14:00:00,Match 8
-2022-09-17,Premier League,Brentford v Arsenal,14:00:00,Match 8
-2022-09-17,Premier League,Brighton and Hove Albion v Crystal Palace,14:00:00,Match 8
-2022-09-17,Premier League,Chelsea v Liverpool,14:00:00,Match 8
-2022-09-17,Premier League,Everton v West Ham United,14:00:00,Match 8
-2022-09-17,Premier League,Manchester United v Leeds United,14:00:00,Match 8
-2022-09-17,Premier League,Newcastle United v Bournemouth,14:00:00,Match 8
-2022-09-17,Premier League,Nottingham Forest v Fulham,14:00:00,Match 8
-2022-09-17,Premier League,Tottenham Hotspur v Leicester City,14:00:00,Match 8
-2022-09-17,Premier League,Wolverhampton Wanderers v Manchester City,14:00:00,Match 8
-2022-10-01,Premier League,Arsenal v Tottenham Hotspur,14:00:00,Match 9
-2022-10-01,Premier League,Bournemouth v Brentford,14:00:00,Match 9
-2022-10-01,Premier League,Crystal Palace v Chelsea,14:00:00,Match 9
-2022-10-01,Premier League,Fulham v Newcastle United,14:00:00,Match 9
-2022-10-01,Premier League,Leeds United v Aston Villa,14:00:00,Match 9
-2022-10-01,Premier League,Leicester City v Nottingham Forest,14:00:00,Match 9
-2022-10-01,Premier League,Liverpool v Brighton and Hove Albion,14:00:00,Match 9
-2022-10-01,Premier League,Manchester City v Manchester United,14:00:00,Match 9
-2022-10-01,Premier League,Southampton v Everton,14:00:00,Match 9
-2022-10-01,Premier League,West Ham United v Wolverhampton Wanderers,14:00:00,Match 9
-2022-10-08,Premier League,Arsenal v Liverpool,14:00:00,Match 10
-2022-10-08,Premier League,Bournemouth v Leicester City,14:00:00,Match 10
-2022-10-08,Premier League,Brighton and Hove Albion v Tottenham Hotspur,14:00:00,Match 10
-2022-10-08,Premier League,Chelsea v Wolverhampton Wanderers,14:00:00,Match 10
-2022-10-08,Premier League,Crystal Palace v Leeds United,14:00:00,Match 10
-2022-10-08,Premier League,Everton v Manchester United,14:00:00,Match 10
-2022-10-08,Premier League,Manchester City v Southampton,14:00:00,Match 10
-2022-10-08,Premier League,Newcastle United v Brentford,14:00:00,Match 10
-2022-10-08,Premier League,Nottingham Forest v Aston Villa,14:00:00,Match 10
-2022-10-08,Premier League,West Ham United v Fulham,14:00:00,Match 10
-2022-10-15,Premier League,Aston Villa v Chelsea,14:00:00,Match 11
-2022-10-15,Premier League,Brentford v Brighton and Hove Albion,14:00:00,Match 11
-2022-10-15,Premier League,Fulham v Bournemouth,14:00:00,Match 11
-2022-10-15,Premier League,Leeds United v Arsenal,14:00:00,Match 11
-2022-10-15,Premier League,Leicester City v Crystal Palace,14:00:00,Match 11
-2022-10-15,Premier League,Liverpool v Manchester City,14:00:00,Match 11
-2022-10-15,Premier League,Manchester United v Newcastle United,14:00:00,Match 11
-2022-10-15,Premier League,Southampton v West Ham United,14:00:00,Match 11
-2022-10-15,Premier League,Tottenham Hotspur v Everton,14:00:00,Match 11
-2022-10-15,Premier League,Wolverhampton Wanderers v Nottingham Forest,14:00:00,Match 11
-2022-10-18,Premier League,Arsenal v  Manchester City,18:45:00,Match 12
-2022-10-18,Premier League,Bournemouth v  Southampton,18:45:00,Match 12
-2022-10-18,Premier League,Brentford v  Chelsea,18:45:00,Match 12
-2022-10-18,Premier League,Brighton and Hove Albion v  Nottingham Forest,18:45:00,Match 12
-2022-10-18,Premier League,Fulham v  Aston Villa,18:45:00,Match 12
-2022-10-18,Premier League,Leicester City v  Leeds United,18:45:00,Match 12
-2022-10-18,Premier League,Crystal Palace v Wolverhampton Wanderers,19:00:00,Match 12
-2022-10-19,Premier League,Newcastle United v  Everton,18:45:00,Match 12
-2022-10-19,Premier League,Liverpool v West Ham United,19:00:00,Match 12
-2022-10-19,Premier League,Manchester United v Tottenham Hotspur,19:00:00,Match 12
-2022-10-22,Premier League,Aston Villa v Brentford,14:00:00,Match 13
-2022-10-22,Premier League,Chelsea v Manchester United,14:00:00,Match 13
-2022-10-22,Premier League,Everton v Crystal Palace,14:00:00,Match 13
-2022-10-22,Premier League,Leeds United v Fulham,14:00:00,Match 13
-2022-10-22,Premier League,Manchester City v Brighton and Hove Albion,14:00:00,Match 13
-2022-10-22,Premier League,Nottingham Forest v Liverpool,14:00:00,Match 13
-2022-10-22,Premier League,Southampton v Arsenal,14:00:00,Match 13
-2022-10-22,Premier League,Tottenham Hotspur v Newcastle United,14:00:00,Match 13
-2022-10-22,Premier League,West Ham United v Bournemouth,14:00:00,Match 13
-2022-10-22,Premier League,Wolverhampton Wanderers v Leicester City,14:00:00,Match 13
-2022-10-29,Premier League,Arsenal v Nottingham Forest,14:00:00,Match 14
-2022-10-29,Premier League,Bournemouth v Tottenham Hotspur,14:00:00,Match 14
-2022-10-29,Premier League,Brentford v Wolverhampton Wanderers,14:00:00,Match 14
-2022-10-29,Premier League,Brighton and Hove Albion v Chelsea,14:00:00,Match 14
-2022-10-29,Premier League,Crystal Palace v Southampton,14:00:00,Match 14
-2022-10-29,Premier League,Fulham v Everton,14:00:00,Match 14
-2022-10-29,Premier League,Leicester City v Manchester City,14:00:00,Match 14
-2022-10-29,Premier League,Liverpool v Leeds United,14:00:00,Match 14
-2022-10-29,Premier League,Manchester United v West Ham United,14:00:00,Match 14
-2022-10-29,Premier League,Newcastle United v Aston Villa,14:00:00,Match 14
-2022-11-05,Premier League,Aston Villa v Manchester United,15:00:00,Match 15
-2022-11-05,Premier League,Chelsea v Arsenal,15:00:00,Match 15
-2022-11-05,Premier League,Everton v Leicester City,15:00:00,Match 15
-2022-11-05,Premier League,Leeds United v Bournemouth,15:00:00,Match 15
-2022-11-05,Premier League,Manchester City v Fulham,15:00:00,Match 15
-2022-11-05,Premier League,Nottingham Forest v Brentford,15:00:00,Match 15
-2022-11-05,Premier League,Southampton v Newcastle United,15:00:00,Match 15
-2022-11-05,Premier League,Tottenham Hotspur v Liverpool,15:00:00,Match 15
-2022-11-05,Premier League,West Ham United v Crystal Palace,15:00:00,Match 15
-2022-11-05,Premier League,Wolverhampton Wanderers v Brighton and Hove Albion,15:00:00,Match 15
-2022-11-12,Premier League,Bournemouth v Everton,15:00:00,Match 16
-2022-11-12,Premier League,Brighton and Hove Albion v Aston Villa,15:00:00,Match 16
-2022-11-12,Premier League,Fulham v Manchester United,15:00:00,Match 16
-2022-11-12,Premier League,Liverpool v Southampton,15:00:00,Match 16
-2022-11-12,Premier League,Manchester City v Brentford,15:00:00,Match 16
-2022-11-12,Premier League,Newcastle United v Chelsea,15:00:00,Match 16
-2022-11-12,Premier League,Nottingham Forest v Crystal Palace,15:00:00,Match 16
-2022-11-12,Premier League,Tottenham Hotspur v Leeds United,15:00:00,Match 16
-2022-11-12,Premier League,West Ham United v Leicester City,15:00:00,Match 16
-2022-11-12,Premier League,Wolverhampton Wanderers v Arsenal,15:00:00,Match 16
-2022-12-26,Premier League,Arsenal v West Ham United,15:00:00,Match 17
-2022-12-26,Premier League,Aston Villa v Liverpool,15:00:00,Match 17
-2022-12-26,Premier League,Brentford v Tottenham Hotspur,15:00:00,Match 17
-2022-12-26,Premier League,Chelsea v Bournemouth,15:00:00,Match 17
-2022-12-26,Premier League,Crystal Palace v Fulham,15:00:00,Match 17
-2022-12-26,Premier League,Everton v Wolverhampton Wanderers,15:00:00,Match 17
-2022-12-26,Premier League,Leeds United v Manchester City,15:00:00,Match 17
-2022-12-26,Premier League,Leicester City v Newcastle United,15:00:00,Match 17
-2022-12-26,Premier League,Manchester United v Nottingham Forest,15:00:00,Match 17
-2022-12-26,Premier League,Southampton v Brighton and Hove Albion,15:00:00,Match 17
-2022-12-31,Premier League,Bournemouth v Crystal Palace,15:00:00,Match 18
-2022-12-31,Premier League,Brighton and Hove Albion v Arsenal,15:00:00,Match 18
-2022-12-31,Premier League,Fulham v Southampton,15:00:00,Match 18
-2022-12-31,Premier League,Liverpool v Leicester City,15:00:00,Match 18
-2022-12-31,Premier League,Manchester City v Everton,15:00:00,Match 18
-2022-12-31,Premier League,Newcastle United v Leeds United,15:00:00,Match 18
-2022-12-31,Premier League,Nottingham Forest v Chelsea,15:00:00,Match 18
-2022-12-31,Premier League,Tottenham Hotspur v Aston Villa,15:00:00,Match 18
-2022-12-31,Premier League,West Ham United v Brentford,15:00:00,Match 18
-2022-12-31,Premier League,Wolverhampton Wanderers v Manchester United,15:00:00,Match 18
-2023-01-02,Premier League,Arsenal v Newcastle United,15:00:00,Match 19
-2023-01-02,Premier League,Aston Villa v Wolverhampton Wanderers,15:00:00,Match 19
-2023-01-02,Premier League,Brentford v Liverpool,15:00:00,Match 19
-2023-01-02,Premier League,Chelsea v Manchester City,15:00:00,Match 19
-2023-01-02,Premier League,Crystal Palace v Tottenham Hotspur,15:00:00,Match 19
-2023-01-02,Premier League,Everton v Brighton and Hove Albion,15:00:00,Match 19
-2023-01-02,Premier League,Leeds United v West Ham United,15:00:00,Match 19
-2023-01-02,Premier League,Leicester City v Fulham,15:00:00,Match 19
-2023-01-02,Premier League,Manchester United v Bournemouth,15:00:00,Match 19
-2023-01-02,Premier League,Southampton v Nottingham Forest,15:00:00,Match 19
-2023-01-14,Premier League,Aston Villa v Leeds United,15:00:00,Match 20
-2023-01-14,Premier League,Brentford v Bournemouth,15:00:00,Match 20
-2023-01-14,Premier League,Brighton and Hove Albion v Liverpool,15:00:00,Match 20
-2023-01-14,Premier League,Chelsea v Crystal Palace,15:00:00,Match 20
-2023-01-14,Premier League,Everton v Southampton,15:00:00,Match 20
-2023-01-14,Premier League,Manchester United v Manchester City,15:00:00,Match 20
-2023-01-14,Premier League,Newcastle United v Fulham,15:00:00,Match 20
-2023-01-14,Premier League,Nottingham Forest v Leicester City,15:00:00,Match 20
-2023-01-14,Premier League,Tottenham Hotspur v Arsenal,15:00:00,Match 20
-2023-01-14,Premier League,Wolverhampton Wanderers v West Ham United,15:00:00,Match 20
-2023-01-21,Premier League,Arsenal v Manchester United,15:00:00,Match 21
-2023-01-21,Premier League,Bournemouth v Nottingham Forest,15:00:00,Match 21
-2023-01-21,Premier League,Crystal Palace v Newcastle United,15:00:00,Match 21
-2023-01-21,Premier League,Fulham v Tottenham Hotspur,15:00:00,Match 21
-2023-01-21,Premier League,Leeds United v Brentford,15:00:00,Match 21
-2023-01-21,Premier League,Leicester City v Brighton and Hove Albion,15:00:00,Match 21
-2023-01-21,Premier League,Liverpool v Chelsea,15:00:00,Match 21
-2023-01-21,Premier League,Manchester City v Wolverhampton Wanderers,15:00:00,Match 21
-2023-01-21,Premier League,Southampton v Aston Villa,15:00:00,Match 21
-2023-01-21,Premier League,West Ham United v Everton,15:00:00,Match 21
-2023-02-04,Premier League,Aston Villa v Leicester City,15:00:00,Match 22
-2023-02-04,Premier League,Brentford v Southampton,15:00:00,Match 22
-2023-02-04,Premier League,Brighton and Hove Albion v Bournemouth,15:00:00,Match 22
-2023-02-04,Premier League,Chelsea v Fulham,15:00:00,Match 22
-2023-02-04,Premier League,Everton v Arsenal,15:00:00,Match 22
-2023-02-04,Premier League,Manchester United v Crystal Palace,15:00:00,Match 22
-2023-02-04,Premier League,Newcastle United v West Ham United,15:00:00,Match 22
-2023-02-04,Premier League,Nottingham Forest v Leeds United,15:00:00,Match 22
-2023-02-04,Premier League,Tottenham Hotspur v Manchester City,15:00:00,Match 22
-2023-02-04,Premier League,Wolverhampton Wanderers v Liverpool,15:00:00,Match 22
-2023-02-11,Premier League,Arsenal v Brentford,15:00:00,Match 23
-2023-02-11,Premier League,Bournemouth v Newcastle United,15:00:00,Match 23
-2023-02-11,Premier League,Crystal Palace v Brighton and Hove Albion,15:00:00,Match 23
-2023-02-11,Premier League,Fulham v Nottingham Forest,15:00:00,Match 23
-2023-02-11,Premier League,Leeds United v Manchester United,15:00:00,Match 23
-2023-02-11,Premier League,Leicester City v Tottenham Hotspur,15:00:00,Match 23
-2023-02-11,Premier League,Liverpool v Everton,15:00:00,Match 23
-2023-02-11,Premier League,Manchester City v Aston Villa,15:00:00,Match 23
-2023-02-11,Premier League,Southampton v Wolverhampton Wanderers,15:00:00,Match 23
-2023-02-11,Premier League,West Ham United v Chelsea,15:00:00,Match 23
-2023-02-18,Premier League,Aston Villa v Arsenal,15:00:00,Match 24
-2023-02-18,Premier League,Brentford v Crystal Palace,15:00:00,Match 24
-2023-02-18,Premier League,Brighton and Hove Albion v Fulham,15:00:00,Match 24
-2023-02-18,Premier League,Chelsea v Southampton,15:00:00,Match 24
-2023-02-18,Premier League,Everton v Leeds United,15:00:00,Match 24
-2023-02-18,Premier League,Manchester United v Leicester City,15:00:00,Match 24
-2023-02-18,Premier League,Newcastle United v Liverpool,15:00:00,Match 24
-2023-02-18,Premier League,Nottingham Forest v Manchester City,15:00:00,Match 24
-2023-02-18,Premier League,Tottenham Hotspur v West Ham United,15:00:00,Match 24
-2023-02-18,Premier League,Wolverhampton Wanderers v Bournemouth,15:00:00,Match 24
-2023-02-25,Premier League,Bournemouth v Manchester City,15:00:00,Match 25
-2023-02-25,Premier League,Crystal Palace v Liverpool,15:00:00,Match 25
-2023-02-25,Premier League,Everton v Aston Villa,15:00:00,Match 25
-2023-02-25,Premier League,Fulham v Wolverhampton Wanderers,15:00:00,Match 25
-2023-02-25,Premier League,Leeds United v Southampton,15:00:00,Match 25
-2023-02-25,Premier League,Leicester City v Arsenal,15:00:00,Match 25
-2023-02-25,Premier League,Manchester United v Brentford,15:00:00,Match 25
-2023-02-25,Premier League,Newcastle United v Brighton and Hove Albion,15:00:00,Match 25
-2023-02-25,Premier League,Tottenham Hotspur v Chelsea,15:00:00,Match 25
-2023-02-25,Premier League,West Ham United v Nottingham Forest,15:00:00,Match 25
-2023-03-04,Premier League,Arsenal v Bournemouth,15:00:00,Match 26
-2023-03-04,Premier League,Aston Villa v Crystal Palace,15:00:00,Match 26
-2023-03-04,Premier League,Brentford v Fulham,15:00:00,Match 26
-2023-03-04,Premier League,Brighton and Hove Albion v West Ham United,15:00:00,Match 26
-2023-03-04,Premier League,Chelsea v Leeds United,15:00:00,Match 26
-2023-03-04,Premier League,Liverpool v Manchester United,15:00:00,Match 26
-2023-03-04,Premier League,Manchester City v Newcastle United,15:00:00,Match 26
-2023-03-04,Premier League,Nottingham Forest v Everton,15:00:00,Match 26
-2023-03-04,Premier League,Southampton v Leicester City,15:00:00,Match 26
-2023-03-04,Premier League,Wolverhampton Wanderers v Tottenham Hotspur,15:00:00,Match 26
-2023-03-11,Premier League,Bournemouth v Liverpool,15:00:00,Match 27
-2023-03-11,Premier League,Crystal Palace v Manchester City,15:00:00,Match 27
-2023-03-11,Premier League,Everton v Brentford,15:00:00,Match 27
-2023-03-11,Premier League,Fulham v Arsenal,15:00:00,Match 27
-2023-03-11,Premier League,Leeds United v Brighton and Hove Albion,15:00:00,Match 27
-2023-03-11,Premier League,Leicester City v Chelsea,15:00:00,Match 27
-2023-03-11,Premier League,Manchester United v Southampton,15:00:00,Match 27
-2023-03-11,Premier League,Newcastle United v Wolverhampton Wanderers,15:00:00,Match 27
-2023-03-11,Premier League,Tottenham Hotspur v Nottingham Forest,15:00:00,Match 27
-2023-03-11,Premier League,West Ham United v Aston Villa,15:00:00,Match 27
-2023-03-18,Premier League,Arsenal v Crystal Palace,15:00:00,Match 28
-2023-03-18,Premier League,Aston Villa v Bournemouth,15:00:00,Match 28
-2023-03-18,Premier League,Brentford v Leicester City,15:00:00,Match 28
-2023-03-18,Premier League,Brighton and Hove Albion v Manchester United,15:00:00,Match 28
-2023-03-18,Premier League,Chelsea v Everton,15:00:00,Match 28
-2023-03-18,Premier League,Liverpool v Fulham,15:00:00,Match 28
-2023-03-18,Premier League,Manchester City v West Ham United,15:00:00,Match 28
-2023-03-18,Premier League,Nottingham Forest v Newcastle United,15:00:00,Match 28
-2023-03-18,Premier League,Southampton v Tottenham Hotspur,15:00:00,Match 28
-2023-03-18,Premier League,Wolverhampton Wanderers v Leeds United,15:00:00,Match 28
-2023-04-01,Premier League,Arsenal v Leeds United,14:00:00,Match 29
-2023-04-01,Premier League,Bournemouth v Fulham,14:00:00,Match 29
-2023-04-01,Premier League,Brighton and Hove Albion v Brentford,14:00:00,Match 29
-2023-04-01,Premier League,Chelsea v Aston Villa,14:00:00,Match 29
-2023-04-01,Premier League,Crystal Palace v Leicester City,14:00:00,Match 29
-2023-04-01,Premier League,Everton v Tottenham Hotspur,14:00:00,Match 29
-2023-04-01,Premier League,Manchester City v Liverpool,14:00:00,Match 29
-2023-04-01,Premier League,Newcastle United v Manchester United,14:00:00,Match 29
-2023-04-01,Premier League,Nottingham Forest v Wolverhampton Wanderers,14:00:00,Match 29
-2023-04-01,Premier League,West Ham United v Southampton,14:00:00,Match 29
-2023-04-08,Premier League,Aston Villa v Nottingham Forest,14:00:00,Match 30
-2023-04-08,Premier League,Brentford v Newcastle United,14:00:00,Match 30
-2023-04-08,Premier League,Fulham v West Ham United,14:00:00,Match 30
-2023-04-08,Premier League,Leeds United v Crystal Palace,14:00:00,Match 30
-2023-04-08,Premier League,Leicester City v Bournemouth,14:00:00,Match 30
-2023-04-08,Premier League,Liverpool v Arsenal,14:00:00,Match 30
-2023-04-08,Premier League,Manchester United v Everton,14:00:00,Match 30
-2023-04-08,Premier League,Southampton v Manchester City,14:00:00,Match 30
-2023-04-08,Premier League,Tottenham Hotspur v Brighton and Hove Albion,14:00:00,Match 30
-2023-04-08,Premier League,Wolverhampton Wanderers v Chelsea,14:00:00,Match 30
-2023-04-15,Premier League,Aston Villa v Newcastle United,14:00:00,Match 31
-2023-04-15,Premier League,Chelsea v Brighton and Hove Albion,14:00:00,Match 31
-2023-04-15,Premier League,Everton v Fulham,14:00:00,Match 31
-2023-04-15,Premier League,Leeds United v Liverpool,14:00:00,Match 31
-2023-04-15,Premier League,Manchester City v Leicester City,14:00:00,Match 31
-2023-04-15,Premier League,Nottingham Forest v Manchester United,14:00:00,Match 31
-2023-04-15,Premier League,Southampton v Crystal Palace,14:00:00,Match 31
-2023-04-15,Premier League,Tottenham Hotspur v Bournemouth,14:00:00,Match 31
-2023-04-15,Premier League,West Ham United v Arsenal,14:00:00,Match 31
-2023-04-15,Premier League,Wolverhampton Wanderers v Brentford,14:00:00,Match 31
-2023-04-22,Premier League,Arsenal v Southampton,14:00:00,Match 32
-2023-04-22,Premier League,Bournemouth v West Ham United,14:00:00,Match 32
-2023-04-22,Premier League,Brentford v Aston Villa,14:00:00,Match 32
-2023-04-22,Premier League,Brighton and Hove Albion v Manchester City,14:00:00,Match 32
-2023-04-22,Premier League,Crystal Palace v Everton,14:00:00,Match 32
-2023-04-22,Premier League,Fulham v Leeds United,14:00:00,Match 32
-2023-04-22,Premier League,Leicester City v Wolverhampton Wanderers,14:00:00,Match 32
-2023-04-22,Premier League,Liverpool v Nottingham Forest,14:00:00,Match 32
-2023-04-22,Premier League,Manchester United v Chelsea,14:00:00,Match 32
-2023-04-22,Premier League,Newcastle United v Tottenham Hotspur,14:00:00,Match 32
-2023-04-25,Premier League,Everton v  Newcastle United,18:45:00,Match 33
-2023-04-25,Premier League,Leeds United v  Leicester City,18:45:00,Match 33
-2023-04-25,Premier League,Nottingham Forest v  Brighton and Hove Albion,18:45:00,Match 33
-2023-04-25,Premier League,Tottenham Hotspur v  Manchester United,18:45:00,Match 33
-2023-04-25,Premier League,West Ham United v  Liverpool,18:45:00,Match 33
-2023-04-25,Premier League,Wolverhampton Wanderers v  Crystal Palace,18:45:00,Match 33
-2023-04-25,Premier League,Aston Villa v Fulham,19:00:00,Match 33
-2023-04-26,Premier League,Chelsea v  Brentford,18:45:00,Match 33
-2023-04-26,Premier League,Southampton v  Bournemouth,18:45:00,Match 33
-2023-04-26,Premier League,Manchester City v Arsenal,19:00:00,Match 33
-2023-04-29,Premier League,Arsenal v Chelsea,14:00:00,Match 34
-2023-04-29,Premier League,Bournemouth v Leeds United,14:00:00,Match 34
-2023-04-29,Premier League,Brentford v Nottingham Forest,14:00:00,Match 34
-2023-04-29,Premier League,Brighton and Hove Albion v Wolverhampton Wanderers,14:00:00,Match 34
-2023-04-29,Premier League,Crystal Palace v West Ham United,14:00:00,Match 34
-2023-04-29,Premier League,Fulham v Manchester City,14:00:00,Match 34
-2023-04-29,Premier League,Leicester City v Everton,14:00:00,Match 34
-2023-04-29,Premier League,Liverpool v Tottenham Hotspur,14:00:00,Match 34
-2023-04-29,Premier League,Manchester United v Aston Villa,14:00:00,Match 34
-2023-04-29,Premier League,Newcastle United v Southampton,14:00:00,Match 34
-2023-05-06,Premier League,Bournemouth v Chelsea,14:00:00,Match 35
-2023-05-06,Premier League,Brighton and Hove Albion v Everton,14:00:00,Match 35
-2023-05-06,Premier League,Fulham v Leicester City,14:00:00,Match 35
-2023-05-06,Premier League,Liverpool v Brentford,14:00:00,Match 35
-2023-05-06,Premier League,Manchester City v Leeds United,14:00:00,Match 35
-2023-05-06,Premier League,Newcastle United v Arsenal,14:00:00,Match 35
-2023-05-06,Premier League,Nottingham Forest v Southampton,14:00:00,Match 35
-2023-05-06,Premier League,Tottenham Hotspur v Crystal Palace,14:00:00,Match 35
-2023-05-06,Premier League,West Ham United v Manchester United,14:00:00,Match 35
-2023-05-06,Premier League,Wolverhampton Wanderers v Aston Villa,14:00:00,Match 35
-2023-05-13,Premier League,Arsenal v Brighton and Hove Albion,14:00:00,Match 36
-2023-05-13,Premier League,Aston Villa v Tottenham Hotspur,14:00:00,Match 36
-2023-05-13,Premier League,Brentford v West Ham United,14:00:00,Match 36
-2023-05-13,Premier League,Chelsea v Nottingham Forest,14:00:00,Match 36
-2023-05-13,Premier League,Crystal Palace v Bournemouth,14:00:00,Match 36
-2023-05-13,Premier League,Everton v Manchester City,14:00:00,Match 36
-2023-05-13,Premier League,Leeds United v Newcastle United,14:00:00,Match 36
-2023-05-13,Premier League,Leicester City v Liverpool,14:00:00,Match 36
-2023-05-13,Premier League,Manchester United v Wolverhampton Wanderers,14:00:00,Match 36
-2023-05-13,Premier League,Southampton v Fulham,14:00:00,Match 36
-2023-05-20,Premier League,Bournemouth v Manchester United,14:00:00,Match 37
-2023-05-20,Premier League,Brighton and Hove Albion v Southampton,14:00:00,Match 37
-2023-05-20,Premier League,Fulham v Crystal Palace,14:00:00,Match 37
-2023-05-20,Premier League,Liverpool v Aston Villa,14:00:00,Match 37
-2023-05-20,Premier League,Manchester City v Chelsea,14:00:00,Match 37
-2023-05-20,Premier League,Newcastle United v Leicester City,14:00:00,Match 37
-2023-05-20,Premier League,Nottingham Forest v Arsenal,14:00:00,Match 37
-2023-05-20,Premier League,Tottenham Hotspur v Brentford,14:00:00,Match 37
-2023-05-20,Premier League,West Ham United v Leeds United,14:00:00,Match 37
-2023-05-20,Premier League,Wolverhampton Wanderers v Everton,14:00:00,Match 37
+2022-09-01,Premier League,Leicester City v  Manchester United,19:00:00,Match 5
+2022-09-03,Premier League,Aston Villa v Manchester City,,Match 6
+2022-09-03,Premier League,Brentford v Leeds United,,Match 6
+2022-09-03,Premier League,Brighton and Hove Albion v Leicester City,,Match 6
+2022-09-03,Premier League,Chelsea v West Ham United,,Match 6
+2022-09-03,Premier League,Everton v Liverpool,,Match 6
+2022-09-03,Premier League,Manchester United v Arsenal,,Match 6
+2022-09-03,Premier League,Newcastle United v Crystal Palace,,Match 6
+2022-09-03,Premier League,Nottingham Forest v Bournemouth,,Match 6
+2022-09-03,Premier League,Tottenham Hotspur v Fulham,,Match 6
+2022-09-03,Premier League,Wolverhampton Wanderers v Southampton,,Match 6
+2022-09-10,Premier League,Arsenal v Everton,,Match 7
+2022-09-10,Premier League,Bournemouth v Brighton and Hove Albion,,Match 7
+2022-09-10,Premier League,Crystal Palace v Manchester United,,Match 7
+2022-09-10,Premier League,Fulham v Chelsea,,Match 7
+2022-09-10,Premier League,Leeds United v Nottingham Forest,,Match 7
+2022-09-10,Premier League,Leicester City v Aston Villa,,Match 7
+2022-09-10,Premier League,Liverpool v Wolverhampton Wanderers,,Match 7
+2022-09-10,Premier League,Manchester City v Tottenham Hotspur,,Match 7
+2022-09-10,Premier League,Southampton v Brentford,,Match 7
+2022-09-10,Premier League,West Ham United v Newcastle United,,Match 7
+2022-09-17,Premier League,Aston Villa v Southampton,,Match 8
+2022-09-17,Premier League,Brentford v Arsenal,,Match 8
+2022-09-17,Premier League,Brighton and Hove Albion v Crystal Palace,,Match 8
+2022-09-17,Premier League,Chelsea v Liverpool,,Match 8
+2022-09-17,Premier League,Everton v West Ham United,,Match 8
+2022-09-17,Premier League,Manchester United v Leeds United,,Match 8
+2022-09-17,Premier League,Newcastle United v Bournemouth,,Match 8
+2022-09-17,Premier League,Nottingham Forest v Fulham,,Match 8
+2022-09-17,Premier League,Tottenham Hotspur v Leicester City,,Match 8
+2022-09-17,Premier League,Wolverhampton Wanderers v Manchester City,,Match 8
+2022-10-01,Premier League,Arsenal v Tottenham Hotspur,,Match 9
+2022-10-01,Premier League,Bournemouth v Brentford,,Match 9
+2022-10-01,Premier League,Crystal Palace v Chelsea,,Match 9
+2022-10-01,Premier League,Fulham v Newcastle United,,Match 9
+2022-10-01,Premier League,Leeds United v Aston Villa,,Match 9
+2022-10-01,Premier League,Leicester City v Nottingham Forest,,Match 9
+2022-10-01,Premier League,Liverpool v Brighton and Hove Albion,,Match 9
+2022-10-01,Premier League,Manchester City v Manchester United,,Match 9
+2022-10-01,Premier League,Southampton v Everton,,Match 9
+2022-10-01,Premier League,West Ham United v Wolverhampton Wanderers,,Match 9
+2022-10-08,Premier League,Arsenal v Liverpool,,Match 10
+2022-10-08,Premier League,Bournemouth v Leicester City,,Match 10
+2022-10-08,Premier League,Brighton and Hove Albion v Tottenham Hotspur,,Match 10
+2022-10-08,Premier League,Chelsea v Wolverhampton Wanderers,,Match 10
+2022-10-08,Premier League,Crystal Palace v Leeds United,,Match 10
+2022-10-08,Premier League,Everton v Manchester United,,Match 10
+2022-10-08,Premier League,Manchester City v Southampton,,Match 10
+2022-10-08,Premier League,Newcastle United v Brentford,,Match 10
+2022-10-08,Premier League,Nottingham Forest v Aston Villa,,Match 10
+2022-10-08,Premier League,West Ham United v Fulham,,Match 10
+2022-10-15,Premier League,Aston Villa v Chelsea,,Match 11
+2022-10-15,Premier League,Brentford v Brighton and Hove Albion,,Match 11
+2022-10-15,Premier League,Fulham v Bournemouth,,Match 11
+2022-10-15,Premier League,Leeds United v Arsenal,,Match 11
+2022-10-15,Premier League,Leicester City v Crystal Palace,,Match 11
+2022-10-15,Premier League,Liverpool v Manchester City,,Match 11
+2022-10-15,Premier League,Manchester United v Newcastle United,,Match 11
+2022-10-15,Premier League,Southampton v West Ham United,,Match 11
+2022-10-15,Premier League,Tottenham Hotspur v Everton,,Match 11
+2022-10-15,Premier League,Wolverhampton Wanderers v Nottingham Forest,,Match 11
+2022-10-18,Premier League,Arsenal v  Manchester City,,Match 12
+2022-10-18,Premier League,Bournemouth v  Southampton,,Match 12
+2022-10-18,Premier League,Brentford v  Chelsea,,Match 12
+2022-10-18,Premier League,Brighton and Hove Albion v  Nottingham Forest,,Match 12
+2022-10-18,Premier League,Fulham v  Aston Villa,,Match 12
+2022-10-18,Premier League,Leicester City v  Leeds United,,Match 12
+2022-10-18,Premier League,Crystal Palace v Wolverhampton Wanderers,,Match 12
+2022-10-19,Premier League,Newcastle United v  Everton,,Match 12
+2022-10-19,Premier League,Liverpool v West Ham United,,Match 12
+2022-10-19,Premier League,Manchester United v Tottenham Hotspur,,Match 12
+2022-10-22,Premier League,Aston Villa v Brentford,,Match 13
+2022-10-22,Premier League,Chelsea v Manchester United,,Match 13
+2022-10-22,Premier League,Everton v Crystal Palace,,Match 13
+2022-10-22,Premier League,Leeds United v Fulham,,Match 13
+2022-10-22,Premier League,Manchester City v Brighton and Hove Albion,,Match 13
+2022-10-22,Premier League,Nottingham Forest v Liverpool,,Match 13
+2022-10-22,Premier League,Southampton v Arsenal,,Match 13
+2022-10-22,Premier League,Tottenham Hotspur v Newcastle United,,Match 13
+2022-10-22,Premier League,West Ham United v Bournemouth,,Match 13
+2022-10-22,Premier League,Wolverhampton Wanderers v Leicester City,,Match 13
+2022-10-29,Premier League,Arsenal v Nottingham Forest,,Match 14
+2022-10-29,Premier League,Bournemouth v Tottenham Hotspur,,Match 14
+2022-10-29,Premier League,Brentford v Wolverhampton Wanderers,,Match 14
+2022-10-29,Premier League,Brighton and Hove Albion v Chelsea,,Match 14
+2022-10-29,Premier League,Crystal Palace v Southampton,,Match 14
+2022-10-29,Premier League,Fulham v Everton,,Match 14
+2022-10-29,Premier League,Leicester City v Manchester City,,Match 14
+2022-10-29,Premier League,Liverpool v Leeds United,,Match 14
+2022-10-29,Premier League,Manchester United v West Ham United,,Match 14
+2022-10-29,Premier League,Newcastle United v Aston Villa,,Match 14
+2022-11-05,Premier League,Aston Villa v Manchester United,,Match 15
+2022-11-05,Premier League,Chelsea v Arsenal,,Match 15
+2022-11-05,Premier League,Everton v Leicester City,,Match 15
+2022-11-05,Premier League,Leeds United v Bournemouth,,Match 15
+2022-11-05,Premier League,Manchester City v Fulham,,Match 15
+2022-11-05,Premier League,Nottingham Forest v Brentford,,Match 15
+2022-11-05,Premier League,Southampton v Newcastle United,,Match 15
+2022-11-05,Premier League,Tottenham Hotspur v Liverpool,,Match 15
+2022-11-05,Premier League,West Ham United v Crystal Palace,,Match 15
+2022-11-05,Premier League,Wolverhampton Wanderers v Brighton and Hove Albion,,Match 15
+2022-11-12,Premier League,Bournemouth v Everton,,Match 16
+2022-11-12,Premier League,Brighton and Hove Albion v Aston Villa,,Match 16
+2022-11-12,Premier League,Fulham v Manchester United,,Match 16
+2022-11-12,Premier League,Liverpool v Southampton,,Match 16
+2022-11-12,Premier League,Manchester City v Brentford,,Match 16
+2022-11-12,Premier League,Newcastle United v Chelsea,,Match 16
+2022-11-12,Premier League,Nottingham Forest v Crystal Palace,,Match 16
+2022-11-12,Premier League,Tottenham Hotspur v Leeds United,,Match 16
+2022-11-12,Premier League,West Ham United v Leicester City,,Match 16
+2022-11-12,Premier League,Wolverhampton Wanderers v Arsenal,,Match 16
+2022-12-26,Premier League,Arsenal v West Ham United,,Match 17
+2022-12-26,Premier League,Aston Villa v Liverpool,,Match 17
+2022-12-26,Premier League,Brentford v Tottenham Hotspur,,Match 17
+2022-12-26,Premier League,Chelsea v Bournemouth,,Match 17
+2022-12-26,Premier League,Crystal Palace v Fulham,,Match 17
+2022-12-26,Premier League,Everton v Wolverhampton Wanderers,,Match 17
+2022-12-26,Premier League,Leeds United v Manchester City,,Match 17
+2022-12-26,Premier League,Leicester City v Newcastle United,,Match 17
+2022-12-26,Premier League,Manchester United v Nottingham Forest,,Match 17
+2022-12-26,Premier League,Southampton v Brighton and Hove Albion,,Match 17
+2022-12-31,Premier League,Bournemouth v Crystal Palace,,Match 18
+2022-12-31,Premier League,Brighton and Hove Albion v Arsenal,,Match 18
+2022-12-31,Premier League,Fulham v Southampton,,Match 18
+2022-12-31,Premier League,Liverpool v Leicester City,,Match 18
+2022-12-31,Premier League,Manchester City v Everton,,Match 18
+2022-12-31,Premier League,Newcastle United v Leeds United,,Match 18
+2022-12-31,Premier League,Nottingham Forest v Chelsea,,Match 18
+2022-12-31,Premier League,Tottenham Hotspur v Aston Villa,,Match 18
+2022-12-31,Premier League,West Ham United v Brentford,,Match 18
+2022-12-31,Premier League,Wolverhampton Wanderers v Manchester United,,Match 18
+2023-01-02,Premier League,Arsenal v Newcastle United,,Match 19
+2023-01-02,Premier League,Aston Villa v Wolverhampton Wanderers,,Match 19
+2023-01-02,Premier League,Brentford v Liverpool,,Match 19
+2023-01-02,Premier League,Chelsea v Manchester City,,Match 19
+2023-01-02,Premier League,Crystal Palace v Tottenham Hotspur,,Match 19
+2023-01-02,Premier League,Everton v Brighton and Hove Albion,,Match 19
+2023-01-02,Premier League,Leeds United v West Ham United,,Match 19
+2023-01-02,Premier League,Leicester City v Fulham,,Match 19
+2023-01-02,Premier League,Manchester United v Bournemouth,,Match 19
+2023-01-02,Premier League,Southampton v Nottingham Forest,,Match 19
+2023-01-14,Premier League,Aston Villa v Leeds United,,Match 20
+2023-01-14,Premier League,Brentford v Bournemouth,,Match 20
+2023-01-14,Premier League,Brighton and Hove Albion v Liverpool,,Match 20
+2023-01-14,Premier League,Chelsea v Crystal Palace,,Match 20
+2023-01-14,Premier League,Everton v Southampton,,Match 20
+2023-01-14,Premier League,Manchester United v Manchester City,,Match 20
+2023-01-14,Premier League,Newcastle United v Fulham,,Match 20
+2023-01-14,Premier League,Nottingham Forest v Leicester City,,Match 20
+2023-01-14,Premier League,Tottenham Hotspur v Arsenal,,Match 20
+2023-01-14,Premier League,Wolverhampton Wanderers v West Ham United,,Match 20
+2023-01-21,Premier League,Arsenal v Manchester United,,Match 21
+2023-01-21,Premier League,Bournemouth v Nottingham Forest,,Match 21
+2023-01-21,Premier League,Crystal Palace v Newcastle United,,Match 21
+2023-01-21,Premier League,Fulham v Tottenham Hotspur,,Match 21
+2023-01-21,Premier League,Leeds United v Brentford,,Match 21
+2023-01-21,Premier League,Leicester City v Brighton and Hove Albion,,Match 21
+2023-01-21,Premier League,Liverpool v Chelsea,,Match 21
+2023-01-21,Premier League,Manchester City v Wolverhampton Wanderers,,Match 21
+2023-01-21,Premier League,Southampton v Aston Villa,,Match 21
+2023-01-21,Premier League,West Ham United v Everton,,Match 21
+2023-02-04,Premier League,Aston Villa v Leicester City,,Match 22
+2023-02-04,Premier League,Brentford v Southampton,,Match 22
+2023-02-04,Premier League,Brighton and Hove Albion v Bournemouth,,Match 22
+2023-02-04,Premier League,Chelsea v Fulham,,Match 22
+2023-02-04,Premier League,Everton v Arsenal,,Match 22
+2023-02-04,Premier League,Manchester United v Crystal Palace,,Match 22
+2023-02-04,Premier League,Newcastle United v West Ham United,,Match 22
+2023-02-04,Premier League,Nottingham Forest v Leeds United,,Match 22
+2023-02-04,Premier League,Tottenham Hotspur v Manchester City,,Match 22
+2023-02-04,Premier League,Wolverhampton Wanderers v Liverpool,,Match 22
+2023-02-11,Premier League,Arsenal v Brentford,,Match 23
+2023-02-11,Premier League,Bournemouth v Newcastle United,,Match 23
+2023-02-11,Premier League,Crystal Palace v Brighton and Hove Albion,,Match 23
+2023-02-11,Premier League,Fulham v Nottingham Forest,,Match 23
+2023-02-11,Premier League,Leeds United v Manchester United,,Match 23
+2023-02-11,Premier League,Leicester City v Tottenham Hotspur,,Match 23
+2023-02-11,Premier League,Liverpool v Everton,,Match 23
+2023-02-11,Premier League,Manchester City v Aston Villa,,Match 23
+2023-02-11,Premier League,Southampton v Wolverhampton Wanderers,,Match 23
+2023-02-11,Premier League,West Ham United v Chelsea,,Match 23
+2023-02-18,Premier League,Aston Villa v Arsenal,,Match 24
+2023-02-18,Premier League,Brentford v Crystal Palace,,Match 24
+2023-02-18,Premier League,Brighton and Hove Albion v Fulham,,Match 24
+2023-02-18,Premier League,Chelsea v Southampton,,Match 24
+2023-02-18,Premier League,Everton v Leeds United,,Match 24
+2023-02-18,Premier League,Manchester United v Leicester City,,Match 24
+2023-02-18,Premier League,Newcastle United v Liverpool,,Match 24
+2023-02-18,Premier League,Nottingham Forest v Manchester City,,Match 24
+2023-02-18,Premier League,Tottenham Hotspur v West Ham United,,Match 24
+2023-02-18,Premier League,Wolverhampton Wanderers v Bournemouth,,Match 24
+2023-02-25,Premier League,Bournemouth v Manchester City,,Match 25
+2023-02-25,Premier League,Crystal Palace v Liverpool,,Match 25
+2023-02-25,Premier League,Everton v Aston Villa,,Match 25
+2023-02-25,Premier League,Fulham v Wolverhampton Wanderers,,Match 25
+2023-02-25,Premier League,Leeds United v Southampton,,Match 25
+2023-02-25,Premier League,Leicester City v Arsenal,,Match 25
+2023-02-25,Premier League,Manchester United v Brentford,,Match 25
+2023-02-25,Premier League,Newcastle United v Brighton and Hove Albion,,Match 25
+2023-02-25,Premier League,Tottenham Hotspur v Chelsea,,Match 25
+2023-02-25,Premier League,West Ham United v Nottingham Forest,,Match 25
+2023-03-04,Premier League,Arsenal v Bournemouth,,Match 26
+2023-03-04,Premier League,Aston Villa v Crystal Palace,,Match 26
+2023-03-04,Premier League,Brentford v Fulham,,Match 26
+2023-03-04,Premier League,Brighton and Hove Albion v West Ham United,,Match 26
+2023-03-04,Premier League,Chelsea v Leeds United,,Match 26
+2023-03-04,Premier League,Liverpool v Manchester United,,Match 26
+2023-03-04,Premier League,Manchester City v Newcastle United,,Match 26
+2023-03-04,Premier League,Nottingham Forest v Everton,,Match 26
+2023-03-04,Premier League,Southampton v Leicester City,,Match 26
+2023-03-04,Premier League,Wolverhampton Wanderers v Tottenham Hotspur,,Match 26
+2023-03-11,Premier League,Bournemouth v Liverpool,,Match 27
+2023-03-11,Premier League,Crystal Palace v Manchester City,,Match 27
+2023-03-11,Premier League,Everton v Brentford,,Match 27
+2023-03-11,Premier League,Fulham v Arsenal,,Match 27
+2023-03-11,Premier League,Leeds United v Brighton and Hove Albion,,Match 27
+2023-03-11,Premier League,Leicester City v Chelsea,,Match 27
+2023-03-11,Premier League,Manchester United v Southampton,,Match 27
+2023-03-11,Premier League,Newcastle United v Wolverhampton Wanderers,,Match 27
+2023-03-11,Premier League,Tottenham Hotspur v Nottingham Forest,,Match 27
+2023-03-11,Premier League,West Ham United v Aston Villa,,Match 27
+2023-03-18,Premier League,Arsenal v Crystal Palace,,Match 28
+2023-03-18,Premier League,Aston Villa v Bournemouth,,Match 28
+2023-03-18,Premier League,Brentford v Leicester City,,Match 28
+2023-03-18,Premier League,Brighton and Hove Albion v Manchester United,,Match 28
+2023-03-18,Premier League,Chelsea v Everton,,Match 28
+2023-03-18,Premier League,Liverpool v Fulham,,Match 28
+2023-03-18,Premier League,Manchester City v West Ham United,,Match 28
+2023-03-18,Premier League,Nottingham Forest v Newcastle United,,Match 28
+2023-03-18,Premier League,Southampton v Tottenham Hotspur,,Match 28
+2023-03-18,Premier League,Wolverhampton Wanderers v Leeds United,,Match 28
+2023-04-01,Premier League,Arsenal v Leeds United,,Match 29
+2023-04-01,Premier League,Bournemouth v Fulham,,Match 29
+2023-04-01,Premier League,Brighton and Hove Albion v Brentford,,Match 29
+2023-04-01,Premier League,Chelsea v Aston Villa,,Match 29
+2023-04-01,Premier League,Crystal Palace v Leicester City,,Match 29
+2023-04-01,Premier League,Everton v Tottenham Hotspur,,Match 29
+2023-04-01,Premier League,Manchester City v Liverpool,,Match 29
+2023-04-01,Premier League,Newcastle United v Manchester United,,Match 29
+2023-04-01,Premier League,Nottingham Forest v Wolverhampton Wanderers,,Match 29
+2023-04-01,Premier League,West Ham United v Southampton,,Match 29
+2023-04-08,Premier League,Aston Villa v Nottingham Forest,,Match 30
+2023-04-08,Premier League,Brentford v Newcastle United,,Match 30
+2023-04-08,Premier League,Fulham v West Ham United,,Match 30
+2023-04-08,Premier League,Leeds United v Crystal Palace,,Match 30
+2023-04-08,Premier League,Leicester City v Bournemouth,,Match 30
+2023-04-08,Premier League,Liverpool v Arsenal,,Match 30
+2023-04-08,Premier League,Manchester United v Everton,,Match 30
+2023-04-08,Premier League,Southampton v Manchester City,,Match 30
+2023-04-08,Premier League,Tottenham Hotspur v Brighton and Hove Albion,,Match 30
+2023-04-08,Premier League,Wolverhampton Wanderers v Chelsea,,Match 30
+2023-04-15,Premier League,Aston Villa v Newcastle United,,Match 31
+2023-04-15,Premier League,Chelsea v Brighton and Hove Albion,,Match 31
+2023-04-15,Premier League,Everton v Fulham,,Match 31
+2023-04-15,Premier League,Leeds United v Liverpool,,Match 31
+2023-04-15,Premier League,Manchester City v Leicester City,,Match 31
+2023-04-15,Premier League,Nottingham Forest v Manchester United,,Match 31
+2023-04-15,Premier League,Southampton v Crystal Palace,,Match 31
+2023-04-15,Premier League,Tottenham Hotspur v Bournemouth,,Match 31
+2023-04-15,Premier League,West Ham United v Arsenal,,Match 31
+2023-04-15,Premier League,Wolverhampton Wanderers v Brentford,,Match 31
+2023-04-22,Premier League,Arsenal v Southampton,,Match 32
+2023-04-22,Premier League,Bournemouth v West Ham United,,Match 32
+2023-04-22,Premier League,Brentford v Aston Villa,,Match 32
+2023-04-22,Premier League,Brighton and Hove Albion v Manchester City,,Match 32
+2023-04-22,Premier League,Crystal Palace v Everton,,Match 32
+2023-04-22,Premier League,Fulham v Leeds United,,Match 32
+2023-04-22,Premier League,Leicester City v Wolverhampton Wanderers,,Match 32
+2023-04-22,Premier League,Liverpool v Nottingham Forest,,Match 32
+2023-04-22,Premier League,Manchester United v Chelsea,,Match 32
+2023-04-22,Premier League,Newcastle United v Tottenham Hotspur,,Match 32
+2023-04-25,Premier League,Everton v  Newcastle United,,Match 33
+2023-04-25,Premier League,Leeds United v  Leicester City,,Match 33
+2023-04-25,Premier League,Nottingham Forest v  Brighton and Hove Albion,,Match 33
+2023-04-25,Premier League,Tottenham Hotspur v  Manchester United,,Match 33
+2023-04-25,Premier League,West Ham United v  Liverpool,,Match 33
+2023-04-25,Premier League,Wolverhampton Wanderers v  Crystal Palace,,Match 33
+2023-04-25,Premier League,Aston Villa v Fulham,,Match 33
+2023-04-26,Premier League,Chelsea v  Brentford,,Match 33
+2023-04-26,Premier League,Southampton v  Bournemouth,,Match 33
+2023-04-26,Premier League,Manchester City v Arsenal,,Match 33
+2023-04-29,Premier League,Arsenal v Chelsea,,Match 34
+2023-04-29,Premier League,Bournemouth v Leeds United,,Match 34
+2023-04-29,Premier League,Brentford v Nottingham Forest,,Match 34
+2023-04-29,Premier League,Brighton and Hove Albion v Wolverhampton Wanderers,,Match 34
+2023-04-29,Premier League,Crystal Palace v West Ham United,,Match 34
+2023-04-29,Premier League,Fulham v Manchester City,,Match 34
+2023-04-29,Premier League,Leicester City v Everton,,Match 34
+2023-04-29,Premier League,Liverpool v Tottenham Hotspur,,Match 34
+2023-04-29,Premier League,Manchester United v Aston Villa,,Match 34
+2023-04-29,Premier League,Newcastle United v Southampton,,Match 34
+2023-05-06,Premier League,Bournemouth v Chelsea,,Match 35
+2023-05-06,Premier League,Brighton and Hove Albion v Everton,,Match 35
+2023-05-06,Premier League,Fulham v Leicester City,,Match 35
+2023-05-06,Premier League,Liverpool v Brentford,,Match 35
+2023-05-06,Premier League,Manchester City v Leeds United,,Match 35
+2023-05-06,Premier League,Newcastle United v Arsenal,,Match 35
+2023-05-06,Premier League,Nottingham Forest v Southampton,,Match 35
+2023-05-06,Premier League,Tottenham Hotspur v Crystal Palace,,Match 35
+2023-05-06,Premier League,West Ham United v Manchester United,,Match 35
+2023-05-06,Premier League,Wolverhampton Wanderers v Aston Villa,,Match 35
+2023-05-13,Premier League,Arsenal v Brighton and Hove Albion,,Match 36
+2023-05-13,Premier League,Aston Villa v Tottenham Hotspur,,Match 36
+2023-05-13,Premier League,Brentford v West Ham United,,Match 36
+2023-05-13,Premier League,Chelsea v Nottingham Forest,,Match 36
+2023-05-13,Premier League,Crystal Palace v Bournemouth,,Match 36
+2023-05-13,Premier League,Everton v Manchester City,,Match 36
+2023-05-13,Premier League,Leeds United v Newcastle United,,Match 36
+2023-05-13,Premier League,Leicester City v Liverpool,,Match 36
+2023-05-13,Premier League,Manchester United v Wolverhampton Wanderers,,Match 36
+2023-05-13,Premier League,Southampton v Fulham,,Match 36
+2023-05-20,Premier League,Bournemouth v Manchester United,,Match 37
+2023-05-20,Premier League,Brighton and Hove Albion v Southampton,,Match 37
+2023-05-20,Premier League,Fulham v Crystal Palace,,Match 37
+2023-05-20,Premier League,Liverpool v Aston Villa,,Match 37
+2023-05-20,Premier League,Manchester City v Chelsea,,Match 37
+2023-05-20,Premier League,Newcastle United v Leicester City,,Match 37
+2023-05-20,Premier League,Nottingham Forest v Arsenal,,Match 37
+2023-05-20,Premier League,Tottenham Hotspur v Brentford,,Match 37
+2023-05-20,Premier League,West Ham United v Leeds United,,Match 37
+2023-05-20,Premier League,Wolverhampton Wanderers v Everton,,Match 37
 2023-05-28,Premier League,Arsenal v Wolverhampton Wanderers,15:00:00,Match 38
 2023-05-28,Premier League,Aston Villa v Brighton and Hove Albion,15:00:00,Match 38
 2023-05-28,Premier League,Brentford v Manchester City,15:00:00,Match 38
@@ -4105,6 +4105,7 @@ date,league,teams,time,note_1
 2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
+2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:00:00,Match 1
 2022-08-07,Primeira Liga,Benfica v Arouca,15:00:00,Match 1
 2022-08-07,Primeira Liga,Chaves v Vitória Guimarães,15:00:00,Match 1
 2022-08-07,Primeira Liga,Estoril Praia v FC Famalicão,15:00:00,Match 1
@@ -4112,7 +4113,6 @@ date,league,teams,time,note_1
 2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,15:00:00,Match 1
 2022-08-07,Primeira Liga,Portimonense v Boavista,15:00:00,Match 1
 2022-08-07,Primeira Liga,Rio Ave v Vizela,15:00:00,Match 1
-2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:00:00,Match 1
 2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,15:00:00,Match 1
 2022-08-14,Primeira Liga,Arouca v Gil Vicente,15:00:00,Match 2
 2022-08-14,Primeira Liga,Boavista v Santa Clara,15:00:00,Match 2
@@ -4123,6 +4123,7 @@ date,league,teams,time,note_1
 2022-08-14,Primeira Liga,Sporting Lisbon v Rio Ave,15:00:00,Match 2
 2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,15:00:00,Match 2
 2022-08-14,Primeira Liga,Vizela v FC Porto,15:00:00,Match 2
+2022-08-21,Primeira Liga,Santa Clara v Arouca,14:00:00,Match 3
 2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,15:00:00,Match 3
 2022-08-21,Primeira Liga,Casa Pia AC v Boavista,15:00:00,Match 3
 2022-08-21,Primeira Liga,Chaves v Vizela,15:00:00,Match 3
@@ -4130,7 +4131,6 @@ date,league,teams,time,note_1
 2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,15:00:00,Match 3
 2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,15:00:00,Match 3
 2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,15:00:00,Match 3
-2022-08-21,Primeira Liga,Santa Clara v Arouca,14:00:00,Match 3
 2022-08-21,Primeira Liga,Sporting Braga v Marítimo,15:00:00,Match 3
 2022-08-28,Primeira Liga,Arouca v Sporting Braga,,Match 4
 2022-08-28,Primeira Liga,Boavista v Benfica,,Match 4
@@ -5373,10 +5373,10 @@ date,league,teams,time,note_1
 2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
+2022-07-23,Veikkausliiga,Ilves v HJK Helsinki,11:00:00,Match 15
 2022-07-23,Veikkausliiga,AC Oulu v IFK Mariehamn,14:00:00,Match 15
-2022-07-23,Veikkausliiga,Ilves v HJK Helsinki,14:00:00,Match 15
-2022-07-23,Veikkausliiga,KuPS Kuopio v HIFK Helsinki,14:00:00,Match 15
 2022-07-23,Veikkausliiga,VPS Vaasa v Haka,14:00:00,Match 15
+2022-07-24,Veikkausliiga,KuPS Kuopio v HIFK Helsinki,13:00:00,Match 15
 2022-07-24,Veikkausliiga,Lahti v SJK,13:00:00,Match 15
 2022-07-25,Veikkausliiga,Inter Turku v FC Honka,15:00:00,Match 16
 2022-07-29,Veikkausliiga,Lahti v Ilves,15:00:00,Match 16
