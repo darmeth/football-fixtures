@@ -125,12 +125,6 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-127,2022-07-20,Brazilian Série A,Ceara v Avai,00:30:00,Match 18
-128,2022-07-20,Brazilian Série A,Goias v Fluminense,22:00:00,Match 18
-129,2022-07-20,Brazilian Série A,Bragantino v Fortaleza,22:00:00,Match 18
-130,2022-07-20,Brazilian Série A,Atletico Paranaense v Atletico Goianiense,22:30:00,Match 18
-131,2022-07-20,Brazilian Série A,Flamengo v Juventude,23:30:00,Match 18
-132,2022-07-20,Brazilian Série A,Internacional v Sao Paulo,23:30:00,Match 18
 133,2022-07-21,Brazilian Série A,Corinthians v Coritiba,00:30:00,Match 18
 134,2022-07-21,Brazilian Série A,Santos v Botafogo,00:30:00,Match 18
 135,2022-07-21,Brazilian Série A,Cuiaba v Atletico Mineiro,22:00:00,Match 18
@@ -2728,12 +2722,12 @@ ID,date,league,teams,time,note_1
 2727,2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
 2728,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2729,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
-2730,2022-09-01,International Friendly,Mexico v Paraguay,01:00:00,Atlanta – USA
-2731,2022-09-23,International Friendly,Saudi Arabia v Ecuador,17:00:00,Murcia – Spain
+2730,2022-09-01,International Friendly,Mexico v Paraguay,01:00:00,Atlanta (USA)
+2731,2022-09-23,International Friendly,Saudi Arabia v Ecuador,17:00:00,Estadio Enrique Roca de Murcia (Spain)
 2732,2022-09-23,International Friendly,Japan v USA,,
-2733,2022-09-25,International Friendly,New Zealand v Australia,03:00:00,Eden Park – New Zealand
-2734,2022-09-27,International Friendly,Saudi Arabia v USA,,Murcia – Spain
-2735,2022-11-06,International Friendly,Iceland v Saudi Arabia,,
+2733,2022-09-22,International Friendly,Australia v New Zealand,10:00:00,Suncorp Stadium (Australia)
+2734,2022-09-27,International Friendly,Saudi Arabia v USA,17:00:00,Estadio Enrique Roca de Murcia (Spain)
+2735,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2736,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
 2737,2022-07-30,J1 League,Hokkaido Consadole Sapporo v Nagoya Grampus,05:00:00,Match 23
 2738,2022-07-30,J1 League,Júbilo Iwata v Shonan Bellmare,09:30:00,Match 23
@@ -2882,7 +2876,7 @@ ID,date,league,teams,time,note_1
 2881,2022-09-04,La Liga,Osasuna v Rayo Vallecano,12:00:00,Match 4
 2882,2022-09-04,La Liga,Athletic Bilbao v Espanyol,14:15:00,Match 4
 2883,2022-09-04,La Liga,Villarreal v Elche,16:30:00,Match 4
-2884,2022-09-04,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
+2884,2022-09-05,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
 2885,2022-09-04,La Liga,Valencia v Getafe,19:00:00,Match 4
 2886,2022-09-11,La Liga,Almeria v Osasuna,,Match 5
 2887,2022-09-11,La Liga,Atletico Madrid v Celta Vigo,,Match 5
@@ -3765,16 +3759,16 @@ ID,date,league,teams,time,note_1
 3764,2022-08-28,Premier League,Aston Villa v West Ham United,13:00:00,Match 4
 3765,2022-08-28,Premier League,Wolverhampton Wanderers v Newcastle United,13:00:00,Match 4
 3766,2022-08-28,Premier League,Nottingham Forest v Tottenham Hotspur,15:30:00,Match 4
-3767,2022-08-30,Premier League,Fulham v  Brighton and Hove Albion,18:30:00,Match 5
-3768,2022-08-30,Premier League,Leeds United v  Everton,18:30:00,Match 5
+3767,2022-08-30,Premier League,Fulham v Brighton and Hove Albion,18:30:00,Match 5
+3768,2022-08-30,Premier League,Leeds United v Everton,18:30:00,Match 5
 3769,2022-08-30,Premier League,Crystal Palace v Brentford,19:00:00,Match 5
-3770,2022-08-31,Premier League,Arsenal v  Aston Villa,18:30:00,Match 5
-3771,2022-08-31,Premier League,Bournemouth v  Wolverhampton Wanderers,18:30:00,Match 5
+3770,2022-08-31,Premier League,Arsenal v Aston Villa,18:30:00,Match 5
+3771,2022-08-31,Premier League,Bournemouth v Wolverhampton Wanderers,18:30:00,Match 5
 3772,2022-08-31,Premier League,Manchester City v Nottingham Forest,18:30:00,Match 5
-3773,2022-08-31,Premier League,West Ham United v  Tottenham Hotspur,18:45:00,Match 5
-3774,2022-08-31,Premier League,Southampton v  Chelsea,18:45:00,Match 5
+3773,2022-08-31,Premier League,West Ham United v Tottenham Hotspur,18:45:00,Match 5
+3774,2022-08-31,Premier League,Southampton v Chelsea,18:45:00,Match 5
 3775,2022-08-31,Premier League,Liverpool v Newcastle United,19:00:00,Match 5
-3776,2022-09-01,Premier League,Leicester City v  Manchester United,19:00:00,Match 5
+3776,2022-09-01,Premier League,Leicester City v Manchester United,19:00:00,Match 5
 3777,2022-09-03,Premier League,Aston Villa v Manchester City,,Match 6
 3778,2022-09-03,Premier League,Brentford v Leeds United,,Match 6
 3779,2022-09-03,Premier League,Brighton and Hove Albion v Leicester City,,Match 6
@@ -3835,14 +3829,14 @@ ID,date,league,teams,time,note_1
 3834,2022-10-15,Premier League,Southampton v West Ham United,,Match 11
 3835,2022-10-15,Premier League,Tottenham Hotspur v Everton,,Match 11
 3836,2022-10-15,Premier League,Wolverhampton Wanderers v Nottingham Forest,,Match 11
-3837,2022-10-18,Premier League,Arsenal v  Manchester City,,Match 12
-3838,2022-10-18,Premier League,Bournemouth v  Southampton,,Match 12
-3839,2022-10-18,Premier League,Brentford v  Chelsea,,Match 12
-3840,2022-10-18,Premier League,Brighton and Hove Albion v  Nottingham Forest,,Match 12
-3841,2022-10-18,Premier League,Fulham v  Aston Villa,,Match 12
-3842,2022-10-18,Premier League,Leicester City v  Leeds United,,Match 12
+3837,2022-10-18,Premier League,Arsenal v Manchester City,,Match 12
+3838,2022-10-18,Premier League,Bournemouth v Southampton,,Match 12
+3839,2022-10-18,Premier League,Brentford v Chelsea,,Match 12
+3840,2022-10-18,Premier League,Brighton and Hove Albion v Nottingham Forest,,Match 12
+3841,2022-10-18,Premier League,Fulham v Aston Villa,,Match 12
+3842,2022-10-18,Premier League,Leicester City v Leeds United,,Match 12
 3843,2022-10-18,Premier League,Crystal Palace v Wolverhampton Wanderers,,Match 12
-3844,2022-10-19,Premier League,Newcastle United v  Everton,,Match 12
+3844,2022-10-19,Premier League,Newcastle United v Everton,,Match 12
 3845,2022-10-19,Premier League,Liverpool v West Ham United,,Match 12
 3846,2022-10-19,Premier League,Manchester United v Tottenham Hotspur,,Match 12
 3847,2022-10-22,Premier League,Aston Villa v Brentford,,Match 13
@@ -4045,15 +4039,15 @@ ID,date,league,teams,time,note_1
 4044,2023-04-22,Premier League,Liverpool v Nottingham Forest,,Match 32
 4045,2023-04-22,Premier League,Manchester United v Chelsea,,Match 32
 4046,2023-04-22,Premier League,Newcastle United v Tottenham Hotspur,,Match 32
-4047,2023-04-25,Premier League,Everton v  Newcastle United,,Match 33
-4048,2023-04-25,Premier League,Leeds United v  Leicester City,,Match 33
-4049,2023-04-25,Premier League,Nottingham Forest v  Brighton and Hove Albion,,Match 33
-4050,2023-04-25,Premier League,Tottenham Hotspur v  Manchester United,,Match 33
-4051,2023-04-25,Premier League,West Ham United v  Liverpool,,Match 33
-4052,2023-04-25,Premier League,Wolverhampton Wanderers v  Crystal Palace,,Match 33
+4047,2023-04-25,Premier League,Everton v Newcastle United,,Match 33
+4048,2023-04-25,Premier League,Leeds United v Leicester City,,Match 33
+4049,2023-04-25,Premier League,Nottingham Forest v Brighton and Hove Albion,,Match 33
+4050,2023-04-25,Premier League,Tottenham Hotspur v Manchester United,,Match 33
+4051,2023-04-25,Premier League,West Ham United v Liverpool,,Match 33
+4052,2023-04-25,Premier League,Wolverhampton Wanderers v Crystal Palace,,Match 33
 4053,2023-04-25,Premier League,Aston Villa v Fulham,,Match 33
-4054,2023-04-26,Premier League,Chelsea v  Brentford,,Match 33
-4055,2023-04-26,Premier League,Southampton v  Bournemouth,,Match 33
+4054,2023-04-26,Premier League,Chelsea v Brentford,,Match 33
+4055,2023-04-26,Premier League,Southampton v Bournemouth,,Match 33
 4056,2023-04-26,Premier League,Manchester City v Arsenal,,Match 33
 4057,2023-04-29,Premier League,Arsenal v Chelsea,,Match 34
 4058,2023-04-29,Premier League,Bournemouth v Leeds United,,Match 34
@@ -4105,24 +4099,24 @@ ID,date,league,teams,time,note_1
 4104,2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 4105,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4106,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-4107,2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:00:00,Match 1
-4108,2022-08-07,Primeira Liga,Benfica v Arouca,15:00:00,Match 1
-4109,2022-08-07,Primeira Liga,Chaves v Vitória Guimarães,15:00:00,Match 1
-4110,2022-08-07,Primeira Liga,Estoril Praia v FC Famalicão,15:00:00,Match 1
-4111,2022-08-07,Primeira Liga,FC Porto v Marítimo,15:00:00,Match 1
-4112,2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,15:00:00,Match 1
-4113,2022-08-07,Primeira Liga,Portimonense v Boavista,15:00:00,Match 1
-4114,2022-08-07,Primeira Liga,Rio Ave v Vizela,15:00:00,Match 1
-4115,2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,15:00:00,Match 1
-4116,2022-08-14,Primeira Liga,Arouca v Gil Vicente,15:00:00,Match 2
-4117,2022-08-14,Primeira Liga,Boavista v Santa Clara,15:00:00,Match 2
-4118,2022-08-14,Primeira Liga,Casa Pia AC v Benfica,15:00:00,Match 2
-4119,2022-08-14,Primeira Liga,FC Famalicão v Sporting Braga,15:00:00,Match 2
-4120,2022-08-14,Primeira Liga,Marítimo v Chaves,15:00:00,Match 2
-4121,2022-08-14,Primeira Liga,Paços de Ferreira v Portimonense,15:00:00,Match 2
-4122,2022-08-14,Primeira Liga,Sporting Lisbon v Rio Ave,15:00:00,Match 2
-4123,2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,15:00:00,Match 2
-4124,2022-08-14,Primeira Liga,Vizela v FC Porto,15:00:00,Match 2
+4107,2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:30:00,Match 1
+4108,2022-08-05,Primeira Liga,Benfica v Arouca,19:15:00,Match 1
+4109,2022-08-08,Primeira Liga,Chaves v Vitória Guimarães,20:15:00,Match 1
+4110,2022-08-06,Primeira Liga,Estoril Praia v FC Famalicão,17:00:00,Match 1
+4111,2022-08-06,Primeira Liga,FC Porto v Marítimo,19:30:00,Match 1
+4112,2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,18:00:00,Match 1
+4113,2022-08-07,Primeira Liga,Portimonense v Boavista,19:30:00,Match 1
+4114,2022-08-06,Primeira Liga,Rio Ave v Vizela,14:30:00,Match 1
+4115,2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,17:00:00,Match 1
+4116,2022-08-15,Primeira Liga,Arouca v Gil Vicente,17:00:00,Match 2
+4117,2022-08-14,Primeira Liga,Boavista v Santa Clara,14:30:00,Match 2
+4118,2022-08-12,Primeira Liga,Casa Pia AC v Benfica,19:15:00,Match 2
+4119,2022-08-13,Primeira Liga,FC Famalicão v Sporting Braga,17:00:00,Match 2
+4120,2022-08-15,Primeira Liga,Marítimo v Chaves,14:30:00,Match 2
+4121,2022-08-15,Primeira Liga,Paços de Ferreira v Portimonense,19:30:00,Match 2
+4122,2022-08-13,Primeira Liga,Sporting Lisbon v Rio Ave,19:30:00,Match 2
+4123,2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,19:30:00,Match 2
+4124,2022-08-14,Primeira Liga,Vizela v FC Porto,17:00:00,Match 2
 4125,2022-08-21,Primeira Liga,Santa Clara v Arouca,14:00:00,Match 3
 4126,2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,15:00:00,Match 3
 4127,2022-08-21,Primeira Liga,Casa Pia AC v Boavista,15:00:00,Match 3
@@ -5485,3 +5479,17 @@ ID,date,league,teams,time,note_1
 5484,2022-12-14,World Cup 2022,Winner Match 59 v Winner Match 60,19:00:00,Semi Finals
 5485,2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
 5486,2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals
+5487,2022-09-21,International Friendly,San Marino v Seychelles,19:45:00,San Marino Stadium
+5488,2022-09-23,International Friendly,Canada v Qatar,,
+5489,2022-09-23,International Friendly,Iran v Uruguay,,
+5490,2022-09-23,International Friendly,Paraguay v United Arab Emirates,,
+5491,2022-09-24,International Friendly,Colombia v Guatemala,,Red Bull Arena (NJ USA)
+5492,2022-09-24,International Friendly,Honduras v El Salvador,,
+5493,2022-09-24,International Friendly,Mexico v Peru,,Rose Bowl (CA USA)
+5494,2022-09-25,International Friendly,New Zealand v Australia,03:00:00,Eden Park (New Zealand)
+5495,2022-09-27,International Friendly,Canada v Uruguay,,
+5496,2022-09-27,International Friendly,Chile v Qatar,,
+5497,2022-09-27,International Friendly,Honduras v Guatemala,,
+5498,2022-09-27,International Friendly,Mexico v Colombia,,Levi's Stadium (CA USA)
+5499,2022-09-27,International Friendly,Paraguay v Morocco,,
+5500,2022-10-30,International Friendly,Saudi Arabia v Honduras,,

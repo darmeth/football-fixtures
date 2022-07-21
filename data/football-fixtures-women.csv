@@ -1,121 +1,118 @@
-date,league,teams,time,note_1
-2022-07-20,Women’s World Cup Qualifiers,Tahiti v Vanuatu,04:00:00,Group B (OFC)
-2022-07-20,Women’s World Cup Qualifiers,New Caledonia v Solomon Islands,07:00:00,Group C (OFC)
-2022-07-20,UEFA Women’s Euro 2022,England v Spain,19:00:00,Quarter-final
-2022-07-21,Copa América Femenina,Ecuador v Paraguay,00:00:00,Group Stage – Group A
-2022-07-21,Copa América Femenina,Colombia v Chile,00:00:00,Group Stage – Group A
-2022-07-21,Women’s World Cup Qualifiers,Colombia v Chile,00:00:00,Group A (CONMEBOL)
-2022-07-21,Women’s World Cup Qualifiers,Ecuador v Paraguay,00:00:00,Group A (CONMEBOL)
-2022-07-21,UEFA Women’s Euro 2022,Germany v Austria,19:00:00,Quarter-final
-2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
-2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
-2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
-2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
-2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
-2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
-2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
-2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
-2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
-2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
-2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
-2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
-2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
-2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
-2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
-2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
-2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
-2022-08-07,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
-2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
-2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
-2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,13:00:00,Round 16
-2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
-2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
-2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
-2022-08-14,Norwegian Toppserien,SK Brann v Stabæk,13:00:00,Round 16
-2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
-2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
-2022-08-14,Swedish Damallsvenskan,Piteå v AIK,13:00:00,Round 16
-2022-08-14,Swedish Damallsvenskan,Umeå IK v IFK Kalmar,,Round 16
-2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
-2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
-2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
-2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
-2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
-2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
-2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
-2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
-2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
-2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
-2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
-2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
-2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
-2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
-2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
-2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
-2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18
-2022-08-28,Swedish Damallsvenskan,Kristianstad v Häcken,13:00:00,Round 18
-2022-09-03,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-2022-09-06,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
-2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
-2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
-2022-09-10,Swedish Damallsvenskan,IFK Kalmar v Örebro,13:00:00,Round 19
-2022-09-11,Swedish Damallsvenskan,Piteå v BP,13:00:00,Round 19
-2022-09-11,Swedish Damallsvenskan,Linköping v Eskilstuna,13:00:00,Round 19
-2022-09-12,Swedish Damallsvenskan,Djurgården v Vittsjö,17:00:00,Round 19
-2022-09-17,Swedish Damallsvenskan,Eskilstuna v Häcken,13:00:00,Round 20
-2022-09-18,Swedish Damallsvenskan,BP v Djurgården,11:00:00,Round 20
-2022-09-18,Swedish Damallsvenskan,Örebro v AIK,13:00:00,Round 20
-2022-09-18,Swedish Damallsvenskan,Rosengård v IFK Kalmar,,Round 20
-2022-09-18,Swedish Damallsvenskan,Kristianstad v Hammarby,,Round 20
-2022-09-19,Swedish Damallsvenskan,Umeå IK v Piteå,17:00:00,Round 20
-2022-09-19,Swedish Damallsvenskan,Vittsjö v Linköping,17:00:00,Round 20
-2022-09-23,Swedish Damallsvenskan,Rosengård v Vittsjö,16:00:00,Round 21
-2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
-2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
-2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
-2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
-2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,,Round 21
-2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
-2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Djurgården v AIK,13:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Linköping v Häcken,13:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Piteå v Hammarby,13:00:00,Round 22
-2022-10-02,Swedish Damallsvenskan,Örebro v Rosengård,13:00:00,Round 22
-2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium
-2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium
-2022-10-14,Swedish Damallsvenskan,Rosengård v Eskilstuna,16:00:00,Round 23
-2022-10-16,Swedish Damallsvenskan,BP v Vittsjö,11:00:00,Round 23
-2022-10-16,Swedish Damallsvenskan,IFK Kalmar v Häcken,13:00:00,Round 23
-2022-10-16,Swedish Damallsvenskan,Örebro v Kristianstad,13:00:00,Round 23
-2022-10-16,Swedish Damallsvenskan,Piteå v Linköping,13:00:00,Round 23
-2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,,Round 23
-2022-10-17,Swedish Damallsvenskan,AIK v Hammarby,17:00:00,Round 23
-2022-10-23,Swedish Damallsvenskan,Hammarby v BP,,Round 24
-2022-10-23,Swedish Damallsvenskan,Eskilstuna v Umeå IK,,Round 24
-2022-10-23,Swedish Damallsvenskan,Djurgården v Örebro,,Round 24
-2022-10-23,Swedish Damallsvenskan,Häcken v Piteå,,Round 24
-2022-10-23,Swedish Damallsvenskan,Linköping v IFK Kalmar,,Round 24
-2022-10-23,Swedish Damallsvenskan,Kristianstad v Rosengård,,Round 24
-2022-10-23,Swedish Damallsvenskan,Vittsjö v AIK,,Round 24
-2022-10-30,Swedish Damallsvenskan,Rosengård v Djurgården,,Round 25
-2022-10-30,Swedish Damallsvenskan,Hammarby v Örebro,,Round 25
-2022-10-30,Swedish Damallsvenskan,Häcken v AIK,,Round 25
-2022-10-30,Swedish Damallsvenskan,Umeå IK v BP,,Round 25
-2022-10-30,Swedish Damallsvenskan,Linköping v Kristianstad,,Round 25
-2022-10-30,Swedish Damallsvenskan,Piteå v Vittsjö,,Round 25
-2022-10-30,Swedish Damallsvenskan,IFK Kalmar v Eskilstuna,,Round 25
-2022-11-04,Swedish Damallsvenskan,Djurgården v Häcken,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,AIK v IFK Kalmar,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,Eskilstuna v Piteå,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,BP v Rosengård,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
-2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
+ID,date,league,teams,time,note_1
+1,2022-07-21,Copa América Femenina,Ecuador v Paraguay,00:00:00,Group Stage – Group A
+2,2022-07-21,Copa América Femenina,Colombia v Chile,00:00:00,Group Stage – Group A
+3,2022-07-21,Women’s World Cup Qualifiers,Colombia v Chile,00:00:00,Group A (CONMEBOL)
+4,2022-07-21,Women’s World Cup Qualifiers,Ecuador v Paraguay,00:00:00,Group A (CONMEBOL)
+5,2022-07-21,UEFA Women’s Euro 2022,Germany v Austria,19:00:00,Quarter-final
+6,2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
+7,2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
+8,2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
+9,2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
+10,2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
+11,2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
+12,2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
+13,2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
+14,2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
+15,2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
+16,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
+17,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
+18,2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
+19,2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
+20,2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
+21,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
+22,2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
+23,2022-08-07,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
+24,2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
+25,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
+26,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,13:00:00,Round 16
+27,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
+28,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
+29,2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
+30,2022-08-14,Norwegian Toppserien,SK Brann v Stabæk,13:00:00,Round 16
+31,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
+32,2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
+33,2022-08-14,Swedish Damallsvenskan,Piteå v AIK,13:00:00,Round 16
+34,2022-08-14,Swedish Damallsvenskan,Umeå IK v IFK Kalmar,13:00:00,Round 16
+35,2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
+36,2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
+37,2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
+38,2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
+39,2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
+40,2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
+41,2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
+42,2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
+43,2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
+44,2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
+45,2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
+46,2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
+47,2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
+48,2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
+49,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
+50,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
+51,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
+52,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
+53,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
+54,2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
+55,2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
+56,2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18
+57,2022-08-28,Swedish Damallsvenskan,Kristianstad v Häcken,13:00:00,Round 18
+58,2022-09-03,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
+59,2022-09-06,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
+60,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
+61,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
+62,2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
+63,2022-09-10,Swedish Damallsvenskan,IFK Kalmar v Örebro,13:00:00,Round 19
+64,2022-09-11,Swedish Damallsvenskan,Piteå v BP,13:00:00,Round 19
+65,2022-09-11,Swedish Damallsvenskan,Linköping v Eskilstuna,13:00:00,Round 19
+66,2022-09-12,Swedish Damallsvenskan,Djurgården v Vittsjö,17:00:00,Round 19
+67,2022-09-17,Swedish Damallsvenskan,Eskilstuna v Häcken,13:00:00,Round 20
+68,2022-09-18,Swedish Damallsvenskan,BP v Djurgården,11:00:00,Round 20
+69,2022-09-18,Swedish Damallsvenskan,Örebro v AIK,13:00:00,Round 20
+70,2022-09-18,Swedish Damallsvenskan,Rosengård v IFK Kalmar,,Round 20
+71,2022-09-18,Swedish Damallsvenskan,Kristianstad v Hammarby,,Round 20
+72,2022-09-19,Swedish Damallsvenskan,Umeå IK v Piteå,17:00:00,Round 20
+73,2022-09-19,Swedish Damallsvenskan,Vittsjö v Linköping,17:00:00,Round 20
+74,2022-09-23,Swedish Damallsvenskan,Rosengård v Vittsjö,16:00:00,Round 21
+75,2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
+76,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
+77,2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
+78,2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
+79,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,,Round 21
+80,2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
+81,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
+82,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
+83,2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
+84,2022-10-02,Swedish Damallsvenskan,Djurgården v AIK,13:00:00,Round 22
+85,2022-10-02,Swedish Damallsvenskan,Linköping v Häcken,13:00:00,Round 22
+86,2022-10-02,Swedish Damallsvenskan,Piteå v Hammarby,13:00:00,Round 22
+87,2022-10-02,Swedish Damallsvenskan,Örebro v Rosengård,13:00:00,Round 22
+88,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium
+89,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium
+90,2022-10-14,Swedish Damallsvenskan,Rosengård v Eskilstuna,16:00:00,Round 23
+91,2022-10-16,Swedish Damallsvenskan,BP v Vittsjö,11:00:00,Round 23
+92,2022-10-16,Swedish Damallsvenskan,IFK Kalmar v Häcken,13:00:00,Round 23
+93,2022-10-16,Swedish Damallsvenskan,Örebro v Kristianstad,13:00:00,Round 23
+94,2022-10-16,Swedish Damallsvenskan,Piteå v Linköping,13:00:00,Round 23
+95,2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,,Round 23
+96,2022-10-17,Swedish Damallsvenskan,AIK v Hammarby,17:00:00,Round 23
+97,2022-10-23,Swedish Damallsvenskan,Hammarby v BP,,Round 24
+98,2022-10-23,Swedish Damallsvenskan,Eskilstuna v Umeå IK,,Round 24
+99,2022-10-23,Swedish Damallsvenskan,Djurgården v Örebro,,Round 24
+100,2022-10-23,Swedish Damallsvenskan,Häcken v Piteå,,Round 24
+101,2022-10-23,Swedish Damallsvenskan,Linköping v IFK Kalmar,,Round 24
+102,2022-10-23,Swedish Damallsvenskan,Kristianstad v Rosengård,,Round 24
+103,2022-10-23,Swedish Damallsvenskan,Vittsjö v AIK,,Round 24
+104,2022-10-30,Swedish Damallsvenskan,Rosengård v Djurgården,,Round 25
+105,2022-10-30,Swedish Damallsvenskan,Hammarby v Örebro,,Round 25
+106,2022-10-30,Swedish Damallsvenskan,Häcken v AIK,,Round 25
+107,2022-10-30,Swedish Damallsvenskan,Umeå IK v BP,,Round 25
+108,2022-10-30,Swedish Damallsvenskan,Linköping v Kristianstad,,Round 25
+109,2022-10-30,Swedish Damallsvenskan,Piteå v Vittsjö,,Round 25
+110,2022-10-30,Swedish Damallsvenskan,IFK Kalmar v Eskilstuna,,Round 25
+111,2022-11-04,Swedish Damallsvenskan,Djurgården v Häcken,16:00:00,Round 26
+112,2022-11-04,Swedish Damallsvenskan,AIK v IFK Kalmar,16:00:00,Round 26
+113,2022-11-04,Swedish Damallsvenskan,Eskilstuna v Piteå,16:00:00,Round 26
+114,2022-11-04,Swedish Damallsvenskan,BP v Rosengård,16:00:00,Round 26
+115,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
+116,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
+117,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26

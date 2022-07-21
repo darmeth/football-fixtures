@@ -1,5 +1,10 @@
 # Change Log
 
+2022-07-21
+* Updates to dates/times
+* Added ID column to football-fixtures-women.csv
+* Ordering now by ID column
+
 2022-07-20
 * Added OFC Women's Nations Cup
 * Added CAF African Women's Cup of Nations
