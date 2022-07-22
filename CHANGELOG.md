@@ -1,5 +1,10 @@
 # Change Log
 
+2022-07-22
+* Added Frauen-Bundesliga
+* Added Women's Super League
+* Added Women’s World Cup Qualifiers (UEFA)
+
 2022-07-21
 * Updates to dates/times
 * Added ID column to football-fixtures-women.csv

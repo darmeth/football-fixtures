@@ -1,118 +1,424 @@
 ID,date,league,teams,time,note_1
-1,2022-07-21,Copa América Femenina,Ecuador v Paraguay,00:00:00,Group Stage – Group A
-2,2022-07-21,Copa América Femenina,Colombia v Chile,00:00:00,Group Stage – Group A
-3,2022-07-21,Women’s World Cup Qualifiers,Colombia v Chile,00:00:00,Group A (CONMEBOL)
-4,2022-07-21,Women’s World Cup Qualifiers,Ecuador v Paraguay,00:00:00,Group A (CONMEBOL)
-5,2022-07-21,UEFA Women’s Euro 2022,Germany v Austria,19:00:00,Quarter-final
-6,2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
-7,2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
-8,2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
-9,2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
-10,2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
-11,2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
-12,2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
-13,2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
-14,2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
-15,2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
-16,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
-17,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
-18,2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
-19,2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
-20,2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
-21,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
-22,2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
-23,2022-08-07,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
-24,2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
-25,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
-26,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,13:00:00,Round 16
-27,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
-28,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
-29,2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
-30,2022-08-14,Norwegian Toppserien,SK Brann v Stabæk,13:00:00,Round 16
-31,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
-32,2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
-33,2022-08-14,Swedish Damallsvenskan,Piteå v AIK,13:00:00,Round 16
-34,2022-08-14,Swedish Damallsvenskan,Umeå IK v IFK Kalmar,13:00:00,Round 16
-35,2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
-36,2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
-37,2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
-38,2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
-39,2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
-40,2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
-41,2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
-42,2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
-43,2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
-44,2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
-45,2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
-46,2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
-47,2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
-48,2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
-49,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
-50,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
-51,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
-52,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
-53,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-54,2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
-55,2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
-56,2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18
-57,2022-08-28,Swedish Damallsvenskan,Kristianstad v Häcken,13:00:00,Round 18
-58,2022-09-03,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-59,2022-09-06,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-60,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
-61,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
-62,2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
-63,2022-09-10,Swedish Damallsvenskan,IFK Kalmar v Örebro,13:00:00,Round 19
-64,2022-09-11,Swedish Damallsvenskan,Piteå v BP,13:00:00,Round 19
-65,2022-09-11,Swedish Damallsvenskan,Linköping v Eskilstuna,13:00:00,Round 19
-66,2022-09-12,Swedish Damallsvenskan,Djurgården v Vittsjö,17:00:00,Round 19
-67,2022-09-17,Swedish Damallsvenskan,Eskilstuna v Häcken,13:00:00,Round 20
-68,2022-09-18,Swedish Damallsvenskan,BP v Djurgården,11:00:00,Round 20
-69,2022-09-18,Swedish Damallsvenskan,Örebro v AIK,13:00:00,Round 20
-70,2022-09-18,Swedish Damallsvenskan,Rosengård v IFK Kalmar,,Round 20
-71,2022-09-18,Swedish Damallsvenskan,Kristianstad v Hammarby,,Round 20
-72,2022-09-19,Swedish Damallsvenskan,Umeå IK v Piteå,17:00:00,Round 20
-73,2022-09-19,Swedish Damallsvenskan,Vittsjö v Linköping,17:00:00,Round 20
-74,2022-09-23,Swedish Damallsvenskan,Rosengård v Vittsjö,16:00:00,Round 21
-75,2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
-76,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
-77,2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
-78,2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
-79,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,,Round 21
-80,2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
-81,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
-82,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
-83,2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
-84,2022-10-02,Swedish Damallsvenskan,Djurgården v AIK,13:00:00,Round 22
-85,2022-10-02,Swedish Damallsvenskan,Linköping v Häcken,13:00:00,Round 22
-86,2022-10-02,Swedish Damallsvenskan,Piteå v Hammarby,13:00:00,Round 22
-87,2022-10-02,Swedish Damallsvenskan,Örebro v Rosengård,13:00:00,Round 22
-88,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium
-89,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium
-90,2022-10-14,Swedish Damallsvenskan,Rosengård v Eskilstuna,16:00:00,Round 23
-91,2022-10-16,Swedish Damallsvenskan,BP v Vittsjö,11:00:00,Round 23
-92,2022-10-16,Swedish Damallsvenskan,IFK Kalmar v Häcken,13:00:00,Round 23
-93,2022-10-16,Swedish Damallsvenskan,Örebro v Kristianstad,13:00:00,Round 23
-94,2022-10-16,Swedish Damallsvenskan,Piteå v Linköping,13:00:00,Round 23
-95,2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,,Round 23
-96,2022-10-17,Swedish Damallsvenskan,AIK v Hammarby,17:00:00,Round 23
-97,2022-10-23,Swedish Damallsvenskan,Hammarby v BP,,Round 24
-98,2022-10-23,Swedish Damallsvenskan,Eskilstuna v Umeå IK,,Round 24
-99,2022-10-23,Swedish Damallsvenskan,Djurgården v Örebro,,Round 24
-100,2022-10-23,Swedish Damallsvenskan,Häcken v Piteå,,Round 24
-101,2022-10-23,Swedish Damallsvenskan,Linköping v IFK Kalmar,,Round 24
-102,2022-10-23,Swedish Damallsvenskan,Kristianstad v Rosengård,,Round 24
-103,2022-10-23,Swedish Damallsvenskan,Vittsjö v AIK,,Round 24
-104,2022-10-30,Swedish Damallsvenskan,Rosengård v Djurgården,,Round 25
-105,2022-10-30,Swedish Damallsvenskan,Hammarby v Örebro,,Round 25
-106,2022-10-30,Swedish Damallsvenskan,Häcken v AIK,,Round 25
-107,2022-10-30,Swedish Damallsvenskan,Umeå IK v BP,,Round 25
-108,2022-10-30,Swedish Damallsvenskan,Linköping v Kristianstad,,Round 25
-109,2022-10-30,Swedish Damallsvenskan,Piteå v Vittsjö,,Round 25
-110,2022-10-30,Swedish Damallsvenskan,IFK Kalmar v Eskilstuna,,Round 25
-111,2022-11-04,Swedish Damallsvenskan,Djurgården v Häcken,16:00:00,Round 26
-112,2022-11-04,Swedish Damallsvenskan,AIK v IFK Kalmar,16:00:00,Round 26
-113,2022-11-04,Swedish Damallsvenskan,Eskilstuna v Piteå,16:00:00,Round 26
-114,2022-11-04,Swedish Damallsvenskan,BP v Rosengård,16:00:00,Round 26
-115,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
-116,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
-117,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
+1,2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
+2,2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
+3,2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
+4,2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
+5,2022-07-25,Copa América Femenina,Chile v Venezuela,00:00:00,5th place play-off
+6,2022-07-26,Copa América Femenina,Colombia v Argentina,00:00:00,Semi-final
+7,2022-07-27,Copa América Femenina,Brazil v Paraguay,00:00:00,Semi-final
+8,2022-07-30,Copa América Femenina,TBD v TBD,00:00:00,3rd place play-off
+9,2022-07-31,Copa América Femenina,TBD v TBD,00:00:00,Final
+10,2022-09-17,Frauen-Bundesliga,Bremen v Potsdam,,Match 1
+11,2022-09-17,Frauen-Bundesliga,Duisburg v Leverkusen,,Match 1
+12,2022-09-17,Frauen-Bundesliga,Eintracht Frankfurt v Bayern,,Match 1
+13,2022-09-17,Frauen-Bundesliga,Koln v Hoffenheim,,Match 1
+14,2022-09-17,Frauen-Bundesliga,Meppen v Freiburg,,Match 1
+15,2022-09-17,Frauen-Bundesliga,Wolfsburg v SGS Essen,,Match 1
+16,2022-09-24,Frauen-Bundesliga,Bayern v Bremen,,Match 2
+17,2022-09-24,Frauen-Bundesliga,Freiburg v Eintracht Frankfurt,,Match 2
+18,2022-09-24,Frauen-Bundesliga,Hoffenheim v Wolfsburg,,Match 2
+19,2022-09-24,Frauen-Bundesliga,Leverkusen v Koln,,Match 2
+20,2022-09-24,Frauen-Bundesliga,Potsdam v Duisburg,,Match 2
+21,2022-09-24,Frauen-Bundesliga,SGS Essen v Meppen,,Match 2
+22,2022-10-01,Frauen-Bundesliga,Duisburg v Bayern,,Match 3
+23,2022-10-01,Frauen-Bundesliga,Eintracht Frankfurt v Bremen,,Match 3
+24,2022-10-01,Frauen-Bundesliga,Freiburg v SGS Essen,,Match 3
+25,2022-10-01,Frauen-Bundesliga,Koln v Potsdam,,Match 3
+26,2022-10-01,Frauen-Bundesliga,Meppen v Hoffenheim,,Match 3
+27,2022-10-01,Frauen-Bundesliga,Wolfsburg v Leverkusen,,Match 3
+28,2022-10-15,Frauen-Bundesliga,Bayern v Koln,,Match 4
+29,2022-10-15,Frauen-Bundesliga,Bremen v Duisburg,,Match 4
+30,2022-10-15,Frauen-Bundesliga,Hoffenheim v Freiburg,,Match 4
+31,2022-10-15,Frauen-Bundesliga,Leverkusen v Meppen,,Match 4
+32,2022-10-15,Frauen-Bundesliga,Potsdam v Wolfsburg,,Match 4
+33,2022-10-15,Frauen-Bundesliga,SGS Essen v Eintracht Frankfurt,,Match 4
+34,2022-10-22,Frauen-Bundesliga,Eintracht Frankfurt v Duisburg,,Match 5
+35,2022-10-22,Frauen-Bundesliga,Freiburg v Leverkusen,,Match 5
+36,2022-10-22,Frauen-Bundesliga,Koln v Bremen,,Match 5
+37,2022-10-22,Frauen-Bundesliga,Meppen v Potsdam,,Match 5
+38,2022-10-22,Frauen-Bundesliga,SGS Essen v Hoffenheim,,Match 5
+39,2022-10-22,Frauen-Bundesliga,Wolfsburg v Bayern,,Match 5
+40,2022-10-29,Frauen-Bundesliga,Bayern v Meppen,,Match 6
+41,2022-10-29,Frauen-Bundesliga,Bremen v Wolfsburg,,Match 6
+42,2022-10-29,Frauen-Bundesliga,Duisburg v Koln,,Match 6
+43,2022-10-29,Frauen-Bundesliga,Hoffenheim v Eintracht Frankfurt,,Match 6
+44,2022-10-29,Frauen-Bundesliga,Leverkusen v SGS Essen,,Match 6
+45,2022-10-29,Frauen-Bundesliga,Potsdam v Freiburg,,Match 6
+46,2022-11-05,Frauen-Bundesliga,Eintracht Frankfurt v Koln,,Match 7
+47,2022-11-05,Frauen-Bundesliga,Freiburg v Bayern,,Match 7
+48,2022-11-05,Frauen-Bundesliga,Hoffenheim v Leverkusen,,Match 7
+49,2022-11-05,Frauen-Bundesliga,Meppen v Bremen,,Match 7
+50,2022-11-05,Frauen-Bundesliga,SGS Essen v Potsdam,,Match 7
+51,2022-11-05,Frauen-Bundesliga,Wolfsburg v Duisburg,,Match 7
+52,2022-11-26,Frauen-Bundesliga,Bayern v SGS Essen,,Match 8
+53,2022-11-26,Frauen-Bundesliga,Bremen v Freiburg,,Match 8
+54,2022-11-26,Frauen-Bundesliga,Duisburg v Meppen,,Match 8
+55,2022-11-26,Frauen-Bundesliga,Eintracht Frankfurt v Leverkusen,,Match 8
+56,2022-11-26,Frauen-Bundesliga,Koln v Wolfsburg,,Match 8
+57,2022-11-26,Frauen-Bundesliga,Potsdam v Hoffenheim,,Match 8
+58,2022-12-03,Frauen-Bundesliga,Freiburg v Duisburg,,Match 9
+59,2022-12-03,Frauen-Bundesliga,Hoffenheim v Bayern,,Match 9
+60,2022-12-03,Frauen-Bundesliga,Leverkusen v Potsdam,,Match 9
+61,2022-12-03,Frauen-Bundesliga,Meppen v Koln,,Match 9
+62,2022-12-03,Frauen-Bundesliga,SGS Essen v Bremen,,Match 9
+63,2022-12-03,Frauen-Bundesliga,Wolfsburg v Eintracht Frankfurt,,Match 9
+64,2022-12-10,Frauen-Bundesliga,Bayern v Leverkusen,,Match 10
+65,2022-12-10,Frauen-Bundesliga,Bremen v Hoffenheim,,Match 10
+66,2022-12-10,Frauen-Bundesliga,Duisburg v SGS Essen,,Match 10
+67,2022-12-10,Frauen-Bundesliga,Eintracht Frankfurt v Potsdam,,Match 10
+68,2022-12-10,Frauen-Bundesliga,Koln v Freiburg,,Match 10
+69,2022-12-10,Frauen-Bundesliga,Wolfsburg v Meppen,,Match 10
+70,2023-02-04,Frauen-Bundesliga,Freiburg v Wolfsburg,,Match 11
+71,2023-02-04,Frauen-Bundesliga,Hoffenheim v Duisburg,,Match 11
+72,2023-02-04,Frauen-Bundesliga,Leverkusen v Bremen,,Match 11
+73,2023-02-04,Frauen-Bundesliga,Meppen v Eintracht Frankfurt,,Match 11
+74,2023-02-04,Frauen-Bundesliga,Potsdam v Bayern,,Match 11
+75,2023-02-04,Frauen-Bundesliga,SGS Essen v Koln,,Match 11
+76,2023-02-11,Frauen-Bundesliga,Bayern v Eintracht Frankfurt,,Match 12
+77,2023-02-11,Frauen-Bundesliga,Freiburg v Meppen,,Match 12
+78,2023-02-11,Frauen-Bundesliga,Hoffenheim v Koln,,Match 12
+79,2023-02-11,Frauen-Bundesliga,Leverkusen v Duisburg,,Match 12
+80,2023-02-11,Frauen-Bundesliga,Potsdam v Bremen,,Match 12
+81,2023-02-11,Frauen-Bundesliga,SGS Essen v Wolfsburg,,Match 12
+82,2023-03-04,Frauen-Bundesliga,Bremen v Bayern,,Match 13
+83,2023-03-04,Frauen-Bundesliga,Duisburg v Potsdam,,Match 13
+84,2023-03-04,Frauen-Bundesliga,Eintracht Frankfurt v Freiburg,,Match 13
+85,2023-03-04,Frauen-Bundesliga,Koln v Leverkusen,,Match 13
+86,2023-03-04,Frauen-Bundesliga,Meppen v SGS Essen,,Match 13
+87,2023-03-04,Frauen-Bundesliga,Wolfsburg v Hoffenheim,,Match 13
+88,2023-03-11,Frauen-Bundesliga,Bayern v Duisburg,,Match 14
+89,2023-03-11,Frauen-Bundesliga,Bremen v Eintracht Frankfurt,,Match 14
+90,2023-03-11,Frauen-Bundesliga,Hoffenheim v Meppen,,Match 14
+91,2023-03-11,Frauen-Bundesliga,Leverkusen v Wolfsburg,,Match 14
+92,2023-03-11,Frauen-Bundesliga,Potsdam v Koln,,Match 14
+93,2023-03-11,Frauen-Bundesliga,SGS Essen v Freiburg,,Match 14
+94,2023-03-18,Frauen-Bundesliga,Duisburg v Bremen,,Match 15
+95,2023-03-18,Frauen-Bundesliga,Eintracht Frankfurt v SGS Essen,,Match 15
+96,2023-03-18,Frauen-Bundesliga,Freiburg v Hoffenheim,,Match 15
+97,2023-03-18,Frauen-Bundesliga,Koln v Bayern,,Match 15
+98,2023-03-18,Frauen-Bundesliga,Meppen v Leverkusen,,Match 15
+99,2023-03-18,Frauen-Bundesliga,Wolfsburg v Potsdam,,Match 15
+100,2023-03-25,Frauen-Bundesliga,Bayern v Wolfsburg,,Match 16
+101,2023-03-25,Frauen-Bundesliga,Bremen v Koln,,Match 16
+102,2023-03-25,Frauen-Bundesliga,Duisburg v Eintracht Frankfurt,,Match 16
+103,2023-03-25,Frauen-Bundesliga,Hoffenheim v SGS Essen,,Match 16
+104,2023-03-25,Frauen-Bundesliga,Leverkusen v Freiburg,,Match 16
+105,2023-03-25,Frauen-Bundesliga,Potsdam v Meppen,,Match 16
+106,2023-04-01,Frauen-Bundesliga,Eintracht Frankfurt v Hoffenheim,,Match 17
+107,2023-04-01,Frauen-Bundesliga,Freiburg v Potsdam,,Match 17
+108,2023-04-01,Frauen-Bundesliga,Koln v Duisburg,,Match 17
+109,2023-04-01,Frauen-Bundesliga,Meppen v Bayern,,Match 17
+110,2023-04-01,Frauen-Bundesliga,SGS Essen v Leverkusen,,Match 17
+111,2023-04-01,Frauen-Bundesliga,Wolfsburg v Bremen,,Match 17
+112,2023-04-22,Frauen-Bundesliga,Bayern v Freiburg,,Match 18
+113,2023-04-22,Frauen-Bundesliga,Bremen v Meppen,,Match 18
+114,2023-04-22,Frauen-Bundesliga,Duisburg v Wolfsburg,,Match 18
+115,2023-04-22,Frauen-Bundesliga,Koln v Eintracht Frankfurt,,Match 18
+116,2023-04-22,Frauen-Bundesliga,Leverkusen v Hoffenheim,,Match 18
+117,2023-04-22,Frauen-Bundesliga,Potsdam v SGS Essen,,Match 18
+118,2023-05-06,Frauen-Bundesliga,Freiburg v Bremen,,Match 19
+119,2023-05-06,Frauen-Bundesliga,Hoffenheim v Potsdam,,Match 19
+120,2023-05-06,Frauen-Bundesliga,Leverkusen v Eintracht Frankfurt,,Match 19
+121,2023-05-06,Frauen-Bundesliga,Meppen v Duisburg,,Match 19
+122,2023-05-06,Frauen-Bundesliga,SGS Essen v Bayern,,Match 19
+123,2023-05-06,Frauen-Bundesliga,Wolfsburg v Koln,,Match 19
+124,2023-05-13,Frauen-Bundesliga,Bayern v Hoffenheim,,Match 20
+125,2023-05-13,Frauen-Bundesliga,Bremen v SGS Essen,,Match 20
+126,2023-05-13,Frauen-Bundesliga,Duisburg v Freiburg,,Match 20
+127,2023-05-13,Frauen-Bundesliga,Eintracht Frankfurt v Wolfsburg,,Match 20
+128,2023-05-13,Frauen-Bundesliga,Koln v Meppen,,Match 20
+129,2023-05-13,Frauen-Bundesliga,Potsdam v Leverkusen,,Match 20
+130,2023-05-20,Frauen-Bundesliga,Freiburg v Koln,,Match 21
+131,2023-05-20,Frauen-Bundesliga,Hoffenheim v Bremen,,Match 21
+132,2023-05-20,Frauen-Bundesliga,Leverkusen v Bayern,,Match 21
+133,2023-05-20,Frauen-Bundesliga,Meppen v Wolfsburg,,Match 21
+134,2023-05-20,Frauen-Bundesliga,Potsdam v Eintracht Frankfurt,,Match 21
+135,2023-05-20,Frauen-Bundesliga,SGS Essen v Duisburg,,Match 21
+136,2023-05-28,Frauen-Bundesliga,Bayern v Potsdam,,Match 22
+137,2023-05-28,Frauen-Bundesliga,Bremen v Leverkusen,,Match 22
+138,2023-05-28,Frauen-Bundesliga,Duisburg v Hoffenheim,,Match 22
+139,2023-05-28,Frauen-Bundesliga,Eintracht Frankfurt v Meppen,,Match 22
+140,2023-05-28,Frauen-Bundesliga,Koln v SGS Essen,,Match 22
+141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
+142,2022-09-03,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
+143,2022-09-06,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
+144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium
+145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium
+146,2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
+147,2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
+148,2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
+149,2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
+150,2022-08-07,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
+151,2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
+152,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,13:00:00,Round 16
+153,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
+154,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
+155,2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
+156,2022-08-14,Norwegian Toppserien,SK Brann v Stabæk,13:00:00,Round 16
+157,2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
+158,2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
+159,2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
+160,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
+161,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
+162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
+163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
+164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
+165,2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
+166,2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
+167,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
+168,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
+169,2022-07-27,OFC Women's Nations Cup,TBD v TBD,04:00:00,Semi-final
+170,2022-07-27,OFC Women's Nations Cup,TBD v TBD,07:30:00,Semi-final
+171,2022-07-30,OFC Women's Nations Cup,TBD v TBD,04:00:00,3rd place play-off
+172,2022-07-30,OFC Women's Nations Cup,TBD v TBD,07:30:00,Final
+173,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
+174,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
+175,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
+176,2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
+177,2022-08-14,Swedish Damallsvenskan,Piteå v AIK,13:00:00,Round 16
+178,2022-08-14,Swedish Damallsvenskan,Umeå IK v IFK Kalmar,13:00:00,Round 16
+179,2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
+180,2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
+181,2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
+182,2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
+183,2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
+184,2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
+185,2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
+186,2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
+187,2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
+188,2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
+189,2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
+190,2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
+191,2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
+192,2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18
+193,2022-08-28,Swedish Damallsvenskan,Kristianstad v Häcken,13:00:00,Round 18
+194,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
+195,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
+196,2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
+197,2022-09-10,Swedish Damallsvenskan,IFK Kalmar v Örebro,13:00:00,Round 19
+198,2022-09-11,Swedish Damallsvenskan,Piteå v BP,13:00:00,Round 19
+199,2022-09-11,Swedish Damallsvenskan,Linköping v Eskilstuna,13:00:00,Round 19
+200,2022-09-12,Swedish Damallsvenskan,Djurgården v Vittsjö,17:00:00,Round 19
+201,2022-09-17,Swedish Damallsvenskan,Eskilstuna v Häcken,13:00:00,Round 20
+202,2022-09-18,Swedish Damallsvenskan,BP v Djurgården,11:00:00,Round 20
+203,2022-09-18,Swedish Damallsvenskan,Örebro v AIK,13:00:00,Round 20
+204,2022-09-18,Swedish Damallsvenskan,Rosengård v IFK Kalmar,,Round 20
+205,2022-09-18,Swedish Damallsvenskan,Kristianstad v Hammarby,,Round 20
+206,2022-09-19,Swedish Damallsvenskan,Umeå IK v Piteå,17:00:00,Round 20
+207,2022-09-19,Swedish Damallsvenskan,Vittsjö v Linköping,17:00:00,Round 20
+208,2022-09-23,Swedish Damallsvenskan,Rosengård v Vittsjö,16:00:00,Round 21
+209,2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
+210,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
+211,2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
+212,2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
+213,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,,Round 21
+214,2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
+215,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
+216,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
+217,2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
+218,2022-10-02,Swedish Damallsvenskan,Djurgården v AIK,13:00:00,Round 22
+219,2022-10-02,Swedish Damallsvenskan,Linköping v Häcken,13:00:00,Round 22
+220,2022-10-02,Swedish Damallsvenskan,Piteå v Hammarby,13:00:00,Round 22
+221,2022-10-02,Swedish Damallsvenskan,Örebro v Rosengård,13:00:00,Round 22
+222,2022-10-14,Swedish Damallsvenskan,Rosengård v Eskilstuna,16:00:00,Round 23
+223,2022-10-16,Swedish Damallsvenskan,BP v Vittsjö,11:00:00,Round 23
+224,2022-10-16,Swedish Damallsvenskan,IFK Kalmar v Häcken,13:00:00,Round 23
+225,2022-10-16,Swedish Damallsvenskan,Örebro v Kristianstad,13:00:00,Round 23
+226,2022-10-16,Swedish Damallsvenskan,Piteå v Linköping,13:00:00,Round 23
+227,2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,,Round 23
+228,2022-10-17,Swedish Damallsvenskan,AIK v Hammarby,17:00:00,Round 23
+229,2022-10-23,Swedish Damallsvenskan,Hammarby v BP,,Round 24
+230,2022-10-23,Swedish Damallsvenskan,Eskilstuna v Umeå IK,,Round 24
+231,2022-10-23,Swedish Damallsvenskan,Djurgården v Örebro,,Round 24
+232,2022-10-23,Swedish Damallsvenskan,Häcken v Piteå,,Round 24
+233,2022-10-23,Swedish Damallsvenskan,Linköping v IFK Kalmar,,Round 24
+234,2022-10-23,Swedish Damallsvenskan,Kristianstad v Rosengård,,Round 24
+235,2022-10-23,Swedish Damallsvenskan,Vittsjö v AIK,,Round 24
+236,2022-10-30,Swedish Damallsvenskan,Rosengård v Djurgården,,Round 25
+237,2022-10-30,Swedish Damallsvenskan,Hammarby v Örebro,,Round 25
+238,2022-10-30,Swedish Damallsvenskan,Häcken v AIK,,Round 25
+239,2022-10-30,Swedish Damallsvenskan,Umeå IK v BP,,Round 25
+240,2022-10-30,Swedish Damallsvenskan,Linköping v Kristianstad,,Round 25
+241,2022-10-30,Swedish Damallsvenskan,Piteå v Vittsjö,,Round 25
+242,2022-10-30,Swedish Damallsvenskan,IFK Kalmar v Eskilstuna,,Round 25
+243,2022-11-04,Swedish Damallsvenskan,Djurgården v Häcken,16:00:00,Round 26
+244,2022-11-04,Swedish Damallsvenskan,AIK v IFK Kalmar,16:00:00,Round 26
+245,2022-11-04,Swedish Damallsvenskan,Eskilstuna v Piteå,16:00:00,Round 26
+246,2022-11-04,Swedish Damallsvenskan,BP v Rosengård,16:00:00,Round 26
+247,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
+248,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
+249,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
+250,2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
+251,2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
+252,2022-07-26,UEFA Women’s Euro 2022,England v Sweden / Belgium,19:00:00,Semi-final
+253,2022-07-27,UEFA Women’s Euro 2022,Germany v France / Netherlands,19:00:00,Semi-final
+254,2022-07-31,UEFA Women’s Euro 2022,TBD v TBD,16:00:00,Final
+255,2022-09-11,Women's Super League,Brighton and Hove Albion v Aston Villa,13:00:00,Match 1
+256,2022-09-11,Women's Super League,Chelsea v West Ham United,13:00:00,Match 1
+257,2022-09-11,Women's Super League,Everton v Leicester City,13:00:00,Match 1
+258,2022-09-11,Women's Super League,Manchester City v Arsenal,13:00:00,Match 1
+259,2022-09-11,Women's Super League,Reading v Liverpool,13:00:00,Match 1
+260,2022-09-11,Women's Super League,Tottenham Hotspur v Manchester United,13:00:00,Match 1
+261,2022-09-18,Women's Super League,Arsenal v Brighton and Hove Albion,13:00:00,Match 2
+262,2022-09-18,Women's Super League,Aston Villa v Manchester City,13:00:00,Match 2
+263,2022-09-18,Women's Super League,Leicester City v Tottenham Hotspur,13:00:00,Match 2
+264,2022-09-18,Women's Super League,Liverpool v Chelsea,13:00:00,Match 2
+265,2022-09-18,Women's Super League,Manchester United v Reading,13:00:00,Match 2
+266,2022-09-18,Women's Super League,West Ham United v Everton,13:00:00,Match 2
+267,2022-09-25,Women's Super League,Arsenal v Tottenham Hotspur,13:00:00,Match 3
+268,2022-09-25,Women's Super League,Brighton and Hove Albion v Reading,13:00:00,Match 3
+269,2022-09-25,Women's Super League,Chelsea v Manchester City,13:00:00,Match 3
+270,2022-09-25,Women's Super League,Leicester City v Aston Villa,13:00:00,Match 3
+271,2022-09-25,Women's Super League,Liverpool v Everton,13:00:00,Match 3
+272,2022-09-25,Women's Super League,West Ham United v Manchester United,13:00:00,Match 3
+273,2022-10-16,Women's Super League,Aston Villa v West Ham United,13:00:00,Match 4
+274,2022-10-16,Women's Super League,Everton v Chelsea,13:00:00,Match 4
+275,2022-10-16,Women's Super League,Manchester City v Leicester City,13:00:00,Match 4
+276,2022-10-16,Women's Super League,Manchester United v Brighton and Hove Albion,13:00:00,Match 4
+277,2022-10-16,Women's Super League,Reading v Arsenal,13:00:00,Match 4
+278,2022-10-16,Women's Super League,Tottenham Hotspur v Liverpool,13:00:00,Match 4
+279,2022-10-23,Women's Super League,Aston Villa v Everton,13:00:00,Match 5
+280,2022-10-23,Women's Super League,Brighton and Hove Albion v Chelsea,13:00:00,Match 5
+281,2022-10-23,Women's Super League,Leicester City v Manchester United,13:00:00,Match 5
+282,2022-10-23,Women's Super League,Liverpool v Arsenal,13:00:00,Match 5
+283,2022-10-23,Women's Super League,Tottenham Hotspur v Manchester City,13:00:00,Match 5
+284,2022-10-23,Women's Super League,West Ham United v Reading,13:00:00,Match 5
+285,2022-10-30,Women's Super League,Arsenal v West Ham United,14:00:00,Match 6
+286,2022-10-30,Women's Super League,Brighton and Hove Albion v Tottenham Hotspur,14:00:00,Match 6
+287,2022-10-30,Women's Super League,Chelsea v Aston Villa,14:00:00,Match 6
+288,2022-10-30,Women's Super League,Everton v Manchester United,14:00:00,Match 6
+289,2022-10-30,Women's Super League,Manchester City v Liverpool,14:00:00,Match 6
+290,2022-10-30,Women's Super League,Reading v Leicester City,14:00:00,Match 6
+291,2022-11-06,Women's Super League,Leicester City v Arsenal,14:00:00,Match 7
+292,2022-11-06,Women's Super League,Liverpool v Aston Villa,14:00:00,Match 7
+293,2022-11-06,Women's Super League,Manchester United v Chelsea,14:00:00,Match 7
+294,2022-11-06,Women's Super League,Reading v Manchester City,14:00:00,Match 7
+295,2022-11-06,Women's Super League,Tottenham Hotspur v Everton,14:00:00,Match 7
+296,2022-11-06,Women's Super League,West Ham United v Brighton and Hove Albion,14:00:00,Match 7
+297,2022-11-20,Women's Super League,Arsenal v Manchester United,14:00:00,Match 8
+298,2022-11-20,Women's Super League,Aston Villa v Reading,14:00:00,Match 8
+299,2022-11-20,Women's Super League,Brighton and Hove Albion v Liverpool,14:00:00,Match 8
+300,2022-11-20,Women's Super League,Chelsea v Tottenham Hotspur,14:00:00,Match 8
+301,2022-11-20,Women's Super League,Everton v Manchester City,14:00:00,Match 8
+302,2022-11-20,Women's Super League,West Ham United v Leicester City,14:00:00,Match 8
+303,2022-12-04,Women's Super League,Arsenal v Everton,14:00:00,Match 9
+304,2022-12-04,Women's Super League,Leicester City v Chelsea,14:00:00,Match 9
+305,2022-12-04,Women's Super League,Liverpool v West Ham United,14:00:00,Match 9
+306,2022-12-04,Women's Super League,Manchester City v Brighton and Hove Albion,14:00:00,Match 9
+307,2022-12-04,Women's Super League,Manchester United v Aston Villa,14:00:00,Match 9
+308,2022-12-04,Women's Super League,Reading v Tottenham Hotspur,14:00:00,Match 9
+309,2022-12-11,Women's Super League,Aston Villa v Arsenal,14:00:00,Match 10
+310,2022-12-11,Women's Super League,Brighton and Hove Albion v Everton,14:00:00,Match 10
+311,2022-12-11,Women's Super League,Chelsea v Reading,14:00:00,Match 10
+312,2022-12-11,Women's Super League,Liverpool v Leicester City,14:00:00,Match 10
+313,2022-12-11,Women's Super League,Manchester City v Manchester United,14:00:00,Match 10
+314,2022-12-11,Women's Super League,Tottenham Hotspur v West Ham United,14:00:00,Match 10
+315,2023-01-15,Women's Super League,Arsenal v Chelsea,14:00:00,Match 11
+316,2023-01-15,Women's Super League,Aston Villa v Tottenham Hotspur,14:00:00,Match 11
+317,2023-01-15,Women's Super League,Everton v Reading,14:00:00,Match 11
+318,2023-01-15,Women's Super League,Leicester City v Brighton and Hove Albion,14:00:00,Match 11
+319,2023-01-15,Women's Super League,Manchester United v Liverpool,14:00:00,Match 11
+320,2023-01-15,Women's Super League,West Ham United v Manchester City,14:00:00,Match 11
+321,2023-01-22,Women's Super League,Brighton and Hove Albion v Arsenal,14:00:00,Match 12
+322,2023-01-22,Women's Super League,Chelsea v Liverpool,14:00:00,Match 12
+323,2023-01-22,Women's Super League,Everton v West Ham United,14:00:00,Match 12
+324,2023-01-22,Women's Super League,Manchester City v Aston Villa,14:00:00,Match 12
+325,2023-01-22,Women's Super League,Reading v Manchester United,14:00:00,Match 12
+326,2023-01-22,Women's Super League,Tottenham Hotspur v Leicester City,14:00:00,Match 12
+327,2023-02-05,Women's Super League,Aston Villa v Brighton and Hove Albion,14:00:00,Match 13
+328,2023-02-05,Women's Super League,Leicester City v Manchester City,14:00:00,Match 13
+329,2023-02-05,Women's Super League,Liverpool v Reading,14:00:00,Match 13
+330,2023-02-05,Women's Super League,Manchester United v Everton,14:00:00,Match 13
+331,2023-02-05,Women's Super League,Tottenham Hotspur v Chelsea,14:00:00,Match 13
+332,2023-02-05,Women's Super League,West Ham United v Arsenal,14:00:00,Match 13
+333,2023-03-05,Women's Super League,Arsenal v Liverpool,14:00:00,Match 14
+334,2023-03-05,Women's Super League,Chelsea v Brighton and Hove Albion,14:00:00,Match 14
+335,2023-03-05,Women's Super League,Everton v Aston Villa,14:00:00,Match 14
+336,2023-03-05,Women's Super League,Manchester City v Tottenham Hotspur,14:00:00,Match 14
+337,2023-03-05,Women's Super League,Manchester United v Leicester City,14:00:00,Match 14
+338,2023-03-05,Women's Super League,Reading v West Ham United,14:00:00,Match 14
+339,2023-03-12,Women's Super League,Arsenal v Reading,14:00:00,Match 15
+340,2023-03-12,Women's Super League,Brighton and Hove Albion v Manchester City,14:00:00,Match 15
+341,2023-03-12,Women's Super League,Chelsea v Manchester United,14:00:00,Match 15
+342,2023-03-12,Women's Super League,Leicester City v Everton,14:00:00,Match 15
+343,2023-03-12,Women's Super League,Liverpool v Tottenham Hotspur,14:00:00,Match 15
+344,2023-03-12,Women's Super League,West Ham United v Aston Villa,14:00:00,Match 15
+345,2023-03-26,Women's Super League,Aston Villa v Leicester City,13:00:00,Match 16
+346,2023-03-26,Women's Super League,Everton v Liverpool,13:00:00,Match 16
+347,2023-03-26,Women's Super League,Manchester City v Chelsea,13:00:00,Match 16
+348,2023-03-26,Women's Super League,Manchester United v West Ham United,13:00:00,Match 16
+349,2023-03-26,Women's Super League,Reading v Brighton and Hove Albion,13:00:00,Match 16
+350,2023-03-26,Women's Super League,Tottenham Hotspur v Arsenal,13:00:00,Match 16
+351,2023-04-02,Women's Super League,Arsenal v Manchester City,13:00:00,Match 17
+352,2023-04-02,Women's Super League,Aston Villa v Chelsea,13:00:00,Match 17
+353,2023-04-02,Women's Super League,Brighton and Hove Albion v Manchester United,13:00:00,Match 17
+354,2023-04-02,Women's Super League,Everton v Tottenham Hotspur,13:00:00,Match 17
+355,2023-04-02,Women's Super League,Leicester City v Reading,13:00:00,Match 17
+356,2023-04-02,Women's Super League,West Ham United v Liverpool,13:00:00,Match 17
+357,2023-04-23,Women's Super League,Chelsea v Leicester City,13:00:00,Match 18
+358,2023-04-23,Women's Super League,Liverpool v Brighton and Hove Albion,13:00:00,Match 18
+359,2023-04-23,Women's Super League,Manchester City v West Ham United,13:00:00,Match 18
+360,2023-04-23,Women's Super League,Manchester United v Arsenal,13:00:00,Match 18
+361,2023-04-23,Women's Super League,Reading v Everton,13:00:00,Match 18
+362,2023-04-23,Women's Super League,Tottenham Hotspur v Aston Villa,13:00:00,Match 18
+363,2023-04-30,Women's Super League,Aston Villa v Manchester United,13:00:00,Match 19
+364,2023-04-30,Women's Super League,Everton v Arsenal,13:00:00,Match 19
+365,2023-04-30,Women's Super League,Leicester City v Liverpool,13:00:00,Match 19
+366,2023-04-30,Women's Super League,Manchester City v Reading,13:00:00,Match 19
+367,2023-04-30,Women's Super League,Tottenham Hotspur v Brighton and Hove Albion,13:00:00,Match 19
+368,2023-04-30,Women's Super League,West Ham United v Chelsea,13:00:00,Match 19
+369,2023-05-07,Women's Super League,Arsenal v Leicester City,13:00:00,Match 20
+370,2023-05-07,Women's Super League,Brighton and Hove Albion v West Ham United,13:00:00,Match 20
+371,2023-05-07,Women's Super League,Chelsea v Everton,13:00:00,Match 20
+372,2023-05-07,Women's Super League,Liverpool v Manchester City,13:00:00,Match 20
+373,2023-05-07,Women's Super League,Manchester United v Tottenham Hotspur,13:00:00,Match 20
+374,2023-05-07,Women's Super League,Reading v Aston Villa,13:00:00,Match 20
+375,2023-05-21,Women's Super League,Aston Villa v Liverpool,13:00:00,Match 21
+376,2023-05-21,Women's Super League,Chelsea v Arsenal,13:00:00,Match 21
+377,2023-05-21,Women's Super League,Everton v Brighton and Hove Albion,13:00:00,Match 21
+378,2023-05-21,Women's Super League,Leicester City v West Ham United,13:00:00,Match 21
+379,2023-05-21,Women's Super League,Manchester United v Manchester City,13:00:00,Match 21
+380,2023-05-21,Women's Super League,Tottenham Hotspur v Reading,13:00:00,Match 21
+381,2023-05-28,Women's Super League,Arsenal v Aston Villa,13:00:00,Match 22
+382,2023-05-28,Women's Super League,Brighton and Hove Albion v Leicester City,13:00:00,Match 22
+383,2023-05-28,Women's Super League,Liverpool v Manchester United,13:00:00,Match 22
+384,2023-05-28,Women's Super League,Manchester City v Everton,13:00:00,Match 22
+385,2023-05-28,Women's Super League,Reading v Chelsea,13:00:00,Match 22
+386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,13:00:00,Match 22
+387,2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
+388,2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
+389,2022-09-01,Women’s World Cup Qualifiers,Denmark v Montenegro,16:00:00,Group E (UEFA)
+390,2022-09-01,Women’s World Cup Qualifiers,Republic of Ireland v Finland,18:00:00,Group A (UEFA)
+391,2022-09-01,Women’s World Cup Qualifiers,Albania v Poland,,Group F (UEFA)
+392,2022-09-01,Women’s World Cup Qualifiers,Cyprus v Czech Republic,,Group C (UEFA)
+393,2022-09-01,Women’s World Cup Qualifiers,Georgia v Slovakia,,Group A (UEFA)
+394,2022-09-01,Women’s World Cup Qualifiers,Israel v Bulgaria,,Group H (UEFA)
+395,2022-09-01,Women’s World Cup Qualifiers,Kosovo v Armenia,,Group F (UEFA)
+396,2022-09-02,Women’s World Cup Qualifiers,Estonia v France,15:00:00,Group I (UEFA)
+397,2022-09-02,Women’s World Cup Qualifiers,Lithuania v Romania,16:00:00,Group G (UEFA)
+398,2022-09-02,Women’s World Cup Qualifiers,Moldova v Italy,16:30:00,Group G (UEFA)
+399,2022-09-02,Women’s World Cup Qualifiers,Greece v Wales,17:00:00,Group I (UEFA)
+400,2022-09-02,Women’s World Cup Qualifiers,Malta v Azerbaijan,17:30:00,Group E (UEFA)
+401,2022-09-02,Women’s World Cup Qualifiers,Belgium v Norway,,Group F (UEFA)
+402,2022-09-02,Women’s World Cup Qualifiers,Iceland v Belarus,,Group C (UEFA)
+403,2022-09-02,Women’s World Cup Qualifiers,Slovenia v Kazakhstan,,Group I (UEFA)
+404,2022-09-02,Women’s World Cup Qualifiers,Spain v Hungary,,Group B (UEFA)
+405,2022-09-03,Women’s World Cup Qualifiers,Turkey v Germany,12:45:00,Group H (UEFA)
+406,2022-09-03,Women’s World Cup Qualifiers,Austria v England,15:30:00,Group D (UEFA)
+407,2022-09-06,Women’s World Cup Qualifiers,Finland v Sweden,16:00:00,Group A (UEFA)
+408,2022-09-06,Women’s World Cup Qualifiers,Lithuania v Croatia,16:00:00,Group G (UEFA)
+409,2022-09-06,Women’s World Cup Qualifiers,Slovakia v Republic of Ireland,16:00:00,Group A (UEFA)
+410,2022-09-06,Women’s World Cup Qualifiers,Armenia v Belgium,16:30:00,Group F (UEFA)
+411,2022-09-06,Women’s World Cup Qualifiers,Norway v Albania,16:30:00,Group F (UEFA)
+412,2022-09-06,Women’s World Cup Qualifiers,Poland v Kosovo,16:30:00,Group F (UEFA)
+413,2022-09-06,Women’s World Cup Qualifiers,Austria v North Macedonia,18:30:00,Group D (UEFA)
+414,2022-09-06,Women’s World Cup Qualifiers,England v Luxembourg,18:30:00,Group D (UEFA)
+415,2022-09-06,Women’s World Cup Qualifiers,France v Greece,18:45:00,Group I (UEFA)
+416,2022-09-06,Women’s World Cup Qualifiers,Netherlands v Iceland,18:45:00,Group C (UEFA)
+417,2022-09-06,Women’s World Cup Qualifiers,Wales v Slovenia,18:45:00,Group I (UEFA)
+418,2022-09-06,Women’s World Cup Qualifiers,Azerbaijan v Bosnia and Herzegovina,,Group E (UEFA)
+419,2022-09-06,Women’s World Cup Qualifiers,Bulgaria v Germany,,Group H (UEFA)
+420,2022-09-06,Women’s World Cup Qualifiers,Israel v Serbia,,Group H (UEFA)
+421,2022-09-06,Women’s World Cup Qualifiers,Italy v Romania,,Group G (UEFA)
+422,2022-09-06,Women’s World Cup Qualifiers,Latvia v Northern Ireland,,Group D (UEFA)
+423,2022-09-06,Women’s World Cup Qualifiers,Spain v Ukraine,,Group B (UEFA)
