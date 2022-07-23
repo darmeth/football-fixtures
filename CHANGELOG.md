@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-23
+* Updates
+
 2022-07-22
 * Added Frauen-Bundesliga
 * Added Women's Super League

@@ -1,8 +1,5 @@
 ID,date,league,teams,time,note_1
-1,2022-07-22,CAF African Women's Cup of Nations,Zambia v Nigeria,20:00:00,3rd place
 2,2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
-3,2022-07-22,Copa América Femenina,Brazil v Peru,00:00:00,Group Stage – Group B
-4,2022-07-22,Copa América Femenina,Venezuela v Argentina,00:00:00,Group Stage – Group B
 5,2022-07-25,Copa América Femenina,Chile v Venezuela,00:00:00,5th place play-off
 6,2022-07-26,Copa América Femenina,Colombia v Argentina,00:00:00,Semi-final
 7,2022-07-27,Copa América Femenina,Brazil v Paraguay,00:00:00,Semi-final
@@ -167,7 +164,7 @@ ID,date,league,teams,time,note_1
 166,2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
 167,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
 168,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
-169,2022-07-27,OFC Women's Nations Cup,TBD v TBD,04:00:00,Semi-final
+169,2022-07-27,OFC Women's Nations Cup,Samoa v Papua New Guinea,04:00:00,Semi-final
 170,2022-07-27,OFC Women's Nations Cup,TBD v TBD,07:30:00,Semi-final
 171,2022-07-30,OFC Women's Nations Cup,TBD v TBD,04:00:00,3rd place play-off
 172,2022-07-30,OFC Women's Nations Cup,TBD v TBD,07:30:00,Final
@@ -248,9 +245,8 @@ ID,date,league,teams,time,note_1
 247,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
 248,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
 249,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
-250,2022-07-22,UEFA Women’s Euro 2022,Sweden v Belgium,19:00:00,Quarter-final
 251,2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
-252,2022-07-26,UEFA Women’s Euro 2022,England v Sweden / Belgium,19:00:00,Semi-final
+252,2022-07-26,UEFA Women’s Euro 2022,England v Sweden,19:00:00,Semi-final
 253,2022-07-27,UEFA Women’s Euro 2022,Germany v France / Netherlands,19:00:00,Semi-final
 254,2022-07-31,UEFA Women’s Euro 2022,TBD v TBD,16:00:00,Final
 255,2022-09-11,Women's Super League,Brighton and Hove Albion v Aston Villa,13:00:00,Match 1
@@ -385,8 +381,6 @@ ID,date,league,teams,time,note_1
 384,2023-05-28,Women's Super League,Manchester City v Everton,13:00:00,Match 22
 385,2023-05-28,Women's Super League,Reading v Chelsea,13:00:00,Match 22
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,13:00:00,Match 22
-387,2022-07-22,Women’s World Cup Qualifiers,Brazil v Peru,00:00:00,Group B (CONMEBOL)
-388,2022-07-22,Women’s World Cup Qualifiers,Venezuela v Argentina,00:00:00,Group B (CONMEBOL)
 389,2022-09-01,Women’s World Cup Qualifiers,Denmark v Montenegro,16:00:00,Group E (UEFA)
 390,2022-09-01,Women’s World Cup Qualifiers,Republic of Ireland v Finland,18:00:00,Group A (UEFA)
 391,2022-09-01,Women’s World Cup Qualifiers,Albania v Poland,,Group F (UEFA)
