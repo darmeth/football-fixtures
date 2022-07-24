@@ -1,5 +1,4 @@
 ID,date,league,teams,time,note_1
-2,2022-07-23,CAF African Women's Cup of Nations,Morocco v South Africa,20:00:00,Final
 5,2022-07-25,Copa América Femenina,Chile v Venezuela,00:00:00,5th place play-off
 6,2022-07-26,Copa América Femenina,Colombia v Argentina,00:00:00,Semi-final
 7,2022-07-27,Copa América Femenina,Brazil v Paraguay,00:00:00,Semi-final
@@ -160,12 +159,10 @@ ID,date,league,teams,time,note_1
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-165,2022-07-23,OFC Women's Nations Cup,Samoa v New Caledonia,04:00:00,Quarter-finals
-166,2022-07-23,OFC Women's Nations Cup,Papua New Guinea v Tonga,07:30:00,Quarter-finals
 167,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
 168,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
 169,2022-07-27,OFC Women's Nations Cup,Samoa v Papua New Guinea,04:00:00,Semi-final
-170,2022-07-27,OFC Women's Nations Cup,TBD v TBD,07:30:00,Semi-final
+170,2022-07-27,OFC Women's Nations Cup,Fiji v Solomon Islands,07:30:00,Semi-final
 171,2022-07-30,OFC Women's Nations Cup,TBD v TBD,04:00:00,3rd place play-off
 172,2022-07-30,OFC Women's Nations Cup,TBD v TBD,07:30:00,Final
 173,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
@@ -245,7 +242,6 @@ ID,date,league,teams,time,note_1
 247,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
 248,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
 249,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
-251,2022-07-23,UEFA Women’s Euro 2022,France v Netherlands,19:00:00,Quarter-final
 252,2022-07-26,UEFA Women’s Euro 2022,England v Sweden,19:00:00,Semi-final
 253,2022-07-27,UEFA Women’s Euro 2022,Germany v France,19:00:00,Semi-final
 254,2022-07-31,UEFA Women’s Euro 2022,TBD v TBD,16:00:00,Final
