@@ -1,9 +1,8 @@
 ID,date,league,teams,time,note_1
-5,2022-07-25,Copa América Femenina,Chile v Venezuela,00:00:00,5th place play-off
 6,2022-07-26,Copa América Femenina,Colombia v Argentina,00:00:00,Semi-final
 7,2022-07-27,Copa América Femenina,Brazil v Paraguay,00:00:00,Semi-final
-8,2022-07-30,Copa América Femenina,TBD v TBD,00:00:00,3rd place play-off
-9,2022-07-31,Copa América Femenina,TBD v TBD,00:00:00,Final
+8,2022-07-30,Copa América Femenina,Argentina v TBD,00:00:00,3rd place play-off
+9,2022-07-31,Copa América Femenina,Colombia v TBD,00:00:00,Final
 10,2022-09-17,Frauen-Bundesliga,Bremen v Potsdam,,Match 1
 11,2022-09-17,Frauen-Bundesliga,Duisburg v Leverkusen,,Match 1
 12,2022-09-17,Frauen-Bundesliga,Eintracht Frankfurt v Bayern,,Match 1
@@ -136,31 +135,29 @@ ID,date,league,teams,time,note_1
 139,2023-05-28,Frauen-Bundesliga,Eintracht Frankfurt v Meppen,,Match 22
 140,2023-05-28,Frauen-Bundesliga,Koln v SGS Essen,,Match 22
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
-142,2022-09-03,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-143,2022-09-06,International Friendly,Australia v Canada,10:00:00,Allianz Stadium
-144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium
-145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium
+142,2022-09-03,International Friendly,Australia v Canada,04:45;00,Suncorp Stadium (Australia)
+143,2022-09-06,International Friendly,Australia v Canada,,Allianz Stadium (Australia)
+144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium (Japan)
+145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
 146,2022-08-03,Norwegian Toppserien,Arna-Bjørnar v SK Brann,18:00:00,Round 17
 147,2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
 148,2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
 149,2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
-150,2022-08-07,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
+150,2022-08-06,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
 151,2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
-152,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,13:00:00,Round 16
+152,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,12:00:00,Round 16
 153,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
 154,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
 155,2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
-156,2022-08-14,Norwegian Toppserien,SK Brann v Stabæk,13:00:00,Round 16
+156,2022-08-13,Norwegian Toppserien,SK Brann v Stabæk,16:00:00,Round 16
 157,2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
 158,2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
-159,2022-08-21,Norwegian Toppserien,Vålerenga v Lyn,13:00:00,Round 17
+159,2022-08-20,Norwegian Toppserien,Vålerenga v Lyn,15:00:00,Round 17
 160,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
 161,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-167,2022-07-24,OFC Women's Nations Cup,Fiji v Cook Islands,04:00:00,Quarter-finals
-168,2022-07-24,OFC Women's Nations Cup,Tahiti v Solomon Islands,07:30:00,Quarter-finals
 169,2022-07-27,OFC Women's Nations Cup,Samoa v Papua New Guinea,04:00:00,Semi-final
 170,2022-07-27,OFC Women's Nations Cup,Fiji v Solomon Islands,07:30:00,Semi-final
 171,2022-07-30,OFC Women's Nations Cup,TBD v TBD,04:00:00,3rd place play-off
@@ -412,3 +409,8 @@ ID,date,league,teams,time,note_1
 421,2022-09-06,Women’s World Cup Qualifiers,Italy v Romania,,Group G (UEFA)
 422,2022-09-06,Women’s World Cup Qualifiers,Latvia v Northern Ireland,,Group D (UEFA)
 423,2022-09-06,Women’s World Cup Qualifiers,Spain v Ukraine,,Group B (UEFA)
+424,2022-09-02,International Friendly,Netherlands v Scotland,18:00:00,MAC³PARK Stadion (Netherlands)
+425,2022-09-03,International Friendly,USA v Nigeria,17:00:00,Children's Mercy Park (KA USA)
+426,2022-09-03,International Friendly,Andorra v Liechtenstein,,
+427,2022-09-06,International Friendly,USA v Nigeria,22:00:00,Audi Field (DC USA)
+428,2022-10-09,International Friendly,Cyprus v Liechtenstein,,

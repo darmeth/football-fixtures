@@ -1,10 +1,4 @@
 ID,date,league,teams,time,note_1
-3,2022-07-24,Allsvenskan,Helsingborgs IF v GIF Sundsvall,13:00:00,Match 15
-4,2022-07-24,Allsvenskan,IFK Värnamo v AIK,13:00:00,Match 15
-5,2022-07-24,Allsvenskan,BK Häcken v Djurgårdens IF,15:30:00,Match 15
-6,2022-07-24,Allsvenskan,Kalmar FF v IF Elfsborg,15:30:00,Match 15
-7,2022-07-25,Allsvenskan,IFK Norrköping v IFK Göteborg,17:00:00,Match 15
-8,2022-07-25,Allsvenskan,Varbergs BoIS v Hammarby IF,17:00:00,Match 15
 9,2022-07-30,Allsvenskan,Degerfors IF v Kalmar FF,13:00:00,Match 16
 10,2022-07-30,Allsvenskan,GIF Sundsvall v Varbergs BoIS,15:30:00,Match 16
 11,2022-07-31,Allsvenskan,Hammarby IF v IFK Värnamo,13:00:00,Match 16
@@ -123,15 +117,6 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-128,2022-07-24,Brazilian Série A,Botafogo v Atletico Paranaense,00:00:00,Match 19
-129,2022-07-24,Brazilian Série A,Avai v Flamengo,14:00:00,Match 19
-130,2022-07-24,Brazilian Série A,Fluminense v Bragantino,19:00:00,Match 19
-131,2022-07-24,Brazilian Série A,Palmeiras v Internacional,19:00:00,Match 19
-132,2022-07-24,Brazilian Série A,Juventude v Ceara,19:00:00,Match 19
-133,2022-07-24,Brazilian Série A,Atletico Mineiro v Corinthians,21:00:00,Match 19
-134,2022-07-24,Brazilian Série A,Atletico Goianiense v America Mineiro,21:00:00,Match 19
-135,2022-07-24,Brazilian Série A,Fortaleza v Santos,22:00:00,Match 19
-136,2022-07-25,Brazilian Série A,Coritiba v Cuiaba,23:00:00,Match 19
 137,2022-07-30,Brazilian Série A,Goias v Coritiba,19:30:00,Match 20
 138,2022-07-30,Brazilian Série A,Ceara v Palmeiras,19:30:00,Match 20
 139,2022-07-30,Brazilian Série A,Corinthians v Botafogo,22:00:00,Match 20
@@ -641,7 +626,7 @@ ID,date,league,teams,time,note_1
 643,2022-07-31,EFL Championship,Sunderland v Coventry City,11:00:00,Match 1
 644,2022-08-01,EFL Championship,Watford v Sheffield United,19:00:00,Match 1
 645,2022-08-06,EFL Championship,Norwich City v Wigan Athletic,11:30:00,Match 2
-646,2022-08-06,EFL Championship,Birmingham City v Huddersfield Town,14:00:00,Match 2
+646,2022-08-05,EFL Championship,Birmingham City v Huddersfield Town,18:45:00,Match 2
 647,2022-08-06,EFL Championship,Bristol City v Sunderland,14:00:00,Match 2
 648,2022-08-06,EFL Championship,Burnley v Luton Town,14:00:00,Match 2
 649,2022-08-06,EFL Championship,Preston North End v Hull City,14:00:00,Match 2
@@ -652,534 +637,534 @@ ID,date,league,teams,time,note_1
 654,2022-08-06,EFL Championship,Swansea City v Blackburn Rovers,14:00:00,Match 2
 655,2022-08-07,EFL Championship,Coventry City v Rotherham United,14:00:00,Match 2
 656,2022-08-08,EFL Championship,West Bromwich Albion v Watford,19:00:00,Match 2
-657,2022-08-12,EFL Championship,Watford v Burnley,19:00:00,Match 3
-658,2022-08-13,EFL Championship,Cardiff City v Birmingham City,11:30:00,Match 3
-659,2022-08-13,EFL Championship,Blackpool v Swansea City,14:00:00,Match 3
-660,2022-08-13,EFL Championship,Huddersfield Town v Stoke City,14:00:00,Match 3
-661,2022-08-13,EFL Championship,Hull City v Norwich City,14:00:00,Match 3
-662,2022-08-13,EFL Championship,Luton Town v Preston North End,14:00:00,Match 3
-663,2022-08-13,EFL Championship,Millwall v Coventry City,14:00:00,Match 3
-664,2022-08-13,EFL Championship,Rotherham United v Reading,14:00:00,Match 3
-665,2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,14:00:00,Match 3
-666,2022-08-13,EFL Championship,Wigan Athletic v Bristol City,14:00:00,Match 3
-667,2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
-668,2022-08-14,EFL Championship,Middlesbrough v Sheffield United,14:00:00,Match 3
-669,2022-08-16,EFL Championship,Birmingham City v Watford,18:45:00,Match 4
-670,2022-08-16,EFL Championship,Bristol City v Luton Town,18:45:00,Match 4
-671,2022-08-16,EFL Championship,Burnley v Hull City,18:45:00,Match 4
-672,2022-08-16,EFL Championship,Coventry City v Wigan Athletic,18:45:00,Match 4
-673,2022-08-16,EFL Championship,Norwich City v Huddersfield Town,18:45:00,Match 4
-674,2022-08-16,EFL Championship,Preston North End v Rotherham United,18:45:00,Match 4
-675,2022-08-16,EFL Championship,Queens Park Rangers v Blackpool,18:45:00,Match 4
-676,2022-08-16,EFL Championship,Swansea City v Millwall,18:45:00,Match 4
-677,2022-08-17,EFL Championship,Stoke City v Middlesbrough,18:45:00,Match 4
-678,2022-08-17,EFL Championship,Sheffield United v Sunderland,19:00:00,Match 4
-679,2022-08-17,EFL Championship,Reading v Blackburn Rovers,19:00:00,Match 4
-680,2022-08-17,EFL Championship,West Bromwich Albion v Cardiff City,19:00:00,Match 4
-681,2022-08-20,EFL Championship,Birmingham City v Wigan Athletic,14:00:00,Match 5
-682,2022-08-20,EFL Championship,Bristol City v Cardiff City,14:00:00,Match 5
-683,2022-08-20,EFL Championship,Burnley v Blackpool,14:00:00,Match 5
-684,2022-08-20,EFL Championship,Coventry City v Huddersfield Town,14:00:00,Match 5
-685,2022-08-20,EFL Championship,Norwich City v Millwall,14:00:00,Match 5
-686,2022-08-20,EFL Championship,Preston North End v Watford,14:00:00,Match 5
-687,2022-08-20,EFL Championship,Queens Park Rangers v Rotherham United,14:00:00,Match 5
-688,2022-08-20,EFL Championship,Reading v Middlesbrough,14:00:00,Match 5
-689,2022-08-20,EFL Championship,Sheffield United v Blackburn Rovers,14:00:00,Match 5
-690,2022-08-20,EFL Championship,Stoke City v Sunderland,14:00:00,Match 5
-691,2022-08-20,EFL Championship,Swansea City v Luton Town,14:00:00,Match 5
-692,2022-08-20,EFL Championship,West Bromwich Albion v Hull City,14:00:00,Match 5
-693,2022-08-27,EFL Championship,Blackburn Rovers v Stoke City,14:00:00,Match 6
-694,2022-08-27,EFL Championship,Blackpool v Bristol City,14:00:00,Match 6
-695,2022-08-27,EFL Championship,Cardiff City v Preston North End,14:00:00,Match 6
-696,2022-08-27,EFL Championship,Huddersfield Town v West Bromwich Albion,14:00:00,Match 6
-697,2022-08-27,EFL Championship,Hull City v Coventry City,14:00:00,Match 6
-698,2022-08-27,EFL Championship,Luton Town v Sheffield United,14:00:00,Match 6
-699,2022-08-27,EFL Championship,Middlesbrough v Swansea City,14:00:00,Match 6
-700,2022-08-27,EFL Championship,Millwall v Reading,14:00:00,Match 6
-701,2022-08-27,EFL Championship,Rotherham United v Birmingham City,14:00:00,Match 6
-702,2022-08-27,EFL Championship,Sunderland v Norwich City,14:00:00,Match 6
-703,2022-08-27,EFL Championship,Watford v Queens Park Rangers,14:00:00,Match 6
-704,2022-08-27,EFL Championship,Wigan Athletic v Burnley,14:00:00,Match 6
-705,2022-08-30,EFL Championship,Birmingham City v Norwich City,18:45:00,Match 7
-706,2022-08-30,EFL Championship,Burnley v Millwall,18:45:00,Match 7
-707,2022-08-30,EFL Championship,Cardiff City v Luton Town,18:45:00,Match 7
-708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,18:45:00,Match 7
-709,2022-08-30,EFL Championship,Watford v Middlesbrough,18:45:00,Match 7
-710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,18:45:00,Match 7
-711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,18:45:00,Match 7
-712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,18:45:00,Match 7
-713,2022-08-31,EFL Championship,Coventry City v Preston North End,18:45:00,Match 7
-714,2022-08-31,EFL Championship,Sheffield United v Reading,18:45:00,Match 7
-715,2022-08-31,EFL Championship,Sunderland v Rotherham United,18:45:00,Match 7
-716,2022-08-31,EFL Championship,Stoke City v Swansea City,19:00:00,Match 7
-717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,14:00:00,Match 8
-718,2022-09-03,EFL Championship,Huddersfield Town v Blackpool,14:00:00,Match 8
-719,2022-09-03,EFL Championship,Hull City v Sheffield United,14:00:00,Match 8
-720,2022-09-03,EFL Championship,Luton Town v Wigan Athletic,14:00:00,Match 8
-721,2022-09-03,EFL Championship,Middlesbrough v Sunderland,14:00:00,Match 8
-722,2022-09-03,EFL Championship,Millwall v Cardiff City,14:00:00,Match 8
-723,2022-09-03,EFL Championship,Norwich City v Coventry City,14:00:00,Match 8
-724,2022-09-03,EFL Championship,Preston North End v Birmingham City,14:00:00,Match 8
-725,2022-09-03,EFL Championship,Reading v Stoke City,14:00:00,Match 8
-726,2022-09-03,EFL Championship,Rotherham United v Watford,14:00:00,Match 8
-727,2022-09-03,EFL Championship,Swansea City v Queens Park Rangers,14:00:00,Match 8
-728,2022-09-03,EFL Championship,West Bromwich Albion v Burnley,14:00:00,Match 8
-729,2022-09-10,EFL Championship,Birmingham City v Swansea City,14:00:00,Match 9
-730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,14:00:00,Match 9
-731,2022-09-10,EFL Championship,Bristol City v Preston North End,14:00:00,Match 9
-732,2022-09-10,EFL Championship,Burnley v Norwich City,14:00:00,Match 9
-733,2022-09-10,EFL Championship,Cardiff City v Hull City,14:00:00,Match 9
-734,2022-09-10,EFL Championship,Coventry City v West Bromwich Albion,14:00:00,Match 9
-735,2022-09-10,EFL Championship,Queens Park Rangers v Huddersfield Town,14:00:00,Match 9
-736,2022-09-10,EFL Championship,Sheffield United v Rotherham United,14:00:00,Match 9
-737,2022-09-10,EFL Championship,Stoke City v Luton Town,14:00:00,Match 9
-738,2022-09-10,EFL Championship,Sunderland v Millwall,14:00:00,Match 9
-739,2022-09-10,EFL Championship,Watford v Reading,14:00:00,Match 9
-740,2022-09-10,EFL Championship,Wigan Athletic v Blackburn Rovers,14:00:00,Match 9
-741,2022-09-13,EFL Championship,Blackburn Rovers v Watford,18:45:00,Match 10
-742,2022-09-13,EFL Championship,Huddersfield Town v Wigan Athletic,18:45:00,Match 10
-743,2022-09-13,EFL Championship,Hull City v Stoke City,18:45:00,Match 10
-744,2022-09-13,EFL Championship,Middlesbrough v Cardiff City,18:45:00,Match 10
-745,2022-09-13,EFL Championship,Preston North End v Burnley,18:45:00,Match 10
-746,2022-09-13,EFL Championship,Swansea City v Sheffield United,18:45:00,Match 10
-747,2022-09-14,EFL Championship,Luton Town v Coventry City,18:45:00,Match 10
-748,2022-09-14,EFL Championship,Millwall v Queens Park Rangers,18:45:00,Match 10
-749,2022-09-14,EFL Championship,Norwich City v Bristol City,18:45:00,Match 10
-750,2022-09-14,EFL Championship,Rotherham United v Blackpool,18:45:00,Match 10
-751,2022-09-14,EFL Championship,Reading v Sunderland,19:00:00,Match 10
-752,2022-09-14,EFL Championship,West Bromwich Albion v Birmingham City,19:00:00,Match 10
-753,2022-09-17,EFL Championship,Birmingham City v Coventry City,14:00:00,Match 11
-754,2022-09-17,EFL Championship,Burnley v Bristol City,14:00:00,Match 11
-755,2022-09-17,EFL Championship,Huddersfield Town v Cardiff City,14:00:00,Match 11
-756,2022-09-17,EFL Championship,Luton Town v Blackburn Rovers,14:00:00,Match 11
-757,2022-09-17,EFL Championship,Middlesbrough v Rotherham United,14:00:00,Match 11
-758,2022-09-17,EFL Championship,Millwall v Blackpool,14:00:00,Match 11
-759,2022-09-17,EFL Championship,Norwich City v West Bromwich Albion,14:00:00,Match 11
-760,2022-09-17,EFL Championship,Preston North End v Sheffield United,14:00:00,Match 11
-761,2022-09-17,EFL Championship,Queens Park Rangers v Stoke City,14:00:00,Match 11
-762,2022-09-17,EFL Championship,Swansea City v Hull City,14:00:00,Match 11
-763,2022-09-17,EFL Championship,Watford v Sunderland,14:00:00,Match 11
-764,2022-09-17,EFL Championship,Wigan Athletic v Reading,14:00:00,Match 11
-765,2022-10-01,EFL Championship,Blackburn Rovers v Millwall,14:00:00,Match 12
-766,2022-10-01,EFL Championship,Blackpool v Norwich City,14:00:00,Match 12
-767,2022-10-01,EFL Championship,Bristol City v Queens Park Rangers,14:00:00,Match 12
-768,2022-10-01,EFL Championship,Cardiff City v Burnley,14:00:00,Match 12
-769,2022-10-01,EFL Championship,Coventry City v Middlesbrough,14:00:00,Match 12
-770,2022-10-01,EFL Championship,Hull City v Luton Town,14:00:00,Match 12
-771,2022-10-01,EFL Championship,Reading v Huddersfield Town,14:00:00,Match 12
-772,2022-10-01,EFL Championship,Rotherham United v Wigan Athletic,14:00:00,Match 12
-773,2022-10-01,EFL Championship,Sheffield United v Birmingham City,14:00:00,Match 12
-774,2022-10-01,EFL Championship,Stoke City v Watford,14:00:00,Match 12
-775,2022-10-01,EFL Championship,Sunderland v Preston North End,14:00:00,Match 12
-776,2022-10-01,EFL Championship,West Bromwich Albion v Swansea City,14:00:00,Match 12
-777,2022-10-04,EFL Championship,Bristol City v Coventry City,18:45:00,Match 13
-778,2022-10-04,EFL Championship,Cardiff City v Blackburn Rovers,18:45:00,Match 13
-779,2022-10-04,EFL Championship,Luton Town v Huddersfield Town,18:45:00,Match 13
-780,2022-10-04,EFL Championship,Sheffield United v Queens Park Rangers,18:45:00,Match 13
-781,2022-10-04,EFL Championship,Sunderland v Blackpool,18:45:00,Match 13
-782,2022-10-04,EFL Championship,Reading v Norwich City,19:00:00,Match 13
-783,2022-10-05,EFL Championship,Burnley v Stoke City,18:45:00,Match 13
-784,2022-10-05,EFL Championship,Hull City v Wigan Athletic,18:45:00,Match 13
-785,2022-10-05,EFL Championship,Middlesbrough v Birmingham City,18:45:00,Match 13
-786,2022-10-05,EFL Championship,Preston North End v West Bromwich Albion,18:45:00,Match 13
-787,2022-10-05,EFL Championship,Rotherham United v Millwall,18:45:00,Match 13
-788,2022-10-05,EFL Championship,Watford v Swansea City,18:45:00,Match 13
-789,2022-10-08,EFL Championship,Birmingham City v Bristol City,14:00:00,Match 14
-790,2022-10-08,EFL Championship,Blackburn Rovers v Rotherham United,14:00:00,Match 14
-791,2022-10-08,EFL Championship,Blackpool v Watford,14:00:00,Match 14
-792,2022-10-08,EFL Championship,Coventry City v Burnley,14:00:00,Match 14
-793,2022-10-08,EFL Championship,Huddersfield Town v Hull City,14:00:00,Match 14
-794,2022-10-08,EFL Championship,Millwall v Middlesbrough,14:00:00,Match 14
-795,2022-10-08,EFL Championship,Norwich City v Preston North End,14:00:00,Match 14
-796,2022-10-08,EFL Championship,Queens Park Rangers v Reading,14:00:00,Match 14
-797,2022-10-08,EFL Championship,Stoke City v Sheffield United,14:00:00,Match 14
-798,2022-10-08,EFL Championship,Swansea City v Sunderland,14:00:00,Match 14
-799,2022-10-08,EFL Championship,West Bromwich Albion v Luton Town,14:00:00,Match 14
-800,2022-10-08,EFL Championship,Wigan Athletic v Cardiff City,14:00:00,Match 14
-801,2022-10-15,EFL Championship,Bristol City v Millwall,14:00:00,Match 15
-802,2022-10-15,EFL Championship,Burnley v Swansea City,14:00:00,Match 15
-803,2022-10-15,EFL Championship,Cardiff City v Coventry City,14:00:00,Match 15
-804,2022-10-15,EFL Championship,Hull City v Birmingham City,14:00:00,Match 15
-805,2022-10-15,EFL Championship,Luton Town v Queens Park Rangers,14:00:00,Match 15
-806,2022-10-15,EFL Championship,Middlesbrough v Blackburn Rovers,14:00:00,Match 15
-807,2022-10-15,EFL Championship,Preston North End v Stoke City,14:00:00,Match 15
-808,2022-10-15,EFL Championship,Reading v West Bromwich Albion,14:00:00,Match 15
-809,2022-10-15,EFL Championship,Rotherham United v Huddersfield Town,14:00:00,Match 15
-810,2022-10-15,EFL Championship,Sheffield United v Blackpool,14:00:00,Match 15
-811,2022-10-15,EFL Championship,Sunderland v Wigan Athletic,14:00:00,Match 15
-812,2022-10-15,EFL Championship,Watford v Norwich City,14:00:00,Match 15
-813,2022-10-18,EFL Championship,Blackburn Rovers v Sunderland,18:45:00,Match 16
-814,2022-10-18,EFL Championship,Huddersfield Town v Preston North End,18:45:00,Match 16
-815,2022-10-18,EFL Championship,Norwich City v Luton Town,18:45:00,Match 16
-816,2022-10-18,EFL Championship,Swansea City v Reading,18:45:00,Match 16
-817,2022-10-18,EFL Championship,Stoke City v Rotherham United,19:00:00,Match 16
-818,2022-10-18,EFL Championship,West Bromwich Albion v Bristol City,19:00:00,Match 16
-819,2022-10-19,EFL Championship,Birmingham City v Burnley,18:45:00,Match 16
-820,2022-10-19,EFL Championship,Blackpool v Hull City,18:45:00,Match 16
-821,2022-10-19,EFL Championship,Coventry City v Sheffield United,18:45:00,Match 16
-822,2022-10-19,EFL Championship,Millwall v Watford,18:45:00,Match 16
-823,2022-10-19,EFL Championship,Queens Park Rangers v Cardiff City,18:45:00,Match 16
-824,2022-10-19,EFL Championship,Wigan Athletic v Middlesbrough,18:45:00,Match 16
-825,2022-10-22,EFL Championship,Blackburn Rovers v Birmingham City,14:00:00,Match 17
-826,2022-10-22,EFL Championship,Blackpool v Preston North End,14:00:00,Match 17
-827,2022-10-22,EFL Championship,Middlesbrough v Huddersfield Town,14:00:00,Match 17
-828,2022-10-22,EFL Championship,Millwall v West Bromwich Albion,14:00:00,Match 17
-829,2022-10-22,EFL Championship,Queens Park Rangers v Wigan Athletic,14:00:00,Match 17
-830,2022-10-22,EFL Championship,Reading v Bristol City,14:00:00,Match 17
-831,2022-10-22,EFL Championship,Rotherham United v Hull City,14:00:00,Match 17
-832,2022-10-22,EFL Championship,Sheffield United v Norwich City,14:00:00,Match 17
-833,2022-10-22,EFL Championship,Stoke City v Coventry City,14:00:00,Match 17
-834,2022-10-22,EFL Championship,Sunderland v Burnley,14:00:00,Match 17
-835,2022-10-22,EFL Championship,Swansea City v Cardiff City,14:00:00,Match 17
-836,2022-10-22,EFL Championship,Watford v Luton Town,14:00:00,Match 17
-837,2022-10-29,EFL Championship,Birmingham City v Queens Park Rangers,14:00:00,Match 18
-838,2022-10-29,EFL Championship,Bristol City v Swansea City,14:00:00,Match 18
-839,2022-10-29,EFL Championship,Burnley v Reading,14:00:00,Match 18
-840,2022-10-29,EFL Championship,Cardiff City v Rotherham United,14:00:00,Match 18
-841,2022-10-29,EFL Championship,Coventry City v Blackpool,14:00:00,Match 18
-842,2022-10-29,EFL Championship,Huddersfield Town v Millwall,14:00:00,Match 18
-843,2022-10-29,EFL Championship,Hull City v Blackburn Rovers,14:00:00,Match 18
-844,2022-10-29,EFL Championship,Luton Town v Sunderland,14:00:00,Match 18
-845,2022-10-29,EFL Championship,Norwich City v Stoke City,14:00:00,Match 18
-846,2022-10-29,EFL Championship,Preston North End v Middlesbrough,14:00:00,Match 18
-847,2022-10-29,EFL Championship,West Bromwich Albion v Sheffield United,14:00:00,Match 18
-848,2022-10-29,EFL Championship,Wigan Athletic v Watford,14:00:00,Match 18
-849,2022-11-01,EFL Championship,Bristol City v Sheffield United,19:45:00,Match 19
-850,2022-11-01,EFL Championship,Coventry City v Blackburn Rovers,19:45:00,Match 19
-851,2022-11-01,EFL Championship,Hull City v Middlesbrough,19:45:00,Match 19
-852,2022-11-01,EFL Championship,Luton Town v Reading,19:45:00,Match 19
-853,2022-11-01,EFL Championship,Preston North End v Swansea City,19:45:00,Match 19
-854,2022-11-01,EFL Championship,West Bromwich Albion v Blackpool,20:00:00,Match 19
-855,2022-11-02,EFL Championship,Birmingham City v Millwall,19:45:00,Match 19
-856,2022-11-02,EFL Championship,Burnley v Rotherham United,19:45:00,Match 19
-857,2022-11-02,EFL Championship,Cardiff City v Watford,19:45:00,Match 19
-858,2022-11-02,EFL Championship,Huddersfield Town v Sunderland,19:45:00,Match 19
-859,2022-11-02,EFL Championship,Norwich City v Queens Park Rangers,19:45:00,Match 19
-860,2022-11-02,EFL Championship,Wigan Athletic v Stoke City,19:45:00,Match 19
-861,2022-11-05,EFL Championship,Blackburn Rovers v Huddersfield Town,15:00:00,Match 20
-862,2022-11-05,EFL Championship,Blackpool v Luton Town,15:00:00,Match 20
-863,2022-11-05,EFL Championship,Middlesbrough v Bristol City,15:00:00,Match 20
-864,2022-11-05,EFL Championship,Millwall v Hull City,15:00:00,Match 20
-865,2022-11-05,EFL Championship,Queens Park Rangers v West Bromwich Albion,15:00:00,Match 20
-866,2022-11-05,EFL Championship,Reading v Preston North End,15:00:00,Match 20
-867,2022-11-05,EFL Championship,Rotherham United v Norwich City,15:00:00,Match 20
-868,2022-11-05,EFL Championship,Sheffield United v Burnley,15:00:00,Match 20
-869,2022-11-05,EFL Championship,Stoke City v Birmingham City,15:00:00,Match 20
-870,2022-11-05,EFL Championship,Sunderland v Cardiff City,15:00:00,Match 20
-871,2022-11-05,EFL Championship,Swansea City v Wigan Athletic,15:00:00,Match 20
-872,2022-11-05,EFL Championship,Watford v Coventry City,15:00:00,Match 20
-873,2022-11-12,EFL Championship,Birmingham City v Sunderland,15:00:00,Match 21
-874,2022-11-12,EFL Championship,Bristol City v Watford,15:00:00,Match 21
-875,2022-11-12,EFL Championship,Burnley v Blackburn Rovers,15:00:00,Match 21
-876,2022-11-12,EFL Championship,Cardiff City v Sheffield United,15:00:00,Match 21
-877,2022-11-12,EFL Championship,Coventry City v Queens Park Rangers,15:00:00,Match 21
-878,2022-11-12,EFL Championship,Huddersfield Town v Swansea City,15:00:00,Match 21
-879,2022-11-12,EFL Championship,Hull City v Reading,15:00:00,Match 21
-880,2022-11-12,EFL Championship,Luton Town v Rotherham United,15:00:00,Match 21
-881,2022-11-12,EFL Championship,Norwich City v Middlesbrough,15:00:00,Match 21
-882,2022-11-12,EFL Championship,Preston North End v Millwall,15:00:00,Match 21
-883,2022-11-12,EFL Championship,West Bromwich Albion v Stoke City,15:00:00,Match 21
-884,2022-11-12,EFL Championship,Wigan Athletic v Blackpool,15:00:00,Match 21
-885,2022-12-10,EFL Championship,Blackburn Rovers v Preston North End,15:00:00,Match 22
-886,2022-12-10,EFL Championship,Blackpool v Birmingham City,15:00:00,Match 22
-887,2022-12-10,EFL Championship,Middlesbrough v Luton Town,15:00:00,Match 22
-888,2022-12-10,EFL Championship,Millwall v Wigan Athletic,15:00:00,Match 22
-889,2022-12-10,EFL Championship,Queens Park Rangers v Burnley,15:00:00,Match 22
-890,2022-12-10,EFL Championship,Reading v Coventry City,15:00:00,Match 22
-891,2022-12-10,EFL Championship,Rotherham United v Bristol City,15:00:00,Match 22
-892,2022-12-10,EFL Championship,Sheffield United v Huddersfield Town,15:00:00,Match 22
-893,2022-12-10,EFL Championship,Stoke City v Cardiff City,15:00:00,Match 22
-894,2022-12-10,EFL Championship,Sunderland v West Bromwich Albion,15:00:00,Match 22
-895,2022-12-10,EFL Championship,Swansea City v Norwich City,15:00:00,Match 22
-896,2022-12-10,EFL Championship,Watford v Hull City,15:00:00,Match 22
-897,2022-12-17,EFL Championship,Birmingham City v Reading,15:00:00,Match 23
-898,2022-12-17,EFL Championship,Bristol City v Stoke City,15:00:00,Match 23
-899,2022-12-17,EFL Championship,Burnley v Middlesbrough,15:00:00,Match 23
-900,2022-12-17,EFL Championship,Cardiff City v Blackpool,15:00:00,Match 23
-901,2022-12-17,EFL Championship,Coventry City v Swansea City,15:00:00,Match 23
-902,2022-12-17,EFL Championship,Huddersfield Town v Watford,15:00:00,Match 23
-903,2022-12-17,EFL Championship,Hull City v Sunderland,15:00:00,Match 23
-904,2022-12-17,EFL Championship,Luton Town v Millwall,15:00:00,Match 23
-905,2022-12-17,EFL Championship,Norwich City v Blackburn Rovers,15:00:00,Match 23
-906,2022-12-17,EFL Championship,Preston North End v Queens Park Rangers,15:00:00,Match 23
-907,2022-12-17,EFL Championship,West Bromwich Albion v Rotherham United,15:00:00,Match 23
-908,2022-12-17,EFL Championship,Wigan Athletic v Sheffield United,15:00:00,Match 23
-909,2022-12-26,EFL Championship,Bristol City v West Bromwich Albion,15:00:00,Match 24
-910,2022-12-26,EFL Championship,Burnley v Birmingham City,15:00:00,Match 24
-911,2022-12-26,EFL Championship,Cardiff City v Queens Park Rangers,15:00:00,Match 24
-912,2022-12-26,EFL Championship,Hull City v Blackpool,15:00:00,Match 24
-913,2022-12-26,EFL Championship,Luton Town v Norwich City,15:00:00,Match 24
-914,2022-12-26,EFL Championship,Middlesbrough v Wigan Athletic,15:00:00,Match 24
-915,2022-12-26,EFL Championship,Preston North End v Huddersfield Town,15:00:00,Match 24
-916,2022-12-26,EFL Championship,Reading v Swansea City,15:00:00,Match 24
-917,2022-12-26,EFL Championship,Rotherham United v Stoke City,15:00:00,Match 24
-918,2022-12-26,EFL Championship,Sheffield United v Coventry City,15:00:00,Match 24
-919,2022-12-26,EFL Championship,Sunderland v Blackburn Rovers,15:00:00,Match 24
-920,2022-12-26,EFL Championship,Watford v Millwall,15:00:00,Match 24
-921,2022-12-29,EFL Championship,Birmingham City v Hull City,19:45:00,Match 25
-922,2022-12-29,EFL Championship,Blackburn Rovers v Middlesbrough,19:45:00,Match 25
-923,2022-12-29,EFL Championship,Blackpool v Sheffield United,19:45:00,Match 25
-924,2022-12-29,EFL Championship,Coventry City v Cardiff City,19:45:00,Match 25
-925,2022-12-29,EFL Championship,Huddersfield Town v Rotherham United,19:45:00,Match 25
-926,2022-12-29,EFL Championship,Millwall v Bristol City,19:45:00,Match 25
-927,2022-12-29,EFL Championship,Norwich City v Reading,19:45:00,Match 25
-928,2022-12-29,EFL Championship,Queens Park Rangers v Luton Town,19:45:00,Match 25
-929,2022-12-29,EFL Championship,Swansea City v Watford,19:45:00,Match 25
-930,2022-12-29,EFL Championship,Wigan Athletic v Sunderland,19:45:00,Match 25
-931,2022-12-29,EFL Championship,Stoke City v Burnley,20:00:00,Match 25
-932,2022-12-29,EFL Championship,West Bromwich Albion v Preston North End,20:00:00,Match 25
-933,2023-01-01,EFL Championship,Birmingham City v Middlesbrough,15:00:00,Match 26
-934,2023-01-01,EFL Championship,Blackburn Rovers v Cardiff City,15:00:00,Match 26
-935,2023-01-01,EFL Championship,Blackpool v Sunderland,15:00:00,Match 26
-936,2023-01-01,EFL Championship,Coventry City v Bristol City,15:00:00,Match 26
-937,2023-01-01,EFL Championship,Huddersfield Town v Luton Town,15:00:00,Match 26
-938,2023-01-01,EFL Championship,Millwall v Rotherham United,15:00:00,Match 26
-939,2023-01-01,EFL Championship,Norwich City v Watford,15:00:00,Match 26
-940,2023-01-01,EFL Championship,Queens Park Rangers v Sheffield United,15:00:00,Match 26
-941,2023-01-01,EFL Championship,Stoke City v Preston North End,15:00:00,Match 26
-942,2023-01-01,EFL Championship,Swansea City v Burnley,15:00:00,Match 26
-943,2023-01-01,EFL Championship,West Bromwich Albion v Reading,15:00:00,Match 26
-944,2023-01-01,EFL Championship,Wigan Athletic v Hull City,15:00:00,Match 26
-945,2023-01-14,EFL Championship,Bristol City v Birmingham City,15:00:00,Match 27
-946,2023-01-14,EFL Championship,Burnley v Coventry City,15:00:00,Match 27
-947,2023-01-14,EFL Championship,Cardiff City v Wigan Athletic,15:00:00,Match 27
-948,2023-01-14,EFL Championship,Hull City v Huddersfield Town,15:00:00,Match 27
-949,2023-01-14,EFL Championship,Luton Town v West Bromwich Albion,15:00:00,Match 27
-950,2023-01-14,EFL Championship,Middlesbrough v Millwall,15:00:00,Match 27
-951,2023-01-14,EFL Championship,Preston North End v Norwich City,15:00:00,Match 27
-952,2023-01-14,EFL Championship,Reading v Queens Park Rangers,15:00:00,Match 27
-953,2023-01-14,EFL Championship,Rotherham United v Blackburn Rovers,15:00:00,Match 27
-954,2023-01-14,EFL Championship,Sheffield United v Stoke City,15:00:00,Match 27
-955,2023-01-14,EFL Championship,Sunderland v Swansea City,15:00:00,Match 27
-956,2023-01-14,EFL Championship,Watford v Blackpool,15:00:00,Match 27
-957,2023-01-21,EFL Championship,Birmingham City v Preston North End,15:00:00,Match 28
-958,2023-01-21,EFL Championship,Blackpool v Huddersfield Town,15:00:00,Match 28
-959,2023-01-21,EFL Championship,Bristol City v Blackburn Rovers,15:00:00,Match 28
-960,2023-01-21,EFL Championship,Burnley v West Bromwich Albion,15:00:00,Match 28
-961,2023-01-21,EFL Championship,Cardiff City v Millwall,15:00:00,Match 28
-962,2023-01-21,EFL Championship,Coventry City v Norwich City,15:00:00,Match 28
-963,2023-01-21,EFL Championship,Queens Park Rangers v Swansea City,15:00:00,Match 28
-964,2023-01-21,EFL Championship,Sheffield United v Hull City,15:00:00,Match 28
-965,2023-01-21,EFL Championship,Stoke City v Reading,15:00:00,Match 28
-966,2023-01-21,EFL Championship,Sunderland v Middlesbrough,15:00:00,Match 28
-967,2023-01-21,EFL Championship,Watford v Rotherham United,15:00:00,Match 28
-968,2023-01-21,EFL Championship,Wigan Athletic v Luton Town,15:00:00,Match 28
-969,2023-01-28,EFL Championship,Blackburn Rovers v Blackpool,15:00:00,Match 29
-970,2023-01-28,EFL Championship,Huddersfield Town v Bristol City,15:00:00,Match 29
-971,2023-01-28,EFL Championship,Hull City v Queens Park Rangers,15:00:00,Match 29
-972,2023-01-28,EFL Championship,Luton Town v Cardiff City,15:00:00,Match 29
-973,2023-01-28,EFL Championship,Middlesbrough v Watford,15:00:00,Match 29
-974,2023-01-28,EFL Championship,Millwall v Burnley,15:00:00,Match 29
-975,2023-01-28,EFL Championship,Norwich City v Birmingham City,15:00:00,Match 29
-976,2023-01-28,EFL Championship,Preston North End v Coventry City,15:00:00,Match 29
-977,2023-01-28,EFL Championship,Reading v Sheffield United,15:00:00,Match 29
-978,2023-01-28,EFL Championship,Rotherham United v Sunderland,15:00:00,Match 29
-979,2023-01-28,EFL Championship,Swansea City v Stoke City,15:00:00,Match 29
-980,2023-01-28,EFL Championship,West Bromwich Albion v Wigan Athletic,15:00:00,Match 29
-981,2023-02-04,EFL Championship,Blackburn Rovers v Wigan Athletic,15:00:00,Match 30
-982,2023-02-04,EFL Championship,Huddersfield Town v Queens Park Rangers,15:00:00,Match 30
-983,2023-02-04,EFL Championship,Hull City v Cardiff City,15:00:00,Match 30
-984,2023-02-04,EFL Championship,Luton Town v Stoke City,15:00:00,Match 30
-985,2023-02-04,EFL Championship,Middlesbrough v Blackpool,15:00:00,Match 30
-986,2023-02-04,EFL Championship,Millwall v Sunderland,15:00:00,Match 30
-987,2023-02-04,EFL Championship,Norwich City v Burnley,15:00:00,Match 30
-988,2023-02-04,EFL Championship,Preston North End v Bristol City,15:00:00,Match 30
-989,2023-02-04,EFL Championship,Reading v Watford,15:00:00,Match 30
-990,2023-02-04,EFL Championship,Rotherham United v Sheffield United,15:00:00,Match 30
-991,2023-02-04,EFL Championship,Swansea City v Birmingham City,15:00:00,Match 30
-992,2023-02-04,EFL Championship,West Bromwich Albion v Coventry City,15:00:00,Match 30
-993,2023-02-11,EFL Championship,Birmingham City v West Bromwich Albion,15:00:00,Match 31
-994,2023-02-11,EFL Championship,Blackpool v Rotherham United,15:00:00,Match 31
-995,2023-02-11,EFL Championship,Bristol City v Norwich City,15:00:00,Match 31
-996,2023-02-11,EFL Championship,Burnley v Preston North End,15:00:00,Match 31
-997,2023-02-11,EFL Championship,Cardiff City v Middlesbrough,15:00:00,Match 31
-998,2023-02-11,EFL Championship,Coventry City v Luton Town,15:00:00,Match 31
-999,2023-02-11,EFL Championship,Queens Park Rangers v Millwall,15:00:00,Match 31
-1000,2023-02-11,EFL Championship,Sheffield United v Swansea City,15:00:00,Match 31
-1001,2023-02-11,EFL Championship,Stoke City v Hull City,15:00:00,Match 31
-1002,2023-02-11,EFL Championship,Sunderland v Reading,15:00:00,Match 31
-1003,2023-02-11,EFL Championship,Watford v Blackburn Rovers,15:00:00,Match 31
-1004,2023-02-11,EFL Championship,Wigan Athletic v Huddersfield Town,15:00:00,Match 31
-1005,2023-02-14,EFL Championship,Birmingham City v Cardiff City,19:45:00,Match 32
-1006,2023-02-14,EFL Championship,Burnley v Watford,19:45:00,Match 32
-1007,2023-02-14,EFL Championship,Coventry City v Millwall,19:45:00,Match 32
-1008,2023-02-14,EFL Championship,Norwich City v Hull City,19:45:00,Match 32
-1009,2023-02-14,EFL Championship,Queens Park Rangers v Sunderland,19:45:00,Match 32
-1010,2023-02-14,EFL Championship,Reading v Rotherham United,20:00:00,Match 32
-1011,2023-02-15,EFL Championship,Bristol City v Wigan Athletic,19:45:00,Match 32
-1012,2023-02-15,EFL Championship,Preston North End v Luton Town,19:45:00,Match 32
-1013,2023-02-15,EFL Championship,Sheffield United v Middlesbrough,19:45:00,Match 32
-1014,2023-02-15,EFL Championship,Swansea City v Blackpool,19:45:00,Match 32
-1015,2023-02-15,EFL Championship,Stoke City v Huddersfield Town,20:00:00,Match 32
-1016,2023-02-15,EFL Championship,West Bromwich Albion v Blackburn Rovers,20:00:00,Match 32
-1017,2023-02-18,EFL Championship,Blackburn Rovers v Swansea City,15:00:00,Match 33
-1018,2023-02-18,EFL Championship,Blackpool v Stoke City,15:00:00,Match 33
-1019,2023-02-18,EFL Championship,Cardiff City v Reading,15:00:00,Match 33
-1020,2023-02-18,EFL Championship,Huddersfield Town v Birmingham City,15:00:00,Match 33
-1021,2023-02-18,EFL Championship,Hull City v Preston North End,15:00:00,Match 33
-1022,2023-02-18,EFL Championship,Luton Town v Burnley,15:00:00,Match 33
-1023,2023-02-18,EFL Championship,Middlesbrough v Queens Park Rangers,15:00:00,Match 33
-1024,2023-02-18,EFL Championship,Millwall v Sheffield United,15:00:00,Match 33
-1025,2023-02-18,EFL Championship,Rotherham United v Coventry City,15:00:00,Match 33
-1026,2023-02-18,EFL Championship,Sunderland v Bristol City,15:00:00,Match 33
-1027,2023-02-18,EFL Championship,Watford v West Bromwich Albion,15:00:00,Match 33
-1028,2023-02-18,EFL Championship,Wigan Athletic v Norwich City,15:00:00,Match 33
-1029,2023-02-25,EFL Championship,Birmingham City v Luton Town,15:00:00,Match 34
-1030,2023-02-25,EFL Championship,Bristol City v Hull City,15:00:00,Match 34
-1031,2023-02-25,EFL Championship,Burnley v Huddersfield Town,15:00:00,Match 34
-1032,2023-02-25,EFL Championship,Coventry City v Sunderland,15:00:00,Match 34
-1033,2023-02-25,EFL Championship,Norwich City v Cardiff City,15:00:00,Match 34
-1034,2023-02-25,EFL Championship,Preston North End v Wigan Athletic,15:00:00,Match 34
-1035,2023-02-25,EFL Championship,Queens Park Rangers v Blackburn Rovers,15:00:00,Match 34
-1036,2023-02-25,EFL Championship,Reading v Blackpool,15:00:00,Match 34
-1037,2023-02-25,EFL Championship,Sheffield United v Watford,15:00:00,Match 34
-1038,2023-02-25,EFL Championship,Stoke City v Millwall,15:00:00,Match 34
-1039,2023-02-25,EFL Championship,Swansea City v Rotherham United,15:00:00,Match 34
-1040,2023-02-25,EFL Championship,West Bromwich Albion v Middlesbrough,15:00:00,Match 34
-1041,2023-03-04,EFL Championship,Blackburn Rovers v Sheffield United,15:00:00,Match 35
-1042,2023-03-04,EFL Championship,Blackpool v Burnley,15:00:00,Match 35
-1043,2023-03-04,EFL Championship,Cardiff City v Bristol City,15:00:00,Match 35
-1044,2023-03-04,EFL Championship,Huddersfield Town v Coventry City,15:00:00,Match 35
-1045,2023-03-04,EFL Championship,Hull City v West Bromwich Albion,15:00:00,Match 35
-1046,2023-03-04,EFL Championship,Luton Town v Swansea City,15:00:00,Match 35
-1047,2023-03-04,EFL Championship,Middlesbrough v Reading,15:00:00,Match 35
-1048,2023-03-04,EFL Championship,Millwall v Norwich City,15:00:00,Match 35
-1049,2023-03-04,EFL Championship,Rotherham United v Queens Park Rangers,15:00:00,Match 35
-1050,2023-03-04,EFL Championship,Sunderland v Stoke City,15:00:00,Match 35
-1051,2023-03-04,EFL Championship,Watford v Preston North End,15:00:00,Match 35
-1052,2023-03-04,EFL Championship,Wigan Athletic v Birmingham City,15:00:00,Match 35
-1053,2023-03-11,EFL Championship,Birmingham City v Rotherham United,15:00:00,Match 36
-1054,2023-03-11,EFL Championship,Bristol City v Blackpool,15:00:00,Match 36
-1055,2023-03-11,EFL Championship,Burnley v Wigan Athletic,15:00:00,Match 36
-1056,2023-03-11,EFL Championship,Coventry City v Hull City,15:00:00,Match 36
-1057,2023-03-11,EFL Championship,Norwich City v Sunderland,15:00:00,Match 36
-1058,2023-03-11,EFL Championship,Preston North End v Cardiff City,15:00:00,Match 36
-1059,2023-03-11,EFL Championship,Queens Park Rangers v Watford,15:00:00,Match 36
-1060,2023-03-11,EFL Championship,Reading v Millwall,15:00:00,Match 36
-1061,2023-03-11,EFL Championship,Sheffield United v Luton Town,15:00:00,Match 36
-1062,2023-03-11,EFL Championship,Stoke City v Blackburn Rovers,15:00:00,Match 36
-1063,2023-03-11,EFL Championship,Swansea City v Middlesbrough,15:00:00,Match 36
-1064,2023-03-11,EFL Championship,West Bromwich Albion v Huddersfield Town,15:00:00,Match 36
-1065,2023-03-14,EFL Championship,Blackpool v Queens Park Rangers,19:45:00,Match 37
-1066,2023-03-14,EFL Championship,Middlesbrough v Stoke City,19:45:00,Match 37
-1067,2023-03-14,EFL Championship,Millwall v Swansea City,19:45:00,Match 37
-1068,2023-03-14,EFL Championship,Rotherham United v Preston North End,19:45:00,Match 37
-1069,2023-03-14,EFL Championship,Watford v Birmingham City,19:45:00,Match 37
-1070,2023-03-14,EFL Championship,Wigan Athletic v Coventry City,19:45:00,Match 37
-1071,2023-03-15,EFL Championship,Blackburn Rovers v Reading,19:45:00,Match 37
-1072,2023-03-15,EFL Championship,Cardiff City v West Bromwich Albion,19:45:00,Match 37
-1073,2023-03-15,EFL Championship,Huddersfield Town v Norwich City,19:45:00,Match 37
-1074,2023-03-15,EFL Championship,Hull City v Burnley,19:45:00,Match 37
-1075,2023-03-15,EFL Championship,Luton Town v Bristol City,19:45:00,Match 37
-1076,2023-03-15,EFL Championship,Sunderland v Sheffield United,19:45:00,Match 37
-1077,2023-03-18,EFL Championship,Blackburn Rovers v Burnley,15:00:00,Match 38
-1078,2023-03-18,EFL Championship,Blackpool v Coventry City,15:00:00,Match 38
-1079,2023-03-18,EFL Championship,Middlesbrough v Preston North End,15:00:00,Match 38
-1080,2023-03-18,EFL Championship,Millwall v Huddersfield Town,15:00:00,Match 38
-1081,2023-03-18,EFL Championship,Queens Park Rangers v Birmingham City,15:00:00,Match 38
-1082,2023-03-18,EFL Championship,Reading v Hull City,15:00:00,Match 38
-1083,2023-03-18,EFL Championship,Rotherham United v Cardiff City,15:00:00,Match 38
-1084,2023-03-18,EFL Championship,Sheffield United v West Bromwich Albion,15:00:00,Match 38
-1085,2023-03-18,EFL Championship,Stoke City v Norwich City,15:00:00,Match 38
-1086,2023-03-18,EFL Championship,Sunderland v Luton Town,15:00:00,Match 38
-1087,2023-03-18,EFL Championship,Swansea City v Bristol City,15:00:00,Match 38
-1088,2023-03-18,EFL Championship,Watford v Wigan Athletic,15:00:00,Match 38
-1089,2023-04-01,EFL Championship,Birmingham City v Blackburn Rovers,14:00:00,Match 39
-1090,2023-04-01,EFL Championship,Bristol City v Reading,14:00:00,Match 39
-1091,2023-04-01,EFL Championship,Burnley v Sunderland,14:00:00,Match 39
-1092,2023-04-01,EFL Championship,Cardiff City v Swansea City,14:00:00,Match 39
-1093,2023-04-01,EFL Championship,Coventry City v Stoke City,14:00:00,Match 39
-1094,2023-04-01,EFL Championship,Huddersfield Town v Middlesbrough,14:00:00,Match 39
-1095,2023-04-01,EFL Championship,Hull City v Rotherham United,14:00:00,Match 39
-1096,2023-04-01,EFL Championship,Luton Town v Watford,14:00:00,Match 39
-1097,2023-04-01,EFL Championship,Norwich City v Sheffield United,14:00:00,Match 39
-1098,2023-04-01,EFL Championship,Preston North End v Blackpool,14:00:00,Match 39
-1099,2023-04-01,EFL Championship,West Bromwich Albion v Millwall,14:00:00,Match 39
-1100,2023-04-01,EFL Championship,Wigan Athletic v Queens Park Rangers,14:00:00,Match 39
-1101,2023-04-07,EFL Championship,Blackburn Rovers v Norwich City,14:00:00,Match 40
-1102,2023-04-07,EFL Championship,Blackpool v Cardiff City,14:00:00,Match 40
-1103,2023-04-07,EFL Championship,Middlesbrough v Burnley,14:00:00,Match 40
-1104,2023-04-07,EFL Championship,Millwall v Luton Town,14:00:00,Match 40
-1105,2023-04-07,EFL Championship,Queens Park Rangers v Preston North End,14:00:00,Match 40
-1106,2023-04-07,EFL Championship,Reading v Birmingham City,14:00:00,Match 40
-1107,2023-04-07,EFL Championship,Rotherham United v West Bromwich Albion,14:00:00,Match 40
-1108,2023-04-07,EFL Championship,Sheffield United v Wigan Athletic,14:00:00,Match 40
-1109,2023-04-07,EFL Championship,Stoke City v Bristol City,14:00:00,Match 40
-1110,2023-04-07,EFL Championship,Sunderland v Hull City,14:00:00,Match 40
-1111,2023-04-07,EFL Championship,Swansea City v Coventry City,14:00:00,Match 40
-1112,2023-04-07,EFL Championship,Watford v Huddersfield Town,14:00:00,Match 40
-1113,2023-04-10,EFL Championship,Birmingham City v Stoke City,14:00:00,Match 41
-1114,2023-04-10,EFL Championship,Bristol City v Middlesbrough,14:00:00,Match 41
-1115,2023-04-10,EFL Championship,Burnley v Sheffield United,14:00:00,Match 41
-1116,2023-04-10,EFL Championship,Cardiff City v Sunderland,14:00:00,Match 41
-1117,2023-04-10,EFL Championship,Coventry City v Watford,14:00:00,Match 41
-1118,2023-04-10,EFL Championship,Huddersfield Town v Blackburn Rovers,14:00:00,Match 41
-1119,2023-04-10,EFL Championship,Hull City v Millwall,14:00:00,Match 41
-1120,2023-04-10,EFL Championship,Luton Town v Blackpool,14:00:00,Match 41
-1121,2023-04-10,EFL Championship,Norwich City v Rotherham United,14:00:00,Match 41
-1122,2023-04-10,EFL Championship,Preston North End v Reading,14:00:00,Match 41
-1123,2023-04-10,EFL Championship,West Bromwich Albion v Queens Park Rangers,14:00:00,Match 41
-1124,2023-04-10,EFL Championship,Wigan Athletic v Swansea City,14:00:00,Match 41
-1125,2023-04-15,EFL Championship,Blackburn Rovers v Hull City,14:00:00,Match 42
-1126,2023-04-15,EFL Championship,Blackpool v Wigan Athletic,14:00:00,Match 42
-1127,2023-04-15,EFL Championship,Middlesbrough v Norwich City,14:00:00,Match 42
-1128,2023-04-15,EFL Championship,Millwall v Preston North End,14:00:00,Match 42
-1129,2023-04-15,EFL Championship,Queens Park Rangers v Coventry City,14:00:00,Match 42
-1130,2023-04-15,EFL Championship,Reading v Burnley,14:00:00,Match 42
-1131,2023-04-15,EFL Championship,Rotherham United v Luton Town,14:00:00,Match 42
-1132,2023-04-15,EFL Championship,Sheffield United v Cardiff City,14:00:00,Match 42
-1133,2023-04-15,EFL Championship,Stoke City v West Bromwich Albion,14:00:00,Match 42
-1134,2023-04-15,EFL Championship,Sunderland v Birmingham City,14:00:00,Match 42
-1135,2023-04-15,EFL Championship,Swansea City v Huddersfield Town,14:00:00,Match 42
-1136,2023-04-15,EFL Championship,Watford v Bristol City,14:00:00,Match 42
-1137,2023-04-18,EFL Championship,Blackpool v West Bromwich Albion,18:45:00,Match 43
-1138,2023-04-18,EFL Championship,Millwall v Birmingham City,18:45:00,Match 43
-1139,2023-04-18,EFL Championship,Rotherham United v Burnley,18:45:00,Match 43
-1140,2023-04-18,EFL Championship,Sheffield United v Bristol City,18:45:00,Match 43
-1141,2023-04-18,EFL Championship,Sunderland v Huddersfield Town,18:45:00,Match 43
-1142,2023-04-18,EFL Championship,Stoke City v Wigan Athletic,19:00:00,Match 43
-1143,2023-04-19,EFL Championship,Blackburn Rovers v Coventry City,18:45:00,Match 43
-1144,2023-04-19,EFL Championship,Middlesbrough v Hull City,18:45:00,Match 43
-1145,2023-04-19,EFL Championship,Queens Park Rangers v Norwich City,18:45:00,Match 43
-1146,2023-04-19,EFL Championship,Swansea City v Preston North End,18:45:00,Match 43
-1147,2023-04-19,EFL Championship,Watford v Cardiff City,18:45:00,Match 43
-1148,2023-04-19,EFL Championship,Reading v Luton Town,19:00:00,Match 43
-1149,2023-04-22,EFL Championship,Birmingham City v Blackpool,14:00:00,Match 44
-1150,2023-04-22,EFL Championship,Bristol City v Rotherham United,14:00:00,Match 44
-1151,2023-04-22,EFL Championship,Burnley v Queens Park Rangers,14:00:00,Match 44
-1152,2023-04-22,EFL Championship,Cardiff City v Stoke City,14:00:00,Match 44
-1153,2023-04-22,EFL Championship,Coventry City v Reading,14:00:00,Match 44
-1154,2023-04-22,EFL Championship,Huddersfield Town v Sheffield United,14:00:00,Match 44
-1155,2023-04-22,EFL Championship,Hull City v Watford,14:00:00,Match 44
-1156,2023-04-22,EFL Championship,Luton Town v Middlesbrough,14:00:00,Match 44
-1157,2023-04-22,EFL Championship,Norwich City v Swansea City,14:00:00,Match 44
-1158,2023-04-22,EFL Championship,Preston North End v Blackburn Rovers,14:00:00,Match 44
-1159,2023-04-22,EFL Championship,West Bromwich Albion v Sunderland,14:00:00,Match 44
-1160,2023-04-22,EFL Championship,Wigan Athletic v Millwall,14:00:00,Match 44
-1161,2023-04-29,EFL Championship,Blackburn Rovers v Luton Town,14:00:00,Match 45
-1162,2023-04-29,EFL Championship,Blackpool v Millwall,14:00:00,Match 45
-1163,2023-04-29,EFL Championship,Bristol City v Burnley,14:00:00,Match 45
-1164,2023-04-29,EFL Championship,Cardiff City v Huddersfield Town,14:00:00,Match 45
-1165,2023-04-29,EFL Championship,Coventry City v Birmingham City,14:00:00,Match 45
-1166,2023-04-29,EFL Championship,Hull City v Swansea City,14:00:00,Match 45
-1167,2023-04-29,EFL Championship,Reading v Wigan Athletic,14:00:00,Match 45
-1168,2023-04-29,EFL Championship,Rotherham United v Middlesbrough,14:00:00,Match 45
-1169,2023-04-29,EFL Championship,Sheffield United v Preston North End,14:00:00,Match 45
-1170,2023-04-29,EFL Championship,Stoke City v Queens Park Rangers,14:00:00,Match 45
-1171,2023-04-29,EFL Championship,Sunderland v Watford,14:00:00,Match 45
-1172,2023-04-29,EFL Championship,West Bromwich Albion v Norwich City,14:00:00,Match 45
-1173,2023-05-06,EFL Championship,Birmingham City v Sheffield United,14:00:00,Match 46
-1174,2023-05-06,EFL Championship,Burnley v Cardiff City,14:00:00,Match 46
-1175,2023-05-06,EFL Championship,Huddersfield Town v Reading,14:00:00,Match 46
-1176,2023-05-06,EFL Championship,Luton Town v Hull City,14:00:00,Match 46
-1177,2023-05-06,EFL Championship,Middlesbrough v Coventry City,14:00:00,Match 46
-1178,2023-05-06,EFL Championship,Millwall v Blackburn Rovers,14:00:00,Match 46
-1179,2023-05-06,EFL Championship,Norwich City v Blackpool,14:00:00,Match 46
-1180,2023-05-06,EFL Championship,Preston North End v Sunderland,14:00:00,Match 46
-1181,2023-05-06,EFL Championship,Queens Park Rangers v Bristol City,14:00:00,Match 46
-1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,14:00:00,Match 46
-1183,2023-05-06,EFL Championship,Watford v Stoke City,14:00:00,Match 46
-1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,14:00:00,Match 46
+657,2022-08-12,EFL Championship,Watford v Burnley,,Match 3
+658,2022-08-13,EFL Championship,Cardiff City v Birmingham City,,Match 3
+659,2022-08-13,EFL Championship,Blackpool v Swansea City,,Match 3
+660,2022-08-13,EFL Championship,Huddersfield Town v Stoke City,,Match 3
+661,2022-08-13,EFL Championship,Hull City v Norwich City,,Match 3
+662,2022-08-13,EFL Championship,Luton Town v Preston North End,,Match 3
+663,2022-08-13,EFL Championship,Millwall v Coventry City,,Match 3
+664,2022-08-13,EFL Championship,Rotherham United v Reading,,Match 3
+665,2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,,Match 3
+666,2022-08-13,EFL Championship,Wigan Athletic v Bristol City,,Match 3
+667,2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,,Match 3
+668,2022-08-14,EFL Championship,Middlesbrough v Sheffield United,,Match 3
+669,2022-08-16,EFL Championship,Birmingham City v Watford,,Match 4
+670,2022-08-16,EFL Championship,Bristol City v Luton Town,,Match 4
+671,2022-08-16,EFL Championship,Burnley v Hull City,,Match 4
+672,2022-08-16,EFL Championship,Coventry City v Wigan Athletic,,Match 4
+673,2022-08-16,EFL Championship,Norwich City v Huddersfield Town,,Match 4
+674,2022-08-16,EFL Championship,Preston North End v Rotherham United,,Match 4
+675,2022-08-16,EFL Championship,Queens Park Rangers v Blackpool,,Match 4
+676,2022-08-16,EFL Championship,Swansea City v Millwall,,Match 4
+677,2022-08-17,EFL Championship,Stoke City v Middlesbrough,,Match 4
+678,2022-08-17,EFL Championship,Sheffield United v Sunderland,,Match 4
+679,2022-08-17,EFL Championship,Reading v Blackburn Rovers,,Match 4
+680,2022-08-17,EFL Championship,West Bromwich Albion v Cardiff City,,Match 4
+681,2022-08-20,EFL Championship,Birmingham City v Wigan Athletic,,Match 5
+682,2022-08-20,EFL Championship,Bristol City v Cardiff City,,Match 5
+683,2022-08-20,EFL Championship,Burnley v Blackpool,,Match 5
+684,2022-08-20,EFL Championship,Coventry City v Huddersfield Town,,Match 5
+685,2022-08-20,EFL Championship,Norwich City v Millwall,,Match 5
+686,2022-08-20,EFL Championship,Preston North End v Watford,,Match 5
+687,2022-08-20,EFL Championship,Queens Park Rangers v Rotherham United,,Match 5
+688,2022-08-20,EFL Championship,Reading v Middlesbrough,,Match 5
+689,2022-08-20,EFL Championship,Sheffield United v Blackburn Rovers,,Match 5
+690,2022-08-20,EFL Championship,Stoke City v Sunderland,,Match 5
+691,2022-08-20,EFL Championship,Swansea City v Luton Town,,Match 5
+692,2022-08-20,EFL Championship,West Bromwich Albion v Hull City,,Match 5
+693,2022-08-27,EFL Championship,Blackburn Rovers v Stoke City,,Match 6
+694,2022-08-27,EFL Championship,Blackpool v Bristol City,,Match 6
+695,2022-08-27,EFL Championship,Cardiff City v Preston North End,,Match 6
+696,2022-08-27,EFL Championship,Huddersfield Town v West Bromwich Albion,,Match 6
+697,2022-08-27,EFL Championship,Hull City v Coventry City,,Match 6
+698,2022-08-27,EFL Championship,Luton Town v Sheffield United,,Match 6
+699,2022-08-27,EFL Championship,Middlesbrough v Swansea City,,Match 6
+700,2022-08-27,EFL Championship,Millwall v Reading,,Match 6
+701,2022-08-27,EFL Championship,Rotherham United v Birmingham City,,Match 6
+702,2022-08-27,EFL Championship,Sunderland v Norwich City,,Match 6
+703,2022-08-27,EFL Championship,Watford v Queens Park Rangers,,Match 6
+704,2022-08-27,EFL Championship,Wigan Athletic v Burnley,,Match 6
+705,2022-08-30,EFL Championship,Birmingham City v Norwich City,,Match 7
+706,2022-08-30,EFL Championship,Burnley v Millwall,,Match 7
+707,2022-08-30,EFL Championship,Cardiff City v Luton Town,,Match 7
+708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,,Match 7
+709,2022-08-30,EFL Championship,Watford v Middlesbrough,,Match 7
+710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,,Match 7
+711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,,Match 7
+712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,,Match 7
+713,2022-08-31,EFL Championship,Coventry City v Preston North End,,Match 7
+714,2022-08-31,EFL Championship,Sheffield United v Reading,,Match 7
+715,2022-08-31,EFL Championship,Sunderland v Rotherham United,,Match 7
+716,2022-08-31,EFL Championship,Stoke City v Swansea City,,Match 7
+717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,,Match 8
+718,2022-09-03,EFL Championship,Huddersfield Town v Blackpool,,Match 8
+719,2022-09-03,EFL Championship,Hull City v Sheffield United,,Match 8
+720,2022-09-03,EFL Championship,Luton Town v Wigan Athletic,,Match 8
+721,2022-09-03,EFL Championship,Middlesbrough v Sunderland,,Match 8
+722,2022-09-03,EFL Championship,Millwall v Cardiff City,,Match 8
+723,2022-09-03,EFL Championship,Norwich City v Coventry City,,Match 8
+724,2022-09-03,EFL Championship,Preston North End v Birmingham City,,Match 8
+725,2022-09-03,EFL Championship,Reading v Stoke City,,Match 8
+726,2022-09-03,EFL Championship,Rotherham United v Watford,,Match 8
+727,2022-09-03,EFL Championship,Swansea City v Queens Park Rangers,,Match 8
+728,2022-09-03,EFL Championship,West Bromwich Albion v Burnley,,Match 8
+729,2022-09-10,EFL Championship,Birmingham City v Swansea City,,Match 9
+730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,,Match 9
+731,2022-09-10,EFL Championship,Bristol City v Preston North End,,Match 9
+732,2022-09-10,EFL Championship,Burnley v Norwich City,,Match 9
+733,2022-09-10,EFL Championship,Cardiff City v Hull City,,Match 9
+734,2022-09-10,EFL Championship,Coventry City v West Bromwich Albion,,Match 9
+735,2022-09-10,EFL Championship,Queens Park Rangers v Huddersfield Town,,Match 9
+736,2022-09-10,EFL Championship,Sheffield United v Rotherham United,,Match 9
+737,2022-09-10,EFL Championship,Stoke City v Luton Town,,Match 9
+738,2022-09-10,EFL Championship,Sunderland v Millwall,,Match 9
+739,2022-09-10,EFL Championship,Watford v Reading,,Match 9
+740,2022-09-10,EFL Championship,Wigan Athletic v Blackburn Rovers,,Match 9
+741,2022-09-13,EFL Championship,Blackburn Rovers v Watford,,Match 10
+742,2022-09-13,EFL Championship,Huddersfield Town v Wigan Athletic,,Match 10
+743,2022-09-13,EFL Championship,Hull City v Stoke City,,Match 10
+744,2022-09-13,EFL Championship,Middlesbrough v Cardiff City,,Match 10
+745,2022-09-13,EFL Championship,Preston North End v Burnley,,Match 10
+746,2022-09-13,EFL Championship,Swansea City v Sheffield United,,Match 10
+747,2022-09-14,EFL Championship,Luton Town v Coventry City,,Match 10
+748,2022-09-14,EFL Championship,Millwall v Queens Park Rangers,,Match 10
+749,2022-09-14,EFL Championship,Norwich City v Bristol City,,Match 10
+750,2022-09-14,EFL Championship,Rotherham United v Blackpool,,Match 10
+751,2022-09-14,EFL Championship,Reading v Sunderland,,Match 10
+752,2022-09-14,EFL Championship,West Bromwich Albion v Birmingham City,,Match 10
+753,2022-09-17,EFL Championship,Birmingham City v Coventry City,,Match 11
+754,2022-09-17,EFL Championship,Burnley v Bristol City,,Match 11
+755,2022-09-17,EFL Championship,Huddersfield Town v Cardiff City,,Match 11
+756,2022-09-17,EFL Championship,Luton Town v Blackburn Rovers,,Match 11
+757,2022-09-17,EFL Championship,Middlesbrough v Rotherham United,,Match 11
+758,2022-09-17,EFL Championship,Millwall v Blackpool,,Match 11
+759,2022-09-17,EFL Championship,Norwich City v West Bromwich Albion,,Match 11
+760,2022-09-17,EFL Championship,Preston North End v Sheffield United,,Match 11
+761,2022-09-17,EFL Championship,Queens Park Rangers v Stoke City,,Match 11
+762,2022-09-17,EFL Championship,Swansea City v Hull City,,Match 11
+763,2022-09-17,EFL Championship,Watford v Sunderland,,Match 11
+764,2022-09-17,EFL Championship,Wigan Athletic v Reading,,Match 11
+765,2022-10-01,EFL Championship,Blackburn Rovers v Millwall,,Match 12
+766,2022-10-01,EFL Championship,Blackpool v Norwich City,,Match 12
+767,2022-10-01,EFL Championship,Bristol City v Queens Park Rangers,,Match 12
+768,2022-10-01,EFL Championship,Cardiff City v Burnley,,Match 12
+769,2022-10-01,EFL Championship,Coventry City v Middlesbrough,,Match 12
+770,2022-10-01,EFL Championship,Hull City v Luton Town,,Match 12
+771,2022-10-01,EFL Championship,Reading v Huddersfield Town,,Match 12
+772,2022-10-01,EFL Championship,Rotherham United v Wigan Athletic,,Match 12
+773,2022-10-01,EFL Championship,Sheffield United v Birmingham City,,Match 12
+774,2022-10-01,EFL Championship,Stoke City v Watford,,Match 12
+775,2022-10-01,EFL Championship,Sunderland v Preston North End,,Match 12
+776,2022-10-01,EFL Championship,West Bromwich Albion v Swansea City,,Match 12
+777,2022-10-04,EFL Championship,Bristol City v Coventry City,,Match 13
+778,2022-10-04,EFL Championship,Cardiff City v Blackburn Rovers,,Match 13
+779,2022-10-04,EFL Championship,Luton Town v Huddersfield Town,,Match 13
+780,2022-10-04,EFL Championship,Sheffield United v Queens Park Rangers,,Match 13
+781,2022-10-04,EFL Championship,Sunderland v Blackpool,,Match 13
+782,2022-10-04,EFL Championship,Reading v Norwich City,,Match 13
+783,2022-10-05,EFL Championship,Burnley v Stoke City,,Match 13
+784,2022-10-05,EFL Championship,Hull City v Wigan Athletic,,Match 13
+785,2022-10-05,EFL Championship,Middlesbrough v Birmingham City,,Match 13
+786,2022-10-05,EFL Championship,Preston North End v West Bromwich Albion,,Match 13
+787,2022-10-05,EFL Championship,Rotherham United v Millwall,,Match 13
+788,2022-10-05,EFL Championship,Watford v Swansea City,,Match 13
+789,2022-10-08,EFL Championship,Birmingham City v Bristol City,,Match 14
+790,2022-10-08,EFL Championship,Blackburn Rovers v Rotherham United,,Match 14
+791,2022-10-08,EFL Championship,Blackpool v Watford,,Match 14
+792,2022-10-08,EFL Championship,Coventry City v Burnley,,Match 14
+793,2022-10-08,EFL Championship,Huddersfield Town v Hull City,,Match 14
+794,2022-10-08,EFL Championship,Millwall v Middlesbrough,,Match 14
+795,2022-10-08,EFL Championship,Norwich City v Preston North End,,Match 14
+796,2022-10-08,EFL Championship,Queens Park Rangers v Reading,,Match 14
+797,2022-10-08,EFL Championship,Stoke City v Sheffield United,,Match 14
+798,2022-10-08,EFL Championship,Swansea City v Sunderland,,Match 14
+799,2022-10-08,EFL Championship,West Bromwich Albion v Luton Town,,Match 14
+800,2022-10-08,EFL Championship,Wigan Athletic v Cardiff City,,Match 14
+801,2022-10-15,EFL Championship,Bristol City v Millwall,,Match 15
+802,2022-10-15,EFL Championship,Burnley v Swansea City,,Match 15
+803,2022-10-15,EFL Championship,Cardiff City v Coventry City,,Match 15
+804,2022-10-15,EFL Championship,Hull City v Birmingham City,,Match 15
+805,2022-10-15,EFL Championship,Luton Town v Queens Park Rangers,,Match 15
+806,2022-10-15,EFL Championship,Middlesbrough v Blackburn Rovers,,Match 15
+807,2022-10-15,EFL Championship,Preston North End v Stoke City,,Match 15
+808,2022-10-15,EFL Championship,Reading v West Bromwich Albion,,Match 15
+809,2022-10-15,EFL Championship,Rotherham United v Huddersfield Town,,Match 15
+810,2022-10-15,EFL Championship,Sheffield United v Blackpool,,Match 15
+811,2022-10-15,EFL Championship,Sunderland v Wigan Athletic,,Match 15
+812,2022-10-15,EFL Championship,Watford v Norwich City,,Match 15
+813,2022-10-18,EFL Championship,Blackburn Rovers v Sunderland,,Match 16
+814,2022-10-18,EFL Championship,Huddersfield Town v Preston North End,,Match 16
+815,2022-10-18,EFL Championship,Norwich City v Luton Town,,Match 16
+816,2022-10-18,EFL Championship,Swansea City v Reading,,Match 16
+817,2022-10-18,EFL Championship,Stoke City v Rotherham United,,Match 16
+818,2022-10-18,EFL Championship,West Bromwich Albion v Bristol City,,Match 16
+819,2022-10-19,EFL Championship,Birmingham City v Burnley,,Match 16
+820,2022-10-19,EFL Championship,Blackpool v Hull City,,Match 16
+821,2022-10-19,EFL Championship,Coventry City v Sheffield United,,Match 16
+822,2022-10-19,EFL Championship,Millwall v Watford,,Match 16
+823,2022-10-19,EFL Championship,Queens Park Rangers v Cardiff City,,Match 16
+824,2022-10-19,EFL Championship,Wigan Athletic v Middlesbrough,,Match 16
+825,2022-10-22,EFL Championship,Blackburn Rovers v Birmingham City,,Match 17
+826,2022-10-22,EFL Championship,Blackpool v Preston North End,,Match 17
+827,2022-10-22,EFL Championship,Middlesbrough v Huddersfield Town,,Match 17
+828,2022-10-22,EFL Championship,Millwall v West Bromwich Albion,,Match 17
+829,2022-10-22,EFL Championship,Queens Park Rangers v Wigan Athletic,,Match 17
+830,2022-10-22,EFL Championship,Reading v Bristol City,,Match 17
+831,2022-10-22,EFL Championship,Rotherham United v Hull City,,Match 17
+832,2022-10-22,EFL Championship,Sheffield United v Norwich City,,Match 17
+833,2022-10-22,EFL Championship,Stoke City v Coventry City,,Match 17
+834,2022-10-22,EFL Championship,Sunderland v Burnley,,Match 17
+835,2022-10-22,EFL Championship,Swansea City v Cardiff City,,Match 17
+836,2022-10-22,EFL Championship,Watford v Luton Town,,Match 17
+837,2022-10-29,EFL Championship,Birmingham City v Queens Park Rangers,,Match 18
+838,2022-10-29,EFL Championship,Bristol City v Swansea City,,Match 18
+839,2022-10-29,EFL Championship,Burnley v Reading,,Match 18
+840,2022-10-29,EFL Championship,Cardiff City v Rotherham United,,Match 18
+841,2022-10-29,EFL Championship,Coventry City v Blackpool,,Match 18
+842,2022-10-29,EFL Championship,Huddersfield Town v Millwall,,Match 18
+843,2022-10-29,EFL Championship,Hull City v Blackburn Rovers,,Match 18
+844,2022-10-29,EFL Championship,Luton Town v Sunderland,,Match 18
+845,2022-10-29,EFL Championship,Norwich City v Stoke City,,Match 18
+846,2022-10-29,EFL Championship,Preston North End v Middlesbrough,,Match 18
+847,2022-10-29,EFL Championship,West Bromwich Albion v Sheffield United,,Match 18
+848,2022-10-29,EFL Championship,Wigan Athletic v Watford,,Match 18
+849,2022-11-01,EFL Championship,Bristol City v Sheffield United,,Match 19
+850,2022-11-01,EFL Championship,Coventry City v Blackburn Rovers,,Match 19
+851,2022-11-01,EFL Championship,Hull City v Middlesbrough,,Match 19
+852,2022-11-01,EFL Championship,Luton Town v Reading,,Match 19
+853,2022-11-01,EFL Championship,Preston North End v Swansea City,,Match 19
+854,2022-11-01,EFL Championship,West Bromwich Albion v Blackpool,,Match 19
+855,2022-11-02,EFL Championship,Birmingham City v Millwall,,Match 19
+856,2022-11-02,EFL Championship,Burnley v Rotherham United,,Match 19
+857,2022-11-02,EFL Championship,Cardiff City v Watford,,Match 19
+858,2022-11-02,EFL Championship,Huddersfield Town v Sunderland,,Match 19
+859,2022-11-02,EFL Championship,Norwich City v Queens Park Rangers,,Match 19
+860,2022-11-02,EFL Championship,Wigan Athletic v Stoke City,,Match 19
+861,2022-11-05,EFL Championship,Blackburn Rovers v Huddersfield Town,,Match 20
+862,2022-11-05,EFL Championship,Blackpool v Luton Town,,Match 20
+863,2022-11-05,EFL Championship,Middlesbrough v Bristol City,,Match 20
+864,2022-11-05,EFL Championship,Millwall v Hull City,,Match 20
+865,2022-11-05,EFL Championship,Queens Park Rangers v West Bromwich Albion,,Match 20
+866,2022-11-05,EFL Championship,Reading v Preston North End,,Match 20
+867,2022-11-05,EFL Championship,Rotherham United v Norwich City,,Match 20
+868,2022-11-05,EFL Championship,Sheffield United v Burnley,,Match 20
+869,2022-11-05,EFL Championship,Stoke City v Birmingham City,,Match 20
+870,2022-11-05,EFL Championship,Sunderland v Cardiff City,,Match 20
+871,2022-11-05,EFL Championship,Swansea City v Wigan Athletic,,Match 20
+872,2022-11-05,EFL Championship,Watford v Coventry City,,Match 20
+873,2022-11-12,EFL Championship,Birmingham City v Sunderland,,Match 21
+874,2022-11-12,EFL Championship,Bristol City v Watford,,Match 21
+875,2022-11-12,EFL Championship,Burnley v Blackburn Rovers,,Match 21
+876,2022-11-12,EFL Championship,Cardiff City v Sheffield United,,Match 21
+877,2022-11-12,EFL Championship,Coventry City v Queens Park Rangers,,Match 21
+878,2022-11-12,EFL Championship,Huddersfield Town v Swansea City,,Match 21
+879,2022-11-12,EFL Championship,Hull City v Reading,,Match 21
+880,2022-11-12,EFL Championship,Luton Town v Rotherham United,,Match 21
+881,2022-11-12,EFL Championship,Norwich City v Middlesbrough,,Match 21
+882,2022-11-12,EFL Championship,Preston North End v Millwall,,Match 21
+883,2022-11-12,EFL Championship,West Bromwich Albion v Stoke City,,Match 21
+884,2022-11-12,EFL Championship,Wigan Athletic v Blackpool,,Match 21
+885,2022-12-10,EFL Championship,Blackburn Rovers v Preston North End,,Match 22
+886,2022-12-10,EFL Championship,Blackpool v Birmingham City,,Match 22
+887,2022-12-10,EFL Championship,Middlesbrough v Luton Town,,Match 22
+888,2022-12-10,EFL Championship,Millwall v Wigan Athletic,,Match 22
+889,2022-12-10,EFL Championship,Queens Park Rangers v Burnley,,Match 22
+890,2022-12-10,EFL Championship,Reading v Coventry City,,Match 22
+891,2022-12-10,EFL Championship,Rotherham United v Bristol City,,Match 22
+892,2022-12-10,EFL Championship,Sheffield United v Huddersfield Town,,Match 22
+893,2022-12-10,EFL Championship,Stoke City v Cardiff City,,Match 22
+894,2022-12-10,EFL Championship,Sunderland v West Bromwich Albion,,Match 22
+895,2022-12-10,EFL Championship,Swansea City v Norwich City,,Match 22
+896,2022-12-10,EFL Championship,Watford v Hull City,,Match 22
+897,2022-12-17,EFL Championship,Birmingham City v Reading,,Match 23
+898,2022-12-17,EFL Championship,Bristol City v Stoke City,,Match 23
+899,2022-12-17,EFL Championship,Burnley v Middlesbrough,,Match 23
+900,2022-12-17,EFL Championship,Cardiff City v Blackpool,,Match 23
+901,2022-12-17,EFL Championship,Coventry City v Swansea City,,Match 23
+902,2022-12-17,EFL Championship,Huddersfield Town v Watford,,Match 23
+903,2022-12-17,EFL Championship,Hull City v Sunderland,,Match 23
+904,2022-12-17,EFL Championship,Luton Town v Millwall,,Match 23
+905,2022-12-17,EFL Championship,Norwich City v Blackburn Rovers,,Match 23
+906,2022-12-17,EFL Championship,Preston North End v Queens Park Rangers,,Match 23
+907,2022-12-17,EFL Championship,West Bromwich Albion v Rotherham United,,Match 23
+908,2022-12-17,EFL Championship,Wigan Athletic v Sheffield United,,Match 23
+909,2022-12-26,EFL Championship,Bristol City v West Bromwich Albion,,Match 24
+910,2022-12-26,EFL Championship,Burnley v Birmingham City,,Match 24
+911,2022-12-26,EFL Championship,Cardiff City v Queens Park Rangers,,Match 24
+912,2022-12-26,EFL Championship,Hull City v Blackpool,,Match 24
+913,2022-12-26,EFL Championship,Luton Town v Norwich City,,Match 24
+914,2022-12-26,EFL Championship,Middlesbrough v Wigan Athletic,,Match 24
+915,2022-12-26,EFL Championship,Preston North End v Huddersfield Town,,Match 24
+916,2022-12-26,EFL Championship,Reading v Swansea City,,Match 24
+917,2022-12-26,EFL Championship,Rotherham United v Stoke City,,Match 24
+918,2022-12-26,EFL Championship,Sheffield United v Coventry City,,Match 24
+919,2022-12-26,EFL Championship,Sunderland v Blackburn Rovers,,Match 24
+920,2022-12-26,EFL Championship,Watford v Millwall,,Match 24
+921,2022-12-29,EFL Championship,Birmingham City v Hull City,,Match 25
+922,2022-12-29,EFL Championship,Blackburn Rovers v Middlesbrough,,Match 25
+923,2022-12-29,EFL Championship,Blackpool v Sheffield United,,Match 25
+924,2022-12-29,EFL Championship,Coventry City v Cardiff City,,Match 25
+925,2022-12-29,EFL Championship,Huddersfield Town v Rotherham United,,Match 25
+926,2022-12-29,EFL Championship,Millwall v Bristol City,,Match 25
+927,2022-12-29,EFL Championship,Norwich City v Reading,,Match 25
+928,2022-12-29,EFL Championship,Queens Park Rangers v Luton Town,,Match 25
+929,2022-12-29,EFL Championship,Swansea City v Watford,,Match 25
+930,2022-12-29,EFL Championship,Wigan Athletic v Sunderland,,Match 25
+931,2022-12-29,EFL Championship,Stoke City v Burnley,,Match 25
+932,2022-12-29,EFL Championship,West Bromwich Albion v Preston North End,,Match 25
+933,2023-01-01,EFL Championship,Birmingham City v Middlesbrough,,Match 26
+934,2023-01-01,EFL Championship,Blackburn Rovers v Cardiff City,,Match 26
+935,2023-01-01,EFL Championship,Blackpool v Sunderland,,Match 26
+936,2023-01-01,EFL Championship,Coventry City v Bristol City,,Match 26
+937,2023-01-01,EFL Championship,Huddersfield Town v Luton Town,,Match 26
+938,2023-01-01,EFL Championship,Millwall v Rotherham United,,Match 26
+939,2023-01-01,EFL Championship,Norwich City v Watford,,Match 26
+940,2023-01-01,EFL Championship,Queens Park Rangers v Sheffield United,,Match 26
+941,2023-01-01,EFL Championship,Stoke City v Preston North End,,Match 26
+942,2023-01-01,EFL Championship,Swansea City v Burnley,,Match 26
+943,2023-01-01,EFL Championship,West Bromwich Albion v Reading,,Match 26
+944,2023-01-01,EFL Championship,Wigan Athletic v Hull City,,Match 26
+945,2023-01-14,EFL Championship,Bristol City v Birmingham City,,Match 27
+946,2023-01-14,EFL Championship,Burnley v Coventry City,,Match 27
+947,2023-01-14,EFL Championship,Cardiff City v Wigan Athletic,,Match 27
+948,2023-01-14,EFL Championship,Hull City v Huddersfield Town,,Match 27
+949,2023-01-14,EFL Championship,Luton Town v West Bromwich Albion,,Match 27
+950,2023-01-14,EFL Championship,Middlesbrough v Millwall,,Match 27
+951,2023-01-14,EFL Championship,Preston North End v Norwich City,,Match 27
+952,2023-01-14,EFL Championship,Reading v Queens Park Rangers,,Match 27
+953,2023-01-14,EFL Championship,Rotherham United v Blackburn Rovers,,Match 27
+954,2023-01-14,EFL Championship,Sheffield United v Stoke City,,Match 27
+955,2023-01-14,EFL Championship,Sunderland v Swansea City,,Match 27
+956,2023-01-14,EFL Championship,Watford v Blackpool,,Match 27
+957,2023-01-21,EFL Championship,Birmingham City v Preston North End,,Match 28
+958,2023-01-21,EFL Championship,Blackpool v Huddersfield Town,,Match 28
+959,2023-01-21,EFL Championship,Bristol City v Blackburn Rovers,,Match 28
+960,2023-01-21,EFL Championship,Burnley v West Bromwich Albion,,Match 28
+961,2023-01-21,EFL Championship,Cardiff City v Millwall,,Match 28
+962,2023-01-21,EFL Championship,Coventry City v Norwich City,,Match 28
+963,2023-01-21,EFL Championship,Queens Park Rangers v Swansea City,,Match 28
+964,2023-01-21,EFL Championship,Sheffield United v Hull City,,Match 28
+965,2023-01-21,EFL Championship,Stoke City v Reading,,Match 28
+966,2023-01-21,EFL Championship,Sunderland v Middlesbrough,,Match 28
+967,2023-01-21,EFL Championship,Watford v Rotherham United,,Match 28
+968,2023-01-21,EFL Championship,Wigan Athletic v Luton Town,,Match 28
+969,2023-01-28,EFL Championship,Blackburn Rovers v Blackpool,,Match 29
+970,2023-01-28,EFL Championship,Huddersfield Town v Bristol City,,Match 29
+971,2023-01-28,EFL Championship,Hull City v Queens Park Rangers,,Match 29
+972,2023-01-28,EFL Championship,Luton Town v Cardiff City,,Match 29
+973,2023-01-28,EFL Championship,Middlesbrough v Watford,,Match 29
+974,2023-01-28,EFL Championship,Millwall v Burnley,,Match 29
+975,2023-01-28,EFL Championship,Norwich City v Birmingham City,,Match 29
+976,2023-01-28,EFL Championship,Preston North End v Coventry City,,Match 29
+977,2023-01-28,EFL Championship,Reading v Sheffield United,,Match 29
+978,2023-01-28,EFL Championship,Rotherham United v Sunderland,,Match 29
+979,2023-01-28,EFL Championship,Swansea City v Stoke City,,Match 29
+980,2023-01-28,EFL Championship,West Bromwich Albion v Wigan Athletic,,Match 29
+981,2023-02-04,EFL Championship,Blackburn Rovers v Wigan Athletic,,Match 30
+982,2023-02-04,EFL Championship,Huddersfield Town v Queens Park Rangers,,Match 30
+983,2023-02-04,EFL Championship,Hull City v Cardiff City,,Match 30
+984,2023-02-04,EFL Championship,Luton Town v Stoke City,,Match 30
+985,2023-02-04,EFL Championship,Middlesbrough v Blackpool,,Match 30
+986,2023-02-04,EFL Championship,Millwall v Sunderland,,Match 30
+987,2023-02-04,EFL Championship,Norwich City v Burnley,,Match 30
+988,2023-02-04,EFL Championship,Preston North End v Bristol City,,Match 30
+989,2023-02-04,EFL Championship,Reading v Watford,,Match 30
+990,2023-02-04,EFL Championship,Rotherham United v Sheffield United,,Match 30
+991,2023-02-04,EFL Championship,Swansea City v Birmingham City,,Match 30
+992,2023-02-04,EFL Championship,West Bromwich Albion v Coventry City,,Match 30
+993,2023-02-11,EFL Championship,Birmingham City v West Bromwich Albion,,Match 31
+994,2023-02-11,EFL Championship,Blackpool v Rotherham United,,Match 31
+995,2023-02-11,EFL Championship,Bristol City v Norwich City,,Match 31
+996,2023-02-11,EFL Championship,Burnley v Preston North End,,Match 31
+997,2023-02-11,EFL Championship,Cardiff City v Middlesbrough,,Match 31
+998,2023-02-11,EFL Championship,Coventry City v Luton Town,,Match 31
+999,2023-02-11,EFL Championship,Queens Park Rangers v Millwall,,Match 31
+1000,2023-02-11,EFL Championship,Sheffield United v Swansea City,,Match 31
+1001,2023-02-11,EFL Championship,Stoke City v Hull City,,Match 31
+1002,2023-02-11,EFL Championship,Sunderland v Reading,,Match 31
+1003,2023-02-11,EFL Championship,Watford v Blackburn Rovers,,Match 31
+1004,2023-02-11,EFL Championship,Wigan Athletic v Huddersfield Town,,Match 31
+1005,2023-02-14,EFL Championship,Birmingham City v Cardiff City,,Match 32
+1006,2023-02-14,EFL Championship,Burnley v Watford,,Match 32
+1007,2023-02-14,EFL Championship,Coventry City v Millwall,,Match 32
+1008,2023-02-14,EFL Championship,Norwich City v Hull City,,Match 32
+1009,2023-02-14,EFL Championship,Queens Park Rangers v Sunderland,,Match 32
+1010,2023-02-14,EFL Championship,Reading v Rotherham United,,Match 32
+1011,2023-02-15,EFL Championship,Bristol City v Wigan Athletic,,Match 32
+1012,2023-02-15,EFL Championship,Preston North End v Luton Town,,Match 32
+1013,2023-02-15,EFL Championship,Sheffield United v Middlesbrough,,Match 32
+1014,2023-02-15,EFL Championship,Swansea City v Blackpool,,Match 32
+1015,2023-02-15,EFL Championship,Stoke City v Huddersfield Town,,Match 32
+1016,2023-02-15,EFL Championship,West Bromwich Albion v Blackburn Rovers,,Match 32
+1017,2023-02-18,EFL Championship,Blackburn Rovers v Swansea City,,Match 33
+1018,2023-02-18,EFL Championship,Blackpool v Stoke City,,Match 33
+1019,2023-02-18,EFL Championship,Cardiff City v Reading,,Match 33
+1020,2023-02-18,EFL Championship,Huddersfield Town v Birmingham City,,Match 33
+1021,2023-02-18,EFL Championship,Hull City v Preston North End,,Match 33
+1022,2023-02-18,EFL Championship,Luton Town v Burnley,,Match 33
+1023,2023-02-18,EFL Championship,Middlesbrough v Queens Park Rangers,,Match 33
+1024,2023-02-18,EFL Championship,Millwall v Sheffield United,,Match 33
+1025,2023-02-18,EFL Championship,Rotherham United v Coventry City,,Match 33
+1026,2023-02-18,EFL Championship,Sunderland v Bristol City,,Match 33
+1027,2023-02-18,EFL Championship,Watford v West Bromwich Albion,,Match 33
+1028,2023-02-18,EFL Championship,Wigan Athletic v Norwich City,,Match 33
+1029,2023-02-25,EFL Championship,Birmingham City v Luton Town,,Match 34
+1030,2023-02-25,EFL Championship,Bristol City v Hull City,,Match 34
+1031,2023-02-25,EFL Championship,Burnley v Huddersfield Town,,Match 34
+1032,2023-02-25,EFL Championship,Coventry City v Sunderland,,Match 34
+1033,2023-02-25,EFL Championship,Norwich City v Cardiff City,,Match 34
+1034,2023-02-25,EFL Championship,Preston North End v Wigan Athletic,,Match 34
+1035,2023-02-25,EFL Championship,Queens Park Rangers v Blackburn Rovers,,Match 34
+1036,2023-02-25,EFL Championship,Reading v Blackpool,,Match 34
+1037,2023-02-25,EFL Championship,Sheffield United v Watford,,Match 34
+1038,2023-02-25,EFL Championship,Stoke City v Millwall,,Match 34
+1039,2023-02-25,EFL Championship,Swansea City v Rotherham United,,Match 34
+1040,2023-02-25,EFL Championship,West Bromwich Albion v Middlesbrough,,Match 34
+1041,2023-03-04,EFL Championship,Blackburn Rovers v Sheffield United,,Match 35
+1042,2023-03-04,EFL Championship,Blackpool v Burnley,,Match 35
+1043,2023-03-04,EFL Championship,Cardiff City v Bristol City,,Match 35
+1044,2023-03-04,EFL Championship,Huddersfield Town v Coventry City,,Match 35
+1045,2023-03-04,EFL Championship,Hull City v West Bromwich Albion,,Match 35
+1046,2023-03-04,EFL Championship,Luton Town v Swansea City,,Match 35
+1047,2023-03-04,EFL Championship,Middlesbrough v Reading,,Match 35
+1048,2023-03-04,EFL Championship,Millwall v Norwich City,,Match 35
+1049,2023-03-04,EFL Championship,Rotherham United v Queens Park Rangers,,Match 35
+1050,2023-03-04,EFL Championship,Sunderland v Stoke City,,Match 35
+1051,2023-03-04,EFL Championship,Watford v Preston North End,,Match 35
+1052,2023-03-04,EFL Championship,Wigan Athletic v Birmingham City,,Match 35
+1053,2023-03-11,EFL Championship,Birmingham City v Rotherham United,,Match 36
+1054,2023-03-11,EFL Championship,Bristol City v Blackpool,,Match 36
+1055,2023-03-11,EFL Championship,Burnley v Wigan Athletic,,Match 36
+1056,2023-03-11,EFL Championship,Coventry City v Hull City,,Match 36
+1057,2023-03-11,EFL Championship,Norwich City v Sunderland,,Match 36
+1058,2023-03-11,EFL Championship,Preston North End v Cardiff City,,Match 36
+1059,2023-03-11,EFL Championship,Queens Park Rangers v Watford,,Match 36
+1060,2023-03-11,EFL Championship,Reading v Millwall,,Match 36
+1061,2023-03-11,EFL Championship,Sheffield United v Luton Town,,Match 36
+1062,2023-03-11,EFL Championship,Stoke City v Blackburn Rovers,,Match 36
+1063,2023-03-11,EFL Championship,Swansea City v Middlesbrough,,Match 36
+1064,2023-03-11,EFL Championship,West Bromwich Albion v Huddersfield Town,,Match 36
+1065,2023-03-14,EFL Championship,Blackpool v Queens Park Rangers,,Match 37
+1066,2023-03-14,EFL Championship,Middlesbrough v Stoke City,,Match 37
+1067,2023-03-14,EFL Championship,Millwall v Swansea City,,Match 37
+1068,2023-03-14,EFL Championship,Rotherham United v Preston North End,,Match 37
+1069,2023-03-14,EFL Championship,Watford v Birmingham City,,Match 37
+1070,2023-03-14,EFL Championship,Wigan Athletic v Coventry City,,Match 37
+1071,2023-03-15,EFL Championship,Blackburn Rovers v Reading,,Match 37
+1072,2023-03-15,EFL Championship,Cardiff City v West Bromwich Albion,,Match 37
+1073,2023-03-15,EFL Championship,Huddersfield Town v Norwich City,,Match 37
+1074,2023-03-15,EFL Championship,Hull City v Burnley,,Match 37
+1075,2023-03-15,EFL Championship,Luton Town v Bristol City,,Match 37
+1076,2023-03-15,EFL Championship,Sunderland v Sheffield United,,Match 37
+1077,2023-03-18,EFL Championship,Blackburn Rovers v Burnley,,Match 38
+1078,2023-03-18,EFL Championship,Blackpool v Coventry City,,Match 38
+1079,2023-03-18,EFL Championship,Middlesbrough v Preston North End,,Match 38
+1080,2023-03-18,EFL Championship,Millwall v Huddersfield Town,,Match 38
+1081,2023-03-18,EFL Championship,Queens Park Rangers v Birmingham City,,Match 38
+1082,2023-03-18,EFL Championship,Reading v Hull City,,Match 38
+1083,2023-03-18,EFL Championship,Rotherham United v Cardiff City,,Match 38
+1084,2023-03-18,EFL Championship,Sheffield United v West Bromwich Albion,,Match 38
+1085,2023-03-18,EFL Championship,Stoke City v Norwich City,,Match 38
+1086,2023-03-18,EFL Championship,Sunderland v Luton Town,,Match 38
+1087,2023-03-18,EFL Championship,Swansea City v Bristol City,,Match 38
+1088,2023-03-18,EFL Championship,Watford v Wigan Athletic,,Match 38
+1089,2023-04-01,EFL Championship,Birmingham City v Blackburn Rovers,,Match 39
+1090,2023-04-01,EFL Championship,Bristol City v Reading,,Match 39
+1091,2023-04-01,EFL Championship,Burnley v Sunderland,,Match 39
+1092,2023-04-01,EFL Championship,Cardiff City v Swansea City,,Match 39
+1093,2023-04-01,EFL Championship,Coventry City v Stoke City,,Match 39
+1094,2023-04-01,EFL Championship,Huddersfield Town v Middlesbrough,,Match 39
+1095,2023-04-01,EFL Championship,Hull City v Rotherham United,,Match 39
+1096,2023-04-01,EFL Championship,Luton Town v Watford,,Match 39
+1097,2023-04-01,EFL Championship,Norwich City v Sheffield United,,Match 39
+1098,2023-04-01,EFL Championship,Preston North End v Blackpool,,Match 39
+1099,2023-04-01,EFL Championship,West Bromwich Albion v Millwall,,Match 39
+1100,2023-04-01,EFL Championship,Wigan Athletic v Queens Park Rangers,,Match 39
+1101,2023-04-07,EFL Championship,Blackburn Rovers v Norwich City,,Match 40
+1102,2023-04-07,EFL Championship,Blackpool v Cardiff City,,Match 40
+1103,2023-04-07,EFL Championship,Middlesbrough v Burnley,,Match 40
+1104,2023-04-07,EFL Championship,Millwall v Luton Town,,Match 40
+1105,2023-04-07,EFL Championship,Queens Park Rangers v Preston North End,,Match 40
+1106,2023-04-07,EFL Championship,Reading v Birmingham City,,Match 40
+1107,2023-04-07,EFL Championship,Rotherham United v West Bromwich Albion,,Match 40
+1108,2023-04-07,EFL Championship,Sheffield United v Wigan Athletic,,Match 40
+1109,2023-04-07,EFL Championship,Stoke City v Bristol City,,Match 40
+1110,2023-04-07,EFL Championship,Sunderland v Hull City,,Match 40
+1111,2023-04-07,EFL Championship,Swansea City v Coventry City,,Match 40
+1112,2023-04-07,EFL Championship,Watford v Huddersfield Town,,Match 40
+1113,2023-04-10,EFL Championship,Birmingham City v Stoke City,,Match 41
+1114,2023-04-10,EFL Championship,Bristol City v Middlesbrough,,Match 41
+1115,2023-04-10,EFL Championship,Burnley v Sheffield United,,Match 41
+1116,2023-04-10,EFL Championship,Cardiff City v Sunderland,,Match 41
+1117,2023-04-10,EFL Championship,Coventry City v Watford,,Match 41
+1118,2023-04-10,EFL Championship,Huddersfield Town v Blackburn Rovers,,Match 41
+1119,2023-04-10,EFL Championship,Hull City v Millwall,,Match 41
+1120,2023-04-10,EFL Championship,Luton Town v Blackpool,,Match 41
+1121,2023-04-10,EFL Championship,Norwich City v Rotherham United,,Match 41
+1122,2023-04-10,EFL Championship,Preston North End v Reading,,Match 41
+1123,2023-04-10,EFL Championship,West Bromwich Albion v Queens Park Rangers,,Match 41
+1124,2023-04-10,EFL Championship,Wigan Athletic v Swansea City,,Match 41
+1125,2023-04-15,EFL Championship,Blackburn Rovers v Hull City,,Match 42
+1126,2023-04-15,EFL Championship,Blackpool v Wigan Athletic,,Match 42
+1127,2023-04-15,EFL Championship,Middlesbrough v Norwich City,,Match 42
+1128,2023-04-15,EFL Championship,Millwall v Preston North End,,Match 42
+1129,2023-04-15,EFL Championship,Queens Park Rangers v Coventry City,,Match 42
+1130,2023-04-15,EFL Championship,Reading v Burnley,,Match 42
+1131,2023-04-15,EFL Championship,Rotherham United v Luton Town,,Match 42
+1132,2023-04-15,EFL Championship,Sheffield United v Cardiff City,,Match 42
+1133,2023-04-15,EFL Championship,Stoke City v West Bromwich Albion,,Match 42
+1134,2023-04-15,EFL Championship,Sunderland v Birmingham City,,Match 42
+1135,2023-04-15,EFL Championship,Swansea City v Huddersfield Town,,Match 42
+1136,2023-04-15,EFL Championship,Watford v Bristol City,,Match 42
+1137,2023-04-18,EFL Championship,Blackpool v West Bromwich Albion,,Match 43
+1138,2023-04-18,EFL Championship,Millwall v Birmingham City,,Match 43
+1139,2023-04-18,EFL Championship,Rotherham United v Burnley,,Match 43
+1140,2023-04-18,EFL Championship,Sheffield United v Bristol City,,Match 43
+1141,2023-04-18,EFL Championship,Sunderland v Huddersfield Town,,Match 43
+1142,2023-04-18,EFL Championship,Stoke City v Wigan Athletic,,Match 43
+1143,2023-04-19,EFL Championship,Blackburn Rovers v Coventry City,,Match 43
+1144,2023-04-19,EFL Championship,Middlesbrough v Hull City,,Match 43
+1145,2023-04-19,EFL Championship,Queens Park Rangers v Norwich City,,Match 43
+1146,2023-04-19,EFL Championship,Swansea City v Preston North End,,Match 43
+1147,2023-04-19,EFL Championship,Watford v Cardiff City,,Match 43
+1148,2023-04-19,EFL Championship,Reading v Luton Town,,Match 43
+1149,2023-04-22,EFL Championship,Birmingham City v Blackpool,,Match 44
+1150,2023-04-22,EFL Championship,Bristol City v Rotherham United,,Match 44
+1151,2023-04-22,EFL Championship,Burnley v Queens Park Rangers,,Match 44
+1152,2023-04-22,EFL Championship,Cardiff City v Stoke City,,Match 44
+1153,2023-04-22,EFL Championship,Coventry City v Reading,,Match 44
+1154,2023-04-22,EFL Championship,Huddersfield Town v Sheffield United,,Match 44
+1155,2023-04-22,EFL Championship,Hull City v Watford,,Match 44
+1156,2023-04-22,EFL Championship,Luton Town v Middlesbrough,,Match 44
+1157,2023-04-22,EFL Championship,Norwich City v Swansea City,,Match 44
+1158,2023-04-22,EFL Championship,Preston North End v Blackburn Rovers,,Match 44
+1159,2023-04-22,EFL Championship,West Bromwich Albion v Sunderland,,Match 44
+1160,2023-04-22,EFL Championship,Wigan Athletic v Millwall,,Match 44
+1161,2023-04-29,EFL Championship,Blackburn Rovers v Luton Town,,Match 45
+1162,2023-04-29,EFL Championship,Blackpool v Millwall,,Match 45
+1163,2023-04-29,EFL Championship,Bristol City v Burnley,,Match 45
+1164,2023-04-29,EFL Championship,Cardiff City v Huddersfield Town,,Match 45
+1165,2023-04-29,EFL Championship,Coventry City v Birmingham City,,Match 45
+1166,2023-04-29,EFL Championship,Hull City v Swansea City,,Match 45
+1167,2023-04-29,EFL Championship,Reading v Wigan Athletic,,Match 45
+1168,2023-04-29,EFL Championship,Rotherham United v Middlesbrough,,Match 45
+1169,2023-04-29,EFL Championship,Sheffield United v Preston North End,,Match 45
+1170,2023-04-29,EFL Championship,Stoke City v Queens Park Rangers,,Match 45
+1171,2023-04-29,EFL Championship,Sunderland v Watford,,Match 45
+1172,2023-04-29,EFL Championship,West Bromwich Albion v Norwich City,,Match 45
+1173,2023-05-06,EFL Championship,Birmingham City v Sheffield United,,Match 46
+1174,2023-05-06,EFL Championship,Burnley v Cardiff City,,Match 46
+1175,2023-05-06,EFL Championship,Huddersfield Town v Reading,,Match 46
+1176,2023-05-06,EFL Championship,Luton Town v Hull City,,Match 46
+1177,2023-05-06,EFL Championship,Middlesbrough v Coventry City,,Match 46
+1178,2023-05-06,EFL Championship,Millwall v Blackburn Rovers,,Match 46
+1179,2023-05-06,EFL Championship,Norwich City v Blackpool,,Match 46
+1180,2023-05-06,EFL Championship,Preston North End v Sunderland,,Match 46
+1181,2023-05-06,EFL Championship,Queens Park Rangers v Bristol City,,Match 46
+1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
+1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
+1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
 1185,2022-07-30,EFL League One,Accrington Stanley v Charlton Athletic,14:00:00,Match 1
 1186,2022-07-30,EFL League One,Bristol Rovers v Forest Green Rovers,14:00:00,Match 1
 1187,2022-07-30,EFL League One,Cambridge United v Milton Keynes Dons,14:00:00,Match 1
@@ -2284,11 +2269,6 @@ ID,date,league,teams,time,note_1
 2286,2023-05-06,EFL League Two,Port Vale v Plymouth Argyle,14:00:00,Match 46
 2287,2023-05-06,EFL League Two,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Sheffield Wednesday v Derby County,14:00:00,Match 46
-2291,2022-07-24,Eliteserien,Vålerenga v Viking,16:00:00,Match 15
-2292,2022-07-24,Eliteserien,Sandefjord v Molde,16:00:00,Match 15
-2293,2022-07-24,Eliteserien,Haugesund v Sarpsborg 08,16:00:00,Match 15
-2294,2022-07-24,Eliteserien,Kristiansund Bk v Odd Ballklubb,16:00:00,Match 15
-2295,2022-07-24,Eliteserien,Strømsgodset v HamKam,18:00:00,Match 15
 2296,2022-07-27,Eliteserien,Sandefjord v Kristiansund Bk,17:00:00,Match 9
 2297,2022-07-30,Eliteserien,Aalesund v Bodø/Glimt,14:00:00,Match 16
 2298,2022-07-30,Eliteserien,HamKam v Kristiansund Bk,16:00:00,Match 16
@@ -3603,14 +3583,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3610,2022-07-24,Norway 1. Divisjon,Skeid v Raufoss,13:00:00,Match 16
-3611,2022-07-24,Norway 1. Divisjon,Fredrikstad v Grorud,13:00:00,Match 16
-3612,2022-07-24,Norway 1. Divisjon,Mjøndalen v Start,13:00:00,Match 16
-3613,2022-07-25,Norway 1. Divisjon,Sogndal v Stabæk,16:00:00,Match 16
-3614,2022-07-25,Norway 1. Divisjon,Stjørdals-Blink v Bryne,16:00:00,Match 16
-3615,2022-07-25,Norway 1. Divisjon,Kfum Oslo v Ranheim TF,16:00:00,Match 16
-3616,2022-07-25,Norway 1. Divisjon,Sandnes Ulf v Åsane,16:00:00,Match 16
-3617,2022-07-25,Norway 1. Divisjon,Brann v Kongsvinger,16:00:00,Match 16
 3618,2022-07-27,Norway 1. Divisjon,Fredrikstad v Raufoss,17:00:00,Match 10
 3619,2022-07-31,Norway 1. Divisjon,Start v Fredrikstad,13:30:00,Match 17
 3620,2022-07-31,Norway 1. Divisjon,Åsane v Sogndal,13:30:00,Match 17
@@ -5185,15 +5157,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5197,2022-07-24,USA MLS,D.C. United v CF Montréal,00:00:00,Regular Season
-5198,2022-07-24,USA MLS,Houston Dynamo v Minnesota United FC,00:30:00,Regular Season
-5199,2022-07-24,USA MLS,Sporting Kansas City v Los Angeles Football Club,00:30:00,Regular Season
-5200,2022-07-24,USA MLS,Real Salt Lake v FC Dallas,02:00:00,Regular Season
-5201,2022-07-24,USA MLS,Seattle Sounders FC v Colorado Rapids,02:00:00,Regular Season
-5202,2022-07-24,USA MLS,Vancouver Whitecaps v Chicago Fire,02:00:00,Regular Season
-5203,2022-07-24,USA MLS,Portland Timbers v San Jose Earthquakes,02:30:00,Regular Season
-5204,2022-07-25,USA MLS,Austin FC v New York Red Bulls,00:00:00,Regular Season
-5205,2022-07-25,USA MLS,Los Angeles Galaxy v Atlanta United FC,01:30:00,Regular Season
 5206,2022-07-30,USA MLS,Los Angeles Football Club v Seattle Sounders FC,03:00:00,Regular Season
 5207,2022-07-30,USA MLS,Minnesota United FC v Portland Timbers,19:00:00,Regular Season
 5208,2022-07-30,USA MLS,Chicago Fire v Atlanta United FC,21:00:00,Regular Season
@@ -5367,9 +5330,6 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5382,2022-07-24,Veikkausliiga,KuPS Kuopio v HIFK Helsinki,13:00:00,Match 15
-5383,2022-07-24,Veikkausliiga,Lahti v SJK,13:00:00,Match 15
-5384,2022-07-25,Veikkausliiga,Inter Turku v FC Honka,15:00:00,Match 16
 5385,2022-07-29,Veikkausliiga,Lahti v Ilves,15:00:00,Match 16
 5386,2022-07-30,Veikkausliiga,FC Honka v VPS Vaasa,14:00:00,Match 16
 5387,2022-07-30,Veikkausliiga,HJK Helsinki v IFK Mariehamn,14:00:00,Match 16
