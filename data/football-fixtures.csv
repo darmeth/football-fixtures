@@ -121,19 +121,19 @@ ID,date,league,teams,time,note_1
 138,2022-07-30,Brazilian Série A,Ceara v Palmeiras,19:30:00,Match 20
 139,2022-07-30,Brazilian Série A,Corinthians v Botafogo,22:00:00,Match 20
 140,2022-07-30,Brazilian Série A,Flamengo v Atletico Goianiense,23:30:00,Match 20
-141,2022-07-31,Brazilian Série A,America Mineiro v Avai,14:00:00,Match 20
+141,2022-07-31,Brazilian Série A,America Mineiro v Avai,21:00:00,Match 20
 142,2022-07-31,Brazilian Série A,Internacional v Atletico Mineiro,19:00:00,Match 20
 143,2022-07-31,Brazilian Série A,Atletico Paranaense v Sao Paulo,19:00:00,Match 20
 144,2022-07-31,Brazilian Série A,Cuiaba v Fortaleza,21:00:00,Match 20
 145,2022-07-31,Brazilian Série A,Bragantino v Juventude,22:00:00,Match 20
 146,2022-08-01,Brazilian Série A,Santos v Fluminense,23:00:00,Match 20
 147,2022-08-06,Brazilian Série A,Juventude v America Mineiro,19:30:00,Match 21
-148,2022-08-06,Brazilian Série A,Fluminense v Cuiaba,19:30:00,Match 21
+148,2022-08-07,Brazilian Série A,Fluminense v Cuiaba,19:00:00,Match 21
 149,2022-08-06,Brazilian Série A,Atletico Goianiense v Bragantino,22:00:00,Match 21
 150,2022-08-06,Brazilian Série A,Avai v Corinthians,22:00:00,Match 21
-151,2022-08-06,Brazilian Série A,Palmeiras v Goias,23:30:00,Match 21
-152,2022-08-07,Brazilian Série A,Botafogo v Ceara,14:00:00,Match 21
-153,2022-08-07,Brazilian Série A,Sao Paulo v Flamengo,19:00:00,Match 21
+151,2022-08-07,Brazilian Série A,Palmeiras v Goias,19:00:00,Match 21
+152,2022-08-06,Brazilian Série A,Botafogo v Ceara,19:30:00,Match 21
+153,2022-08-06,Brazilian Série A,Sao Paulo v Flamengo,23:30:00,Match 21
 154,2022-08-07,Brazilian Série A,Fortaleza v Internacional,21:00:00,Match 21
 155,2022-08-07,Brazilian Série A,Atletico Mineiro v Atletico Paranaense,22:00:00,Match 21
 156,2022-08-08,Brazilian Série A,Coritiba v Santos,23:00:00,Match 21
@@ -146,7 +146,7 @@ ID,date,league,teams,time,note_1
 163,2022-08-14,Brazilian Série A,Sao Paulo v Bragantino,19:00:00,Match 22
 164,2022-08-14,Brazilian Série A,America Mineiro v Santos,21:00:00,Match 22
 165,2022-08-14,Brazilian Série A,Internacional v Fluminense,22:00:00,Match 22
-166,2022-08-15,Brazilian Série A,Botafogo v Atletico Goianiense,23:00:00,Match 22
+166,2022-08-14,Brazilian Série A,Botafogo v Atletico Goianiense,00:00:00,Match 22
 167,2022-08-20,Brazilian Série A,Santos v Sao Paulo,19:30:00,Match 23
 168,2022-08-20,Brazilian Série A,Avai v Internacional,19:30:00,Match 23
 169,2022-08-20,Brazilian Série A,Fortaleza v Corinthians,22:00:00,Match 23
@@ -637,18 +637,18 @@ ID,date,league,teams,time,note_1
 654,2022-08-06,EFL Championship,Swansea City v Blackburn Rovers,14:00:00,Match 2
 655,2022-08-07,EFL Championship,Coventry City v Rotherham United,14:00:00,Match 2
 656,2022-08-08,EFL Championship,West Bromwich Albion v Watford,19:00:00,Match 2
-657,2022-08-12,EFL Championship,Watford v Burnley,,Match 3
-658,2022-08-13,EFL Championship,Cardiff City v Birmingham City,,Match 3
-659,2022-08-13,EFL Championship,Blackpool v Swansea City,,Match 3
-660,2022-08-13,EFL Championship,Huddersfield Town v Stoke City,,Match 3
-661,2022-08-13,EFL Championship,Hull City v Norwich City,,Match 3
-662,2022-08-13,EFL Championship,Luton Town v Preston North End,,Match 3
-663,2022-08-13,EFL Championship,Millwall v Coventry City,,Match 3
-664,2022-08-13,EFL Championship,Rotherham United v Reading,,Match 3
-665,2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,,Match 3
-666,2022-08-13,EFL Championship,Wigan Athletic v Bristol City,,Match 3
-667,2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,,Match 3
-668,2022-08-14,EFL Championship,Middlesbrough v Sheffield United,,Match 3
+657,2022-08-12,EFL Championship,Watford v Burnley,19:00:00,Match 3
+658,2022-08-13,EFL Championship,Cardiff City v Birmingham City,11:30:00,Match 3
+659,2022-08-13,EFL Championship,Blackpool v Swansea City,14:00:00,Match 3
+660,2022-08-13,EFL Championship,Huddersfield Town v Stoke City,14:00:00,Match 3
+661,2022-08-13,EFL Championship,Hull City v Norwich City,14:00:00,Match 3
+662,2022-08-13,EFL Championship,Luton Town v Preston North End,14:00:00,Match 3
+663,2022-08-13,EFL Championship,Millwall v Coventry City,14:00:00,Match 3
+664,2022-08-13,EFL Championship,Rotherham United v Reading,14:00:00,Match 3
+665,2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,14:00:00,Match 3
+666,2022-08-13,EFL Championship,Wigan Athletic v Bristol City,14:00:00,Match 3
+667,2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
+668,2022-08-14,EFL Championship,Middlesbrough v Sheffield United,13:00:00,Match 3
 669,2022-08-16,EFL Championship,Birmingham City v Watford,,Match 4
 670,2022-08-16,EFL Championship,Bristol City v Luton Town,,Match 4
 671,2022-08-16,EFL Championship,Burnley v Hull City,,Match 4
@@ -4082,7 +4082,7 @@ ID,date,league,teams,time,note_1
 4114,2022-08-06,Primeira Liga,FC Porto v Marítimo,19:30:00,Match 1
 4115,2022-08-07,Primeira Liga,Santa Clara v Casa Pia AC,14:30:00,Match 1
 4116,2022-08-07,Primeira Liga,Sporting Braga v Sporting Lisbon,17:00:00,Match 1
-4117,2022-08-07,Primeira Liga,Gil Vicente v Paços de Ferreira,18:00:00,Match 1
+4117,2022-08-08,Primeira Liga,Gil Vicente v Paços de Ferreira,18:00:00,Match 1
 4118,2022-08-07,Primeira Liga,Portimonense v Boavista,19:30:00,Match 1
 4119,2022-08-08,Primeira Liga,Chaves v Vitória Guimarães,20:15:00,Match 1
 4120,2022-08-12,Primeira Liga,Casa Pia AC v Benfica,19:15:00,Match 2
@@ -4094,15 +4094,15 @@ ID,date,league,teams,time,note_1
 4126,2022-08-15,Primeira Liga,Marítimo v Chaves,14:30:00,Match 2
 4127,2022-08-15,Primeira Liga,Arouca v Gil Vicente,17:00:00,Match 2
 4128,2022-08-15,Primeira Liga,Paços de Ferreira v Portimonense,19:30:00,Match 2
-4129,2022-08-21,Primeira Liga,Santa Clara v Arouca,14:00:00,Match 3
-4130,2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,15:00:00,Match 3
-4131,2022-08-21,Primeira Liga,Casa Pia AC v Boavista,15:00:00,Match 3
-4132,2022-08-21,Primeira Liga,Chaves v Vizela,15:00:00,Match 3
-4133,2022-08-21,Primeira Liga,Estoril Praia v Rio Ave,15:00:00,Match 3
-4134,2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,15:00:00,Match 3
-4135,2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,15:00:00,Match 3
-4136,2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,15:00:00,Match 3
-4137,2022-08-21,Primeira Liga,Sporting Braga v Marítimo,15:00:00,Match 3
+4129,2022-08-21,Primeira Liga,Santa Clara v Arouca,,Match 3
+4130,2022-08-21,Primeira Liga,Benfica v Paços de Ferreira,,Match 3
+4131,2022-08-21,Primeira Liga,Casa Pia AC v Boavista,,Match 3
+4132,2022-08-21,Primeira Liga,Chaves v Vizela,,Match 3
+4133,2022-08-21,Primeira Liga,Estoril Praia v Rio Ave,,Match 3
+4134,2022-08-21,Primeira Liga,FC Porto v Sporting Lisbon,,Match 3
+4135,2022-08-21,Primeira Liga,Gil Vicente v FC Famalicão,,Match 3
+4136,2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,,Match 3
+4137,2022-08-21,Primeira Liga,Sporting Braga v Marítimo,,Match 3
 4138,2022-08-28,Primeira Liga,Arouca v Sporting Braga,,Match 4
 4139,2022-08-28,Primeira Liga,Boavista v Benfica,,Match 4
 4140,2022-08-28,Primeira Liga,FC Famalicão v Santa Clara,,Match 4
@@ -4762,24 +4762,24 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-4797,2022-08-07,Süper Lig,Sivasspor v Gaziantep,,Match 1
-4798,2022-08-07,Süper Lig,Beşiktaş v Kayserispor,,Match 1
-4799,2022-08-07,Süper Lig,Fatih Karagümrük v Alanyaspor,,Match 1
-4800,2022-08-07,Süper Lig,Ankaragücü v Konyaspor,,Match 1
-4801,2022-08-07,Süper Lig,İstanbul Başakşehir v Kasımpaşa,,Match 1
-4802,2022-08-07,Süper Lig,Giresunspor v Adana Demirspor,,Match 1
-4803,2022-08-07,Süper Lig,Fenerbahçe v Ümraniyespor,,Match 1
-4804,2022-08-07,Süper Lig,Antalyaspor v Galatasaray,,Match 1
-4805,2022-08-07,Süper Lig,İstanbulspor v Trabzonspor,,Match 1
-4806,2022-08-14,Süper Lig,Kayserispor v İstanbulspor,,Match 2
-4807,2022-08-14,Süper Lig,Alanyaspor v Beşiktaş,,Match 2
-4808,2022-08-14,Süper Lig,Gaziantep v Ankaragücü,,Match 2
-4809,2022-08-14,Süper Lig,Adana Demirspor v Sivasspor,,Match 2
-4810,2022-08-14,Süper Lig,Galatasaray v Giresunspor,,Match 2
-4811,2022-08-14,Süper Lig,Konyaspor v İstanbul Başakşehir,,Match 2
-4812,2022-08-14,Süper Lig,Kasımpaşa v Fenerbahçe,,Match 2
-4813,2022-08-14,Süper Lig,Ümraniyespor v Antalyaspor,,Match 2
-4814,2022-08-14,Süper Lig,Trabzonspor v Hatayspor,,Match 2
+4797,2022-08-06,Süper Lig,Sivasspor v Gaziantep,16:15:00,Match 1
+4798,2022-08-06,Süper Lig,Beşiktaş v Kayserispor,18:45:00,Match 1
+4799,2022-08-07,Süper Lig,Fatih Karagümrük v Alanyaspor,16:15:00,Match 1
+4800,2022-08-08,Süper Lig,Ankaragücü v Konyaspor,18:45:00,Match 1
+4801,2022-08-08,Süper Lig,İstanbul Başakşehir v Kasımpaşa,16:15:00,Match 1
+4802,2022-08-07,Süper Lig,Giresunspor v Adana Demirspor,16:15:00,Match 1
+4803,2022-08-05,Süper Lig,Fenerbahçe v Ümraniyespor,18:45:00,Match 1
+4804,2022-08-07,Süper Lig,Antalyaspor v Galatasaray,18:45:00,Match 1
+4805,2022-08-05,Süper Lig,İstanbulspor v Trabzonspor,16:15:00,Match 1
+4806,2022-08-13,Süper Lig,Kayserispor v İstanbulspor,16:15:00,Match 2
+4807,2022-08-14,Süper Lig,Alanyaspor v Beşiktaş,18:45:00,Match 2
+4808,2022-08-14,Süper Lig,Gaziantep v Ankaragücü,16:15:00,Match 2
+4809,2022-08-13,Süper Lig,Adana Demirspor v Sivasspor,18:45:00,Match 2
+4810,2022-08-15,Süper Lig,Galatasaray v Giresunspor,18:45:00,Match 2
+4811,2022-08-15,Süper Lig,Konyaspor v İstanbul Başakşehir,16:15:00,Match 2
+4812,2022-08-13,Süper Lig,Kasımpaşa v Fenerbahçe,18:45:00,Match 2
+4813,2022-08-14,Süper Lig,Ümraniyespor v Antalyaspor,16:15:00,Match 2
+4814,2022-08-12,Süper Lig,Trabzonspor v Hatayspor,18:00:00,Match 2
 4815,2022-08-21,Süper Lig,Ümraniyespor v Galatasaray,,Match 3
 4816,2022-08-21,Süper Lig,Beşiktaş v Fatih Karagümrük,,Match 3
 4817,2022-08-21,Süper Lig,Hatayspor v Gaziantep,,Match 3
@@ -5161,7 +5161,7 @@ ID,date,league,teams,time,note_1
 5207,2022-07-30,USA MLS,Minnesota United FC v Portland Timbers,19:00:00,Regular Season
 5208,2022-07-30,USA MLS,Chicago Fire v Atlanta United FC,21:00:00,Regular Season
 5209,2022-07-30,USA MLS,Charlotte FC v Columbus Crew,23:00:00,Regular Season
-5210,2022-07-30,USA MLS,New York Red Bulls v Colorado Rapids,23:00:00,Regular Season
+5210,2022-08-03,USA MLS,New York Red Bulls v Colorado Rapids,23:30:00,Regular Season
 5211,2022-07-30,USA MLS,CF Montréal v New York City FC,23:30:00,Regular Season
 5212,2022-07-30,USA MLS,Philadelphia Union v Houston Dynamo,23:30:00,Regular Season
 5213,2022-07-31,USA MLS,Inter Miami CF v FC Cincinnati,00:00:00,Regular Season
@@ -5333,7 +5333,7 @@ ID,date,league,teams,time,note_1
 5385,2022-07-29,Veikkausliiga,Lahti v Ilves,15:00:00,Match 16
 5386,2022-07-30,Veikkausliiga,FC Honka v VPS Vaasa,14:00:00,Match 16
 5387,2022-07-30,Veikkausliiga,HJK Helsinki v IFK Mariehamn,14:00:00,Match 16
-5388,2022-07-30,Veikkausliiga,SJK v AC Oulu,14:00:00,Match 16
+5388,2022-07-31,Veikkausliiga,SJK v AC Oulu,14:00:00,Match 16
 5389,2022-07-31,Veikkausliiga,Haka v KuPS Kuopio,12:00:00,Match 16
 5390,2022-08-01,Veikkausliiga,HIFK Helsinki v Inter Turku,15:00:00,Match 17
 5391,2022-08-06,Veikkausliiga,VPS Vaasa v Ilves,12:00:00,Match 17
@@ -5436,3 +5436,4 @@ ID,date,league,teams,time,note_1
 5488,2022-12-14,World Cup 2022,Winner Match 59 v Winner Match 60,19:00:00,Semi Finals
 5489,2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
 5490,2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals
+5491,2022-08-03,Eliteserien,Kristiansund Bk v Tromsø,16:00:00,Match 8

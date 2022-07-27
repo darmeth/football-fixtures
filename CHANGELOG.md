@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-27
+* Updates to dates and times
+
 2022-07-26
 * Updates
 
