@@ -1,5 +1,4 @@
 ID,date,league,teams,time,note_1
-7,2022-07-27,Copa América Femenina,Brazil v Paraguay,00:00:00,Semi-final
 8,2022-07-30,Copa América Femenina,Argentina v Paraguay,00:00:00,3rd place play-off
 9,2022-07-31,Copa América Femenina,Colombia v Brazil,00:00:00,Final
 10,2022-09-17,Frauen-Bundesliga,Bremen v Potsdam,,Match 1
@@ -157,8 +156,6 @@ ID,date,league,teams,time,note_1
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-169,2022-07-27,OFC Women's Nations Cup,Samoa v Papua New Guinea,04:00:00,Semi-final
-170,2022-07-27,OFC Women's Nations Cup,Fiji v Solomon Islands,07:30:00,Semi-final
 171,2022-07-30,OFC Women's Nations Cup,Samoa v Solomon Islands,04:00:00,3rd place play-off
 172,2022-07-30,OFC Women's Nations Cup,Papua New Guinea v Fiji,07:30:00,Final
 173,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
@@ -238,7 +235,6 @@ ID,date,league,teams,time,note_1
 247,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
 248,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
 249,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
-253,2022-07-27,UEFA Women’s Euro 2022,Germany v France,19:00:00,Semi-final
 254,2022-07-31,UEFA Women’s Euro 2022,England v Germany,16:00:00,Final
 255,2022-09-11,Women's Super League,Brighton and Hove Albion v Aston Villa,13:00:00,Match 1
 256,2022-09-11,Women's Super League,Chelsea v West Ham United,13:00:00,Match 1
