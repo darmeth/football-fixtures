@@ -613,7 +613,6 @@ ID,date,league,teams,time,note_1
 630,2023-05-27,Bundesliga,RB Leipzig v Schalke,,Match 34
 631,2023-05-27,Bundesliga,Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha Berlin,,Match 34
-633,2022-07-29,EFL Championship,Huddersfield Town v Burnley,19:00:00,Match 1
 634,2022-07-30,EFL Championship,Blackburn Rovers v Queens Park Rangers,14:00:00,Match 1
 635,2022-07-30,EFL Championship,Blackpool v Reading,14:00:00,Match 1
 636,2022-07-30,EFL Championship,Cardiff City v Norwich City,14:00:00,Match 1
@@ -1717,558 +1716,546 @@ ID,date,league,teams,time,note_1
 1734,2023-05-06,EFL League One,Port Vale v Plymouth Argyle,14:00:00,Match 46
 1735,2023-05-06,EFL League One,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 1736,2023-05-06,EFL League One,Sheffield Wednesday v Derby County,14:00:00,Match 46
-1737,2022-07-30,EFL League Two,Accrington Stanley v Charlton Athletic,14:00:00,Match 1
-1738,2022-07-30,EFL League Two,Bristol Rovers v Forest Green Rovers,14:00:00,Match 1
-1739,2022-07-30,EFL League Two,Cambridge United v Milton Keynes Dons,14:00:00,Match 1
-1740,2022-07-30,EFL League Two,Cheltenham Town v Peterborough United,14:00:00,Match 1
-1741,2022-07-30,EFL League Two,Derby County v Oxford United,14:00:00,Match 1
-1742,2022-07-30,EFL League Two,Ipswich Town v Bolton Wanderers,14:00:00,Match 1
-1743,2022-07-30,EFL League Two,Lincoln City v Exeter City,14:00:00,Match 1
-1744,2022-07-30,EFL League Two,Morecambe v Shrewsbury Town,14:00:00,Match 1
-1745,2022-07-30,EFL League Two,Plymouth Argyle v Barnsley,14:00:00,Match 1
-1746,2022-07-30,EFL League Two,Port Vale v Fleetwood Town,14:00:00,Match 1
-1747,2022-07-30,EFL League Two,Sheffield Wednesday v Portsmouth,14:00:00,Match 1
-1748,2022-07-30,EFL League Two,Wycombe Wanderers v Burton Albion,14:00:00,Match 1
-1749,2022-08-06,EFL League Two,Barnsley v Cheltenham Town,14:00:00,Match 2
-1750,2022-08-06,EFL League Two,Bolton Wanderers v Wycombe Wanderers,14:00:00,Match 2
-1751,2022-08-06,EFL League Two,Burton Albion v Bristol Rovers,14:00:00,Match 2
-1752,2022-08-06,EFL League Two,Charlton Athletic v Derby County,14:00:00,Match 2
-1753,2022-08-06,EFL League Two,Exeter City v Port Vale,14:00:00,Match 2
-1754,2022-08-06,EFL League Two,Fleetwood Town v Plymouth Argyle,14:00:00,Match 2
-1755,2022-08-06,EFL League Two,Forest Green Rovers v Ipswich Town,14:00:00,Match 2
-1756,2022-08-06,EFL League Two,Milton Keynes Dons v Sheffield Wednesday,14:00:00,Match 2
-1757,2022-08-06,EFL League Two,Oxford United v Cambridge United,14:00:00,Match 2
-1758,2022-08-06,EFL League Two,Peterborough United v Morecambe,14:00:00,Match 2
-1759,2022-08-06,EFL League Two,Portsmouth v Lincoln City,14:00:00,Match 2
-1760,2022-08-06,EFL League Two,Shrewsbury Town v Accrington Stanley,14:00:00,Match 2
-1761,2022-08-13,EFL League Two,Accrington Stanley v Burton Albion,14:00:00,Match 3
-1762,2022-08-13,EFL League Two,Bristol Rovers v Oxford United,14:00:00,Match 3
-1763,2022-08-13,EFL League Two,Cambridge United v Exeter City,14:00:00,Match 3
-1764,2022-08-13,EFL League Two,Cheltenham Town v Portsmouth,14:00:00,Match 3
-1765,2022-08-13,EFL League Two,Derby County v Barnsley,14:00:00,Match 3
-1766,2022-08-13,EFL League Two,Ipswich Town v Milton Keynes Dons,14:00:00,Match 3
-1767,2022-08-13,EFL League Two,Lincoln City v Forest Green Rovers,14:00:00,Match 3
-1768,2022-08-13,EFL League Two,Morecambe v Fleetwood Town,14:00:00,Match 3
-1769,2022-08-13,EFL League Two,Plymouth Argyle v Peterborough United,14:00:00,Match 3
-1770,2022-08-13,EFL League Two,Port Vale v Bolton Wanderers,14:00:00,Match 3
-1771,2022-08-13,EFL League Two,Sheffield Wednesday v Charlton Athletic,14:00:00,Match 3
-1772,2022-08-13,EFL League Two,Wycombe Wanderers v Shrewsbury Town,14:00:00,Match 3
-1773,2022-08-16,EFL League Two,Barnsley v Bristol Rovers,18:45:00,Match 4
-1774,2022-08-16,EFL League Two,Bolton Wanderers v Morecambe,18:45:00,Match 4
-1775,2022-08-16,EFL League Two,Burton Albion v Ipswich Town,18:45:00,Match 4
-1776,2022-08-16,EFL League Two,Charlton Athletic v Plymouth Argyle,18:45:00,Match 4
-1777,2022-08-16,EFL League Two,Exeter City v Wycombe Wanderers,18:45:00,Match 4
-1778,2022-08-16,EFL League Two,Fleetwood Town v Cheltenham Town,18:45:00,Match 4
-1779,2022-08-16,EFL League Two,Forest Green Rovers v Accrington Stanley,18:45:00,Match 4
-1780,2022-08-16,EFL League Two,Milton Keynes Dons v Port Vale,18:45:00,Match 4
-1781,2022-08-16,EFL League Two,Oxford United v Lincoln City,18:45:00,Match 4
-1782,2022-08-16,EFL League Two,Peterborough United v Sheffield Wednesday,18:45:00,Match 4
-1783,2022-08-16,EFL League Two,Portsmouth v Cambridge United,18:45:00,Match 4
-1784,2022-08-16,EFL League Two,Shrewsbury Town v Derby County,18:45:00,Match 4
-1785,2022-08-20,EFL League Two,Barnsley v Wycombe Wanderers,14:00:00,Match 5
-1786,2022-08-20,EFL League Two,Bolton Wanderers v Sheffield Wednesday,14:00:00,Match 5
-1787,2022-08-20,EFL League Two,Burton Albion v Port Vale,14:00:00,Match 5
-1788,2022-08-20,EFL League Two,Charlton Athletic v Cambridge United,14:00:00,Match 5
-1789,2022-08-20,EFL League Two,Exeter City v Cheltenham Town,14:00:00,Match 5
-1790,2022-08-20,EFL League Two,Fleetwood Town v Derby County,14:00:00,Match 5
-1791,2022-08-20,EFL League Two,Forest Green Rovers v Plymouth Argyle,14:00:00,Match 5
-1792,2022-08-20,EFL League Two,Milton Keynes Dons v Accrington Stanley,14:00:00,Match 5
-1793,2022-08-20,EFL League Two,Oxford United v Morecambe,14:00:00,Match 5
-1794,2022-08-20,EFL League Two,Peterborough United v Lincoln City,14:00:00,Match 5
-1795,2022-08-20,EFL League Two,Portsmouth v Bristol Rovers,14:00:00,Match 5
-1796,2022-08-20,EFL League Two,Shrewsbury Town v Ipswich Town,14:00:00,Match 5
-1797,2022-08-27,EFL League Two,Accrington Stanley v Exeter City,14:00:00,Match 6
-1798,2022-08-27,EFL League Two,Bristol Rovers v Shrewsbury Town,14:00:00,Match 6
-1799,2022-08-27,EFL League Two,Cambridge United v Burton Albion,14:00:00,Match 6
-1800,2022-08-27,EFL League Two,Cheltenham Town v Oxford United,14:00:00,Match 6
-1801,2022-08-27,EFL League Two,Derby County v Peterborough United,14:00:00,Match 6
-1802,2022-08-27,EFL League Two,Ipswich Town v Barnsley,14:00:00,Match 6
-1803,2022-08-27,EFL League Two,Lincoln City v Fleetwood Town,14:00:00,Match 6
-1804,2022-08-27,EFL League Two,Morecambe v Milton Keynes Dons,14:00:00,Match 6
-1805,2022-08-27,EFL League Two,Plymouth Argyle v Bolton Wanderers,14:00:00,Match 6
-1806,2022-08-27,EFL League Two,Port Vale v Portsmouth,14:00:00,Match 6
-1807,2022-08-27,EFL League Two,Sheffield Wednesday v Forest Green Rovers,14:00:00,Match 6
-1808,2022-08-27,EFL League Two,Wycombe Wanderers v Charlton Athletic,14:00:00,Match 6
-1809,2022-09-03,EFL League Two,Accrington Stanley v Ipswich Town,14:00:00,Match 7
-1810,2022-09-03,EFL League Two,Bolton Wanderers v Charlton Athletic,14:00:00,Match 7
-1811,2022-09-03,EFL League Two,Bristol Rovers v Morecambe,14:00:00,Match 7
-1812,2022-09-03,EFL League Two,Cambridge United v Lincoln City,14:00:00,Match 7
-1813,2022-09-03,EFL League Two,Derby County v Plymouth Argyle,14:00:00,Match 7
-1814,2022-09-03,EFL League Two,Exeter City v Milton Keynes Dons,14:00:00,Match 7
-1815,2022-09-03,EFL League Two,Fleetwood Town v Wycombe Wanderers,14:00:00,Match 7
-1816,2022-09-03,EFL League Two,Forest Green Rovers v Shrewsbury Town,14:00:00,Match 7
-1817,2022-09-03,EFL League Two,Oxford United v Burton Albion,14:00:00,Match 7
-1818,2022-09-03,EFL League Two,Port Vale v Cheltenham Town,14:00:00,Match 7
-1819,2022-09-03,EFL League Two,Portsmouth v Peterborough United,14:00:00,Match 7
-1820,2022-09-03,EFL League Two,Sheffield Wednesday v Barnsley,14:00:00,Match 7
-1821,2022-09-10,EFL League Two,Barnsley v Portsmouth,14:00:00,Match 8
-1822,2022-09-10,EFL League Two,Burton Albion v Fleetwood Town,14:00:00,Match 8
-1823,2022-09-10,EFL League Two,Charlton Athletic v Exeter City,14:00:00,Match 8
-1824,2022-09-10,EFL League Two,Cheltenham Town v Bolton Wanderers,14:00:00,Match 8
-1825,2022-09-10,EFL League Two,Ipswich Town v Cambridge United,14:00:00,Match 8
-1826,2022-09-10,EFL League Two,Lincoln City v Accrington Stanley,14:00:00,Match 8
-1827,2022-09-10,EFL League Two,Milton Keynes Dons v Bristol Rovers,14:00:00,Match 8
-1828,2022-09-10,EFL League Two,Morecambe v Derby County,14:00:00,Match 8
-1829,2022-09-10,EFL League Two,Peterborough United v Forest Green Rovers,14:00:00,Match 8
-1830,2022-09-10,EFL League Two,Plymouth Argyle v Sheffield Wednesday,14:00:00,Match 8
-1831,2022-09-10,EFL League Two,Shrewsbury Town v Oxford United,14:00:00,Match 8
-1832,2022-09-10,EFL League Two,Wycombe Wanderers v Port Vale,14:00:00,Match 8
-1833,2022-09-13,EFL League Two,Barnsley v Port Vale,18:45:00,Match 9
-1834,2022-09-13,EFL League Two,Burton Albion v Portsmouth,18:45:00,Match 9
-1835,2022-09-13,EFL League Two,Charlton Athletic v Forest Green Rovers,18:45:00,Match 9
-1836,2022-09-13,EFL League Two,Cheltenham Town v Cambridge United,18:45:00,Match 9
-1837,2022-09-13,EFL League Two,Ipswich Town v Bristol Rovers,18:45:00,Match 9
-1838,2022-09-13,EFL League Two,Lincoln City v Derby County,18:45:00,Match 9
-1839,2022-09-13,EFL League Two,Milton Keynes Dons v Bolton Wanderers,18:45:00,Match 9
-1840,2022-09-13,EFL League Two,Morecambe v Sheffield Wednesday,18:45:00,Match 9
-1841,2022-09-13,EFL League Two,Peterborough United v Fleetwood Town,18:45:00,Match 9
-1842,2022-09-13,EFL League Two,Plymouth Argyle v Oxford United,18:45:00,Match 9
-1843,2022-09-13,EFL League Two,Shrewsbury Town v Exeter City,18:45:00,Match 9
-1844,2022-09-13,EFL League Two,Wycombe Wanderers v Accrington Stanley,18:45:00,Match 9
-1845,2022-09-17,EFL League Two,Accrington Stanley v Cheltenham Town,14:00:00,Match 10
-1846,2022-09-17,EFL League Two,Bolton Wanderers v Peterborough United,14:00:00,Match 10
-1847,2022-09-17,EFL League Two,Bristol Rovers v Lincoln City,14:00:00,Match 10
-1848,2022-09-17,EFL League Two,Cambridge United v Barnsley,14:00:00,Match 10
-1849,2022-09-17,EFL League Two,Derby County v Wycombe Wanderers,14:00:00,Match 10
-1850,2022-09-17,EFL League Two,Exeter City v Burton Albion,14:00:00,Match 10
-1851,2022-09-17,EFL League Two,Fleetwood Town v Charlton Athletic,14:00:00,Match 10
-1852,2022-09-17,EFL League Two,Forest Green Rovers v Morecambe,14:00:00,Match 10
-1853,2022-09-17,EFL League Two,Oxford United v Milton Keynes Dons,14:00:00,Match 10
-1854,2022-09-17,EFL League Two,Port Vale v Shrewsbury Town,14:00:00,Match 10
-1855,2022-09-17,EFL League Two,Portsmouth v Plymouth Argyle,14:00:00,Match 10
-1856,2022-09-17,EFL League Two,Sheffield Wednesday v Ipswich Town,14:00:00,Match 10
-1857,2022-09-24,EFL League Two,Barnsley v Charlton Athletic,14:00:00,Match 11
-1858,2022-09-24,EFL League Two,Bristol Rovers v Accrington Stanley,14:00:00,Match 11
-1859,2022-09-24,EFL League Two,Derby County v Cheltenham Town,14:00:00,Match 11
-1860,2022-09-24,EFL League Two,Forest Green Rovers v Exeter City,14:00:00,Match 11
-1861,2022-09-24,EFL League Two,Lincoln City v Milton Keynes Dons,14:00:00,Match 11
-1862,2022-09-24,EFL League Two,Morecambe v Cambridge United,14:00:00,Match 11
-1863,2022-09-24,EFL League Two,Oxford United v Fleetwood Town,14:00:00,Match 11
-1864,2022-09-24,EFL League Two,Peterborough United v Port Vale,14:00:00,Match 11
-1865,2022-09-24,EFL League Two,Plymouth Argyle v Ipswich Town,14:00:00,Match 11
-1866,2022-09-24,EFL League Two,Portsmouth v Bolton Wanderers,14:00:00,Match 11
-1867,2022-09-24,EFL League Two,Sheffield Wednesday v Wycombe Wanderers,14:00:00,Match 11
-1868,2022-09-24,EFL League Two,Shrewsbury Town v Burton Albion,14:00:00,Match 11
-1869,2022-10-01,EFL League Two,Accrington Stanley v Morecambe,14:00:00,Match 12
-1870,2022-10-01,EFL League Two,Bolton Wanderers v Lincoln City,14:00:00,Match 12
-1871,2022-10-01,EFL League Two,Burton Albion v Forest Green Rovers,14:00:00,Match 12
-1872,2022-10-01,EFL League Two,Cambridge United v Derby County,14:00:00,Match 12
-1873,2022-10-01,EFL League Two,Charlton Athletic v Oxford United,14:00:00,Match 12
-1874,2022-10-01,EFL League Two,Cheltenham Town v Shrewsbury Town,14:00:00,Match 12
-1875,2022-10-01,EFL League Two,Exeter City v Bristol Rovers,14:00:00,Match 12
-1876,2022-10-01,EFL League Two,Fleetwood Town v Barnsley,14:00:00,Match 12
-1877,2022-10-01,EFL League Two,Ipswich Town v Portsmouth,14:00:00,Match 12
-1878,2022-10-01,EFL League Two,Milton Keynes Dons v Peterborough United,14:00:00,Match 12
-1879,2022-10-01,EFL League Two,Port Vale v Sheffield Wednesday,14:00:00,Match 12
-1880,2022-10-01,EFL League Two,Wycombe Wanderers v Plymouth Argyle,14:00:00,Match 12
-1881,2022-10-08,EFL League Two,Barnsley v Exeter City,14:00:00,Match 13
-1882,2022-10-08,EFL League Two,Bristol Rovers v Cambridge United,14:00:00,Match 13
-1883,2022-10-08,EFL League Two,Derby County v Port Vale,14:00:00,Match 13
-1884,2022-10-08,EFL League Two,Forest Green Rovers v Bolton Wanderers,14:00:00,Match 13
-1885,2022-10-08,EFL League Two,Lincoln City v Charlton Athletic,14:00:00,Match 13
-1886,2022-10-08,EFL League Two,Morecambe v Ipswich Town,14:00:00,Match 13
-1887,2022-10-08,EFL League Two,Oxford United v Wycombe Wanderers,14:00:00,Match 13
-1888,2022-10-08,EFL League Two,Peterborough United v Burton Albion,14:00:00,Match 13
-1889,2022-10-08,EFL League Two,Plymouth Argyle v Accrington Stanley,14:00:00,Match 13
-1890,2022-10-08,EFL League Two,Portsmouth v Fleetwood Town,14:00:00,Match 13
-1891,2022-10-08,EFL League Two,Sheffield Wednesday v Cheltenham Town,14:00:00,Match 13
-1892,2022-10-08,EFL League Two,Shrewsbury Town v Milton Keynes Dons,14:00:00,Match 13
-1893,2022-10-15,EFL League Two,Accrington Stanley v Derby County,14:00:00,Match 14
-1894,2022-10-15,EFL League Two,Bolton Wanderers v Barnsley,14:00:00,Match 14
-1895,2022-10-15,EFL League Two,Burton Albion v Morecambe,14:00:00,Match 14
-1896,2022-10-15,EFL League Two,Cambridge United v Sheffield Wednesday,14:00:00,Match 14
-1897,2022-10-15,EFL League Two,Charlton Athletic v Portsmouth,14:00:00,Match 14
-1898,2022-10-15,EFL League Two,Cheltenham Town v Bristol Rovers,14:00:00,Match 14
-1899,2022-10-15,EFL League Two,Exeter City v Oxford United,14:00:00,Match 14
-1900,2022-10-15,EFL League Two,Fleetwood Town v Shrewsbury Town,14:00:00,Match 14
-1901,2022-10-15,EFL League Two,Ipswich Town v Lincoln City,14:00:00,Match 14
-1902,2022-10-15,EFL League Two,Milton Keynes Dons v Plymouth Argyle,14:00:00,Match 14
-1903,2022-10-15,EFL League Two,Port Vale v Forest Green Rovers,14:00:00,Match 14
-1904,2022-10-15,EFL League Two,Wycombe Wanderers v Peterborough United,14:00:00,Match 14
-1905,2022-10-22,EFL League Two,Accrington Stanley v Bolton Wanderers,14:00:00,Match 15
-1906,2022-10-22,EFL League Two,Bristol Rovers v Plymouth Argyle,14:00:00,Match 15
-1907,2022-10-22,EFL League Two,Burton Albion v Cheltenham Town,14:00:00,Match 15
-1908,2022-10-22,EFL League Two,Cambridge United v Port Vale,14:00:00,Match 15
-1909,2022-10-22,EFL League Two,Exeter City v Fleetwood Town,14:00:00,Match 15
-1910,2022-10-22,EFL League Two,Forest Green Rovers v Portsmouth,14:00:00,Match 15
-1911,2022-10-22,EFL League Two,Ipswich Town v Derby County,14:00:00,Match 15
-1912,2022-10-22,EFL League Two,Lincoln City v Sheffield Wednesday,14:00:00,Match 15
-1913,2022-10-22,EFL League Two,Milton Keynes Dons v Wycombe Wanderers,14:00:00,Match 15
-1914,2022-10-22,EFL League Two,Morecambe v Barnsley,14:00:00,Match 15
-1915,2022-10-22,EFL League Two,Oxford United v Peterborough United,14:00:00,Match 15
-1916,2022-10-22,EFL League Two,Shrewsbury Town v Charlton Athletic,14:00:00,Match 15
-1917,2022-10-25,EFL League Two,Barnsley v Lincoln City,18:45:00,Match 16
-1918,2022-10-25,EFL League Two,Bolton Wanderers v Burton Albion,18:45:00,Match 16
-1919,2022-10-25,EFL League Two,Charlton Athletic v Milton Keynes Dons,18:45:00,Match 16
-1920,2022-10-25,EFL League Two,Cheltenham Town v Morecambe,18:45:00,Match 16
-1921,2022-10-25,EFL League Two,Derby County v Exeter City,18:45:00,Match 16
-1922,2022-10-25,EFL League Two,Fleetwood Town v Forest Green Rovers,18:45:00,Match 16
-1923,2022-10-25,EFL League Two,Peterborough United v Accrington Stanley,18:45:00,Match 16
-1924,2022-10-25,EFL League Two,Plymouth Argyle v Shrewsbury Town,18:45:00,Match 16
-1925,2022-10-25,EFL League Two,Port Vale v Ipswich Town,18:45:00,Match 16
-1926,2022-10-25,EFL League Two,Portsmouth v Oxford United,18:45:00,Match 16
-1927,2022-10-25,EFL League Two,Sheffield Wednesday v Bristol Rovers,18:45:00,Match 16
-1928,2022-10-25,EFL League Two,Wycombe Wanderers v Cambridge United,18:45:00,Match 16
-1929,2022-10-29,EFL League Two,Barnsley v Forest Green Rovers,14:00:00,Match 17
-1930,2022-10-29,EFL League Two,Bolton Wanderers v Oxford United,14:00:00,Match 17
-1931,2022-10-29,EFL League Two,Charlton Athletic v Ipswich Town,14:00:00,Match 17
-1932,2022-10-29,EFL League Two,Cheltenham Town v Milton Keynes Dons,14:00:00,Match 17
-1933,2022-10-29,EFL League Two,Derby County v Bristol Rovers,14:00:00,Match 17
-1934,2022-10-29,EFL League Two,Fleetwood Town v Accrington Stanley,14:00:00,Match 17
-1935,2022-10-29,EFL League Two,Peterborough United v Cambridge United,14:00:00,Match 17
-1936,2022-10-29,EFL League Two,Plymouth Argyle v Exeter City,14:00:00,Match 17
-1937,2022-10-29,EFL League Two,Port Vale v Lincoln City,14:00:00,Match 17
-1938,2022-10-29,EFL League Two,Portsmouth v Shrewsbury Town,14:00:00,Match 17
-1939,2022-10-29,EFL League Two,Sheffield Wednesday v Burton Albion,14:00:00,Match 17
-1940,2022-10-29,EFL League Two,Wycombe Wanderers v Morecambe,14:00:00,Match 17
-1941,2022-11-12,EFL League Two,Accrington Stanley v Sheffield Wednesday,15:00:00,Match 18
-1942,2022-11-12,EFL League Two,Bristol Rovers v Fleetwood Town,15:00:00,Match 18
-1943,2022-11-12,EFL League Two,Burton Albion v Charlton Athletic,15:00:00,Match 18
-1944,2022-11-12,EFL League Two,Cambridge United v Bolton Wanderers,15:00:00,Match 18
-1945,2022-11-12,EFL League Two,Exeter City v Peterborough United,15:00:00,Match 18
-1946,2022-11-12,EFL League Two,Forest Green Rovers v Wycombe Wanderers,15:00:00,Match 18
-1947,2022-11-12,EFL League Two,Ipswich Town v Cheltenham Town,15:00:00,Match 18
-1948,2022-11-12,EFL League Two,Lincoln City v Plymouth Argyle,15:00:00,Match 18
-1949,2022-11-12,EFL League Two,Milton Keynes Dons v Derby County,15:00:00,Match 18
-1950,2022-11-12,EFL League Two,Morecambe v Portsmouth,15:00:00,Match 18
-1951,2022-11-12,EFL League Two,Oxford United v Port Vale,15:00:00,Match 18
-1952,2022-11-12,EFL League Two,Shrewsbury Town v Barnsley,15:00:00,Match 18
-1953,2022-11-19,EFL League Two,Barnsley v Milton Keynes Dons,15:00:00,Match 19
-1954,2022-11-19,EFL League Two,Bristol Rovers v Peterborough United,15:00:00,Match 19
-1955,2022-11-19,EFL League Two,Burton Albion v Plymouth Argyle,15:00:00,Match 19
-1956,2022-11-19,EFL League Two,Cambridge United v Accrington Stanley,15:00:00,Match 19
-1957,2022-11-19,EFL League Two,Cheltenham Town v Wycombe Wanderers,15:00:00,Match 19
-1958,2022-11-19,EFL League Two,Exeter City v Ipswich Town,15:00:00,Match 19
-1959,2022-11-19,EFL League Two,Fleetwood Town v Bolton Wanderers,15:00:00,Match 19
-1960,2022-11-19,EFL League Two,Lincoln City v Morecambe,15:00:00,Match 19
-1961,2022-11-19,EFL League Two,Oxford United v Forest Green Rovers,15:00:00,Match 19
-1962,2022-11-19,EFL League Two,Port Vale v Charlton Athletic,15:00:00,Match 19
-1963,2022-11-19,EFL League Two,Portsmouth v Derby County,15:00:00,Match 19
-1964,2022-11-19,EFL League Two,Sheffield Wednesday v Shrewsbury Town,15:00:00,Match 19
-1965,2022-12-03,EFL League Two,Accrington Stanley v Oxford United,15:00:00,Match 20
-1966,2022-12-03,EFL League Two,Bolton Wanderers v Bristol Rovers,15:00:00,Match 20
-1967,2022-12-03,EFL League Two,Charlton Athletic v Cheltenham Town,15:00:00,Match 20
-1968,2022-12-03,EFL League Two,Derby County v Sheffield Wednesday,15:00:00,Match 20
-1969,2022-12-03,EFL League Two,Forest Green Rovers v Cambridge United,15:00:00,Match 20
-1970,2022-12-03,EFL League Two,Ipswich Town v Fleetwood Town,15:00:00,Match 20
-1971,2022-12-03,EFL League Two,Milton Keynes Dons v Burton Albion,15:00:00,Match 20
-1972,2022-12-03,EFL League Two,Morecambe v Exeter City,15:00:00,Match 20
-1973,2022-12-03,EFL League Two,Peterborough United v Barnsley,15:00:00,Match 20
-1974,2022-12-03,EFL League Two,Plymouth Argyle v Port Vale,15:00:00,Match 20
-1975,2022-12-03,EFL League Two,Shrewsbury Town v Lincoln City,15:00:00,Match 20
-1976,2022-12-03,EFL League Two,Wycombe Wanderers v Portsmouth,15:00:00,Match 20
-1977,2022-12-10,EFL League Two,Accrington Stanley v Portsmouth,15:00:00,Match 21
-1978,2022-12-10,EFL League Two,Bristol Rovers v Port Vale,15:00:00,Match 21
-1979,2022-12-10,EFL League Two,Burton Albion v Derby County,15:00:00,Match 21
-1980,2022-12-10,EFL League Two,Cambridge United v Plymouth Argyle,15:00:00,Match 21
-1981,2022-12-10,EFL League Two,Exeter City v Sheffield Wednesday,15:00:00,Match 21
-1982,2022-12-10,EFL League Two,Forest Green Rovers v Cheltenham Town,15:00:00,Match 21
-1983,2022-12-10,EFL League Two,Ipswich Town v Peterborough United,15:00:00,Match 21
-1984,2022-12-10,EFL League Two,Lincoln City v Wycombe Wanderers,15:00:00,Match 21
-1985,2022-12-10,EFL League Two,Milton Keynes Dons v Fleetwood Town,15:00:00,Match 21
-1986,2022-12-10,EFL League Two,Morecambe v Charlton Athletic,15:00:00,Match 21
-1987,2022-12-10,EFL League Two,Oxford United v Barnsley,15:00:00,Match 21
-1988,2022-12-10,EFL League Two,Shrewsbury Town v Bolton Wanderers,15:00:00,Match 21
-1989,2022-12-17,EFL League Two,Barnsley v Burton Albion,15:00:00,Match 22
-1990,2022-12-17,EFL League Two,Bolton Wanderers v Exeter City,15:00:00,Match 22
-1991,2022-12-17,EFL League Two,Charlton Athletic v Bristol Rovers,15:00:00,Match 22
-1992,2022-12-17,EFL League Two,Cheltenham Town v Lincoln City,15:00:00,Match 22
-1993,2022-12-17,EFL League Two,Derby County v Forest Green Rovers,15:00:00,Match 22
-1994,2022-12-17,EFL League Two,Fleetwood Town v Cambridge United,15:00:00,Match 22
-1995,2022-12-17,EFL League Two,Peterborough United v Shrewsbury Town,15:00:00,Match 22
-1996,2022-12-17,EFL League Two,Plymouth Argyle v Morecambe,15:00:00,Match 22
-1997,2022-12-17,EFL League Two,Port Vale v Accrington Stanley,15:00:00,Match 22
-1998,2022-12-17,EFL League Two,Portsmouth v Milton Keynes Dons,15:00:00,Match 22
-1999,2022-12-17,EFL League Two,Sheffield Wednesday v Oxford United,15:00:00,Match 22
-2000,2022-12-17,EFL League Two,Wycombe Wanderers v Ipswich Town,15:00:00,Match 22
-2001,2022-12-26,EFL League Two,Accrington Stanley v Barnsley,15:00:00,Match 23
-2002,2022-12-26,EFL League Two,Bolton Wanderers v Derby County,15:00:00,Match 23
-2003,2022-12-26,EFL League Two,Burton Albion v Lincoln City,15:00:00,Match 23
-2004,2022-12-26,EFL League Two,Cambridge United v Shrewsbury Town,15:00:00,Match 23
-2005,2022-12-26,EFL League Two,Charlton Athletic v Peterborough United,15:00:00,Match 23
-2006,2022-12-26,EFL League Two,Cheltenham Town v Plymouth Argyle,15:00:00,Match 23
-2007,2022-12-26,EFL League Two,Exeter City v Portsmouth,15:00:00,Match 23
-2008,2022-12-26,EFL League Two,Fleetwood Town v Sheffield Wednesday,15:00:00,Match 23
-2009,2022-12-26,EFL League Two,Ipswich Town v Oxford United,15:00:00,Match 23
-2010,2022-12-26,EFL League Two,Milton Keynes Dons v Forest Green Rovers,15:00:00,Match 23
-2011,2022-12-26,EFL League Two,Port Vale v Morecambe,15:00:00,Match 23
-2012,2022-12-26,EFL League Two,Wycombe Wanderers v Bristol Rovers,15:00:00,Match 23
-2013,2022-12-29,EFL League Two,Barnsley v Fleetwood Town,19:45:00,Match 24
-2014,2022-12-29,EFL League Two,Bristol Rovers v Exeter City,19:45:00,Match 24
-2015,2022-12-29,EFL League Two,Derby County v Cambridge United,19:45:00,Match 24
-2016,2022-12-29,EFL League Two,Forest Green Rovers v Burton Albion,19:45:00,Match 24
-2017,2022-12-29,EFL League Two,Lincoln City v Bolton Wanderers,19:45:00,Match 24
-2018,2022-12-29,EFL League Two,Morecambe v Accrington Stanley,19:45:00,Match 24
-2019,2022-12-29,EFL League Two,Oxford United v Charlton Athletic,19:45:00,Match 24
-2020,2022-12-29,EFL League Two,Peterborough United v Milton Keynes Dons,19:45:00,Match 24
-2021,2022-12-29,EFL League Two,Plymouth Argyle v Wycombe Wanderers,19:45:00,Match 24
-2022,2022-12-29,EFL League Two,Portsmouth v Ipswich Town,19:45:00,Match 24
-2023,2022-12-29,EFL League Two,Sheffield Wednesday v Port Vale,19:45:00,Match 24
-2024,2022-12-29,EFL League Two,Shrewsbury Town v Cheltenham Town,19:45:00,Match 24
-2025,2023-01-01,EFL League Two,Barnsley v Bolton Wanderers,15:00:00,Match 25
-2026,2023-01-01,EFL League Two,Bristol Rovers v Cheltenham Town,15:00:00,Match 25
-2027,2023-01-01,EFL League Two,Derby County v Accrington Stanley,15:00:00,Match 25
-2028,2023-01-01,EFL League Two,Forest Green Rovers v Port Vale,15:00:00,Match 25
-2029,2023-01-01,EFL League Two,Lincoln City v Ipswich Town,15:00:00,Match 25
-2030,2023-01-01,EFL League Two,Morecambe v Burton Albion,15:00:00,Match 25
-2031,2023-01-01,EFL League Two,Oxford United v Exeter City,15:00:00,Match 25
-2032,2023-01-01,EFL League Two,Peterborough United v Wycombe Wanderers,15:00:00,Match 25
-2033,2023-01-01,EFL League Two,Plymouth Argyle v Milton Keynes Dons,15:00:00,Match 25
-2034,2023-01-01,EFL League Two,Portsmouth v Charlton Athletic,15:00:00,Match 25
-2035,2023-01-01,EFL League Two,Sheffield Wednesday v Cambridge United,15:00:00,Match 25
-2036,2023-01-01,EFL League Two,Shrewsbury Town v Fleetwood Town,15:00:00,Match 25
-2037,2023-01-07,EFL League Two,Accrington Stanley v Plymouth Argyle,15:00:00,Match 26
-2038,2023-01-07,EFL League Two,Bolton Wanderers v Forest Green Rovers,15:00:00,Match 26
-2039,2023-01-07,EFL League Two,Burton Albion v Peterborough United,15:00:00,Match 26
-2040,2023-01-07,EFL League Two,Cambridge United v Bristol Rovers,15:00:00,Match 26
-2041,2023-01-07,EFL League Two,Charlton Athletic v Lincoln City,15:00:00,Match 26
-2042,2023-01-07,EFL League Two,Cheltenham Town v Sheffield Wednesday,15:00:00,Match 26
-2043,2023-01-07,EFL League Two,Exeter City v Barnsley,15:00:00,Match 26
-2044,2023-01-07,EFL League Two,Fleetwood Town v Portsmouth,15:00:00,Match 26
-2045,2023-01-07,EFL League Two,Ipswich Town v Morecambe,15:00:00,Match 26
-2046,2023-01-07,EFL League Two,Milton Keynes Dons v Shrewsbury Town,15:00:00,Match 26
-2047,2023-01-07,EFL League Two,Port Vale v Derby County,15:00:00,Match 26
-2048,2023-01-07,EFL League Two,Wycombe Wanderers v Oxford United,15:00:00,Match 26
-2049,2023-01-14,EFL League Two,Accrington Stanley v Bristol Rovers,15:00:00,Match 27
-2050,2023-01-14,EFL League Two,Bolton Wanderers v Portsmouth,15:00:00,Match 27
-2051,2023-01-14,EFL League Two,Burton Albion v Shrewsbury Town,15:00:00,Match 27
-2052,2023-01-14,EFL League Two,Cambridge United v Morecambe,15:00:00,Match 27
-2053,2023-01-14,EFL League Two,Charlton Athletic v Barnsley,15:00:00,Match 27
-2054,2023-01-14,EFL League Two,Cheltenham Town v Derby County,15:00:00,Match 27
-2055,2023-01-14,EFL League Two,Exeter City v Forest Green Rovers,15:00:00,Match 27
-2056,2023-01-14,EFL League Two,Fleetwood Town v Oxford United,15:00:00,Match 27
-2057,2023-01-14,EFL League Two,Ipswich Town v Plymouth Argyle,15:00:00,Match 27
-2058,2023-01-14,EFL League Two,Milton Keynes Dons v Lincoln City,15:00:00,Match 27
-2059,2023-01-14,EFL League Two,Port Vale v Peterborough United,15:00:00,Match 27
-2060,2023-01-14,EFL League Two,Wycombe Wanderers v Sheffield Wednesday,15:00:00,Match 27
-2061,2023-01-21,EFL League Two,Barnsley v Accrington Stanley,15:00:00,Match 28
-2062,2023-01-21,EFL League Two,Bristol Rovers v Wycombe Wanderers,15:00:00,Match 28
-2063,2023-01-21,EFL League Two,Derby County v Bolton Wanderers,15:00:00,Match 28
-2064,2023-01-21,EFL League Two,Forest Green Rovers v Milton Keynes Dons,15:00:00,Match 28
-2065,2023-01-21,EFL League Two,Lincoln City v Burton Albion,15:00:00,Match 28
-2066,2023-01-21,EFL League Two,Morecambe v Port Vale,15:00:00,Match 28
-2067,2023-01-21,EFL League Two,Oxford United v Ipswich Town,15:00:00,Match 28
-2068,2023-01-21,EFL League Two,Peterborough United v Charlton Athletic,15:00:00,Match 28
-2069,2023-01-21,EFL League Two,Plymouth Argyle v Cheltenham Town,15:00:00,Match 28
-2070,2023-01-21,EFL League Two,Portsmouth v Exeter City,15:00:00,Match 28
-2071,2023-01-21,EFL League Two,Sheffield Wednesday v Fleetwood Town,15:00:00,Match 28
-2072,2023-01-21,EFL League Two,Shrewsbury Town v Cambridge United,15:00:00,Match 28
-2073,2023-01-28,EFL League Two,Barnsley v Sheffield Wednesday,15:00:00,Match 29
-2074,2023-01-28,EFL League Two,Burton Albion v Oxford United,15:00:00,Match 29
-2075,2023-01-28,EFL League Two,Charlton Athletic v Bolton Wanderers,15:00:00,Match 29
-2076,2023-01-28,EFL League Two,Cheltenham Town v Port Vale,15:00:00,Match 29
-2077,2023-01-28,EFL League Two,Ipswich Town v Accrington Stanley,15:00:00,Match 29
-2078,2023-01-28,EFL League Two,Lincoln City v Cambridge United,15:00:00,Match 29
-2079,2023-01-28,EFL League Two,Milton Keynes Dons v Exeter City,15:00:00,Match 29
-2080,2023-01-28,EFL League Two,Morecambe v Bristol Rovers,15:00:00,Match 29
-2081,2023-01-28,EFL League Two,Peterborough United v Portsmouth,15:00:00,Match 29
-2082,2023-01-28,EFL League Two,Plymouth Argyle v Derby County,15:00:00,Match 29
-2083,2023-01-28,EFL League Two,Shrewsbury Town v Forest Green Rovers,15:00:00,Match 29
-2084,2023-01-28,EFL League Two,Wycombe Wanderers v Fleetwood Town,15:00:00,Match 29
-2085,2023-02-04,EFL League Two,Accrington Stanley v Lincoln City,15:00:00,Match 30
-2086,2023-02-04,EFL League Two,Bolton Wanderers v Cheltenham Town,15:00:00,Match 30
-2087,2023-02-04,EFL League Two,Bristol Rovers v Milton Keynes Dons,15:00:00,Match 30
-2088,2023-02-04,EFL League Two,Cambridge United v Ipswich Town,15:00:00,Match 30
-2089,2023-02-04,EFL League Two,Derby County v Morecambe,15:00:00,Match 30
-2090,2023-02-04,EFL League Two,Exeter City v Charlton Athletic,15:00:00,Match 30
-2091,2023-02-04,EFL League Two,Fleetwood Town v Burton Albion,15:00:00,Match 30
-2092,2023-02-04,EFL League Two,Forest Green Rovers v Peterborough United,15:00:00,Match 30
-2093,2023-02-04,EFL League Two,Oxford United v Shrewsbury Town,15:00:00,Match 30
-2094,2023-02-04,EFL League Two,Port Vale v Wycombe Wanderers,15:00:00,Match 30
-2095,2023-02-04,EFL League Two,Portsmouth v Barnsley,15:00:00,Match 30
-2096,2023-02-04,EFL League Two,Sheffield Wednesday v Plymouth Argyle,15:00:00,Match 30
-2097,2023-02-11,EFL League Two,Barnsley v Cambridge United,15:00:00,Match 31
-2098,2023-02-11,EFL League Two,Burton Albion v Exeter City,15:00:00,Match 31
-2099,2023-02-11,EFL League Two,Charlton Athletic v Fleetwood Town,15:00:00,Match 31
-2100,2023-02-11,EFL League Two,Cheltenham Town v Accrington Stanley,15:00:00,Match 31
-2101,2023-02-11,EFL League Two,Ipswich Town v Sheffield Wednesday,15:00:00,Match 31
-2102,2023-02-11,EFL League Two,Lincoln City v Bristol Rovers,15:00:00,Match 31
-2103,2023-02-11,EFL League Two,Milton Keynes Dons v Oxford United,15:00:00,Match 31
-2104,2023-02-11,EFL League Two,Morecambe v Forest Green Rovers,15:00:00,Match 31
-2105,2023-02-11,EFL League Two,Peterborough United v Bolton Wanderers,15:00:00,Match 31
-2106,2023-02-11,EFL League Two,Plymouth Argyle v Portsmouth,15:00:00,Match 31
-2107,2023-02-11,EFL League Two,Shrewsbury Town v Port Vale,15:00:00,Match 31
-2108,2023-02-11,EFL League Two,Wycombe Wanderers v Derby County,15:00:00,Match 31
-2109,2023-02-14,EFL League Two,Accrington Stanley v Wycombe Wanderers,19:45:00,Match 32
-2110,2023-02-14,EFL League Two,Bolton Wanderers v Milton Keynes Dons,19:45:00,Match 32
-2111,2023-02-14,EFL League Two,Bristol Rovers v Ipswich Town,19:45:00,Match 32
-2112,2023-02-14,EFL League Two,Cambridge United v Cheltenham Town,19:45:00,Match 32
-2113,2023-02-14,EFL League Two,Derby County v Lincoln City,19:45:00,Match 32
-2114,2023-02-14,EFL League Two,Exeter City v Shrewsbury Town,19:45:00,Match 32
-2115,2023-02-14,EFL League Two,Fleetwood Town v Peterborough United,19:45:00,Match 32
-2116,2023-02-14,EFL League Two,Forest Green Rovers v Charlton Athletic,19:45:00,Match 32
-2117,2023-02-14,EFL League Two,Oxford United v Plymouth Argyle,19:45:00,Match 32
-2118,2023-02-14,EFL League Two,Port Vale v Barnsley,19:45:00,Match 32
-2119,2023-02-14,EFL League Two,Portsmouth v Burton Albion,19:45:00,Match 32
-2120,2023-02-14,EFL League Two,Sheffield Wednesday v Morecambe,19:45:00,Match 32
-2121,2023-02-18,EFL League Two,Accrington Stanley v Shrewsbury Town,15:00:00,Match 33
-2122,2023-02-18,EFL League Two,Bristol Rovers v Burton Albion,15:00:00,Match 33
-2123,2023-02-18,EFL League Two,Cambridge United v Oxford United,15:00:00,Match 33
-2124,2023-02-18,EFL League Two,Cheltenham Town v Barnsley,15:00:00,Match 33
-2125,2023-02-18,EFL League Two,Derby County v Charlton Athletic,15:00:00,Match 33
-2126,2023-02-18,EFL League Two,Ipswich Town v Forest Green Rovers,15:00:00,Match 33
-2127,2023-02-18,EFL League Two,Lincoln City v Portsmouth,15:00:00,Match 33
-2128,2023-02-18,EFL League Two,Morecambe v Peterborough United,15:00:00,Match 33
-2129,2023-02-18,EFL League Two,Plymouth Argyle v Fleetwood Town,15:00:00,Match 33
-2130,2023-02-18,EFL League Two,Port Vale v Exeter City,15:00:00,Match 33
-2131,2023-02-18,EFL League Two,Sheffield Wednesday v Milton Keynes Dons,15:00:00,Match 33
-2132,2023-02-18,EFL League Two,Wycombe Wanderers v Bolton Wanderers,15:00:00,Match 33
-2133,2023-02-25,EFL League Two,Barnsley v Derby County,15:00:00,Match 34
-2134,2023-02-25,EFL League Two,Bolton Wanderers v Port Vale,15:00:00,Match 34
-2135,2023-02-25,EFL League Two,Burton Albion v Accrington Stanley,15:00:00,Match 34
-2136,2023-02-25,EFL League Two,Charlton Athletic v Sheffield Wednesday,15:00:00,Match 34
-2137,2023-02-25,EFL League Two,Exeter City v Cambridge United,15:00:00,Match 34
-2138,2023-02-25,EFL League Two,Fleetwood Town v Morecambe,15:00:00,Match 34
-2139,2023-02-25,EFL League Two,Forest Green Rovers v Lincoln City,15:00:00,Match 34
-2140,2023-02-25,EFL League Two,Milton Keynes Dons v Ipswich Town,15:00:00,Match 34
-2141,2023-02-25,EFL League Two,Oxford United v Bristol Rovers,15:00:00,Match 34
-2142,2023-02-25,EFL League Two,Peterborough United v Plymouth Argyle,15:00:00,Match 34
-2143,2023-02-25,EFL League Two,Portsmouth v Cheltenham Town,15:00:00,Match 34
-2144,2023-02-25,EFL League Two,Shrewsbury Town v Wycombe Wanderers,15:00:00,Match 34
-2145,2023-03-04,EFL League Two,Accrington Stanley v Forest Green Rovers,15:00:00,Match 35
-2146,2023-03-04,EFL League Two,Bristol Rovers v Barnsley,15:00:00,Match 35
-2147,2023-03-04,EFL League Two,Cambridge United v Portsmouth,15:00:00,Match 35
-2148,2023-03-04,EFL League Two,Cheltenham Town v Fleetwood Town,15:00:00,Match 35
-2149,2023-03-04,EFL League Two,Derby County v Shrewsbury Town,15:00:00,Match 35
-2150,2023-03-04,EFL League Two,Ipswich Town v Burton Albion,15:00:00,Match 35
-2151,2023-03-04,EFL League Two,Lincoln City v Oxford United,15:00:00,Match 35
-2152,2023-03-04,EFL League Two,Morecambe v Bolton Wanderers,15:00:00,Match 35
-2153,2023-03-04,EFL League Two,Plymouth Argyle v Charlton Athletic,15:00:00,Match 35
-2154,2023-03-04,EFL League Two,Port Vale v Milton Keynes Dons,15:00:00,Match 35
-2155,2023-03-04,EFL League Two,Sheffield Wednesday v Peterborough United,15:00:00,Match 35
-2156,2023-03-04,EFL League Two,Wycombe Wanderers v Exeter City,15:00:00,Match 35
-2157,2023-03-11,EFL League Two,Barnsley v Plymouth Argyle,15:00:00,Match 36
-2158,2023-03-11,EFL League Two,Bolton Wanderers v Ipswich Town,15:00:00,Match 36
-2159,2023-03-11,EFL League Two,Burton Albion v Wycombe Wanderers,15:00:00,Match 36
-2160,2023-03-11,EFL League Two,Charlton Athletic v Accrington Stanley,15:00:00,Match 36
-2161,2023-03-11,EFL League Two,Exeter City v Lincoln City,15:00:00,Match 36
-2162,2023-03-11,EFL League Two,Fleetwood Town v Port Vale,15:00:00,Match 36
-2163,2023-03-11,EFL League Two,Forest Green Rovers v Bristol Rovers,15:00:00,Match 36
-2164,2023-03-11,EFL League Two,Milton Keynes Dons v Cambridge United,15:00:00,Match 36
-2165,2023-03-11,EFL League Two,Oxford United v Derby County,15:00:00,Match 36
-2166,2023-03-11,EFL League Two,Peterborough United v Cheltenham Town,15:00:00,Match 36
-2167,2023-03-11,EFL League Two,Portsmouth v Sheffield Wednesday,15:00:00,Match 36
-2168,2023-03-11,EFL League Two,Shrewsbury Town v Morecambe,15:00:00,Match 36
-2169,2023-03-18,EFL League Two,Accrington Stanley v Milton Keynes Dons,15:00:00,Match 37
-2170,2023-03-18,EFL League Two,Bristol Rovers v Portsmouth,15:00:00,Match 37
-2171,2023-03-18,EFL League Two,Cambridge United v Charlton Athletic,15:00:00,Match 37
-2172,2023-03-18,EFL League Two,Cheltenham Town v Exeter City,15:00:00,Match 37
-2173,2023-03-18,EFL League Two,Derby County v Fleetwood Town,15:00:00,Match 37
-2174,2023-03-18,EFL League Two,Ipswich Town v Shrewsbury Town,15:00:00,Match 37
-2175,2023-03-18,EFL League Two,Lincoln City v Peterborough United,15:00:00,Match 37
-2176,2023-03-18,EFL League Two,Morecambe v Oxford United,15:00:00,Match 37
-2177,2023-03-18,EFL League Two,Plymouth Argyle v Forest Green Rovers,15:00:00,Match 37
-2178,2023-03-18,EFL League Two,Port Vale v Burton Albion,15:00:00,Match 37
-2179,2023-03-18,EFL League Two,Sheffield Wednesday v Bolton Wanderers,15:00:00,Match 37
-2180,2023-03-18,EFL League Two,Wycombe Wanderers v Barnsley,15:00:00,Match 37
-2181,2023-03-25,EFL League Two,Barnsley v Ipswich Town,15:00:00,Match 38
-2182,2023-03-25,EFL League Two,Bolton Wanderers v Plymouth Argyle,15:00:00,Match 38
-2183,2023-03-25,EFL League Two,Burton Albion v Cambridge United,15:00:00,Match 38
-2184,2023-03-25,EFL League Two,Charlton Athletic v Wycombe Wanderers,15:00:00,Match 38
-2185,2023-03-25,EFL League Two,Exeter City v Accrington Stanley,15:00:00,Match 38
-2186,2023-03-25,EFL League Two,Fleetwood Town v Lincoln City,15:00:00,Match 38
-2187,2023-03-25,EFL League Two,Forest Green Rovers v Sheffield Wednesday,15:00:00,Match 38
-2188,2023-03-25,EFL League Two,Milton Keynes Dons v Morecambe,15:00:00,Match 38
-2189,2023-03-25,EFL League Two,Oxford United v Cheltenham Town,15:00:00,Match 38
-2190,2023-03-25,EFL League Two,Peterborough United v Derby County,15:00:00,Match 38
-2191,2023-03-25,EFL League Two,Portsmouth v Port Vale,15:00:00,Match 38
-2192,2023-03-25,EFL League Two,Shrewsbury Town v Bristol Rovers,15:00:00,Match 38
-2193,2023-04-01,EFL League Two,Barnsley v Morecambe,14:00:00,Match 39
-2194,2023-04-01,EFL League Two,Bolton Wanderers v Accrington Stanley,14:00:00,Match 39
-2195,2023-04-01,EFL League Two,Charlton Athletic v Shrewsbury Town,14:00:00,Match 39
-2196,2023-04-01,EFL League Two,Cheltenham Town v Burton Albion,14:00:00,Match 39
-2197,2023-04-01,EFL League Two,Derby County v Ipswich Town,14:00:00,Match 39
-2198,2023-04-01,EFL League Two,Fleetwood Town v Exeter City,14:00:00,Match 39
-2199,2023-04-01,EFL League Two,Peterborough United v Oxford United,14:00:00,Match 39
-2200,2023-04-01,EFL League Two,Plymouth Argyle v Bristol Rovers,14:00:00,Match 39
-2201,2023-04-01,EFL League Two,Port Vale v Cambridge United,14:00:00,Match 39
-2202,2023-04-01,EFL League Two,Portsmouth v Forest Green Rovers,14:00:00,Match 39
-2203,2023-04-01,EFL League Two,Sheffield Wednesday v Lincoln City,14:00:00,Match 39
-2204,2023-04-01,EFL League Two,Wycombe Wanderers v Milton Keynes Dons,14:00:00,Match 39
-2205,2023-04-07,EFL League Two,Accrington Stanley v Port Vale,14:00:00,Match 40
-2206,2023-04-07,EFL League Two,Bristol Rovers v Charlton Athletic,14:00:00,Match 40
-2207,2023-04-07,EFL League Two,Burton Albion v Barnsley,14:00:00,Match 40
-2208,2023-04-07,EFL League Two,Cambridge United v Fleetwood Town,14:00:00,Match 40
-2209,2023-04-07,EFL League Two,Exeter City v Bolton Wanderers,14:00:00,Match 40
-2210,2023-04-07,EFL League Two,Forest Green Rovers v Derby County,14:00:00,Match 40
-2211,2023-04-07,EFL League Two,Ipswich Town v Wycombe Wanderers,14:00:00,Match 40
-2212,2023-04-07,EFL League Two,Lincoln City v Cheltenham Town,14:00:00,Match 40
-2213,2023-04-07,EFL League Two,Milton Keynes Dons v Portsmouth,14:00:00,Match 40
-2214,2023-04-07,EFL League Two,Morecambe v Plymouth Argyle,14:00:00,Match 40
-2215,2023-04-07,EFL League Two,Oxford United v Sheffield Wednesday,14:00:00,Match 40
-2216,2023-04-07,EFL League Two,Shrewsbury Town v Peterborough United,14:00:00,Match 40
-2217,2023-04-10,EFL League Two,Barnsley v Shrewsbury Town,14:00:00,Match 41
-2218,2023-04-10,EFL League Two,Bolton Wanderers v Cambridge United,14:00:00,Match 41
-2219,2023-04-10,EFL League Two,Charlton Athletic v Burton Albion,14:00:00,Match 41
-2220,2023-04-10,EFL League Two,Cheltenham Town v Ipswich Town,14:00:00,Match 41
-2221,2023-04-10,EFL League Two,Derby County v Milton Keynes Dons,14:00:00,Match 41
-2222,2023-04-10,EFL League Two,Fleetwood Town v Bristol Rovers,14:00:00,Match 41
-2223,2023-04-10,EFL League Two,Peterborough United v Exeter City,14:00:00,Match 41
-2224,2023-04-10,EFL League Two,Plymouth Argyle v Lincoln City,14:00:00,Match 41
-2225,2023-04-10,EFL League Two,Port Vale v Oxford United,14:00:00,Match 41
-2226,2023-04-10,EFL League Two,Portsmouth v Morecambe,14:00:00,Match 41
-2227,2023-04-10,EFL League Two,Sheffield Wednesday v Accrington Stanley,14:00:00,Match 41
-2228,2023-04-10,EFL League Two,Wycombe Wanderers v Forest Green Rovers,14:00:00,Match 41
-2229,2023-04-15,EFL League Two,Accrington Stanley v Fleetwood Town,14:00:00,Match 42
-2230,2023-04-15,EFL League Two,Bristol Rovers v Derby County,14:00:00,Match 42
-2231,2023-04-15,EFL League Two,Burton Albion v Sheffield Wednesday,14:00:00,Match 42
-2232,2023-04-15,EFL League Two,Cambridge United v Peterborough United,14:00:00,Match 42
-2233,2023-04-15,EFL League Two,Exeter City v Plymouth Argyle,14:00:00,Match 42
-2234,2023-04-15,EFL League Two,Forest Green Rovers v Barnsley,14:00:00,Match 42
-2235,2023-04-15,EFL League Two,Ipswich Town v Charlton Athletic,14:00:00,Match 42
-2236,2023-04-15,EFL League Two,Lincoln City v Port Vale,14:00:00,Match 42
-2237,2023-04-15,EFL League Two,Milton Keynes Dons v Cheltenham Town,14:00:00,Match 42
-2238,2023-04-15,EFL League Two,Morecambe v Wycombe Wanderers,14:00:00,Match 42
-2239,2023-04-15,EFL League Two,Oxford United v Bolton Wanderers,14:00:00,Match 42
-2240,2023-04-15,EFL League Two,Shrewsbury Town v Portsmouth,14:00:00,Match 42
-2241,2023-04-18,EFL League Two,Accrington Stanley v Peterborough United,18:45:00,Match 43
-2242,2023-04-18,EFL League Two,Bristol Rovers v Sheffield Wednesday,18:45:00,Match 43
-2243,2023-04-18,EFL League Two,Burton Albion v Bolton Wanderers,18:45:00,Match 43
-2244,2023-04-18,EFL League Two,Cambridge United v Wycombe Wanderers,18:45:00,Match 43
-2245,2023-04-18,EFL League Two,Exeter City v Derby County,18:45:00,Match 43
-2246,2023-04-18,EFL League Two,Forest Green Rovers v Fleetwood Town,18:45:00,Match 43
-2247,2023-04-18,EFL League Two,Ipswich Town v Port Vale,18:45:00,Match 43
-2248,2023-04-18,EFL League Two,Lincoln City v Barnsley,18:45:00,Match 43
-2249,2023-04-18,EFL League Two,Milton Keynes Dons v Charlton Athletic,18:45:00,Match 43
-2250,2023-04-18,EFL League Two,Morecambe v Cheltenham Town,18:45:00,Match 43
-2251,2023-04-18,EFL League Two,Oxford United v Portsmouth,18:45:00,Match 43
-2252,2023-04-18,EFL League Two,Shrewsbury Town v Plymouth Argyle,18:45:00,Match 43
-2253,2023-04-22,EFL League Two,Barnsley v Oxford United,14:00:00,Match 44
-2254,2023-04-22,EFL League Two,Bolton Wanderers v Shrewsbury Town,14:00:00,Match 44
-2255,2023-04-22,EFL League Two,Charlton Athletic v Morecambe,14:00:00,Match 44
-2256,2023-04-22,EFL League Two,Cheltenham Town v Forest Green Rovers,14:00:00,Match 44
-2257,2023-04-22,EFL League Two,Derby County v Burton Albion,14:00:00,Match 44
-2258,2023-04-22,EFL League Two,Fleetwood Town v Milton Keynes Dons,14:00:00,Match 44
-2259,2023-04-22,EFL League Two,Peterborough United v Ipswich Town,14:00:00,Match 44
-2260,2023-04-22,EFL League Two,Plymouth Argyle v Cambridge United,14:00:00,Match 44
-2261,2023-04-22,EFL League Two,Port Vale v Bristol Rovers,14:00:00,Match 44
-2262,2023-04-22,EFL League Two,Portsmouth v Accrington Stanley,14:00:00,Match 44
-2263,2023-04-22,EFL League Two,Sheffield Wednesday v Exeter City,14:00:00,Match 44
-2264,2023-04-22,EFL League Two,Wycombe Wanderers v Lincoln City,14:00:00,Match 44
-2265,2023-04-29,EFL League Two,Accrington Stanley v Cambridge United,14:00:00,Match 45
-2266,2023-04-29,EFL League Two,Bolton Wanderers v Fleetwood Town,14:00:00,Match 45
-2267,2023-04-29,EFL League Two,Charlton Athletic v Port Vale,14:00:00,Match 45
-2268,2023-04-29,EFL League Two,Derby County v Portsmouth,14:00:00,Match 45
-2269,2023-04-29,EFL League Two,Forest Green Rovers v Oxford United,14:00:00,Match 45
-2270,2023-04-29,EFL League Two,Ipswich Town v Exeter City,14:00:00,Match 45
-2271,2023-04-29,EFL League Two,Milton Keynes Dons v Barnsley,14:00:00,Match 45
-2272,2023-04-29,EFL League Two,Morecambe v Lincoln City,14:00:00,Match 45
-2273,2023-04-29,EFL League Two,Peterborough United v Bristol Rovers,14:00:00,Match 45
-2274,2023-04-29,EFL League Two,Plymouth Argyle v Burton Albion,14:00:00,Match 45
-2275,2023-04-29,EFL League Two,Shrewsbury Town v Sheffield Wednesday,14:00:00,Match 45
-2276,2023-04-29,EFL League Two,Wycombe Wanderers v Cheltenham Town,14:00:00,Match 45
-2277,2023-05-06,EFL League Two,Barnsley v Peterborough United,14:00:00,Match 46
-2278,2023-05-06,EFL League Two,Bristol Rovers v Bolton Wanderers,14:00:00,Match 46
-2279,2023-05-06,EFL League Two,Burton Albion v Milton Keynes Dons,14:00:00,Match 46
-2280,2023-05-06,EFL League Two,Cambridge United v Forest Green Rovers,14:00:00,Match 46
-2281,2023-05-06,EFL League Two,Cheltenham Town v Charlton Athletic,14:00:00,Match 46
-2282,2023-05-06,EFL League Two,Exeter City v Morecambe,14:00:00,Match 46
-2283,2023-05-06,EFL League Two,Fleetwood Town v Ipswich Town,14:00:00,Match 46
-2284,2023-05-06,EFL League Two,Lincoln City v Shrewsbury Town,14:00:00,Match 46
-2285,2023-05-06,EFL League Two,Oxford United v Accrington Stanley,14:00:00,Match 46
-2286,2023-05-06,EFL League Two,Port Vale v Plymouth Argyle,14:00:00,Match 46
-2287,2023-05-06,EFL League Two,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
-2288,2023-05-06,EFL League Two,Sheffield Wednesday v Derby County,14:00:00,Match 46
+1749,2022-08-06,EFL League Two,Barrow v Bradford City,14:00:00,Match 2
+1750,2022-08-06,EFL League Two,Colchester United v Carlisle United,14:00:00,Match 2
+1751,2022-08-06,EFL League Two,Crawley Town v Leyton Orient,14:00:00,Match 2
+1752,2022-08-06,EFL League Two,Crewe Alexandra v Harrogate Town,14:00:00,Match 2
+1753,2022-08-06,EFL League Two,Doncaster Rovers v Sutton United,14:00:00,Match 2
+1754,2022-08-06,EFL League Two,Gillingham v Rochdale,14:00:00,Match 2
+1755,2022-08-06,EFL League Two,Grimsby Town v Northampton Town,14:00:00,Match 2
+1756,2022-08-06,EFL League Two,Hartlepool United v AFC Wimbledon,14:00:00,Match 2
+1757,2022-08-06,EFL League Two,Mansfield Town v Tranmere Rovers,14:00:00,Match 2
+1758,2022-08-06,EFL League Two,Newport County AFC v Walsall,14:00:00,Match 2
+1759,2022-08-06,EFL League Two,Stevenage v Stockport County,14:00:00,Match 2
+1760,2022-08-06,EFL League Two,Swindon Town v Salford City,14:00:00,Match 2
+1761,2022-08-13,EFL League Two,AFC Wimbledon v Doncaster Rovers,14:00:00,Match 3
+1762,2022-08-13,EFL League Two,Bradford City v Newport County AFC,14:00:00,Match 3
+1763,2022-08-13,EFL League Two,Carlisle United v Swindon Town,14:00:00,Match 3
+1764,2022-08-13,EFL League Two,Harrogate Town v Crawley Town,14:00:00,Match 3
+1765,2022-08-13,EFL League Two,Leyton Orient v Mansfield Town,14:00:00,Match 3
+1766,2022-08-13,EFL League Two,Northampton Town v Hartlepool United,14:00:00,Match 3
+1767,2022-08-13,EFL League Two,Rochdale v Grimsby Town,14:00:00,Match 3
+1768,2022-08-13,EFL League Two,Salford City v Crewe Alexandra,14:00:00,Match 3
+1769,2022-08-13,EFL League Two,Stockport County v Colchester United,14:00:00,Match 3
+1770,2022-08-13,EFL League Two,Sutton United v Barrow,14:00:00,Match 3
+1771,2022-08-13,EFL League Two,Tranmere Rovers v Gillingham,14:00:00,Match 3
+1772,2022-08-13,EFL League Two,Walsall v Stevenage,14:00:00,Match 3
+1773,2022-08-16,EFL League Two,Barrow v Walsall,18:45:00,Match 4
+1774,2022-08-16,EFL League Two,Colchester United v Bradford City,18:45:00,Match 4
+1775,2022-08-16,EFL League Two,Crawley Town v Northampton Town,18:45:00,Match 4
+1776,2022-08-16,EFL League Two,Crewe Alexandra v Sutton United,18:45:00,Match 4
+1777,2022-08-16,EFL League Two,Gillingham v Harrogate Town,18:45:00,Match 4
+1778,2022-08-16,EFL League Two,Grimsby Town v Carlisle United,18:45:00,Match 4
+1779,2022-08-16,EFL League Two,Hartlepool United v Tranmere Rovers,18:45:00,Match 4
+1780,2022-08-16,EFL League Two,Mansfield Town v AFC Wimbledon,18:45:00,Match 4
+1781,2022-08-16,EFL League Two,Newport County AFC v Salford City,18:45:00,Match 4
+1782,2022-08-16,EFL League Two,Stevenage v Rochdale,18:45:00,Match 4
+1783,2022-08-16,EFL League Two,Swindon Town v Leyton Orient,18:45:00,Match 4
+1784,2022-08-16,EFL League Two,Doncaster Rovers v Stockport County,19:00:00,Match 4
+1785,2022-08-20,EFL League Two,Hartlepool United v Bradford City,12:00:00,Match 5
+1786,2022-08-20,EFL League Two,Barrow v Harrogate Town,14:00:00,Match 5
+1787,2022-08-20,EFL League Two,Colchester United v Leyton Orient,14:00:00,Match 5
+1788,2022-08-20,EFL League Two,Crawley Town v AFC Wimbledon,14:00:00,Match 5
+1789,2022-08-20,EFL League Two,Crewe Alexandra v Northampton Town,14:00:00,Match 5
+1790,2022-08-20,EFL League Two,Doncaster Rovers v Salford City,14:00:00,Match 5
+1791,2022-08-20,EFL League Two,Gillingham v Walsall,14:00:00,Match 5
+1792,2022-08-20,EFL League Two,Grimsby Town v Sutton United,14:00:00,Match 5
+1793,2022-08-20,EFL League Two,Mansfield Town v Stockport County,14:00:00,Match 5
+1794,2022-08-20,EFL League Two,Newport County AFC v Tranmere Rovers,14:00:00,Match 5
+1795,2022-08-20,EFL League Two,Stevenage v Carlisle United,14:00:00,Match 5
+1796,2022-08-20,EFL League Two,Swindon Town v Rochdale,14:00:00,Match 5
+1797,2022-08-27,EFL League Two,AFC Wimbledon v Barrow,14:00:00,Match 6
+1798,2022-08-27,EFL League Two,Bradford City v Crewe Alexandra,14:00:00,Match 6
+1799,2022-08-27,EFL League Two,Carlisle United v Gillingham,14:00:00,Match 6
+1800,2022-08-27,EFL League Two,Harrogate Town v Newport County AFC,14:00:00,Match 6
+1801,2022-08-27,EFL League Two,Leyton Orient v Hartlepool United,14:00:00,Match 6
+1802,2022-08-27,EFL League Two,Northampton Town v Doncaster Rovers,14:00:00,Match 6
+1803,2022-08-27,EFL League Two,Rochdale v Crawley Town,14:00:00,Match 6
+1804,2022-08-27,EFL League Two,Salford City v Stevenage,14:00:00,Match 6
+1805,2022-08-27,EFL League Two,Stockport County v Swindon Town,14:00:00,Match 6
+1806,2022-08-27,EFL League Two,Sutton United v Mansfield Town,14:00:00,Match 6
+1807,2022-08-27,EFL League Two,Tranmere Rovers v Colchester United,14:00:00,Match 6
+1808,2022-08-27,EFL League Two,Walsall v Grimsby Town,14:00:00,Match 6
+1809,2022-09-03,EFL League Two,Bradford City v Walsall,14:00:00,Match 7
+1810,2022-09-03,EFL League Two,Carlisle United v Rochdale,14:00:00,Match 7
+1811,2022-09-03,EFL League Two,Colchester United v Hartlepool United,14:00:00,Match 7
+1812,2022-09-03,EFL League Two,Crewe Alexandra v Stevenage,14:00:00,Match 7
+1813,2022-09-03,EFL League Two,Doncaster Rovers v Mansfield Town,14:00:00,Match 7
+1814,2022-09-03,EFL League Two,Gillingham v Swindon Town,14:00:00,Match 7
+1815,2022-09-03,EFL League Two,Leyton Orient v Tranmere Rovers,14:00:00,Match 7
+1816,2022-09-03,EFL League Two,Newport County AFC v Grimsby Town,14:00:00,Match 7
+1817,2022-09-03,EFL League Two,Northampton Town v Barrow,14:00:00,Match 7
+1818,2022-09-03,EFL League Two,Salford City v Crawley Town,14:00:00,Match 7
+1819,2022-09-03,EFL League Two,Stockport County v AFC Wimbledon,14:00:00,Match 7
+1820,2022-09-03,EFL League Two,Sutton United v Harrogate Town,14:00:00,Match 7
+1821,2022-09-09,EFL League Two,Tranmere Rovers v Stockport County,18:45:00,Match 8
+1822,2022-09-10,EFL League Two,AFC Wimbledon v Leyton Orient,14:00:00,Match 8
+1823,2022-09-10,EFL League Two,Barrow v Colchester United,14:00:00,Match 8
+1824,2022-09-10,EFL League Two,Crawley Town v Gillingham,14:00:00,Match 8
+1825,2022-09-10,EFL League Two,Grimsby Town v Crewe Alexandra,14:00:00,Match 8
+1826,2022-09-10,EFL League Two,Harrogate Town v Carlisle United,14:00:00,Match 8
+1827,2022-09-10,EFL League Two,Hartlepool United v Doncaster Rovers,14:00:00,Match 8
+1828,2022-09-10,EFL League Two,Mansfield Town v Bradford City,14:00:00,Match 8
+1829,2022-09-10,EFL League Two,Rochdale v Salford City,14:00:00,Match 8
+1830,2022-09-10,EFL League Two,Stevenage v Sutton United,14:00:00,Match 8
+1831,2022-09-10,EFL League Two,Swindon Town v Newport County AFC,14:00:00,Match 8
+1832,2022-09-10,EFL League Two,Walsall v Northampton Town,14:00:00,Match 8
+1833,2022-09-13,EFL League Two,AFC Wimbledon v Northampton Town,18:45:00,Match 9
+1834,2022-09-13,EFL League Two,Barrow v Doncaster Rovers,18:45:00,Match 9
+1835,2022-09-13,EFL League Two,Crawley Town v Stockport County,18:45:00,Match 9
+1836,2022-09-13,EFL League Two,Grimsby Town v Gillingham,18:45:00,Match 9
+1837,2022-09-13,EFL League Two,Harrogate Town v Salford City,18:45:00,Match 9
+1838,2022-09-13,EFL League Two,Hartlepool United v Crewe Alexandra,18:45:00,Match 9
+1839,2022-09-13,EFL League Two,Mansfield Town v Carlisle United,18:45:00,Match 9
+1840,2022-09-13,EFL League Two,Rochdale v Leyton Orient,18:45:00,Match 9
+1841,2022-09-13,EFL League Two,Stevenage v Newport County AFC,18:45:00,Match 9
+1842,2022-09-13,EFL League Two,Swindon Town v Sutton United,18:45:00,Match 9
+1843,2022-09-13,EFL League Two,Tranmere Rovers v Bradford City,18:45:00,Match 9
+1844,2022-09-13,EFL League Two,Walsall v Colchester United,18:45:00,Match 9
+1845,2022-09-17,EFL League Two,Bradford City v Stevenage,14:00:00,Match 10
+1846,2022-09-17,EFL League Two,Carlisle United v AFC Wimbledon,14:00:00,Match 10
+1847,2022-09-17,EFL League Two,Colchester United v Grimsby Town,14:00:00,Match 10
+1848,2022-09-17,EFL League Two,Crewe Alexandra v Crawley Town,14:00:00,Match 10
+1849,2022-09-17,EFL League Two,Doncaster Rovers v Swindon Town,14:00:00,Match 10
+1850,2022-09-17,EFL League Two,Gillingham v Mansfield Town,14:00:00,Match 10
+1851,2022-09-17,EFL League Two,Leyton Orient v Walsall,14:00:00,Match 10
+1852,2022-09-17,EFL League Two,Newport County AFC v Barrow,14:00:00,Match 10
+1853,2022-09-17,EFL League Two,Northampton Town v Rochdale,14:00:00,Match 10
+1854,2022-09-17,EFL League Two,Salford City v Tranmere Rovers,14:00:00,Match 10
+1855,2022-09-17,EFL League Two,Stockport County v Harrogate Town,14:00:00,Match 10
+1856,2022-09-17,EFL League Two,Sutton United v Hartlepool United,14:00:00,Match 10
+1857,2022-09-24,EFL League Two,Barrow v Leyton Orient,14:00:00,Match 11
+1858,2022-09-24,EFL League Two,Bradford City v AFC Wimbledon,14:00:00,Match 11
+1859,2022-09-24,EFL League Two,Colchester United v Rochdale,14:00:00,Match 11
+1860,2022-09-24,EFL League Two,Crewe Alexandra v Mansfield Town,14:00:00,Match 11
+1861,2022-09-24,EFL League Two,Doncaster Rovers v Crawley Town,14:00:00,Match 11
+1862,2022-09-24,EFL League Two,Grimsby Town v Swindon Town,14:00:00,Match 11
+1863,2022-09-24,EFL League Two,Hartlepool United v Gillingham,14:00:00,Match 11
+1864,2022-09-24,EFL League Two,Newport County AFC v Carlisle United,14:00:00,Match 11
+1865,2022-09-24,EFL League Two,Northampton Town v Stockport County,14:00:00,Match 11
+1866,2022-09-24,EFL League Two,Stevenage v Harrogate Town,14:00:00,Match 11
+1867,2022-09-24,EFL League Two,Sutton United v Salford City,14:00:00,Match 11
+1868,2022-09-24,EFL League Two,Walsall v Tranmere Rovers,14:00:00,Match 11
+1869,2022-10-01,EFL League Two,Harrogate Town v Bradford City,12:00:00,Match 12
+1870,2022-10-01,EFL League Two,AFC Wimbledon v Colchester United,14:00:00,Match 12
+1871,2022-10-01,EFL League Two,Carlisle United v Crewe Alexandra,14:00:00,Match 12
+1872,2022-10-01,EFL League Two,Crawley Town v Stevenage,14:00:00,Match 12
+1873,2022-10-01,EFL League Two,Gillingham v Sutton United,14:00:00,Match 12
+1874,2022-10-01,EFL League Two,Leyton Orient v Newport County AFC,14:00:00,Match 12
+1875,2022-10-01,EFL League Two,Mansfield Town v Hartlepool United,14:00:00,Match 12
+1876,2022-10-01,EFL League Two,Rochdale v Doncaster Rovers,14:00:00,Match 12
+1877,2022-10-01,EFL League Two,Salford City v Grimsby Town,14:00:00,Match 12
+1878,2022-10-01,EFL League Two,Stockport County v Walsall,14:00:00,Match 12
+1879,2022-10-01,EFL League Two,Swindon Town v Northampton Town,14:00:00,Match 12
+1880,2022-10-01,EFL League Two,Tranmere Rovers v Barrow,14:00:00,Match 12
+1881,2022-10-08,EFL League Two,Barrow v Mansfield Town,14:00:00,Match 13
+1882,2022-10-08,EFL League Two,Bradford City v Stockport County,14:00:00,Match 13
+1883,2022-10-08,EFL League Two,Colchester United v Harrogate Town,14:00:00,Match 13
+1884,2022-10-08,EFL League Two,Crewe Alexandra v Gillingham,14:00:00,Match 13
+1885,2022-10-08,EFL League Two,Doncaster Rovers v Leyton Orient,14:00:00,Match 13
+1886,2022-10-08,EFL League Two,Grimsby Town v Crawley Town,14:00:00,Match 13
+1887,2022-10-08,EFL League Two,Hartlepool United v Carlisle United,14:00:00,Match 13
+1888,2022-10-08,EFL League Two,Newport County AFC v Rochdale,14:00:00,Match 13
+1889,2022-10-08,EFL League Two,Northampton Town v Salford City,14:00:00,Match 13
+1890,2022-10-08,EFL League Two,Stevenage v Swindon Town,14:00:00,Match 13
+1891,2022-10-08,EFL League Two,Sutton United v Tranmere Rovers,14:00:00,Match 13
+1892,2022-10-08,EFL League Two,Walsall v AFC Wimbledon,14:00:00,Match 13
+1893,2022-10-14,EFL League Two,Tranmere Rovers v Crewe Alexandra,18:45:00,Match 14
+1894,2022-10-15,EFL League Two,Harrogate Town v Hartlepool United,11:30:00,Match 14
+1895,2022-10-15,EFL League Two,AFC Wimbledon v Sutton United,14:00:00,Match 14
+1896,2022-10-15,EFL League Two,Carlisle United v Doncaster Rovers,14:00:00,Match 14
+1897,2022-10-15,EFL League Two,Crawley Town v Newport County AFC,14:00:00,Match 14
+1898,2022-10-15,EFL League Two,Gillingham v Stevenage,14:00:00,Match 14
+1899,2022-10-15,EFL League Two,Leyton Orient v Northampton Town,14:00:00,Match 14
+1900,2022-10-15,EFL League Two,Mansfield Town v Walsall,14:00:00,Match 14
+1901,2022-10-15,EFL League Two,Rochdale v Barrow,14:00:00,Match 14
+1902,2022-10-15,EFL League Two,Salford City v Bradford City,14:00:00,Match 14
+1903,2022-10-15,EFL League Two,Stockport County v Grimsby Town,14:00:00,Match 14
+1904,2022-10-15,EFL League Two,Swindon Town v Colchester United,14:00:00,Match 14
+1905,2022-10-22,EFL League Two,Carlisle United v Leyton Orient,14:00:00,Match 15
+1906,2022-10-22,EFL League Two,Crawley Town v Mansfield Town,14:00:00,Match 15
+1907,2022-10-22,EFL League Two,Crewe Alexandra v Doncaster Rovers,14:00:00,Match 15
+1908,2022-10-22,EFL League Two,Gillingham v Barrow,14:00:00,Match 15
+1909,2022-10-22,EFL League Two,Grimsby Town v Bradford City,14:00:00,Match 15
+1910,2022-10-22,EFL League Two,Harrogate Town v Tranmere Rovers,14:00:00,Match 15
+1911,2022-10-22,EFL League Two,Newport County AFC v Colchester United,14:00:00,Match 15
+1912,2022-10-22,EFL League Two,Rochdale v AFC Wimbledon,14:00:00,Match 15
+1913,2022-10-22,EFL League Two,Salford City v Stockport County,14:00:00,Match 15
+1914,2022-10-22,EFL League Two,Stevenage v Northampton Town,14:00:00,Match 15
+1915,2022-10-22,EFL League Two,Sutton United v Walsall,14:00:00,Match 15
+1916,2022-10-22,EFL League Two,Swindon Town v Hartlepool United,14:00:00,Match 15
+1917,2022-10-25,EFL League Two,AFC Wimbledon v Crewe Alexandra,18:45:00,Match 16
+1918,2022-10-25,EFL League Two,Barrow v Grimsby Town,18:45:00,Match 16
+1919,2022-10-25,EFL League Two,Bradford City v Swindon Town,18:45:00,Match 16
+1920,2022-10-25,EFL League Two,Colchester United v Crawley Town,18:45:00,Match 16
+1921,2022-10-25,EFL League Two,Hartlepool United v Salford City,18:45:00,Match 16
+1922,2022-10-25,EFL League Two,Leyton Orient v Gillingham,18:45:00,Match 16
+1923,2022-10-25,EFL League Two,Mansfield Town v Newport County AFC,18:45:00,Match 16
+1924,2022-10-25,EFL League Two,Northampton Town v Sutton United,18:45:00,Match 16
+1925,2022-10-25,EFL League Two,Stockport County v Carlisle United,18:45:00,Match 16
+1926,2022-10-25,EFL League Two,Tranmere Rovers v Rochdale,18:45:00,Match 16
+1927,2022-10-25,EFL League Two,Walsall v Harrogate Town,18:45:00,Match 16
+1928,2022-10-25,EFL League Two,Doncaster Rovers v Stevenage,19:00:00,Match 16
+1929,2022-10-29,EFL League Two,AFC Wimbledon v Harrogate Town,14:00:00,Match 17
+1930,2022-10-29,EFL League Two,Barrow v Crewe Alexandra,14:00:00,Match 17
+1931,2022-10-29,EFL League Two,Bradford City v Crawley Town,14:00:00,Match 17
+1932,2022-10-29,EFL League Two,Colchester United v Stevenage,14:00:00,Match 17
+1933,2022-10-29,EFL League Two,Doncaster Rovers v Gillingham,14:00:00,Match 17
+1934,2022-10-29,EFL League Two,Hartlepool United v Grimsby Town,14:00:00,Match 17
+1935,2022-10-29,EFL League Two,Leyton Orient v Salford City,14:00:00,Match 17
+1936,2022-10-29,EFL League Two,Mansfield Town v Swindon Town,14:00:00,Match 17
+1937,2022-10-29,EFL League Two,Northampton Town v Newport County AFC,14:00:00,Match 17
+1938,2022-10-29,EFL League Two,Stockport County v Sutton United,14:00:00,Match 17
+1939,2022-10-29,EFL League Two,Tranmere Rovers v Carlisle United,14:00:00,Match 17
+1940,2022-10-29,EFL League Two,Walsall v Rochdale,14:00:00,Match 17
+1941,2022-11-12,EFL League Two,Carlisle United v Walsall,14:00:00,Match 18
+1942,2022-11-12,EFL League Two,Crawley Town v Barrow,14:00:00,Match 18
+1943,2022-11-12,EFL League Two,Crewe Alexandra v Colchester United,14:00:00,Match 18
+1944,2022-11-12,EFL League Two,Gillingham v Northampton Town,14:00:00,Match 18
+1945,2022-11-12,EFL League Two,Grimsby Town v Doncaster Rovers,14:00:00,Match 18
+1946,2022-11-12,EFL League Two,Harrogate Town v Leyton Orient,14:00:00,Match 18
+1947,2022-11-12,EFL League Two,Newport County AFC v Stockport County,14:00:00,Match 18
+1948,2022-11-12,EFL League Two,Rochdale v Mansfield Town,14:00:00,Match 18
+1949,2022-11-12,EFL League Two,Salford City v AFC Wimbledon,14:00:00,Match 18
+1950,2022-11-12,EFL League Two,Stevenage v Hartlepool United,14:00:00,Match 18
+1951,2022-11-12,EFL League Two,Sutton United v Bradford City,14:00:00,Match 18
+1952,2022-11-12,EFL League Two,Swindon Town v Tranmere Rovers,14:00:00,Match 18
+1953,2022-11-19,EFL League Two,Barrow v Hartlepool United,14:00:00,Match 19
+1954,2022-11-19,EFL League Two,Bradford City v Northampton Town,14:00:00,Match 19
+1955,2022-11-19,EFL League Two,Colchester United v Doncaster Rovers,14:00:00,Match 19
+1956,2022-11-19,EFL League Two,Grimsby Town v Stevenage,14:00:00,Match 19
+1957,2022-11-19,EFL League Two,Harrogate Town v Mansfield Town,14:00:00,Match 19
+1958,2022-11-19,EFL League Two,Newport County AFC v Gillingham,14:00:00,Match 19
+1959,2022-11-19,EFL League Two,Salford City v Carlisle United,14:00:00,Match 19
+1960,2022-11-19,EFL League Two,Stockport County v Leyton Orient,14:00:00,Match 19
+1961,2022-11-19,EFL League Two,Sutton United v Rochdale,14:00:00,Match 19
+1962,2022-11-19,EFL League Two,Swindon Town v Crewe Alexandra,14:00:00,Match 19
+1963,2022-11-19,EFL League Two,Tranmere Rovers v AFC Wimbledon,14:00:00,Match 19
+1964,2022-11-19,EFL League Two,Walsall v Crawley Town,14:00:00,Match 19
+1965,2022-12-03,EFL League Two,AFC Wimbledon v Grimsby Town,14:00:00,Match 20
+1966,2022-12-03,EFL League Two,Carlisle United v Sutton United,14:00:00,Match 20
+1967,2022-12-03,EFL League Two,Crawley Town v Swindon Town,14:00:00,Match 20
+1968,2022-12-03,EFL League Two,Crewe Alexandra v Newport County AFC,14:00:00,Match 20
+1969,2022-12-03,EFL League Two,Doncaster Rovers v Walsall,14:00:00,Match 20
+1970,2022-12-03,EFL League Two,Gillingham v Salford City,14:00:00,Match 20
+1971,2022-12-03,EFL League Two,Hartlepool United v Stockport County,14:00:00,Match 20
+1972,2022-12-03,EFL League Two,Leyton Orient v Bradford City,14:00:00,Match 20
+1973,2022-12-03,EFL League Two,Mansfield Town v Colchester United,14:00:00,Match 20
+1974,2022-12-03,EFL League Two,Northampton Town v Tranmere Rovers,14:00:00,Match 20
+1975,2022-12-03,EFL League Two,Rochdale v Harrogate Town,14:00:00,Match 20
+1976,2022-12-03,EFL League Two,Stevenage v Barrow,14:00:00,Match 20
+1977,2022-12-10,EFL League Two,Carlisle United v Barrow,12:00:00,Match 21
+1978,2022-12-10,EFL League Two,Crawley Town v Hartlepool United,14:00:00,Match 21
+1979,2022-12-10,EFL League Two,Crewe Alexandra v Leyton Orient,14:00:00,Match 21
+1980,2022-12-10,EFL League Two,Gillingham v Bradford City,14:00:00,Match 21
+1981,2022-12-10,EFL League Two,Grimsby Town v Tranmere Rovers,14:00:00,Match 21
+1982,2022-12-10,EFL League Two,Harrogate Town v Northampton Town,14:00:00,Match 21
+1983,2022-12-10,EFL League Two,Newport County AFC v Doncaster Rovers,14:00:00,Match 21
+1984,2022-12-10,EFL League Two,Rochdale v Stockport County,14:00:00,Match 21
+1985,2022-12-10,EFL League Two,Salford City v Walsall,14:00:00,Match 21
+1986,2022-12-10,EFL League Two,Stevenage v Mansfield Town,14:00:00,Match 21
+1987,2022-12-10,EFL League Two,Sutton United v Colchester United,14:00:00,Match 21
+1988,2022-12-10,EFL League Two,Swindon Town v AFC Wimbledon,14:00:00,Match 21
+1989,2022-12-17,EFL League Two,AFC Wimbledon v Stevenage,14:00:00,Match 22
+1990,2022-12-17,EFL League Two,Barrow v Swindon Town,14:00:00,Match 22
+1991,2022-12-17,EFL League Two,Bradford City v Rochdale,14:00:00,Match 22
+1992,2022-12-17,EFL League Two,Colchester United v Salford City,14:00:00,Match 22
+1993,2022-12-17,EFL League Two,Doncaster Rovers v Harrogate Town,14:00:00,Match 22
+1994,2022-12-17,EFL League Two,Hartlepool United v Newport County AFC,14:00:00,Match 22
+1995,2022-12-17,EFL League Two,Leyton Orient v Sutton United,14:00:00,Match 22
+1996,2022-12-17,EFL League Two,Mansfield Town v Grimsby Town,14:00:00,Match 22
+1997,2022-12-17,EFL League Two,Northampton Town v Carlisle United,14:00:00,Match 22
+1998,2022-12-17,EFL League Two,Stockport County v Gillingham,14:00:00,Match 22
+1999,2022-12-17,EFL League Two,Tranmere Rovers v Crawley Town,14:00:00,Match 22
+2000,2022-12-17,EFL League Two,Walsall v Crewe Alexandra,14:00:00,Match 22
+2001,2022-12-26,EFL League Two,AFC Wimbledon v Newport County AFC,14:00:00,Match 23
+2002,2022-12-26,EFL League Two,Carlisle United v Bradford City,14:00:00,Match 23
+2003,2022-12-26,EFL League Two,Crawley Town v Sutton United,14:00:00,Match 23
+2004,2022-12-26,EFL League Two,Gillingham v Colchester United,14:00:00,Match 23
+2005,2022-12-26,EFL League Two,Harrogate Town v Grimsby Town,14:00:00,Match 23
+2006,2022-12-26,EFL League Two,Leyton Orient v Stevenage,14:00:00,Match 23
+2007,2022-12-26,EFL League Two,Mansfield Town v Northampton Town,14:00:00,Match 23
+2008,2022-12-26,EFL League Two,Rochdale v Hartlepool United,14:00:00,Match 23
+2009,2022-12-26,EFL League Two,Salford City v Barrow,14:00:00,Match 23
+2010,2022-12-26,EFL League Two,Stockport County v Crewe Alexandra,14:00:00,Match 23
+2011,2022-12-26,EFL League Two,Swindon Town v Walsall,14:00:00,Match 23
+2012,2022-12-26,EFL League Two,Tranmere Rovers v Doncaster Rovers,14:00:00,Match 23
+2013,2022-12-29,EFL League Two,Crewe Alexandra v Carlisle United,18:00:00,Match 24
+2014,2022-12-29,EFL League Two,Barrow v Tranmere Rovers,18:45:00,Match 24
+2015,2022-12-29,EFL League Two,Bradford City v Harrogate Town,18:45:00,Match 24
+2016,2022-12-29,EFL League Two,Colchester United v AFC Wimbledon,18:45:00,Match 24
+2017,2022-12-29,EFL League Two,Grimsby Town v Salford City,18:45:00,Match 24
+2018,2022-12-29,EFL League Two,Hartlepool United v Mansfield Town,18:45:00,Match 24
+2019,2022-12-29,EFL League Two,Newport County AFC v Leyton Orient,18:45:00,Match 24
+2020,2022-12-29,EFL League Two,Northampton Town v Swindon Town,18:45:00,Match 24
+2021,2022-12-29,EFL League Two,Stevenage v Crawley Town,18:45:00,Match 24
+2022,2022-12-29,EFL League Two,Sutton United v Gillingham,18:45:00,Match 24
+2023,2022-12-29,EFL League Two,Walsall v Stockport County,18:45:00,Match 24
+2024,2022-12-29,EFL League Two,Doncaster Rovers v Rochdale,19:00:00,Match 24
+2025,2023-01-01,EFL League Two,Barrow v Rochdale,14:00:00,Match 25
+2026,2023-01-01,EFL League Two,Bradford City v Salford City,14:00:00,Match 25
+2027,2023-01-01,EFL League Two,Colchester United v Swindon Town,14:00:00,Match 25
+2028,2023-01-01,EFL League Two,Crewe Alexandra v Tranmere Rovers,14:00:00,Match 25
+2029,2023-01-01,EFL League Two,Doncaster Rovers v Carlisle United,14:00:00,Match 25
+2030,2023-01-01,EFL League Two,Grimsby Town v Stockport County,14:00:00,Match 25
+2031,2023-01-01,EFL League Two,Hartlepool United v Harrogate Town,14:00:00,Match 25
+2032,2023-01-01,EFL League Two,Newport County AFC v Crawley Town,14:00:00,Match 25
+2033,2023-01-01,EFL League Two,Stevenage v Gillingham,14:00:00,Match 25
+2034,2023-01-01,EFL League Two,Sutton United v AFC Wimbledon,14:00:00,Match 25
+2035,2023-01-01,EFL League Two,Walsall v Mansfield Town,14:00:00,Match 25
+2036,2023-01-02,EFL League Two,Northampton Town v Leyton Orient,14:00:00,Match 25
+2037,2023-01-07,EFL League Two,AFC Wimbledon v Walsall,14:00:00,Match 26
+2038,2023-01-07,EFL League Two,Carlisle United v Hartlepool United,14:00:00,Match 26
+2039,2023-01-07,EFL League Two,Crawley Town v Grimsby Town,14:00:00,Match 26
+2040,2023-01-07,EFL League Two,Gillingham v Crewe Alexandra,14:00:00,Match 26
+2041,2023-01-07,EFL League Two,Harrogate Town v Colchester United,14:00:00,Match 26
+2042,2023-01-07,EFL League Two,Leyton Orient v Doncaster Rovers,14:00:00,Match 26
+2043,2023-01-07,EFL League Two,Mansfield Town v Barrow,14:00:00,Match 26
+2044,2023-01-07,EFL League Two,Rochdale v Newport County AFC,14:00:00,Match 26
+2045,2023-01-07,EFL League Two,Salford City v Northampton Town,14:00:00,Match 26
+2046,2023-01-07,EFL League Two,Stockport County v Bradford City,14:00:00,Match 26
+2047,2023-01-07,EFL League Two,Swindon Town v Stevenage,14:00:00,Match 26
+2048,2023-01-07,EFL League Two,Tranmere Rovers v Sutton United,14:00:00,Match 26
+2049,2023-01-14,EFL League Two,AFC Wimbledon v Bradford City,14:00:00,Match 27
+2050,2023-01-14,EFL League Two,Carlisle United v Newport County AFC,14:00:00,Match 27
+2051,2023-01-14,EFL League Two,Crawley Town v Doncaster Rovers,14:00:00,Match 27
+2052,2023-01-14,EFL League Two,Gillingham v Hartlepool United,14:00:00,Match 27
+2053,2023-01-14,EFL League Two,Harrogate Town v Stevenage,14:00:00,Match 27
+2054,2023-01-14,EFL League Two,Leyton Orient v Barrow,14:00:00,Match 27
+2055,2023-01-14,EFL League Two,Mansfield Town v Crewe Alexandra,14:00:00,Match 27
+2056,2023-01-14,EFL League Two,Rochdale v Colchester United,14:00:00,Match 27
+2057,2023-01-14,EFL League Two,Salford City v Sutton United,14:00:00,Match 27
+2058,2023-01-14,EFL League Two,Stockport County v Northampton Town,14:00:00,Match 27
+2059,2023-01-14,EFL League Two,Swindon Town v Grimsby Town,14:00:00,Match 27
+2060,2023-01-14,EFL League Two,Tranmere Rovers v Walsall,14:00:00,Match 27
+2061,2023-01-21,EFL League Two,Barrow v Salford City,14:00:00,Match 28
+2062,2023-01-21,EFL League Two,Bradford City v Carlisle United,14:00:00,Match 28
+2063,2023-01-21,EFL League Two,Colchester United v Gillingham,14:00:00,Match 28
+2064,2023-01-21,EFL League Two,Crewe Alexandra v Stockport County,14:00:00,Match 28
+2065,2023-01-21,EFL League Two,Doncaster Rovers v Tranmere Rovers,14:00:00,Match 28
+2066,2023-01-21,EFL League Two,Grimsby Town v Harrogate Town,14:00:00,Match 28
+2067,2023-01-21,EFL League Two,Hartlepool United v Rochdale,14:00:00,Match 28
+2068,2023-01-21,EFL League Two,Newport County AFC v AFC Wimbledon,14:00:00,Match 28
+2069,2023-01-21,EFL League Two,Northampton Town v Mansfield Town,14:00:00,Match 28
+2070,2023-01-21,EFL League Two,Stevenage v Leyton Orient,14:00:00,Match 28
+2071,2023-01-21,EFL League Two,Sutton United v Crawley Town,14:00:00,Match 28
+2072,2023-01-21,EFL League Two,Walsall v Swindon Town,14:00:00,Match 28
+2073,2023-01-28,EFL League Two,AFC Wimbledon v Stockport County,14:00:00,Match 29
+2074,2023-01-28,EFL League Two,Barrow v Northampton Town,14:00:00,Match 29
+2075,2023-01-28,EFL League Two,Crawley Town v Salford City,14:00:00,Match 29
+2076,2023-01-28,EFL League Two,Grimsby Town v Newport County AFC,14:00:00,Match 29
+2077,2023-01-28,EFL League Two,Harrogate Town v Sutton United,14:00:00,Match 29
+2078,2023-01-28,EFL League Two,Hartlepool United v Colchester United,14:00:00,Match 29
+2079,2023-01-28,EFL League Two,Mansfield Town v Doncaster Rovers,14:00:00,Match 29
+2080,2023-01-28,EFL League Two,Rochdale v Carlisle United,14:00:00,Match 29
+2081,2023-01-28,EFL League Two,Stevenage v Crewe Alexandra,14:00:00,Match 29
+2082,2023-01-28,EFL League Two,Swindon Town v Gillingham,14:00:00,Match 29
+2083,2023-01-28,EFL League Two,Tranmere Rovers v Leyton Orient,14:00:00,Match 29
+2084,2023-01-28,EFL League Two,Walsall v Bradford City,14:00:00,Match 29
+2085,2023-02-04,EFL League Two,Bradford City v Mansfield Town,14:00:00,Match 30
+2086,2023-02-04,EFL League Two,Carlisle United v Harrogate Town,14:00:00,Match 30
+2087,2023-02-04,EFL League Two,Colchester United v Barrow,14:00:00,Match 30
+2088,2023-02-04,EFL League Two,Crewe Alexandra v Grimsby Town,14:00:00,Match 30
+2089,2023-02-04,EFL League Two,Doncaster Rovers v Hartlepool United,14:00:00,Match 30
+2090,2023-02-04,EFL League Two,Gillingham v Crawley Town,14:00:00,Match 30
+2091,2023-02-04,EFL League Two,Leyton Orient v AFC Wimbledon,14:00:00,Match 30
+2092,2023-02-04,EFL League Two,Newport County AFC v Swindon Town,14:00:00,Match 30
+2093,2023-02-04,EFL League Two,Northampton Town v Walsall,14:00:00,Match 30
+2094,2023-02-04,EFL League Two,Salford City v Rochdale,14:00:00,Match 30
+2095,2023-02-04,EFL League Two,Stockport County v Tranmere Rovers,14:00:00,Match 30
+2096,2023-02-04,EFL League Two,Sutton United v Stevenage,14:00:00,Match 30
+2097,2023-02-11,EFL League Two,AFC Wimbledon v Carlisle United,14:00:00,Match 31
+2098,2023-02-11,EFL League Two,Barrow v Newport County AFC,14:00:00,Match 31
+2099,2023-02-11,EFL League Two,Crawley Town v Crewe Alexandra,14:00:00,Match 31
+2100,2023-02-11,EFL League Two,Grimsby Town v Colchester United,14:00:00,Match 31
+2101,2023-02-11,EFL League Two,Harrogate Town v Stockport County,14:00:00,Match 31
+2102,2023-02-11,EFL League Two,Hartlepool United v Sutton United,14:00:00,Match 31
+2103,2023-02-11,EFL League Two,Mansfield Town v Gillingham,14:00:00,Match 31
+2104,2023-02-11,EFL League Two,Rochdale v Northampton Town,14:00:00,Match 31
+2105,2023-02-11,EFL League Two,Stevenage v Bradford City,14:00:00,Match 31
+2106,2023-02-11,EFL League Two,Swindon Town v Doncaster Rovers,14:00:00,Match 31
+2107,2023-02-11,EFL League Two,Tranmere Rovers v Salford City,14:00:00,Match 31
+2108,2023-02-11,EFL League Two,Walsall v Leyton Orient,14:00:00,Match 31
+2109,2023-02-14,EFL League Two,Bradford City v Tranmere Rovers,18:45:00,Match 32
+2110,2023-02-14,EFL League Two,Carlisle United v Mansfield Town,18:45:00,Match 32
+2111,2023-02-14,EFL League Two,Colchester United v Walsall,18:45:00,Match 32
+2112,2023-02-14,EFL League Two,Crewe Alexandra v Hartlepool United,18:45:00,Match 32
+2113,2023-02-14,EFL League Two,Gillingham v Grimsby Town,18:45:00,Match 32
+2114,2023-02-14,EFL League Two,Leyton Orient v Rochdale,18:45:00,Match 32
+2115,2023-02-14,EFL League Two,Newport County AFC v Stevenage,18:45:00,Match 32
+2116,2023-02-14,EFL League Two,Northampton Town v AFC Wimbledon,18:45:00,Match 32
+2117,2023-02-14,EFL League Two,Salford City v Harrogate Town,18:45:00,Match 32
+2118,2023-02-14,EFL League Two,Stockport County v Crawley Town,18:45:00,Match 32
+2119,2023-02-14,EFL League Two,Sutton United v Swindon Town,18:45:00,Match 32
+2120,2023-02-14,EFL League Two,Doncaster Rovers v Barrow,19:00:00,Match 32
+2121,2023-02-18,EFL League Two,AFC Wimbledon v Hartlepool United,14:00:00,Match 33
+2122,2023-02-18,EFL League Two,Bradford City v Barrow,14:00:00,Match 33
+2123,2023-02-18,EFL League Two,Carlisle United v Colchester United,14:00:00,Match 33
+2124,2023-02-18,EFL League Two,Harrogate Town v Crewe Alexandra,14:00:00,Match 33
+2125,2023-02-18,EFL League Two,Leyton Orient v Crawley Town,14:00:00,Match 33
+2126,2023-02-18,EFL League Two,Northampton Town v Grimsby Town,14:00:00,Match 33
+2127,2023-02-18,EFL League Two,Rochdale v Gillingham,14:00:00,Match 33
+2128,2023-02-18,EFL League Two,Salford City v Swindon Town,14:00:00,Match 33
+2129,2023-02-18,EFL League Two,Stockport County v Stevenage,14:00:00,Match 33
+2130,2023-02-18,EFL League Two,Sutton United v Doncaster Rovers,14:00:00,Match 33
+2131,2023-02-18,EFL League Two,Tranmere Rovers v Mansfield Town,14:00:00,Match 33
+2132,2023-02-18,EFL League Two,Walsall v Newport County AFC,14:00:00,Match 33
+2133,2023-02-25,EFL League Two,Barrow v Stockport County,14:00:00,Match 34
+2134,2023-02-25,EFL League Two,Colchester United v Northampton Town,14:00:00,Match 34
+2135,2023-02-25,EFL League Two,Crawley Town v Carlisle United,14:00:00,Match 34
+2136,2023-02-25,EFL League Two,Crewe Alexandra v Rochdale,14:00:00,Match 34
+2137,2023-02-25,EFL League Two,Doncaster Rovers v Bradford City,14:00:00,Match 34
+2138,2023-02-25,EFL League Two,Gillingham v AFC Wimbledon,14:00:00,Match 34
+2139,2023-02-25,EFL League Two,Grimsby Town v Leyton Orient,14:00:00,Match 34
+2140,2023-02-25,EFL League Two,Hartlepool United v Walsall,14:00:00,Match 34
+2141,2023-02-25,EFL League Two,Mansfield Town v Salford City,14:00:00,Match 34
+2142,2023-02-25,EFL League Two,Newport County AFC v Sutton United,14:00:00,Match 34
+2143,2023-02-25,EFL League Two,Stevenage v Tranmere Rovers,14:00:00,Match 34
+2144,2023-02-25,EFL League Two,Swindon Town v Harrogate Town,14:00:00,Match 34
+2145,2023-03-04,EFL League Two,AFC Wimbledon v Mansfield Town,14:00:00,Match 35
+2146,2023-03-04,EFL League Two,Bradford City v Colchester United,14:00:00,Match 35
+2147,2023-03-04,EFL League Two,Carlisle United v Grimsby Town,14:00:00,Match 35
+2148,2023-03-04,EFL League Two,Harrogate Town v Gillingham,14:00:00,Match 35
+2149,2023-03-04,EFL League Two,Leyton Orient v Swindon Town,14:00:00,Match 35
+2150,2023-03-04,EFL League Two,Northampton Town v Crawley Town,14:00:00,Match 35
+2151,2023-03-04,EFL League Two,Rochdale v Stevenage,14:00:00,Match 35
+2152,2023-03-04,EFL League Two,Salford City v Newport County AFC,14:00:00,Match 35
+2153,2023-03-04,EFL League Two,Stockport County v Doncaster Rovers,14:00:00,Match 35
+2154,2023-03-04,EFL League Two,Sutton United v Crewe Alexandra,14:00:00,Match 35
+2155,2023-03-04,EFL League Two,Tranmere Rovers v Hartlepool United,14:00:00,Match 35
+2156,2023-03-04,EFL League Two,Walsall v Barrow,14:00:00,Match 35
+2157,2023-03-10,EFL League Two,Crewe Alexandra v Salford City,18:45:00,Match 36
+2158,2023-03-11,EFL League Two,Barrow v Sutton United,14:00:00,Match 36
+2159,2023-03-11,EFL League Two,Colchester United v Stockport County,14:00:00,Match 36
+2160,2023-03-11,EFL League Two,Crawley Town v Harrogate Town,14:00:00,Match 36
+2161,2023-03-11,EFL League Two,Doncaster Rovers v AFC Wimbledon,14:00:00,Match 36
+2162,2023-03-11,EFL League Two,Gillingham v Tranmere Rovers,14:00:00,Match 36
+2163,2023-03-11,EFL League Two,Grimsby Town v Rochdale,14:00:00,Match 36
+2164,2023-03-11,EFL League Two,Hartlepool United v Northampton Town,14:00:00,Match 36
+2165,2023-03-11,EFL League Two,Mansfield Town v Leyton Orient,14:00:00,Match 36
+2166,2023-03-11,EFL League Two,Newport County AFC v Bradford City,14:00:00,Match 36
+2167,2023-03-11,EFL League Two,Stevenage v Walsall,14:00:00,Match 36
+2168,2023-03-11,EFL League Two,Swindon Town v Carlisle United,14:00:00,Match 36
+2169,2023-03-18,EFL League Two,AFC Wimbledon v Crawley Town,14:00:00,Match 37
+2170,2023-03-18,EFL League Two,Bradford City v Hartlepool United,14:00:00,Match 37
+2171,2023-03-18,EFL League Two,Carlisle United v Stevenage,14:00:00,Match 37
+2172,2023-03-18,EFL League Two,Harrogate Town v Barrow,14:00:00,Match 37
+2173,2023-03-18,EFL League Two,Leyton Orient v Colchester United,14:00:00,Match 37
+2174,2023-03-18,EFL League Two,Northampton Town v Crewe Alexandra,14:00:00,Match 37
+2175,2023-03-18,EFL League Two,Rochdale v Swindon Town,14:00:00,Match 37
+2176,2023-03-18,EFL League Two,Salford City v Doncaster Rovers,14:00:00,Match 37
+2177,2023-03-18,EFL League Two,Stockport County v Mansfield Town,14:00:00,Match 37
+2178,2023-03-18,EFL League Two,Sutton United v Grimsby Town,14:00:00,Match 37
+2179,2023-03-18,EFL League Two,Tranmere Rovers v Newport County AFC,14:00:00,Match 37
+2180,2023-03-18,EFL League Two,Walsall v Gillingham,14:00:00,Match 37
+2181,2023-03-25,EFL League Two,Barrow v AFC Wimbledon,14:00:00,Match 38
+2182,2023-03-25,EFL League Two,Colchester United v Tranmere Rovers,14:00:00,Match 38
+2183,2023-03-25,EFL League Two,Crawley Town v Rochdale,14:00:00,Match 38
+2184,2023-03-25,EFL League Two,Crewe Alexandra v Bradford City,14:00:00,Match 38
+2185,2023-03-25,EFL League Two,Doncaster Rovers v Northampton Town,14:00:00,Match 38
+2186,2023-03-25,EFL League Two,Gillingham v Carlisle United,14:00:00,Match 38
+2187,2023-03-25,EFL League Two,Grimsby Town v Walsall,14:00:00,Match 38
+2188,2023-03-25,EFL League Two,Hartlepool United v Leyton Orient,14:00:00,Match 38
+2189,2023-03-25,EFL League Two,Mansfield Town v Sutton United,14:00:00,Match 38
+2190,2023-03-25,EFL League Two,Newport County AFC v Harrogate Town,14:00:00,Match 38
+2191,2023-03-25,EFL League Two,Stevenage v Salford City,14:00:00,Match 38
+2192,2023-03-25,EFL League Two,Swindon Town v Stockport County,14:00:00,Match 38
+2193,2023-03-31,EFL League Two,Stockport County v Salford City,18:45:00,Match 39
+2194,2023-03-31,EFL League Two,Tranmere Rovers v Harrogate Town,18:45:00,Match 39
+2195,2023-04-01,EFL League Two,AFC Wimbledon v Rochdale,14:00:00,Match 39
+2196,2023-04-01,EFL League Two,Barrow v Gillingham,14:00:00,Match 39
+2197,2023-04-01,EFL League Two,Bradford City v Grimsby Town,14:00:00,Match 39
+2198,2023-04-01,EFL League Two,Colchester United v Newport County AFC,14:00:00,Match 39
+2199,2023-04-01,EFL League Two,Doncaster Rovers v Crewe Alexandra,14:00:00,Match 39
+2200,2023-04-01,EFL League Two,Hartlepool United v Swindon Town,14:00:00,Match 39
+2201,2023-04-01,EFL League Two,Leyton Orient v Carlisle United,14:00:00,Match 39
+2202,2023-04-01,EFL League Two,Mansfield Town v Crawley Town,14:00:00,Match 39
+2203,2023-04-01,EFL League Two,Northampton Town v Stevenage,14:00:00,Match 39
+2204,2023-04-01,EFL League Two,Walsall v Sutton United,14:00:00,Match 39
+2205,2023-04-07,EFL League Two,Carlisle United v Tranmere Rovers,14:00:00,Match 40
+2206,2023-04-07,EFL League Two,Crawley Town v Bradford City,14:00:00,Match 40
+2207,2023-04-07,EFL League Two,Crewe Alexandra v Barrow,14:00:00,Match 40
+2208,2023-04-07,EFL League Two,Gillingham v Doncaster Rovers,14:00:00,Match 40
+2209,2023-04-07,EFL League Two,Grimsby Town v Hartlepool United,14:00:00,Match 40
+2210,2023-04-07,EFL League Two,Harrogate Town v AFC Wimbledon,14:00:00,Match 40
+2211,2023-04-07,EFL League Two,Newport County AFC v Northampton Town,14:00:00,Match 40
+2212,2023-04-07,EFL League Two,Rochdale v Walsall,14:00:00,Match 40
+2213,2023-04-07,EFL League Two,Salford City v Leyton Orient,14:00:00,Match 40
+2214,2023-04-07,EFL League Two,Stevenage v Colchester United,14:00:00,Match 40
+2215,2023-04-07,EFL League Two,Sutton United v Stockport County,14:00:00,Match 40
+2216,2023-04-07,EFL League Two,Swindon Town v Mansfield Town,14:00:00,Match 40
+2217,2023-04-10,EFL League Two,AFC Wimbledon v Salford City,14:00:00,Match 41
+2218,2023-04-10,EFL League Two,Barrow v Crawley Town,14:00:00,Match 41
+2219,2023-04-10,EFL League Two,Bradford City v Sutton United,14:00:00,Match 41
+2220,2023-04-10,EFL League Two,Colchester United v Crewe Alexandra,14:00:00,Match 41
+2221,2023-04-10,EFL League Two,Doncaster Rovers v Grimsby Town,14:00:00,Match 41
+2222,2023-04-10,EFL League Two,Hartlepool United v Stevenage,14:00:00,Match 41
+2223,2023-04-10,EFL League Two,Leyton Orient v Harrogate Town,14:00:00,Match 41
+2224,2023-04-10,EFL League Two,Mansfield Town v Rochdale,14:00:00,Match 41
+2225,2023-04-10,EFL League Two,Northampton Town v Gillingham,14:00:00,Match 41
+2226,2023-04-10,EFL League Two,Stockport County v Newport County AFC,14:00:00,Match 41
+2227,2023-04-10,EFL League Two,Tranmere Rovers v Swindon Town,14:00:00,Match 41
+2228,2023-04-10,EFL League Two,Walsall v Carlisle United,14:00:00,Match 41
+2229,2023-04-15,EFL League Two,Carlisle United v Northampton Town,14:00:00,Match 42
+2230,2023-04-15,EFL League Two,Crawley Town v Tranmere Rovers,14:00:00,Match 42
+2231,2023-04-15,EFL League Two,Crewe Alexandra v Walsall,14:00:00,Match 42
+2232,2023-04-15,EFL League Two,Gillingham v Stockport County,14:00:00,Match 42
+2233,2023-04-15,EFL League Two,Grimsby Town v Mansfield Town,14:00:00,Match 42
+2234,2023-04-15,EFL League Two,Harrogate Town v Doncaster Rovers,14:00:00,Match 42
+2235,2023-04-15,EFL League Two,Newport County AFC v Hartlepool United,14:00:00,Match 42
+2236,2023-04-15,EFL League Two,Rochdale v Bradford City,14:00:00,Match 42
+2237,2023-04-15,EFL League Two,Salford City v Colchester United,14:00:00,Match 42
+2238,2023-04-15,EFL League Two,Stevenage v AFC Wimbledon,14:00:00,Match 42
+2239,2023-04-15,EFL League Two,Sutton United v Leyton Orient,14:00:00,Match 42
+2240,2023-04-15,EFL League Two,Swindon Town v Barrow,14:00:00,Match 42
+2241,2023-04-18,EFL League Two,Carlisle United v Stockport County,18:45:00,Match 43
+2242,2023-04-18,EFL League Two,Crawley Town v Colchester United,18:45:00,Match 43
+2243,2023-04-18,EFL League Two,Crewe Alexandra v AFC Wimbledon,18:45:00,Match 43
+2244,2023-04-18,EFL League Two,Gillingham v Leyton Orient,18:45:00,Match 43
+2245,2023-04-18,EFL League Two,Grimsby Town v Barrow,18:45:00,Match 43
+2246,2023-04-18,EFL League Two,Harrogate Town v Walsall,18:45:00,Match 43
+2247,2023-04-18,EFL League Two,Newport County AFC v Mansfield Town,18:45:00,Match 43
+2248,2023-04-18,EFL League Two,Rochdale v Tranmere Rovers,18:45:00,Match 43
+2249,2023-04-18,EFL League Two,Salford City v Hartlepool United,18:45:00,Match 43
+2250,2023-04-18,EFL League Two,Stevenage v Doncaster Rovers,18:45:00,Match 43
+2251,2023-04-18,EFL League Two,Sutton United v Northampton Town,18:45:00,Match 43
+2252,2023-04-18,EFL League Two,Swindon Town v Bradford City,18:45:00,Match 43
+2253,2023-04-22,EFL League Two,AFC Wimbledon v Swindon Town,14:00:00,Match 44
+2254,2023-04-22,EFL League Two,Barrow v Carlisle United,14:00:00,Match 44
+2255,2023-04-22,EFL League Two,Bradford City v Gillingham,14:00:00,Match 44
+2256,2023-04-22,EFL League Two,Colchester United v Sutton United,14:00:00,Match 44
+2257,2023-04-22,EFL League Two,Doncaster Rovers v Newport County AFC,14:00:00,Match 44
+2258,2023-04-22,EFL League Two,Hartlepool United v Crawley Town,14:00:00,Match 44
+2259,2023-04-22,EFL League Two,Leyton Orient v Crewe Alexandra,14:00:00,Match 44
+2260,2023-04-22,EFL League Two,Mansfield Town v Stevenage,14:00:00,Match 44
+2261,2023-04-22,EFL League Two,Northampton Town v Harrogate Town,14:00:00,Match 44
+2262,2023-04-22,EFL League Two,Stockport County v Rochdale,14:00:00,Match 44
+2263,2023-04-22,EFL League Two,Tranmere Rovers v Grimsby Town,14:00:00,Match 44
+2264,2023-04-22,EFL League Two,Walsall v Salford City,14:00:00,Match 44
+2265,2023-04-29,EFL League Two,AFC Wimbledon v Tranmere Rovers,14:00:00,Match 45
+2266,2023-04-29,EFL League Two,Carlisle United v Salford City,14:00:00,Match 45
+2267,2023-04-29,EFL League Two,Crawley Town v Walsall,14:00:00,Match 45
+2268,2023-04-29,EFL League Two,Crewe Alexandra v Swindon Town,14:00:00,Match 45
+2269,2023-04-29,EFL League Two,Doncaster Rovers v Colchester United,14:00:00,Match 45
+2270,2023-04-29,EFL League Two,Gillingham v Newport County AFC,14:00:00,Match 45
+2271,2023-04-29,EFL League Two,Hartlepool United v Barrow,14:00:00,Match 45
+2272,2023-04-29,EFL League Two,Leyton Orient v Stockport County,14:00:00,Match 45
+2273,2023-04-29,EFL League Two,Mansfield Town v Harrogate Town,14:00:00,Match 45
+2274,2023-04-29,EFL League Two,Northampton Town v Bradford City,14:00:00,Match 45
+2275,2023-04-29,EFL League Two,Rochdale v Sutton United,14:00:00,Match 45
+2276,2023-04-29,EFL League Two,Stevenage v Grimsby Town,14:00:00,Match 45
+2277,2023-05-06,EFL League Two,Barrow v Stevenage,14:00:00,Match 46
+2278,2023-05-06,EFL League Two,Bradford City v Leyton Orient,14:00:00,Match 46
+2279,2023-05-06,EFL League Two,Colchester United v Mansfield Town,14:00:00,Match 46
+2280,2023-05-06,EFL League Two,Grimsby Town v AFC Wimbledon,14:00:00,Match 46
+2281,2023-05-06,EFL League Two,Harrogate Town v Rochdale,14:00:00,Match 46
+2282,2023-05-06,EFL League Two,Newport County AFC v Crewe Alexandra,14:00:00,Match 46
+2283,2023-05-06,EFL League Two,Salford City v Gillingham,14:00:00,Match 46
+2284,2023-05-06,EFL League Two,Stockport County v Hartlepool United,14:00:00,Match 46
+2285,2023-05-06,EFL League Two,Sutton United v Carlisle United,14:00:00,Match 46
+2286,2023-05-06,EFL League Two,Swindon Town v Crawley Town,14:00:00,Match 46
+2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
+2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
 2297,2022-07-30,Eliteserien,Aalesund v Bodø/Glimt,14:00:00,Match 16
 2298,2022-07-30,Eliteserien,HamKam v Kristiansund Bk,16:00:00,Match 16
 2299,2022-07-30,Eliteserien,Tromsø v Sandefjord,16:00:00,Match 16
@@ -5328,7 +5315,6 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5385,2022-07-29,Veikkausliiga,Lahti v Ilves,15:00:00,Match 16
 5386,2022-07-30,Veikkausliiga,FC Honka v VPS Vaasa,14:00:00,Match 16
 5387,2022-07-30,Veikkausliiga,HJK Helsinki v IFK Mariehamn,14:00:00,Match 16
 5388,2022-07-31,Veikkausliiga,SJK v AC Oulu,14:00:00,Match 16

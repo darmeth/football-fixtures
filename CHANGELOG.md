@@ -1,5 +1,8 @@
 # Change Log
 
+2022-07-30
+* Corrections to EFL League Two 2022/2023
+
 2022-07-27
 * Updates to dates and times
 
