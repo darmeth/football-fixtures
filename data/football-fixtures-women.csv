@@ -1,5 +1,4 @@
 ID,date,league,teams,time,note_1
-8,2022-07-30,Copa América Femenina,Argentina v Paraguay,00:00:00,3rd place play-off
 9,2022-07-31,Copa América Femenina,Colombia v Brazil,00:00:00,Final
 10,2022-09-17,Frauen-Bundesliga,Bremen v Potsdam,,Match 1
 11,2022-09-17,Frauen-Bundesliga,Duisburg v Leverkusen,,Match 1
@@ -156,8 +155,6 @@ ID,date,league,teams,time,note_1
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-171,2022-07-30,OFC Women's Nations Cup,Samoa v Solomon Islands,04:00:00,3rd place play-off
-172,2022-07-30,OFC Women's Nations Cup,Papua New Guinea v Fiji,07:30:00,Final
 173,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
 174,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
 175,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
