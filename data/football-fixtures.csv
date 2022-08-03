@@ -1,8 +1,4 @@
 ID,date,league,teams,time,note_1
-11,2022-07-31,Allsvenskan,Hammarby IF v IFK Värnamo,13:00:00,Match 16
-12,2022-07-31,Allsvenskan,IF Elfsborg v BK Häcken,13:00:00,Match 16
-13,2022-07-31,Allsvenskan,IK Sirius v Mjällby AIF,13:00:00,Match 16
-14,2022-08-01,Allsvenskan,IFK Göteborg v IFK Norrköping,17:00:00,Match 16
 15,2022-08-06,Allsvenskan,IFK Norrköping v Degerfors IF,13:00:00,Match 17
 16,2022-08-06,Allsvenskan,IK Sirius v Malmö FF,13:00:00,Match 17
 17,2022-08-07,Allsvenskan,Hammarby IF v GIF Sundsvall,13:00:00,Match 17
@@ -115,12 +111,6 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-141,2022-07-31,Brazilian Série A,America Mineiro v Avai,21:00:00,Match 20
-142,2022-07-31,Brazilian Série A,Internacional v Atletico Mineiro,19:00:00,Match 20
-143,2022-07-31,Brazilian Série A,Atletico Paranaense v Sao Paulo,19:00:00,Match 20
-144,2022-07-31,Brazilian Série A,Cuiaba v Fortaleza,21:00:00,Match 20
-145,2022-07-31,Brazilian Série A,Bragantino v Juventude,22:00:00,Match 20
-146,2022-08-01,Brazilian Série A,Santos v Fluminense,23:00:00,Match 20
 147,2022-08-06,Brazilian Série A,Juventude v America Mineiro,19:30:00,Match 21
 148,2022-08-07,Brazilian Série A,Fluminense v Cuiaba,19:00:00,Match 21
 149,2022-08-06,Brazilian Série A,Atletico Goianiense v Bragantino,22:00:00,Match 21
@@ -607,8 +597,6 @@ ID,date,league,teams,time,note_1
 630,2023-05-27,Bundesliga,RB Leipzig v Schalke,,Match 34
 631,2023-05-27,Bundesliga,Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha Berlin,,Match 34
-643,2022-07-31,EFL Championship,Sunderland v Coventry City,11:00:00,Match 1
-644,2022-08-01,EFL Championship,Watford v Sheffield United,19:00:00,Match 1
 645,2022-08-06,EFL Championship,Norwich City v Wigan Athletic,11:30:00,Match 2
 646,2022-08-05,EFL Championship,Birmingham City v Huddersfield Town,18:45:00,Match 2
 647,2022-08-06,EFL Championship,Bristol City v Sunderland,14:00:00,Match 2
@@ -2229,8 +2217,6 @@ ID,date,league,teams,time,note_1
 2286,2023-05-06,EFL League Two,Swindon Town v Crawley Town,14:00:00,Match 46
 2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
-2302,2022-07-31,Eliteserien,Molde v Strømsgodset,13:30:00,Match 16
-2303,2022-07-31,Eliteserien,Sarpsborg 08 v Lillestrøm,13:30:00,Match 16
 2304,2022-08-06,Eliteserien,Bodø/Glimt v Odd Ballklubb,14:00:00,Match 17
 2305,2022-08-06,Eliteserien,Rosenborg v HamKam,16:00:00,Match 17
 2306,2022-08-07,Eliteserien,Haugesund v Jerv,16:00:00,Match 17
@@ -2668,7 +2654,6 @@ ID,date,league,teams,time,note_1
 2738,2022-10-30,International Friendly,Saudi Arabia v Honduras,,
 2739,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2740,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2749,2022-07-31,J1 League,Shimizu S-Pulse v Sagan Tosu,09:00:00,Match 23
 2750,2022-08-06,J1 League,Kashima Antlers v Sanfrecce Hiroshima,09:00:00,Match 24
 2751,2022-08-06,J1 League,Kyoto Sanga FC v Kashiwa Reysol,09:30:00,Match 24
 2752,2022-08-06,J1 League,Nagoya Grampus v Urawa Red Diamonds,10:00:00,Match 24
@@ -3529,14 +3514,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3619,2022-07-31,Norway 1. Divisjon,Start v Fredrikstad,13:30:00,Match 17
-3620,2022-07-31,Norway 1. Divisjon,Åsane v Sogndal,13:30:00,Match 17
-3621,2022-07-31,Norway 1. Divisjon,Bryne v Brann,13:30:00,Match 17
-3622,2022-07-31,Norway 1. Divisjon,Grorud v Kfum Oslo,13:30:00,Match 17
-3623,2022-07-31,Norway 1. Divisjon,Stabæk v Skeid,13:30:00,Match 17
-3624,2022-07-31,Norway 1. Divisjon,Ranheim TF v Stjørdals-Blink,13:30:00,Match 17
-3625,2022-07-31,Norway 1. Divisjon,Raufoss v Sandnes Ulf,13:30:00,Match 17
-3626,2022-07-31,Norway 1. Divisjon,Kongsvinger v Mjøndalen,13:30:00,Match 17
 3627,2022-08-04,Norway 1. Divisjon,Mjøndalen v Raufoss,16:00:00,Match 18
 3628,2022-08-04,Norway 1. Divisjon,Kfum Oslo v Åsane,16:00:00,Match 18
 3629,2022-08-04,Norway 1. Divisjon,Kongsvinger v Bryne,16:00:00,Match 18
@@ -5103,13 +5080,6 @@ ID,date,league,teams,time,note_1
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
 5210,2022-08-03,USA MLS,New York Red Bulls v Colorado Rapids,23:30:00,Regular Season
-5213,2022-07-31,USA MLS,Inter Miami CF v FC Cincinnati,00:00:00,Regular Season
-5214,2022-07-31,USA MLS,Nashville SC v Vancouver Whitecaps,00:00:00,Regular Season
-5215,2022-07-31,USA MLS,New England Revolution v Toronto FC,00:00:00,Regular Season
-5216,2022-07-31,USA MLS,Sporting Kansas City v Austin FC,00:30:00,Regular Season
-5217,2022-07-31,USA MLS,FC Dallas v Los Angeles Galaxy,01:00:00,Regular Season
-5218,2022-07-31,USA MLS,San Jose Earthquakes v Real Salt Lake,02:00:00,Regular Season
-5219,2022-07-31,USA MLS,D.C. United v Orlando City SC,21:00:00,Regular Season
 5220,2022-08-03,USA MLS,Seattle Sounders FC v FC Dallas,02:00:00,Regular Season
 5221,2022-08-03,USA MLS,Charlotte FC v D.C. United,23:00:00,Regular Season
 5222,2022-08-03,USA MLS,Columbus Crew v CF Montréal,23:30:00,Regular Season
@@ -5269,9 +5239,6 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5388,2022-07-31,Veikkausliiga,SJK v AC Oulu,14:00:00,Match 16
-5389,2022-07-31,Veikkausliiga,Haka v KuPS Kuopio,12:00:00,Match 16
-5390,2022-08-01,Veikkausliiga,HIFK Helsinki v Inter Turku,15:00:00,Match 17
 5391,2022-08-06,Veikkausliiga,VPS Vaasa v Ilves,12:00:00,Match 17
 5392,2022-08-06,Veikkausliiga,AC Oulu v HJK Helsinki,14:00:00,Match 17
 5393,2022-08-06,Veikkausliiga,Inter Turku v SJK,14:00:00,Match 17
