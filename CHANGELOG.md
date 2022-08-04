@@ -1,5 +1,9 @@
 # Change Log
 
+2022-08-04
+* Fixture fix for Bundesliga
+* Updates to times/dates
+
 2022-08-03
 * Updates
 
