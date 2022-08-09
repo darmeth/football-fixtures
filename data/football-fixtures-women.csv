@@ -135,11 +135,6 @@ ID,date,league,teams,time,note_1
 143,2022-09-06,International Friendly,Australia v Canada,09:40:00,Allianz Stadium (Australia)
 144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium (Japan)
 145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
-147,2022-08-06,Norwegian Toppserien,Stabæk v Kolbotn,13:00:00,Round 15
-148,2022-08-06,Norwegian Toppserien,Vålerenga v LSK,13:00:00,Round 15
-149,2022-08-07,Norwegian Toppserien,Arna-Bjørnar v Avaldsnes,13:00:00,Round 15
-150,2022-08-06,Norwegian Toppserien,Rosenborg v Røa,13:00:00,Round 15
-151,2022-08-07,Norwegian Toppserien,SK Brann v Lyn,13:00:00,Round 15
 152,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,12:00:00,Round 16
 153,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
 154,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
@@ -153,7 +148,6 @@ ID,date,league,teams,time,note_1
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-173,2022-08-06,Swedish Damallsvenskan,IFK Kalmar v Kristianstad,13:00:00,Round 17
 174,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
 175,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
 176,2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
