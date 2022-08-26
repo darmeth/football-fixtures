@@ -1,5 +1,9 @@
 # Change Log
 
+2022-08-26
+* Bundesliga team names to shortened version
+* Updates to times/dates
+
 2022-08-05
 * Bundesliga team names to original German
 * Updates to times/dates

@@ -1,20 +1,4 @@
 ID,date,league,teams,time,note_1
-23,2022-08-14,Allsvenskan,Malmö FF v GIF Sundsvall,13:00:00,Match 18
-24,2022-08-13,Allsvenskan,Helsingborgs IF v IK Sirius,15:30:00,Match 18
-25,2022-08-14,Allsvenskan,AIK v IFK Värnamo,13:00:00,Match 18
-26,2022-08-14,Allsvenskan,Djurgårdens IF v Kalmar FF,13:00:00,Match 18
-27,2022-08-14,Allsvenskan,Degerfors IF v Varbergs BoIS,15:30:00,Match 18
-28,2022-08-14,Allsvenskan,IF Elfsborg v IFK Norrköping,15:30:00,Match 18
-29,2022-08-15,Allsvenskan,BK Häcken v Mjällby AIF,17:00:00,Match 18
-30,2022-08-15,Allsvenskan,IFK Göteborg v Hammarby IF,17:10:00,Match 18
-31,2022-08-21,Allsvenskan,Mjällby AIF v Malmö FF,13:00:00,Match 19
-32,2022-08-21,Allsvenskan,IFK Värnamo v IF Elfsborg,13:00:00,Match 19
-33,2022-08-21,Allsvenskan,Varbergs BoIS v Djurgårdens IF,13:00:00,Match 19
-34,2022-08-21,Allsvenskan,GIF Sundsvall v Helsingborgs IF,15:30:00,Match 19
-35,2022-08-21,Allsvenskan,IFK Norrköping v AIK,15:30:00,Match 19
-36,2022-08-22,Allsvenskan,IK Sirius v BK Häcken,17:00:00,Match 19
-37,2022-08-22,Allsvenskan,Kalmar FF v IFK Göteborg,17:00:00,Match 19
-38,2022-08-22,Allsvenskan,Hammarby IF v Degerfors IF,17:10:00,Match 19
 39,2022-08-27,Allsvenskan,BK Häcken v IFK Värnamo,13:00:00,Match 20
 40,2022-08-27,Allsvenskan,Degerfors IF v GIF Sundsvall,15:30:00,Match 20
 41,2022-08-28,Allsvenskan,AIK v Hammarby IF,13:00:00,Match 20
@@ -103,35 +87,15 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-157,2022-08-13,Brazilian Série A,Goias v Avai,19:30:00,Match 22
-158,2022-08-13,Brazilian Série A,Corinthians v Palmeiras,22:00:00,Match 22
-159,2022-08-13,Brazilian Série A,Cuiaba v Juventude,23:30:00,Match 22
-160,2022-08-14,Brazilian Série A,Coritiba v Atletico Mineiro,14:00:00,Match 22
-161,2022-08-14,Brazilian Série A,Flamengo v Atletico Paranaense,19:00:00,Match 22
-162,2022-08-14,Brazilian Série A,Ceara v Fortaleza,19:00:00,Match 22
-163,2022-08-14,Brazilian Série A,Sao Paulo v Bragantino,19:00:00,Match 22
-164,2022-08-14,Brazilian Série A,America Mineiro v Santos,21:00:00,Match 22
-165,2022-08-14,Brazilian Série A,Internacional v Fluminense,22:00:00,Match 22
-166,2022-08-14,Brazilian Série A,Botafogo v Atletico Goianiense,00:00:00,Match 22
-167,2022-08-21,Brazilian Série A,Santos v Sao Paulo,21:00:00,Match 23
-168,2022-08-22,Brazilian Série A,Avai v Internacional,23:00:00,Match 23
-169,2022-08-20,Brazilian Série A,Fortaleza v Corinthians,22:00:00,Match 23
-170,2022-08-21,Brazilian Série A,Atletico Paranaense v America Mineiro,21:00:00,Match 23
-171,2022-08-21,Brazilian Série A,Atletico Goianiense v Cuiaba,21:00:00,Match 23
-172,2022-08-21,Brazilian Série A,Juventude v Botafogo,14:00:00,Match 23
-173,2022-08-21,Brazilian Série A,Palmeiras v Flamengo,19:00:00,Match 23
-174,2022-08-21,Brazilian Série A,Bragantino v Ceara,21:00:00,Match 23
-175,2022-08-21,Brazilian Série A,Atletico Mineiro v Goias,22:00:00,Match 23
-176,2022-08-20,Brazilian Série A,Fluminense v Coritiba,23:30:00,Match 23
 177,2022-08-27,Brazilian Série A,Goias v Atletico Goianiense,19:30:00,Match 24
 178,2022-08-27,Brazilian Série A,Coritiba v Avai,19:30:00,Match 24
-179,2022-08-27,Brazilian Série A,Botafogo v Flamengo,22:00:00,Match 24
-180,2022-08-27,Brazilian Série A,Corinthians v Bragantino,23:30:00,Match 24
-181,2022-08-28,Brazilian Série A,Fluminense v Palmeiras,14:00:00,Match 24
+179,2022-08-28,Brazilian Série A,Botafogo v Flamengo,21:00:00,Match 24
+180,2022-08-30,Brazilian Série A,Corinthians v Bragantino,00:30:00,Match 24
+181,2022-08-27,Brazilian Série A,Fluminense v Palmeiras,22:00:00,Match 24
 182,2022-08-28,Brazilian Série A,Sao Paulo v Fortaleza,19:00:00,Match 24
 183,2022-08-28,Brazilian Série A,America Mineiro v Atletico Mineiro,19:00:00,Match 24
 184,2022-08-28,Brazilian Série A,Cuiaba v Santos,21:00:00,Match 24
-185,2022-08-28,Brazilian Série A,Ceara v Atletico Paranaense,22:00:00,Match 24
+185,2022-08-28,Brazilian Série A,Ceara v Atletico Paranaense,00:00:00,Match 24
 186,2022-08-29,Brazilian Série A,Internacional v Juventude,23:00:00,Match 24
 187,2022-09-03,Brazilian Série A,Juventude v Avai,19:30:00,Match 25
 188,2022-09-03,Brazilian Série A,Bragantino v Palmeiras,22:00:00,Match 25
@@ -273,340 +237,286 @@ ID,date,league,teams,time,note_1
 324,2022-11-13,Brazilian Série A,Flamengo v Avai,,Match 38
 325,2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 326,2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
-336,2022-08-12,Bundesliga,SC Freiburg v Borussia Dortmund,18:30:00,Match 2
-337,2022-08-13,Bundesliga,Bayer 04 Leverkusen v FC Augsburg,13:30:00,Match 2
-338,2022-08-13,Bundesliga,Hertha Berlin v Eintracht Frankfurt,13:30:00,Match 2
-339,2022-08-13,Bundesliga,TSG Hoffenheim v VfL Bochum 1848,13:30:00,Match 2
-340,2022-08-13,Bundesliga,RB Leipzig v 1. FC Köln,13:30:00,Match 2
-341,2022-08-13,Bundesliga,SV Werder Bremen v VfB Stuttgart,13:30:00,Match 2
-342,2022-08-13,Bundesliga,FC Schalke 04 v Borussia Mönchengladbach,16:30:00,Match 2
-343,2022-08-14,Bundesliga,1. FSV Mainz 05 v 1. FC Union Berlin,13:30:00,Match 2
-344,2022-08-14,Bundesliga,FC Bayern München v VfL Wolfsburg,15:30:00,Match 2
-345,2022-08-19,Bundesliga,Borussia Mönchengladbach v Hertha Berlin,18:30:00,Match 3
-346,2022-08-20,Bundesliga,Bayer 04 Leverkusen v TSG Hoffenheim,13:30:00,Match 3
-347,2022-08-20,Bundesliga,Borussia Dortmund v SV Werder Bremen,13:30:00,Match 3
-348,2022-08-20,Bundesliga,FC Augsburg v 1. FSV Mainz 05,13:30:00,Match 3
-349,2022-08-20,Bundesliga,VfB Stuttgart v SC Freiburg,13:30:00,Match 3
-350,2022-08-20,Bundesliga,VfL Wolfsburg v FC Schalke 04,13:30:00,Match 3
-351,2022-08-20,Bundesliga,1. FC Union Berlin v RB Leipzig,16:30:00,Match 3
-352,2022-08-21,Bundesliga,Eintracht Frankfurt v 1. FC Köln,13:30:00,Match 3
-353,2022-08-21,Bundesliga,VfL Bochum 1848 v FC Bayern München,15:30:00,Match 3
-354,2022-08-26,Bundesliga,SC Freiburg v VfL Bochum 1848,18:30:00,Match 4
-355,2022-08-27,Bundesliga,Hertha Berlin v Borussia Dortmund,13:30:00,Match 4
-356,2022-08-27,Bundesliga,TSG Hoffenheim v FC Augsburg,13:30:00,Match 4
-357,2022-08-27,Bundesliga,1. FSV Mainz 05 v Bayer 04 Leverkusen,13:30:00,Match 4
-358,2022-08-27,Bundesliga,RB Leipzig v VfL Wolfsburg,13:30:00,Match 4
-359,2022-08-27,Bundesliga,FC Schalke 04 v 1. FC Union Berlin,13:30:00,Match 4
-360,2022-08-27,Bundesliga,FC Bayern München v Borussia Mönchengladbach,16:30:00,Match 4
-361,2022-08-28,Bundesliga,1. FC Köln v VfB Stuttgart,13:30:00,Match 4
-362,2022-08-28,Bundesliga,SV Werder Bremen v Eintracht Frankfurt,15:30:00,Match 4
-363,2022-09-02,Bundesliga,Borussia Dortmund v TSG Hoffenheim,18:30:00,Match 5
-364,2022-09-03,Bundesliga,1. FC Union Berlin v FC Bayern München,13:30:00,Match 5
-365,2022-09-03,Bundesliga,Bayer 04 Leverkusen v SC Freiburg,13:30:00,Match 5
-366,2022-09-03,Bundesliga,VfL Bochum 1848 v SV Werder Bremen,13:30:00,Match 5
-367,2022-09-03,Bundesliga,FC Augsburg v Hertha Berlin,13:30:00,Match 5
-368,2022-09-03,Bundesliga,VfL Wolfsburg v 1. FC Köln,13:30:00,Match 5
+354,2022-08-26,Bundesliga,SC Freiburg v VfL Bochum,18:30:00,Match 4
+355,2022-08-27,Bundesliga,Hertha v Dortmund,13:30:00,Match 4
+356,2022-08-27,Bundesliga,Hoffenheim v Augsburg,13:30:00,Match 4
+357,2022-08-27,Bundesliga,Mainz v Leverkusen,13:30:00,Match 4
+358,2022-08-27,Bundesliga,RB Leipzig v Wolfsburg,13:30:00,Match 4
+359,2022-08-27,Bundesliga,Schalke v Union Berlin,13:30:00,Match 4
+360,2022-08-27,Bundesliga,Bayern v Mönchengladbach,16:30:00,Match 4
+361,2022-08-28,Bundesliga,Köln v VfB Stuttgart,13:30:00,Match 4
+362,2022-08-28,Bundesliga,Werder v Eintracht Frankfurt,15:30:00,Match 4
+363,2022-09-02,Bundesliga,Dortmund v Hoffenheim,18:30:00,Match 5
+364,2022-09-03,Bundesliga,Union Berlin v Bayern,13:30:00,Match 5
+365,2022-09-03,Bundesliga,Leverkusen v SC Freiburg,13:30:00,Match 5
+366,2022-09-03,Bundesliga,VfL Bochum v Werder,13:30:00,Match 5
+367,2022-09-03,Bundesliga,Augsburg v Hertha,13:30:00,Match 5
+368,2022-09-03,1. FC Köln,Wolfsburg v Köln,13:30:00,Match 5
 369,2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,16:30:00,Match 5
-370,2022-09-04,Bundesliga,VfB Stuttgart v FC Schalke 04,13:30:00,Match 5
-371,2022-09-04,Bundesliga,Borussia Mönchengladbach v 1. FSV Mainz 05,15:30:00,Match 5
-372,2022-09-10,Bundesliga,FC Bayern München v VfB Stuttgart,,Match 6
-373,2022-09-10,Bundesliga,1. FC Köln v 1. FC Union Berlin,,Match 6
-374,2022-09-10,Bundesliga,Eintracht Frankfurt v VfL Wolfsburg,,Match 6
-375,2022-09-10,Bundesliga,Hertha Berlin v Bayer 04 Leverkusen,,Match 6
-376,2022-09-10,Bundesliga,TSG Hoffenheim v 1. FSV Mainz 05,,Match 6
-377,2022-09-10,Bundesliga,RB Leipzig v Borussia Dortmund,,Match 6
-378,2022-09-10,Bundesliga,SC Freiburg v Borussia Mönchengladbach,,Match 6
-379,2022-09-10,Bundesliga,FC Schalke 04 v VfL Bochum 1848,,Match 6
-380,2022-09-10,Bundesliga,SV Werder Bremen v FC Augsburg,,Match 6
-381,2022-09-17,Bundesliga,1. FC Union Berlin v VfL Wolfsburg,,Match 7
-382,2022-09-17,Bundesliga,Bayer 04 Leverkusen v SV Werder Bremen,,Match 7
-383,2022-09-17,Bundesliga,VfL Bochum 1848 v 1. FC Köln,,Match 7
-384,2022-09-17,Bundesliga,Borussia Dortmund v FC Schalke 04,,Match 7
-385,2022-09-17,Bundesliga,FC Augsburg v FC Bayern München,,Match 7
-386,2022-09-17,Bundesliga,TSG Hoffenheim v SC Freiburg,,Match 7
-387,2022-09-17,Bundesliga,Borussia Mönchengladbach v RB Leipzig,,Match 7
-388,2022-09-17,Bundesliga,1. FSV Mainz 05 v Hertha Berlin,,Match 7
+370,2022-09-04,Bundesliga,VfB Stuttgart v Schalke,13:30:00,Match 5
+371,2022-09-04,Bundesliga,Mönchengladbach v Mainz,15:30:00,Match 5
+372,2022-09-10,Bundesliga,Bayern v VfB Stuttgart,,Match 6
+373,2022-09-10,Bundesliga,Köln v Union Berlin,,Match 6
+374,2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,,Match 6
+375,2022-09-10,Bundesliga,Hertha v Leverkusen,,Match 6
+376,2022-09-10,Bundesliga,Hoffenheim v Mainz,,Match 6
+377,2022-09-10,Bundesliga,RB Leipzig v Dortmund,,Match 6
+378,2022-09-10,Bundesliga,SC Freiburg v Mönchengladbach,,Match 6
+379,2022-09-10,Bundesliga,Schalke v VfL Bochum,,Match 6
+380,2022-09-10,Bundesliga,Werder v Augsburg,,Match 6
+381,2022-09-17,Bundesliga,Union Berlin v Wolfsburg,,Match 7
+382,2022-09-17,Bundesliga,Leverkusen v Werder,,Match 7
+383,2022-09-17,Bundesliga,VfL Bochum v Köln,,Match 7
+384,2022-09-17,Bundesliga,Dortmund v Schalke,,Match 7
+385,2022-09-17,Bundesliga,Augsburg v Bayern,,Match 7
+386,2022-09-17,Bundesliga,Hoffenheim v SC Freiburg,,Match 7
+387,2022-09-17,Bundesliga,Mönchengladbach v RB Leipzig,,Match 7
+388,2022-09-17,Bundesliga,Mainz v Hertha,,Match 7
 389,2022-09-17,Bundesliga,VfB Stuttgart v Eintracht Frankfurt,,Match 7
-390,2022-10-01,Bundesliga,FC Bayern München v Bayer 04 Leverkusen,,Match 8
-391,2022-10-01,Bundesliga,1. FC Köln v Borussia Dortmund,,Match 8
-392,2022-10-01,Bundesliga,Eintracht Frankfurt v 1. FC Union Berlin,,Match 8
-393,2022-10-01,Bundesliga,Hertha Berlin v TSG Hoffenheim,,Match 8
-394,2022-10-01,Bundesliga,RB Leipzig v VfL Bochum 1848,,Match 8
-395,2022-10-01,Bundesliga,SC Freiburg v 1. FSV Mainz 05,,Match 8
-396,2022-10-01,Bundesliga,FC Schalke 04 v FC Augsburg,,Match 8
-397,2022-10-01,Bundesliga,SV Werder Bremen v Borussia Mönchengladbach,,Match 8
-398,2022-10-01,Bundesliga,VfL Wolfsburg v VfB Stuttgart,,Match 8
-399,2022-10-08,Bundesliga,Bayer 04 Leverkusen v FC Schalke 04,,Match 9
-400,2022-10-08,Bundesliga,VfL Bochum 1848 v Eintracht Frankfurt,,Match 9
-401,2022-10-08,Bundesliga,Borussia Dortmund v FC Bayern München,,Match 9
-402,2022-10-08,Bundesliga,FC Augsburg v VfL Wolfsburg,,Match 9
-403,2022-10-08,Bundesliga,Hertha Berlin v SC Freiburg,,Match 9
-404,2022-10-08,Bundesliga,TSG Hoffenheim v SV Werder Bremen,,Match 9
-405,2022-10-08,Bundesliga,Borussia Mönchengladbach v 1. FC Köln,,Match 9
-406,2022-10-08,Bundesliga,1. FSV Mainz 05 v RB Leipzig,,Match 9
-407,2022-10-08,Bundesliga,VfB Stuttgart v 1. FC Union Berlin,,Match 9
-408,2022-10-15,Bundesliga,1. FC Union Berlin v Borussia Dortmund,,Match 10
-409,2022-10-15,Bundesliga,FC Bayern München v SC Freiburg,,Match 10
-410,2022-10-15,Bundesliga,1. FC Köln v FC Augsburg,,Match 10
-411,2022-10-15,Bundesliga,Eintracht Frankfurt v Bayer 04 Leverkusen,,Match 10
-412,2022-10-15,Bundesliga,RB Leipzig v Hertha Berlin,,Match 10
-413,2022-10-15,Bundesliga,FC Schalke 04 v TSG Hoffenheim,,Match 10
-414,2022-10-15,Bundesliga,VfB Stuttgart v VfL Bochum 1848,,Match 10
-415,2022-10-15,Bundesliga,SV Werder Bremen v 1. FSV Mainz 05,,Match 10
-416,2022-10-15,Bundesliga,VfL Wolfsburg v Borussia Mönchengladbach,,Match 10
-417,2022-10-22,Bundesliga,Bayer 04 Leverkusen v VfL Wolfsburg,,Match 11
-418,2022-10-22,Bundesliga,VfL Bochum 1848 v 1. FC Union Berlin,,Match 11
-419,2022-10-22,Bundesliga,Borussia Dortmund v VfB Stuttgart,,Match 11
-420,2022-10-22,Bundesliga,FC Augsburg v RB Leipzig,,Match 11
-421,2022-10-22,Bundesliga,Hertha Berlin v FC Schalke 04,,Match 11
-422,2022-10-22,Bundesliga,TSG Hoffenheim v FC Bayern München,,Match 11
-423,2022-10-22,Bundesliga,Borussia Mönchengladbach v Eintracht Frankfurt,,Match 11
-424,2022-10-22,Bundesliga,1. FSV Mainz 05 v 1. FC Köln,,Match 11
-425,2022-10-22,Bundesliga,SC Freiburg v SV Werder Bremen,,Match 11
-426,2022-10-29,Bundesliga,1. FC Union Berlin v Borussia Mönchengladbach,,Match 12
-427,2022-10-29,Bundesliga,FC Bayern München v 1. FSV Mainz 05,,Match 12
-428,2022-10-29,Bundesliga,1. FC Köln v TSG Hoffenheim,,Match 12
-429,2022-10-29,Bundesliga,Eintracht Frankfurt v Borussia Dortmund,,Match 12
-430,2022-10-29,Bundesliga,RB Leipzig v Bayer 04 Leverkusen,,Match 12
-431,2022-10-29,Bundesliga,FC Schalke 04 v SC Freiburg,,Match 12
-432,2022-10-29,Bundesliga,VfB Stuttgart v FC Augsburg,,Match 12
-433,2022-10-29,Bundesliga,SV Werder Bremen v Hertha Berlin,,Match 12
-434,2022-10-29,Bundesliga,VfL Wolfsburg v VfL Bochum 1848,,Match 12
-435,2022-11-05,Bundesliga,Bayer 04 Leverkusen v 1. FC Union Berlin,,Match 13
-436,2022-11-05,Bundesliga,Borussia Dortmund v VfL Bochum 1848,,Match 13
-437,2022-11-05,Bundesliga,FC Augsburg v Eintracht Frankfurt,,Match 13
-438,2022-11-05,Bundesliga,Hertha Berlin v FC Bayern München,,Match 13
-439,2022-11-05,Bundesliga,TSG Hoffenheim v RB Leipzig,,Match 13
-440,2022-11-05,Bundesliga,Borussia Mönchengladbach v VfB Stuttgart,,Match 13
-441,2022-11-05,Bundesliga,1. FSV Mainz 05 v VfL Wolfsburg,,Match 13
-442,2022-11-05,Bundesliga,SC Freiburg v 1. FC Köln,,Match 13
-443,2022-11-05,Bundesliga,SV Werder Bremen v FC Schalke 04,,Match 13
-444,2022-11-08,Bundesliga,1. FC Union Berlin v FC Augsburg,,Match 14
-445,2022-11-08,Bundesliga,FC Bayern München v SV Werder Bremen,,Match 14
-446,2022-11-08,Bundesliga,VfL Bochum 1848 v Borussia Mönchengladbach,,Match 14
-447,2022-11-08,Bundesliga,1. FC Köln v Bayer 04 Leverkusen,,Match 14
-448,2022-11-08,Bundesliga,Eintracht Frankfurt v TSG Hoffenheim,,Match 14
+390,2022-10-01,Bundesliga,Bayern v Leverkusen,,Match 8
+391,2022-10-01,Bundesliga,Köln v Dortmund,,Match 8
+392,2022-10-01,Bundesliga,Eintracht Frankfurt v Union Berlin,,Match 8
+393,2022-10-01,Bundesliga,Hertha v Hoffenheim,,Match 8
+394,2022-10-01,Bundesliga,RB Leipzig v VfL Bochum,,Match 8
+395,2022-10-01,Bundesliga,SC Freiburg v Mainz,,Match 8
+396,2022-10-01,Bundesliga,Schalke v Augsburg,,Match 8
+397,2022-10-01,Bundesliga,Werder v Mönchengladbach,,Match 8
+398,2022-10-01,Bundesliga,Wolfsburg v VfB Stuttgart,,Match 8
+399,2022-10-08,Bundesliga,Leverkusen v Schalke,,Match 9
+400,2022-10-08,Bundesliga,VfL Bochum v Eintracht Frankfurt,,Match 9
+401,2022-10-08,Bundesliga,Dortmund v Bayern,,Match 9
+402,2022-10-08,Bundesliga,Augsburg v Wolfsburg,,Match 9
+403,2022-10-08,Bundesliga,Hertha v SC Freiburg,,Match 9
+404,2022-10-08,Bundesliga,Hoffenheim v Werder,,Match 9
+405,2022-10-08,Bundesliga,Mönchengladbach v Köln,,Match 9
+406,2022-10-08,Bundesliga,Mainz v RB Leipzig,,Match 9
+407,2022-10-08,Bundesliga,VfB Stuttgart v Union Berlin,,Match 9
+408,2022-10-15,Bundesliga,Union Berlin v Dortmund,,Match 10
+409,2022-10-15,Bundesliga,Bayern v SC Freiburg,,Match 10
+410,2022-10-15,Bundesliga,Köln v Augsburg,,Match 10
+411,2022-10-15,Bundesliga,Eintracht Frankfurt v Leverkusen,,Match 10
+412,2022-10-15,Bundesliga,RB Leipzig v Hertha,,Match 10
+413,2022-10-15,Bundesliga,Schalke v Hoffenheim,,Match 10
+414,2022-10-15,Bundesliga,VfB Stuttgart v VfL Bochum,,Match 10
+415,2022-10-15,Bundesliga,Werder v Mainz,,Match 10
+416,2022-10-15,Bundesliga,Wolfsburg v Mönchengladbach,,Match 10
+417,2022-10-22,Bundesliga,Leverkusen v Wolfsburg,,Match 11
+418,2022-10-22,Bundesliga,VfL Bochum v Union Berlin,,Match 11
+419,2022-10-22,Bundesliga,Dortmund v VfB Stuttgart,,Match 11
+420,2022-10-22,Bundesliga,Augsburg v RB Leipzig,,Match 11
+421,2022-10-22,Bundesliga,Hertha v Schalke,,Match 11
+422,2022-10-22,Bundesliga,Hoffenheim v Bayern,,Match 11
+423,2022-10-22,Bundesliga,Mönchengladbach v Eintracht Frankfurt,,Match 11
+424,2022-10-22,Bundesliga,Mainz v Köln,,Match 11
+425,2022-10-22,Bundesliga,SC Freiburg v Werder,,Match 11
+426,2022-10-29,Bundesliga,Union Berlin v Mönchengladbach,,Match 12
+427,2022-10-29,Bundesliga,Bayern v Mainz,,Match 12
+428,2022-10-29,Bundesliga,Köln v Hoffenheim,,Match 12
+429,2022-10-29,Bundesliga,Eintracht Frankfurt v Dortmund,,Match 12
+430,2022-10-29,Bundesliga,RB Leipzig v Leverkusen,,Match 12
+431,2022-10-29,Bundesliga,Schalke v SC Freiburg,,Match 12
+432,2022-10-29,Bundesliga,VfB Stuttgart v Augsburg,,Match 12
+433,2022-10-29,Bundesliga,Werder v Hertha,,Match 12
+434,2022-10-29,Bundesliga,Wolfsburg v VfL Bochum,,Match 12
+435,2022-11-05,Bundesliga,Leverkusen v Union Berlin,,Match 13
+436,2022-11-05,Bundesliga,Dortmund v VfL Bochum,,Match 13
+437,2022-11-05,Bundesliga,Augsburg v Eintracht Frankfurt,,Match 13
+438,2022-11-05,Bundesliga,Hertha v Bayern,,Match 13
+439,2022-11-05,Bundesliga,Hoffenheim v RB Leipzig,,Match 13
+440,2022-11-05,Bundesliga,Mönchengladbach v VfB Stuttgart,,Match 13
+441,2022-11-05,Bundesliga,Mainz v Wolfsburg,,Match 13
+442,2022-11-05,Bundesliga,SC Freiburg v Köln,,Match 13
+443,2022-11-05,Bundesliga,Werder v Schalke,,Match 13
+444,2022-11-08,Bundesliga,Union Berlin v Augsburg,,Match 14
+445,2022-11-08,Bundesliga,Bayern v Werder,,Match 14
+446,2022-11-08,Bundesliga,VfL Bochum v Mönchengladbach,,Match 14
+447,2022-11-08,Bundesliga,Köln v Leverkusen,,Match 14
+448,2022-11-08,Bundesliga,Eintracht Frankfurt v Hoffenheim,,Match 14
 449,2022-11-08,Bundesliga,RB Leipzig v SC Freiburg,,Match 14
-450,2022-11-08,Bundesliga,FC Schalke 04 v 1. FSV Mainz 05,,Match 14
-451,2022-11-08,Bundesliga,VfB Stuttgart v Hertha Berlin,,Match 14
-452,2022-11-08,Bundesliga,VfL Wolfsburg v Borussia Dortmund,,Match 14
-453,2022-11-12,Bundesliga,Bayer 04 Leverkusen v VfB Stuttgart,,Match 15
-454,2022-11-12,Bundesliga,FC Augsburg v VfL Bochum 1848,,Match 15
-455,2022-11-12,Bundesliga,Hertha Berlin v 1. FC Köln,,Match 15
-456,2022-11-12,Bundesliga,TSG Hoffenheim v VfL Wolfsburg,,Match 15
-457,2022-11-12,Bundesliga,Borussia Mönchengladbach v Borussia Dortmund,,Match 15
-458,2022-11-12,Bundesliga,1. FSV Mainz 05 v Eintracht Frankfurt,,Match 15
-459,2022-11-12,Bundesliga,SC Freiburg v 1. FC Union Berlin,,Match 15
-460,2022-11-12,Bundesliga,FC Schalke 04 v FC Bayern München,,Match 15
-461,2022-11-12,Bundesliga,SV Werder Bremen v RB Leipzig,,Match 15
-462,2023-01-21,Bundesliga,1. FC Union Berlin v TSG Hoffenheim,,Match 16
-463,2023-01-21,Bundesliga,VfL Bochum 1848 v Hertha Berlin,,Match 16
-464,2023-01-21,Bundesliga,Borussia Dortmund v FC Augsburg,,Match 16
-465,2023-01-21,Bundesliga,1. FC Köln v SV Werder Bremen,,Match 16
-466,2023-01-21,Bundesliga,Eintracht Frankfurt v FC Schalke 04,,Match 16
-467,2023-01-21,Bundesliga,Borussia Mönchengladbach v Bayer 04 Leverkusen,,Match 16
-468,2023-01-21,Bundesliga,RB Leipzig v FC Bayern München,,Match 16
-469,2023-01-21,Bundesliga,VfB Stuttgart v 1. FSV Mainz 05,,Match 16
-470,2023-01-21,Bundesliga,VfL Wolfsburg v SC Freiburg,,Match 16
-471,2023-01-24,Bundesliga,Bayer 04 Leverkusen v VfL Bochum 1848,,Match 17
-472,2023-01-24,Bundesliga,FC Bayern München v 1. FC Köln,,Match 17
-473,2023-01-24,Bundesliga,FC Augsburg v Borussia Mönchengladbach,,Match 17
-474,2023-01-24,Bundesliga,Hertha Berlin v VfL Wolfsburg,,Match 17
-475,2023-01-24,Bundesliga,TSG Hoffenheim v VfB Stuttgart,,Match 17
-476,2023-01-24,Bundesliga,1. FSV Mainz 05 v Borussia Dortmund,,Match 17
+450,2022-11-08,Bundesliga,Schalke v Mainz,,Match 14
+451,2022-11-08,Bundesliga,VfB Stuttgart v Hertha,,Match 14
+452,2022-11-08,Bundesliga,Wolfsburg v Dortmund,,Match 14
+453,2022-11-12,Bundesliga,Leverkusen v VfB Stuttgart,,Match 15
+454,2022-11-12,Bundesliga,Augsburg v VfL Bochum,,Match 15
+455,2022-11-12,Bundesliga,Hertha v Köln,,Match 15
+456,2022-11-12,Bundesliga,Hoffenheim v Wolfsburg,,Match 15
+457,2022-11-12,Bundesliga,Mönchengladbach v Dortmund,,Match 15
+458,2022-11-12,Bundesliga,Mainz v Eintracht Frankfurt,,Match 15
+459,2022-11-12,Bundesliga,SC Freiburg v Union Berlin,,Match 15
+460,2022-11-12,Bundesliga,Schalke v Bayern,,Match 15
+461,2022-11-12,Bundesliga,Werder v RB Leipzig,,Match 15
+462,2023-01-21,Bundesliga,Union Berlin v Hoffenheim,,Match 16
+463,2023-01-21,Bundesliga,VfL Bochum v Hertha,,Match 16
+464,2023-01-21,Bundesliga,Dortmund v Augsburg,,Match 16
+465,2023-01-21,Bundesliga,Köln v Werder,,Match 16
+466,2023-01-21,Bundesliga,Eintracht Frankfurt v Schalke,,Match 16
+467,2023-01-21,Bundesliga,Mönchengladbach v Leverkusen,,Match 16
+468,2023-01-21,Bundesliga,RB Leipzig v Bayern,,Match 16
+469,2023-01-21,Bundesliga,VfB Stuttgart v Mainz,,Match 16
+470,2023-01-21,Bundesliga,Wolfsburg v SC Freiburg,,Match 16
+471,2023-01-24,Bundesliga,Leverkusen v VfL Bochum,,Match 17
+472,2023-01-24,Bundesliga,Bayern v Köln,,Match 17
+473,2023-01-24,Bundesliga,Augsburg v Mönchengladbach,,Match 17
+474,2023-01-24,Bundesliga,Hertha v Wolfsburg,,Match 17
+475,2023-01-24,Bundesliga,Hoffenheim v VfB Stuttgart,,Match 17
+476,2023-01-24,Bundesliga,Mainz v Dortmund,,Match 17
 477,2023-01-24,Bundesliga,SC Freiburg v Eintracht Frankfurt,,Match 17
-478,2023-01-24,Bundesliga,FC Schalke 04 v RB Leipzig,,Match 17
-479,2023-01-24,Bundesliga,SV Werder Bremen v 1. FC Union Berlin,,Match 17
-480,2023-01-28,Bundesliga,Bayer 04 Leverkusen v Borussia Dortmund,,Match 18
-481,2023-01-28,Bundesliga,FC Bayern München v Eintracht Frankfurt,,Match 18
-482,2023-01-28,Bundesliga,Hertha Berlin v 1. FC Union Berlin,,Match 18
-483,2023-01-28,Bundesliga,TSG Hoffenheim v Borussia Mönchengladbach,,Match 18
-484,2023-01-28,Bundesliga,1. FSV Mainz 05 v VfL Bochum 1848,,Match 18
+478,2023-01-24,Bundesliga,Schalke v RB Leipzig,,Match 17
+479,2023-01-24,Bundesliga,Werder v Union Berlin,,Match 17
+480,2023-01-28,Bundesliga,Leverkusen v Dortmund,,Match 18
+481,2023-01-28,Bundesliga,Bayern v Eintracht Frankfurt,,Match 18
+482,2023-01-28,Bundesliga,Hertha v Union Berlin,,Match 18
+483,2023-01-28,Bundesliga,Hoffenheim v Mönchengladbach,,Match 18
+484,2023-01-28,Bundesliga,Mainz v VfL Bochum,,Match 18
 485,2023-01-28,Bundesliga,RB Leipzig v VfB Stuttgart,,Match 18
-486,2023-01-28,Bundesliga,SC Freiburg v FC Augsburg,,Match 18
-487,2023-01-28,Bundesliga,FC Schalke 04 v 1. FC Köln,,Match 18
-488,2023-01-28,Bundesliga,SV Werder Bremen v VfL Wolfsburg,,Match 18
-489,2023-02-04,Bundesliga,1. FC Union Berlin v 1. FSV Mainz 05,,Match 19
-490,2023-02-04,Bundesliga,VfL Bochum 1848 v TSG Hoffenheim,,Match 19
-491,2023-02-04,Bundesliga,Borussia Dortmund v SC Freiburg,,Match 19
-492,2023-02-04,Bundesliga,1. FC Köln v RB Leipzig,,Match 19
-493,2023-02-04,Bundesliga,Eintracht Frankfurt v Hertha Berlin,,Match 19
-494,2023-02-04,Bundesliga,FC Augsburg v Bayer 04 Leverkusen,,Match 19
-495,2023-02-04,Bundesliga,Borussia Mönchengladbach v FC Schalke 04,,Match 19
-496,2023-02-04,Bundesliga,VfB Stuttgart v SV Werder Bremen,,Match 19
-497,2023-02-04,Bundesliga,VfL Wolfsburg v FC Bayern München,,Match 19
-498,2023-02-11,Bundesliga,FC Bayern München v VfL Bochum 1848,,Match 20
-499,2023-02-11,Bundesliga,1. FC Köln v Eintracht Frankfurt,,Match 20
-500,2023-02-11,Bundesliga,Hertha Berlin v Borussia Mönchengladbach,,Match 20
-501,2023-02-11,Bundesliga,TSG Hoffenheim v Bayer 04 Leverkusen,,Match 20
-502,2023-02-11,Bundesliga,1. FSV Mainz 05 v FC Augsburg,,Match 20
-503,2023-02-11,Bundesliga,RB Leipzig v 1. FC Union Berlin,,Match 20
+486,2023-01-28,Bundesliga,SC Freiburg v Augsburg,,Match 18
+487,2023-01-28,Bundesliga,Schalke v Köln,,Match 18
+488,2023-01-28,Bundesliga,Werder v Wolfsburg,,Match 18
+489,2023-02-04,Bundesliga,Union Berlin v Mainz,,Match 19
+490,2023-02-04,Bundesliga,VfL Bochum v Hoffenheim,,Match 19
+491,2023-02-04,Bundesliga,Dortmund v SC Freiburg,,Match 19
+492,2023-02-04,Bundesliga,Köln v RB Leipzig,,Match 19
+493,2023-02-04,Bundesliga,Eintracht Frankfurt v Hertha,,Match 19
+494,2023-02-04,Bundesliga,Augsburg v Leverkusen,,Match 19
+495,2023-02-04,Bundesliga,Mönchengladbach v Schalke,,Match 19
+496,2023-02-04,Bundesliga,VfB Stuttgart v Werder,,Match 19
+497,2023-02-04,Bundesliga,Wolfsburg v Bayern,,Match 19
+498,2023-02-11,Bundesliga,Bayern v VfL Bochum,,Match 20
+499,2023-02-11,Bundesliga,Köln v Eintracht Frankfurt,,Match 20
+500,2023-02-11,Bundesliga,Hertha v Mönchengladbach,,Match 20
+501,2023-02-11,Bundesliga,Hoffenheim v Leverkusen,,Match 20
+502,2023-02-11,Bundesliga,Mainz v Augsburg,,Match 20
+503,2023-02-11,Bundesliga,RB Leipzig v Union Berlin,,Match 20
 504,2023-02-11,Bundesliga,SC Freiburg v VfB Stuttgart,,Match 20
-505,2023-02-11,Bundesliga,FC Schalke 04 v VfL Wolfsburg,,Match 20
-506,2023-02-11,Bundesliga,SV Werder Bremen v Borussia Dortmund,,Match 20
-507,2023-02-18,Bundesliga,1. FC Union Berlin v FC Schalke 04,,Match 21
-508,2023-02-18,Bundesliga,Bayer 04 Leverkusen v 1. FSV Mainz 05,,Match 21
-509,2023-02-18,Bundesliga,VfL Bochum 1848 v SC Freiburg,,Match 21
-510,2023-02-18,Bundesliga,Borussia Dortmund v Hertha Berlin,,Match 21
-511,2023-02-18,Bundesliga,Eintracht Frankfurt v SV Werder Bremen,,Match 21
-512,2023-02-18,Bundesliga,FC Augsburg v TSG Hoffenheim,,Match 21
-513,2023-02-18,Bundesliga,Borussia Mönchengladbach v FC Bayern München,,Match 21
-514,2023-02-18,Bundesliga,VfB Stuttgart v 1. FC Köln,,Match 21
-515,2023-02-18,Bundesliga,VfL Wolfsburg v RB Leipzig,,Match 21
-516,2023-02-25,Bundesliga,FC Bayern München v 1. FC Union Berlin,,Match 22
-517,2023-02-25,Bundesliga,1. FC Köln v VfL Wolfsburg,,Match 22
-518,2023-02-25,Bundesliga,Hertha Berlin v FC Augsburg,,Match 22
-519,2023-02-25,Bundesliga,TSG Hoffenheim v Borussia Dortmund,,Match 22
-520,2023-02-25,Bundesliga,1. FSV Mainz 05 v Borussia Mönchengladbach,,Match 22
+505,2023-02-11,Bundesliga,Schalke v Wolfsburg,,Match 20
+506,2023-02-11,Bundesliga,Werder v Dortmund,,Match 20
+507,2023-02-18,Bundesliga,Union Berlin v Schalke,,Match 21
+508,2023-02-18,Bundesliga,Leverkusen v Mainz,,Match 21
+509,2023-02-18,Bundesliga,VfL Bochum v SC Freiburg,,Match 21
+510,2023-02-18,Bundesliga,Dortmund v Hertha,,Match 21
+511,2023-02-18,Bundesliga,Eintracht Frankfurt v Werder,,Match 21
+512,2023-02-18,Bundesliga,Augsburg v Hoffenheim,,Match 21
+513,2023-02-18,Bundesliga,Mönchengladbach v Bayern,,Match 21
+514,2023-02-18,Bundesliga,VfB Stuttgart v Köln,,Match 21
+515,2023-02-18,Bundesliga,Wolfsburg v RB Leipzig,,Match 21
+516,2023-02-25,Bundesliga,Bayern v Union Berlin,,Match 22
+517,2023-02-25,Bundesliga,Köln v Wolfsburg,,Match 22
+518,2023-02-25,Bundesliga,Hertha v Augsburg,,Match 22
+519,2023-02-25,Bundesliga,Hoffenheim v Dortmund,,Match 22
+520,2023-02-25,Bundesliga,Mainz v Mönchengladbach,,Match 22
 521,2023-02-25,Bundesliga,RB Leipzig v Eintracht Frankfurt,,Match 22
-522,2023-02-25,Bundesliga,SC Freiburg v Bayer 04 Leverkusen,,Match 22
-523,2023-02-25,Bundesliga,FC Schalke 04 v VfB Stuttgart,,Match 22
-524,2023-02-25,Bundesliga,SV Werder Bremen v VfL Bochum 1848,,Match 22
-525,2023-03-04,Bundesliga,1. FC Union Berlin v 1. FC Köln,,Match 23
-526,2023-03-04,Bundesliga,Bayer 04 Leverkusen v Hertha Berlin,,Match 23
-527,2023-03-04,Bundesliga,VfL Bochum 1848 v FC Schalke 04,,Match 23
-528,2023-03-04,Bundesliga,Borussia Dortmund v RB Leipzig,,Match 23
-529,2023-03-04,Bundesliga,FC Augsburg v SV Werder Bremen,,Match 23
-530,2023-03-04,Bundesliga,Borussia Mönchengladbach v SC Freiburg,,Match 23
-531,2023-03-04,Bundesliga,1. FSV Mainz 05 v TSG Hoffenheim,,Match 23
-532,2023-03-04,Bundesliga,VfB Stuttgart v FC Bayern München,,Match 23
-533,2023-03-04,Bundesliga,VfL Wolfsburg v Eintracht Frankfurt,,Match 23
-534,2023-03-11,Bundesliga,FC Bayern München v FC Augsburg,,Match 24
-535,2023-03-11,Bundesliga,1. FC Köln v VfL Bochum 1848,,Match 24
+522,2023-02-25,Bundesliga,SC Freiburg v Leverkusen,,Match 22
+523,2023-02-25,Bundesliga,Schalke v VfB Stuttgart,,Match 22
+524,2023-02-25,Bundesliga,Werder v VfL Bochum,,Match 22
+525,2023-03-04,Bundesliga,Union Berlin v Köln,,Match 23
+526,2023-03-04,Bundesliga,Leverkusen v Hertha,,Match 23
+527,2023-03-04,Bundesliga,VfL Bochum v Schalke,,Match 23
+528,2023-03-04,Bundesliga,Dortmund v RB Leipzig,,Match 23
+529,2023-03-04,Bundesliga,Augsburg v Werder,,Match 23
+530,2023-03-04,Bundesliga,Mönchengladbach v SC Freiburg,,Match 23
+531,2023-03-04,Bundesliga,Mainz v Hoffenheim,,Match 23
+532,2023-03-04,Bundesliga,VfB Stuttgart v Bayern,,Match 23
+533,2023-03-04,Bundesliga,Wolfsburg v Eintracht Frankfurt,,Match 23
+534,2023-03-11,Bundesliga,Bayern v Augsburg,,Match 24
+535,2023-03-11,Bundesliga,Köln v VfL Bochum,,Match 24
 536,2023-03-11,Bundesliga,Eintracht Frankfurt v VfB Stuttgart,,Match 24
-537,2023-03-11,Bundesliga,Hertha Berlin v 1. FSV Mainz 05,,Match 24
-538,2023-03-11,Bundesliga,RB Leipzig v Borussia Mönchengladbach,,Match 24
-539,2023-03-11,Bundesliga,SC Freiburg v TSG Hoffenheim,,Match 24
-540,2023-03-11,Bundesliga,FC Schalke 04 v Borussia Dortmund,,Match 24
-541,2023-03-11,Bundesliga,SV Werder Bremen v Bayer 04 Leverkusen,,Match 24
-542,2023-03-11,Bundesliga,VfL Wolfsburg v 1. FC Union Berlin,,Match 24
-543,2023-03-18,Bundesliga,1. FC Union Berlin v Eintracht Frankfurt,,Match 25
-544,2023-03-18,Bundesliga,Bayer 04 Leverkusen v FC Bayern München,,Match 25
-545,2023-03-18,Bundesliga,VfL Bochum 1848 v RB Leipzig,,Match 25
-546,2023-03-18,Bundesliga,Borussia Dortmund v 1. FC Köln,,Match 25
-547,2023-03-18,Bundesliga,FC Augsburg v FC Schalke 04,,Match 25
-548,2023-03-18,Bundesliga,TSG Hoffenheim v Hertha Berlin,,Match 25
-549,2023-03-18,Bundesliga,Borussia Mönchengladbach v SV Werder Bremen,,Match 25
-550,2023-03-18,Bundesliga,1. FSV Mainz 05 v SC Freiburg,,Match 25
-551,2023-03-18,Bundesliga,VfB Stuttgart v VfL Wolfsburg,,Match 25
-552,2023-04-01,Bundesliga,1. FC Union Berlin v VfB Stuttgart,,Match 26
-553,2023-04-01,Bundesliga,FC Bayern München v Borussia Dortmund,,Match 26
-554,2023-04-01,Bundesliga,1. FC Köln v Borussia Mönchengladbach,,Match 26
-555,2023-04-01,Bundesliga,Eintracht Frankfurt v VfL Bochum 1848,,Match 26
-556,2023-04-01,Bundesliga,RB Leipzig v 1. FSV Mainz 05,,Match 26
-557,2023-04-01,Bundesliga,SC Freiburg v Hertha Berlin,,Match 26
-558,2023-04-01,Bundesliga,FC Schalke 04 v Bayer 04 Leverkusen,,Match 26
-559,2023-04-01,Bundesliga,SV Werder Bremen v TSG Hoffenheim,,Match 26
-560,2023-04-01,Bundesliga,VfL Wolfsburg v FC Augsburg,,Match 26
-561,2023-04-08,Bundesliga,Bayer 04 Leverkusen v Eintracht Frankfurt,,Match 27
-562,2023-04-08,Bundesliga,VfL Bochum 1848 v VfB Stuttgart,,Match 27
-563,2023-04-08,Bundesliga,Borussia Dortmund v 1. FC Union Berlin,,Match 27
-564,2023-04-08,Bundesliga,FC Augsburg v 1. FC Köln,,Match 27
-565,2023-04-08,Bundesliga,Hertha Berlin v RB Leipzig,,Match 27
-566,2023-04-08,Bundesliga,TSG Hoffenheim v FC Schalke 04,,Match 27
-567,2023-04-08,Bundesliga,Borussia Mönchengladbach v VfL Wolfsburg,,Match 27
-568,2023-04-08,Bundesliga,1. FSV Mainz 05 v SV Werder Bremen,,Match 27
-569,2023-04-08,Bundesliga,SC Freiburg v FC Bayern München,,Match 27
-570,2023-04-15,Bundesliga,1. FC Union Berlin v VfL Bochum 1848,,Match 28
-571,2023-04-15,Bundesliga,FC Bayern München v TSG Hoffenheim,,Match 28
-572,2023-04-15,Bundesliga,1. FC Köln v 1. FSV Mainz 05,,Match 28
-573,2023-04-15,Bundesliga,Eintracht Frankfurt v Borussia Mönchengladbach,,Match 28
-574,2023-04-15,Bundesliga,RB Leipzig v FC Augsburg,,Match 28
-575,2023-04-15,Bundesliga,FC Schalke 04 v Hertha Berlin,,Match 28
-576,2023-04-15,Bundesliga,VfB Stuttgart v Borussia Dortmund,,Match 28
-577,2023-04-15,Bundesliga,SV Werder Bremen v SC Freiburg,,Match 28
-578,2023-04-15,Bundesliga,VfL Wolfsburg v Bayer 04 Leverkusen,,Match 28
-579,2023-04-22,Bundesliga,Bayer 04 Leverkusen v RB Leipzig,,Match 29
-580,2023-04-22,Bundesliga,VfL Bochum 1848 v VfL Wolfsburg,,Match 29
-581,2023-04-22,Bundesliga,Borussia Dortmund v Eintracht Frankfurt,,Match 29
-582,2023-04-22,Bundesliga,FC Augsburg v VfB Stuttgart,,Match 29
-583,2023-04-22,Bundesliga,Hertha Berlin v SV Werder Bremen,,Match 29
-584,2023-04-22,Bundesliga,TSG Hoffenheim v 1. FC Köln,,Match 29
-585,2023-04-22,Bundesliga,Borussia Mönchengladbach v 1. FC Union Berlin,,Match 29
-586,2023-04-22,Bundesliga,1. FSV Mainz 05 v FC Bayern München,,Match 29
-587,2023-04-22,Bundesliga,SC Freiburg v FC Schalke 04,,Match 29
-588,2023-04-29,Bundesliga,1. FC Union Berlin v Bayer 04 Leverkusen,,Match 30
-589,2023-04-29,Bundesliga,FC Bayern München v Hertha Berlin,,Match 30
-590,2023-04-29,Bundesliga,VfL Bochum 1848 v Borussia Dortmund,,Match 30
-591,2023-04-29,Bundesliga,1. FC Köln v SC Freiburg,,Match 30
-592,2023-04-29,Bundesliga,Eintracht Frankfurt v FC Augsburg,,Match 30
-593,2023-04-29,Bundesliga,RB Leipzig v TSG Hoffenheim,,Match 30
-594,2023-04-29,Bundesliga,FC Schalke 04 v SV Werder Bremen,,Match 30
-595,2023-04-29,Bundesliga,VfB Stuttgart v Borussia Mönchengladbach,,Match 30
-596,2023-04-29,Bundesliga,VfL Wolfsburg v 1. FSV Mainz 05,,Match 30
-597,2023-05-06,Bundesliga,Bayer 04 Leverkusen v 1. FC Köln,,Match 31
-598,2023-05-06,Bundesliga,Borussia Dortmund v VfL Wolfsburg,,Match 31
-599,2023-05-06,Bundesliga,FC Augsburg v 1. FC Union Berlin,,Match 31
-600,2023-05-06,Bundesliga,Hertha Berlin v VfB Stuttgart,,Match 31
-601,2023-05-06,Bundesliga,TSG Hoffenheim v Eintracht Frankfurt,,Match 31
-602,2023-05-06,Bundesliga,Borussia Mönchengladbach v VfL Bochum 1848,,Match 31
-603,2023-05-06,Bundesliga,1. FSV Mainz 05 v FC Schalke 04,,Match 31
+537,2023-03-11,Bundesliga,Hertha v Mainz,,Match 24
+538,2023-03-11,Bundesliga,RB Leipzig v Mönchengladbach,,Match 24
+539,2023-03-11,Bundesliga,SC Freiburg v Hoffenheim,,Match 24
+540,2023-03-11,Bundesliga,Schalke v Dortmund,,Match 24
+541,2023-03-11,Bundesliga,Werder v Leverkusen,,Match 24
+542,2023-03-11,Bundesliga,Wolfsburg v Union Berlin,,Match 24
+543,2023-03-18,Bundesliga,Union Berlin v Eintracht Frankfurt,,Match 25
+544,2023-03-18,Bundesliga,Leverkusen v Bayern,,Match 25
+545,2023-03-18,Bundesliga,VfL Bochum v RB Leipzig,,Match 25
+546,2023-03-18,Bundesliga,Dortmund v Köln,,Match 25
+547,2023-03-18,Bundesliga,Augsburg v Schalke,,Match 25
+548,2023-03-18,Bundesliga,Hoffenheim v Hertha,,Match 25
+549,2023-03-18,Bundesliga,Mönchengladbach v Werder,,Match 25
+550,2023-03-18,Bundesliga,Mainz v SC Freiburg,,Match 25
+551,2023-03-18,Bundesliga,VfB Stuttgart v Wolfsburg,,Match 25
+552,2023-04-01,Bundesliga,Union Berlin v VfB Stuttgart,,Match 26
+553,2023-04-01,Bundesliga,Bayern v Dortmund,,Match 26
+554,2023-04-01,Bundesliga,Köln v Mönchengladbach,,Match 26
+555,2023-04-01,Bundesliga,Eintracht Frankfurt v VfL Bochum,,Match 26
+556,2023-04-01,Bundesliga,RB Leipzig v Mainz,,Match 26
+557,2023-04-01,Bundesliga,SC Freiburg v Hertha,,Match 26
+558,2023-04-01,Bundesliga,Schalke v Leverkusen,,Match 26
+559,2023-04-01,Bundesliga,Werder v Hoffenheim,,Match 26
+560,2023-04-01,Bundesliga,Wolfsburg v Augsburg,,Match 26
+561,2023-04-08,Bundesliga,Leverkusen v Eintracht Frankfurt,,Match 27
+562,2023-04-08,Bundesliga,VfL Bochum v VfB Stuttgart,,Match 27
+563,2023-04-08,Bundesliga,Dortmund v Union Berlin,,Match 27
+564,2023-04-08,Bundesliga,Augsburg v Köln,,Match 27
+565,2023-04-08,Bundesliga,Hertha v RB Leipzig,,Match 27
+566,2023-04-08,Bundesliga,Hoffenheim v Schalke,,Match 27
+567,2023-04-08,Bundesliga,Mönchengladbach v Wolfsburg,,Match 27
+568,2023-04-08,Bundesliga,Mainz v Werder,,Match 27
+569,2023-04-08,Bundesliga,SC Freiburg v Bayern,,Match 27
+570,2023-04-15,Bundesliga,Union Berlin v VfL Bochum,,Match 28
+571,2023-04-15,Bundesliga,Bayern v Hoffenheim,,Match 28
+572,2023-04-15,Bundesliga,Köln v Mainz,,Match 28
+573,2023-04-15,Bundesliga,Eintracht Frankfurt v Mönchengladbach,,Match 28
+574,2023-04-15,Bundesliga,RB Leipzig v Augsburg,,Match 28
+575,2023-04-15,Bundesliga,Schalke v Hertha,,Match 28
+576,2023-04-15,Bundesliga,VfB Stuttgart v Dortmund,,Match 28
+577,2023-04-15,Bundesliga,Werder v SC Freiburg,,Match 28
+578,2023-04-15,Bundesliga,Wolfsburg v Leverkusen,,Match 28
+579,2023-04-22,Bundesliga,Leverkusen v RB Leipzig,,Match 29
+580,2023-04-22,Bundesliga,VfL Bochum v Wolfsburg,,Match 29
+581,2023-04-22,Bundesliga,Dortmund v Eintracht Frankfurt,,Match 29
+582,2023-04-22,Bundesliga,Augsburg v VfB Stuttgart,,Match 29
+583,2023-04-22,Bundesliga,Hertha v Werder,,Match 29
+584,2023-04-22,Bundesliga,Hoffenheim v Köln,,Match 29
+585,2023-04-22,Bundesliga,Mönchengladbach v Union Berlin,,Match 29
+586,2023-04-22,Bundesliga,Mainz v Bayern,,Match 29
+587,2023-04-22,Bundesliga,SC Freiburg v Schalke,,Match 29
+588,2023-04-29,Bundesliga,Union Berlin v Leverkusen,,Match 30
+589,2023-04-29,Bundesliga,Bayern v Hertha,,Match 30
+590,2023-04-29,Bundesliga,VfL Bochum v Dortmund,,Match 30
+591,2023-04-29,Bundesliga,Köln v SC Freiburg,,Match 30
+592,2023-04-29,Bundesliga,Eintracht Frankfurt v Augsburg,,Match 30
+593,2023-04-29,Bundesliga,RB Leipzig v Hoffenheim,,Match 30
+594,2023-04-29,Bundesliga,Schalke v Werder,,Match 30
+595,2023-04-29,Bundesliga,VfB Stuttgart v Mönchengladbach,,Match 30
+596,2023-04-29,Bundesliga,Wolfsburg v Mainz,,Match 30
+597,2023-05-06,Bundesliga,Leverkusen v Köln,,Match 31
+598,2023-05-06,Bundesliga,Dortmund v Wolfsburg,,Match 31
+599,2023-05-06,Bundesliga,Augsburg v Union Berlin,,Match 31
+600,2023-05-06,Bundesliga,Hertha v VfB Stuttgart,,Match 31
+601,2023-05-06,Bundesliga,Hoffenheim v Eintracht Frankfurt,,Match 31
+602,2023-05-06,Bundesliga,Mönchengladbach v VfL Bochum,,Match 31
+603,2023-05-06,Bundesliga,Mainz v Schalke,,Match 31
 604,2023-05-06,Bundesliga,SC Freiburg v RB Leipzig,,Match 31
-605,2023-05-06,Bundesliga,SV Werder Bremen v FC Bayern München,,Match 31
-606,2023-05-13,Bundesliga,1. FC Union Berlin v SC Freiburg,,Match 32
-607,2023-05-13,Bundesliga,FC Bayern München v FC Schalke 04,,Match 32
-608,2023-05-13,Bundesliga,VfL Bochum 1848 v FC Augsburg,,Match 32
-609,2023-05-13,Bundesliga,Borussia Dortmund v Borussia Mönchengladbach,,Match 32
-610,2023-05-13,Bundesliga,1. FC Köln v Hertha Berlin,,Match 32
-611,2023-05-13,Bundesliga,Eintracht Frankfurt v 1. FSV Mainz 05,,Match 32
-612,2023-05-13,Bundesliga,RB Leipzig v SV Werder Bremen,,Match 32
-613,2023-05-13,Bundesliga,VfB Stuttgart v Bayer 04 Leverkusen,,Match 32
-614,2023-05-13,Bundesliga,VfL Wolfsburg v TSG Hoffenheim,,Match 32
-615,2023-05-20,Bundesliga,Bayer 04 Leverkusen v Borussia Mönchengladbach,,Match 33
-616,2023-05-20,Bundesliga,FC Bayern München v RB Leipzig,,Match 33
-617,2023-05-20,Bundesliga,FC Augsburg v Borussia Dortmund,,Match 33
-618,2023-05-20,Bundesliga,Hertha Berlin v VfL Bochum 1848,,Match 33
-619,2023-05-20,Bundesliga,TSG Hoffenheim v 1. FC Union Berlin,,Match 33
-620,2023-05-20,Bundesliga,1. FSV Mainz 05 v VfB Stuttgart,,Match 33
-621,2023-05-20,Bundesliga,SC Freiburg v VfL Wolfsburg,,Match 33
-622,2023-05-20,Bundesliga,FC Schalke 04 v Eintracht Frankfurt,,Match 33
-623,2023-05-20,Bundesliga,SV Werder Bremen v 1. FC Köln,,Match 33
-624,2023-05-27,Bundesliga,1. FC Union Berlin v SV Werder Bremen,,Match 34
-625,2023-05-27,Bundesliga,VfL Bochum 1848 v Bayer 04 Leverkusen,,Match 34
-626,2023-05-27,Bundesliga,Borussia Dortmund v 1. FSV Mainz 05,,Match 34
-627,2023-05-27,Bundesliga,1. FC Köln v FC Bayern München,,Match 34
+605,2023-05-06,Bundesliga,Werder v Bayern,,Match 31
+606,2023-05-13,Bundesliga,Union Berlin v SC Freiburg,,Match 32
+607,2023-05-13,Bundesliga,Bayern v Schalke,,Match 32
+608,2023-05-13,Bundesliga,VfL Bochum v Augsburg,,Match 32
+609,2023-05-13,Bundesliga,Dortmund v Mönchengladbach,,Match 32
+610,2023-05-13,Bundesliga,Köln v Hertha,,Match 32
+611,2023-05-13,Bundesliga,Eintracht Frankfurt v Mainz,,Match 32
+612,2023-05-13,Bundesliga,RB Leipzig v Werder,,Match 32
+613,2023-05-13,Bundesliga,VfB Stuttgart v Leverkusen,,Match 32
+614,2023-05-13,Bundesliga,Wolfsburg v Hoffenheim,,Match 32
+615,2023-05-20,Bundesliga,Leverkusen v Mönchengladbach,,Match 33
+616,2023-05-20,Bundesliga,Bayern v RB Leipzig,,Match 33
+617,2023-05-20,Bundesliga,Augsburg v Dortmund,,Match 33
+618,2023-05-20,Bundesliga,Hertha v VfL Bochum,,Match 33
+619,2023-05-20,Bundesliga,Hoffenheim v Union Berlin,,Match 33
+620,2023-05-20,Bundesliga,Mainz v VfB Stuttgart,,Match 33
+621,2023-05-20,Bundesliga,SC Freiburg v Wolfsburg,,Match 33
+622,2023-05-20,Bundesliga,Schalke v Eintracht Frankfurt,,Match 33
+623,2023-05-20,Bundesliga,Werder v Köln,,Match 33
+624,2023-05-27,Bundesliga,Union Berlin v Werder,,Match 34
+625,2023-05-27,Bundesliga,VfL Bochum v Leverkusen,,Match 34
+626,2023-05-27,Bundesliga,Dortmund v Mainz,,Match 34
+627,2023-05-27,Bundesliga,Köln v Bayern,,Match 34
 628,2023-05-27,Bundesliga,Eintracht Frankfurt v SC Freiburg,,Match 34
-629,2023-05-27,Bundesliga,Borussia Mönchengladbach v FC Augsburg,,Match 34
-630,2023-05-27,Bundesliga,RB Leipzig v FC Schalke 04,,Match 34
-631,2023-05-27,Bundesliga,VfB Stuttgart v TSG Hoffenheim,,Match 34
-632,2023-05-27,Bundesliga,VfL Wolfsburg v Hertha Berlin,,Match 34
+629,2023-05-27,Bundesliga,Mönchengladbach v Augsburg,,Match 34
+630,2023-05-27,Bundesliga,RB Leipzig v Schalke,,Match 34
+631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
+632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
 655,,EFL Championship,Coventry City v Rotherham United,,Match 2
-657,2022-08-12,EFL Championship,Watford v Burnley,19:00:00,Match 3
-658,2022-08-13,EFL Championship,Cardiff City v Birmingham City,11:30:00,Match 3
-659,2022-08-13,EFL Championship,Blackpool v Swansea City,14:00:00,Match 3
-660,2022-08-13,EFL Championship,Huddersfield Town v Stoke City,14:00:00,Match 3
-661,2022-08-13,EFL Championship,Hull City v Norwich City,14:00:00,Match 3
-662,2022-08-13,EFL Championship,Luton Town v Preston North End,14:00:00,Match 3
-663,2022-08-13,EFL Championship,Millwall v Coventry City,14:00:00,Match 3
-664,2022-08-13,EFL Championship,Rotherham United v Reading,14:00:00,Match 3
-665,2022-08-13,EFL Championship,Sunderland v Queens Park Rangers,14:00:00,Match 3
-666,2022-08-13,EFL Championship,Wigan Athletic v Bristol City,14:00:00,Match 3
-667,2022-08-14,EFL Championship,Blackburn Rovers v West Bromwich Albion,14:00:00,Match 3
-668,2022-08-14,EFL Championship,Middlesbrough v Sheffield United,13:00:00,Match 3
-669,2022-08-16,EFL Championship,Birmingham City v Watford,18:45:00,Match 4
-670,2022-08-16,EFL Championship,Bristol City v Luton Town,18:45:00,Match 4
-671,2022-08-16,EFL Championship,Burnley v Hull City,18:45:00,Match 4
-672,2022-08-16,EFL Championship,Coventry City v Wigan Athletic,18:45:00,Match 4
-673,2022-08-16,EFL Championship,Norwich City v Huddersfield Town,18:45:00,Match 4
-674,2022-08-16,EFL Championship,Preston North End v Rotherham United,18:45:00,Match 4
-675,2022-08-16,EFL Championship,Queens Park Rangers v Blackpool,19:00:00,Match 4
-676,2022-08-16,EFL Championship,Swansea City v Millwall,18:45:00,Match 4
-677,2022-08-17,EFL Championship,Stoke City v Middlesbrough,18:45:00,Match 4
-678,2022-08-17,EFL Championship,Sheffield United v Sunderland,19:00:00,Match 4
-679,2022-08-17,EFL Championship,Reading v Blackburn Rovers,19:00:00,Match 4
-680,2022-08-17,EFL Championship,West Bromwich Albion v Cardiff City,19:00:00,Match 4
-681,2022-08-20,EFL Championship,Birmingham City v Wigan Athletic,14:00:00,Match 5
-682,2022-08-21,EFL Championship,Bristol City v Cardiff City,11:00:00,Match 5
-683,2022-08-20,EFL Championship,Burnley v Blackpool,14:00:00,Match 5
-684,2022-08-20,EFL Championship,Coventry City v Huddersfield Town,14:00:00,Match 5
-685,2022-08-19,EFL Championship,Norwich City v Millwall,19:00:00,Match 5
-686,2022-08-20,EFL Championship,Preston North End v Watford,14:00:00,Match 5
-687,2022-08-20,EFL Championship,Queens Park Rangers v Rotherham United,14:00:00,Match 5
-688,2022-08-20,EFL Championship,Reading v Middlesbrough,14:00:00,Match 5
-689,2022-08-20,EFL Championship,Sheffield United v Blackburn Rovers,14:00:00,Match 5
-690,2022-08-20,EFL Championship,Stoke City v Sunderland,14:00:00,Match 5
-691,2022-08-20,EFL Championship,Swansea City v Luton Town,14:00:00,Match 5
-692,2022-08-20,EFL Championship,West Bromwich Albion v Hull City,14:00:00,Match 5
 693,2022-08-27,EFL Championship,Blackburn Rovers v Stoke City,14:00:00,Match 6
 694,2022-08-27,EFL Championship,Blackpool v Bristol City,14:00:00,Match 6
 695,2022-08-27,EFL Championship,Cardiff City v Preston North End,14:00:00,Match 6
@@ -619,18 +529,18 @@ ID,date,league,teams,time,note_1
 702,2022-08-27,EFL Championship,Sunderland v Norwich City,11:30:00,Match 6
 703,2022-08-27,EFL Championship,Watford v Queens Park Rangers,14:00:00,Match 6
 704,2022-08-27,EFL Championship,Wigan Athletic v Burnley,14:00:00,Match 6
-705,2022-08-30,EFL Championship,Birmingham City v Norwich City,,Match 7
-706,2022-08-30,EFL Championship,Burnley v Millwall,,Match 7
-707,2022-08-30,EFL Championship,Cardiff City v Luton Town,,Match 7
-708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,,Match 7
-709,2022-08-30,EFL Championship,Watford v Middlesbrough,,Match 7
-710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,,Match 7
-711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,,Match 7
-712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,,Match 7
-713,2022-08-31,EFL Championship,Coventry City v Preston North End,,Match 7
-714,2022-08-31,EFL Championship,Sheffield United v Reading,,Match 7
-715,2022-08-31,EFL Championship,Sunderland v Rotherham United,,Match 7
-716,2022-08-31,EFL Championship,Stoke City v Swansea City,,Match 7
+705,2022-08-30,EFL Championship,Birmingham City v Norwich City,18:45:00,Match 7
+706,2022-08-30,EFL Championship,Burnley v Millwall,18:45:00,Match 7
+707,2022-08-30,EFL Championship,Cardiff City v Luton Town,18:45:00,Match 7
+708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,18:45:00,Match 7
+709,2022-08-30,EFL Championship,Watford v Middlesbrough,18:45:00,Match 7
+710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,18:45:00,Match 7
+711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,19:00:00,Match 7
+712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,18:45:00,Match 7
+713,2022-08-31,EFL Championship,Coventry City v Preston North End,18:45:00,Match 7
+714,2022-08-31,EFL Championship,Sheffield United v Reading,18:45:00,Match 7
+715,2022-08-31,EFL Championship,Sunderland v Rotherham United,18:45:00,Match 7
+716,2022-08-31,EFL Championship,Stoke City v Swansea City,18:45:00,Match 7
 717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,,Match 8
 718,2022-09-03,EFL Championship,Huddersfield Town v Blackpool,,Match 8
 719,2022-09-03,EFL Championship,Hull City v Sheffield United,,Match 8
@@ -1099,42 +1009,6 @@ ID,date,league,teams,time,note_1
 1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
 1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
 1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
-1209,2022-08-13,EFL League One,Accrington Stanley v Burton Albion,14:00:00,Match 3
-1210,2022-08-13,EFL League One,Bristol Rovers v Oxford United,11:30:00,Match 3
-1211,2022-08-13,EFL League One,Cambridge United v Exeter City,14:00:00,Match 3
-1212,2022-08-13,EFL League One,Cheltenham Town v Portsmouth,14:00:00,Match 3
-1213,2022-08-13,EFL League One,Derby County v Barnsley,14:00:00,Match 3
-1214,2022-08-13,EFL League One,Ipswich Town v Milton Keynes Dons,14:00:00,Match 3
-1215,2022-08-13,EFL League One,Lincoln City v Forest Green Rovers,14:00:00,Match 3
-1216,2022-08-13,EFL League One,Morecambe v Fleetwood Town,14:00:00,Match 3
-1217,2022-08-13,EFL League One,Plymouth Argyle v Peterborough United,14:00:00,Match 3
-1218,2022-08-13,EFL League One,Port Vale v Bolton Wanderers,14:00:00,Match 3
-1219,2022-08-13,EFL League One,Sheffield Wednesday v Charlton Athletic,14:00:00,Match 3
-1220,2022-08-13,EFL League One,Wycombe Wanderers v Shrewsbury Town,14:00:00,Match 3
-1221,2022-08-16,EFL League One,Barnsley v Bristol Rovers,18:45:00,Match 4
-1222,2022-08-16,EFL League One,Bolton Wanderers v Morecambe,18:45:00,Match 4
-1223,2022-08-16,EFL League One,Burton Albion v Ipswich Town,18:45:00,Match 4
-1224,2022-08-16,EFL League One,Charlton Athletic v Plymouth Argyle,18:45:00,Match 4
-1225,2022-08-16,EFL League One,Exeter City v Wycombe Wanderers,18:45:00,Match 4
-1226,2022-08-16,EFL League One,Fleetwood Town v Cheltenham Town,18:45:00,Match 4
-1227,2022-08-16,EFL League One,Forest Green Rovers v Accrington Stanley,18:45:00,Match 4
-1228,2022-08-16,EFL League One,Milton Keynes Dons v Port Vale,18:45:00,Match 4
-1229,2022-08-16,EFL League One,Oxford United v Lincoln City,18:45:00,Match 4
-1230,2022-08-16,EFL League One,Peterborough United v Sheffield Wednesday,18:45:00,Match 4
-1231,2022-08-16,EFL League One,Portsmouth v Cambridge United,18:45:00,Match 4
-1232,2022-08-16,EFL League One,Shrewsbury Town v Derby County,18:45:00,Match 4
-1233,2022-08-20,EFL League One,Barnsley v Wycombe Wanderers,14:00:00,Match 5
-1234,2022-08-20,EFL League One,Bolton Wanderers v Sheffield Wednesday,14:00:00,Match 5
-1235,2022-08-20,EFL League One,Burton Albion v Port Vale,14:00:00,Match 5
-1236,2022-08-20,EFL League One,Charlton Athletic v Cambridge United,14:00:00,Match 5
-1237,2022-08-20,EFL League One,Exeter City v Cheltenham Town,14:00:00,Match 5
-1238,2022-08-20,EFL League One,Fleetwood Town v Derby County,14:00:00,Match 5
-1239,2022-08-20,EFL League One,Forest Green Rovers v Plymouth Argyle,14:00:00,Match 5
-1240,2022-08-20,EFL League One,Milton Keynes Dons v Accrington Stanley,14:00:00,Match 5
-1241,2022-08-20,EFL League One,Oxford United v Morecambe,14:00:00,Match 5
-1242,2022-08-20,EFL League One,Peterborough United v Lincoln City,14:00:00,Match 5
-1243,2022-08-20,EFL League One,Portsmouth v Bristol Rovers,14:00:00,Match 5
-1244,2022-08-20,EFL League One,Shrewsbury Town v Ipswich Town,14:00:00,Match 5
 1245,2022-08-27,EFL League One,Accrington Stanley v Exeter City,14:00:00,Match 6
 1246,2022-08-27,EFL League One,Bristol Rovers v Shrewsbury Town,14:00:00,Match 6
 1247,2022-08-27,EFL League One,Cambridge United v Burton Albion,14:00:00,Match 6
@@ -1627,42 +1501,6 @@ ID,date,league,teams,time,note_1
 1734,2023-05-06,EFL League One,Port Vale v Plymouth Argyle,14:00:00,Match 46
 1735,2023-05-06,EFL League One,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 1736,2023-05-06,EFL League One,Sheffield Wednesday v Derby County,14:00:00,Match 46
-1761,2022-08-13,EFL League Two,AFC Wimbledon v Doncaster Rovers,14:00:00,Match 3
-1762,2022-08-13,EFL League Two,Bradford City v Newport County AFC,14:00:00,Match 3
-1763,2022-08-13,EFL League Two,Carlisle United v Swindon Town,14:00:00,Match 3
-1764,2022-08-13,EFL League Two,Harrogate Town v Crawley Town,14:00:00,Match 3
-1765,2022-08-13,EFL League Two,Leyton Orient v Mansfield Town,14:00:00,Match 3
-1766,2022-08-13,EFL League Two,Northampton Town v Hartlepool United,14:00:00,Match 3
-1767,2022-08-13,EFL League Two,Rochdale v Grimsby Town,14:00:00,Match 3
-1768,2022-08-13,EFL League Two,Salford City v Crewe Alexandra,14:00:00,Match 3
-1769,2022-08-13,EFL League Two,Stockport County v Colchester United,14:00:00,Match 3
-1770,2022-08-13,EFL League Two,Sutton United v Barrow,14:00:00,Match 3
-1771,2022-08-13,EFL League Two,Tranmere Rovers v Gillingham,14:00:00,Match 3
-1772,2022-08-13,EFL League Two,Walsall v Stevenage,14:00:00,Match 3
-1773,2022-08-16,EFL League Two,Barrow v Walsall,18:45:00,Match 4
-1774,2022-08-16,EFL League Two,Colchester United v Bradford City,18:45:00,Match 4
-1775,2022-08-16,EFL League Two,Crawley Town v Northampton Town,18:45:00,Match 4
-1776,2022-08-16,EFL League Two,Crewe Alexandra v Sutton United,18:45:00,Match 4
-1777,2022-08-16,EFL League Two,Gillingham v Harrogate Town,18:45:00,Match 4
-1778,2022-08-16,EFL League Two,Grimsby Town v Carlisle United,18:45:00,Match 4
-1779,2022-08-16,EFL League Two,Hartlepool United v Tranmere Rovers,18:45:00,Match 4
-1780,2022-08-16,EFL League Two,Mansfield Town v AFC Wimbledon,18:45:00,Match 4
-1781,2022-08-16,EFL League Two,Newport County AFC v Salford City,18:45:00,Match 4
-1782,2022-08-16,EFL League Two,Stevenage v Rochdale,18:45:00,Match 4
-1783,2022-08-16,EFL League Two,Swindon Town v Leyton Orient,18:45:00,Match 4
-1784,2022-08-16,EFL League Two,Doncaster Rovers v Stockport County,18:45:00,Match 4
-1785,2022-08-20,EFL League Two,Hartlepool United v Bradford City,12:00:00,Match 5
-1786,2022-08-20,EFL League Two,Barrow v Harrogate Town,14:00:00,Match 5
-1787,2022-08-20,EFL League Two,Colchester United v Leyton Orient,14:00:00,Match 5
-1788,2022-08-20,EFL League Two,Crawley Town v AFC Wimbledon,14:00:00,Match 5
-1789,2022-08-20,EFL League Two,Crewe Alexandra v Northampton Town,14:00:00,Match 5
-1790,2022-08-20,EFL League Two,Doncaster Rovers v Salford City,14:00:00,Match 5
-1791,2022-08-20,EFL League Two,Gillingham v Walsall,14:00:00,Match 5
-1792,2022-08-20,EFL League Two,Grimsby Town v Sutton United,14:00:00,Match 5
-1793,2022-08-20,EFL League Two,Mansfield Town v Stockport County,14:00:00,Match 5
-1794,2022-08-20,EFL League Two,Newport County AFC v Tranmere Rovers,14:00:00,Match 5
-1795,2022-08-20,EFL League Two,Stevenage v Carlisle United,14:00:00,Match 5
-1796,2022-08-20,EFL League Two,Swindon Town v Rochdale,14:00:00,Match 5
 1797,2022-08-27,EFL League Two,AFC Wimbledon v Barrow,14:00:00,Match 6
 1798,2022-08-27,EFL League Two,Bradford City v Crewe Alexandra,14:00:00,Match 6
 1799,2022-08-27,EFL League Two,Carlisle United v Gillingham,14:00:00,Match 6
@@ -2155,20 +1993,6 @@ ID,date,league,teams,time,note_1
 2286,2023-05-06,EFL League Two,Swindon Town v Crawley Town,14:00:00,Match 46
 2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
-2312,2022-08-12,Eliteserien,Sandefjord v Rosenborg,17:00:00,Match 18
-2313,2022-08-13,Eliteserien,Aalesund v Haugesund,14:00:00,Match 18
-2314,2022-08-13,Eliteserien,Sarpsborg 08 v Bodø/Glimt,16:00:00,Match 18
-2315,2022-08-14,Eliteserien,Jerv v Lillestrøm,16:00:00,Match 18
-2316,2022-08-14,Eliteserien,Tromsø v Kristiansund Bk,16:00:00,Match 18
-2317,2022-08-14,Eliteserien,HamKam v Vålerenga,18:00:00,Match 18
-2318,2022-08-20,Eliteserien,Odd Ballklubb v Sarpsborg 08,16:00:00,Match 19
-2319,2022-08-21,Eliteserien,Strømsgodset v Jerv,16:00:00,Match 19
-2320,2022-08-21,Eliteserien,Vålerenga v Tromsø,16:00:00,Match 19
-2321,2022-08-21,Eliteserien,Bodø/Glimt v HamKam,16:00:00,Match 19
-2322,2022-08-21,Eliteserien,Haugesund v Molde,16:00:00,Match 19
-2323,2022-08-21,Eliteserien,Kristiansund Bk v Viking,16:00:00,Match 19
-2324,2022-08-21,Eliteserien,Lillestrøm v Sandefjord,16:00:00,Match 19
-2325,2022-08-21,Eliteserien,Rosenborg v Aalesund,18:00:00,Match 19
 2326,2022-08-27,Eliteserien,Sandefjord v Strømsgodset,16:00:00,Match 20
 2327,2022-08-27,Eliteserien,Jerv v Bodø/Glimt,16:00:00,Match 20
 2328,2022-08-28,Eliteserien,Viking v Vålerenga,16:00:00,Match 20
@@ -2257,23 +2081,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2423,2022-08-12,Eredivisie,Excelsior v Vitesse Arnhem,18:00:00,Match 2
-2424,2022-08-13,Eredivisie,Go Ahead Eagles v PSV Eindhoven,16:45:00,Match 2
-2425,2022-08-13,Eredivisie,Emmen v RKC Waalwijk,18:00:00,Match 2
-2426,2022-08-13,Eredivisie,FC Utrecht v Cambuur Leeuwarden,18:00:00,Match 2
-2427,2022-08-13,Eredivisie,Feyenoord v Heerenveen,19:00:00,Match 2
-2428,2022-08-14,Eredivisie,FC Volendam v NEC Nijmegen,10:15:00,Match 2
-2429,2022-08-14,Eredivisie,Ajax v Groningen,12:30:00,Match 2
-2430,2022-08-14,Eredivisie,FC Twente v Fortuna Sittard,12:30:00,Match 2
-2431,2022-08-14,Eredivisie,Sparta Rotterdam v AZ Alkmaar,14:45:00,Match 2
-2432,2022-08-20,Eredivisie,Vitesse Arnhem v Heerenveen,14:30:00,Match 3
-2433,2022-08-20,Eredivisie,Fortuna Sittard v Cambuur Leeuwarden,16:45:00,Match 3
-2434,2022-08-20,Eredivisie,PSV Eindhoven v FC Volendam,18:00:00,Match 3
-2435,2022-08-20,Eredivisie,Emmen v FC Utrecht,19:00:00,Match 3
-2436,2022-08-21,Eredivisie,Groningen v Go Ahead Eagles,10:15:00,Match 3
-2437,2022-08-21,Eredivisie,AZ Alkmaar v NEC Nijmegen,12:30:00,Match 3
-2438,2022-08-21,Eredivisie,Sparta Rotterdam v Ajax,12:30:00,Match 3
-2439,2022-08-21,Eredivisie,RKC Waalwijk v Feyenoord,14:45:00,Match 3
 2440,2022-08-26,Eredivisie,NEC Nijmegen v Groningen,18:00:00,Match 3
 2441,2022-08-27,Eredivisie,Go Ahead Eagles v Sparta Rotterdam,14:30:00,Match 4
 2442,2022-08-27,Eredivisie,Vitesse Arnhem v RKC Waalwijk,16:45:00,Match 4
@@ -2283,7 +2090,7 @@ ID,date,league,teams,time,note_1
 2446,2022-08-28,Eredivisie,Excelsior v PSV Eindhoven,12:30:00,Match 4
 2447,2022-08-28,Eredivisie,FC Volendam v FC Twente,12:30:00,Match 4
 2448,2022-08-28,Eredivisie,Cambuur Leeuwarden v AZ Alkmaar,14:45:00,Match 4
-2449,2022-08-31,Eredivisie,FC Twente v Excelsior,19:00:00,Match 4
+2449,2022-08-31,Eredivisie,FC Twente v Excelsior,19:00:00,Match 3
 2450,2022-09-02,Eredivisie,Fortuna Sittard v FC Utrecht,18:00:00,Match 5
 2451,2022-09-03,Eredivisie,Ajax v Cambuur Leeuwarden,14:30:00,Match 5
 2452,2022-09-03,Eredivisie,FC Twente v PSV Eindhoven,16:45:00,Match 5
@@ -2575,21 +2382,6 @@ ID,date,league,teams,time,note_1
 2738,2022-10-30,International Friendly,Saudi Arabia v Honduras,,
 2739,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2740,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2759,2022-08-13,J1 League,Hokkaido Consadole Sapporo v Vissel Kobe,05:00:00,Match 25
-2760,2022-08-13,J1 League,Júbilo Iwata v Urawa Red Diamonds,09:30:00,Match 25
-2761,2022-08-13,J1 League,FC Tokyo v Cerezo Osaka,10:00:00,Match 25
-2762,2022-08-13,J1 League,Kawasaki Frontale v Kyoto Sanga FC,10:00:00,Match 25
-2763,2022-08-13,J1 League,Yokohama F. Marinos v Shonan Bellmare,10:00:00,Match 25
-2764,2022-08-14,J1 League,Kashima Antlers v Avispa Fukuoka,09:00:00,Match 25
-2765,2022-08-14,J1 League,Kashiwa Reysol v Sanfrecce Hiroshima,09:30:00,Match 25
-2766,2022-08-14,J1 League,Gamba Osaka v Shimizu S-Pulse,10:00:00,Match 25
-2767,2022-08-14,J1 League,Sagan Tosu v Nagoya Grampus,10:00:00,Match 25
-2768,2022-08-19,J1 League,Nagoya Grampus v Júbilo Iwata,10:30:00,Match 26
-2769,2022-08-20,J1 League,Hokkaido Consadole Sapporo v Sagan Tosu,05:00:00,Match 26
-2770,2022-08-20,J1 League,Shimizu S-Pulse v Kashiwa Reysol,09:00:00,Match 26
-2771,2022-08-20,J1 League,Sanfrecce Hiroshima v Gamba Osaka,10:00:00,Match 26
-2772,2022-08-20,J1 League,Avispa Fukuoka v Kawasaki Frontale,10:00:00,Match 26
-2773,2022-08-21,J1 League,Shonan Bellmare v Kashima Antlers,10:00:00,Match 26
 2774,2022-08-26,J1 League,Sagan Tosu v Avispa Fukuoka,10:00:00,Match 27
 2775,2022-08-27,J1 League,Shimizu S-Pulse v Kyoto Sanga FC,09:00:00,Match 27
 2776,2022-08-27,J1 League,Nagoya Grampus v Gamba Osaka,09:00:00,Match 27
@@ -2597,15 +2389,15 @@ ID,date,league,teams,time,note_1
 2778,2022-08-27,J1 League,Cerezo Osaka v Sanfrecce Hiroshima,10:00:00,Match 27
 2779,2022-08-27,J1 League,Kawasaki Frontale v Kashima Antlers,10:00:00,Match 27
 2780,2022-08-31,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
-2781,2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,,Match 28
-2782,2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,,Match 28
-2783,2022-09-03,J1 League,FC Tokyo v Yokohama F. Marinos,,Match 28
-2784,2022-09-03,J1 League,Shonan Bellmare v Kawasaki Frontale,,Match 28
-2785,2022-09-03,J1 League,Júbilo Iwata v Kashiwa Reysol,,Match 28
-2786,2022-09-03,J1 League,Kyoto Sanga FC v Vissel Kobe,,Match 28
-2787,2022-09-03,J1 League,Gamba Osaka v Sagan Tosu,,Match 28
-2788,2022-09-03,J1 League,Sanfrecce Hiroshima v Shimizu S-Pulse,,Match 28
-2789,2022-09-03,J1 League,Avispa Fukuoka v Nagoya Grampus,,Match 28
+2781,2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,10:30:00,Match 28
+2782,2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,09:00:00,Match 28
+2783,2022-09-03,J1 League,FC Tokyo v Yokohama F. Marinos,10:00:00,Match 28
+2784,2022-09-03,J1 League,Shonan Bellmare v Kawasaki Frontale,10:00:00,Match 28
+2785,2022-09-03,J1 League,Júbilo Iwata v Kashiwa Reysol,09:30:00,Match 28
+2786,2022-09-03,J1 League,Kyoto Sanga FC v Vissel Kobe,10:00:00,Match 28
+2787,2022-09-03,J1 League,Gamba Osaka v Sagan Tosu,10:00:00,Match 28
+2788,2022-09-03,J1 League,Sanfrecce Hiroshima v Shimizu S-Pulse,09:30:00,Match 28
+2789,2022-09-03,J1 League,Avispa Fukuoka v Nagoya Grampus,10:00:00,Match 28
 2790,2022-09-10,J1 League,Hokkaido Consadole Sapporo v Júbilo Iwata,,Match 29
 2791,2022-09-10,J1 League,Urawa Red Diamonds v Kashiwa Reysol,,Match 29
 2792,2022-09-10,J1 League,Kawasaki Frontale v Sanfrecce Hiroshima,,Match 29
@@ -2666,26 +2458,6 @@ ID,date,league,teams,time,note_1
 2847,2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2850,2022-08-12,La Liga,Osasuna v Sevilla,19:00:00,Match 1
-2851,2022-08-13,La Liga,Celta Vigo v Espanyol,15:00:00,Match 1
-2852,2022-08-13,La Liga,Real Valladolid v Villarreal,17:00:00,Match 1
-2853,2022-08-13,La Liga,Barcelona v Rayo Vallecano,19:00:00,Match 1
-2854,2022-08-14,La Liga,Cadiz v Real Sociedad,15:30:00,Match 1
-2855,2022-08-14,La Liga,Valencia v Girona,17:30:00,Match 1
-2856,2022-08-14,La Liga,Almeria v Real Madrid,20:00:00,Match 1
-2857,2022-08-15,La Liga,Athletic Bilbao v Real Mallorca,15:30:00,Match 1
-2858,2022-08-15,La Liga,Getafe v Atletico Madrid,17:30:00,Match 1
-2859,2022-08-15,La Liga,Real Betis v Elche,19:30:00,Match 1
-2860,2022-08-19,La Liga,Espanyol v Rayo Vallecano,18:00:00,Match 2
-2861,2022-08-19,La Liga,Sevilla v Real Valladolid,20:00:00,Match 2
-2862,2022-08-20,La Liga,Osasuna v Cadiz,15:30:00,Match 2
-2863,2022-08-20,La Liga,Real Mallorca v Real Betis,17:30:00,Match 2
-2864,2022-08-20,La Liga,Celta Vigo v Real Madrid,20:00:00,Match 2
-2865,2022-08-21,La Liga,Athletic Bilbao v Valencia,15:30:00,Match 2
-2866,2022-08-21,La Liga,Atletico Madrid v Villarreal,17:30:00,Match 2
-2867,2022-08-21,La Liga,Real Sociedad v Barcelona,20:00:00,Match 2
-2868,2022-08-22,La Liga,Elche v Almeria,18:00:00,Match 2
-2869,2022-08-22,La Liga,Girona v Getafe,20:00:00,Match 2
 2870,2022-08-26,La Liga,Girona v Celta Vigo,18:00:00,Match 3
 2871,2022-08-26,La Liga,Real Betis v Osasuna,20:00:00,Match 3
 2872,2022-08-27,La Liga,Elche v Real Sociedad,15:30:00,Match 3
@@ -3046,26 +2818,6 @@ ID,date,league,teams,time,note_1
 3227,2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 3228,2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 3229,2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-3240,2022-08-12,Ligue 1,Nantes v Lille,19:00:00,Match 2
-3241,2022-08-13,Ligue 1,Monaco v Rennes,15:00:00,Match 2
-3242,2022-08-13,Ligue 1,Paris Saint-Germain v Montpellier,19:00:00,Match 2
-3243,2022-08-14,Ligue 1,Lorient v Lyon,11:00:00,Match 2
-3244,2022-08-14,Ligue 1,AC Ajaccio v RC Lens,13:00:00,Match 2
-3245,2022-08-14,Ligue 1,Auxerre v Angers,13:00:00,Match 2
-3246,2022-08-14,Ligue 1,Reims v Clermont,13:00:00,Match 2
-3247,2022-08-14,Ligue 1,Troyes v Toulouse,13:00:00,Match 2
-3248,2022-08-14,Ligue 1,Nice v Strasbourg,15:05:00,Match 2
-3249,2022-08-14,Ligue 1,Brest v Marseille,18:45:00,Match 2
-3250,2022-08-21,Ligue 1,Angers v Brest,13:00:00,Match 3
-3251,2022-08-21,Ligue 1,Clermont v Nice,13:00:00,Match 3
-3252,2022-08-21,Ligue 1,Lille v Paris Saint-Germain,18:45:00,Match 3
-3253,2022-08-19,Ligue 1,Lyon v Troyes,19:00:00,Match 3
-3254,2022-08-20,Ligue 1,Marseille v Nantes,19:00:00,Match 3
-3255,2022-08-20,Ligue 1,Monaco v RC Lens,15:00:00,Match 3
-3256,2022-08-21,Ligue 1,Montpellier v Auxerre,13:00:00,Match 3
-3257,2022-08-21,Ligue 1,Rennes v AC Ajaccio,15:05:00,Match 3
-3258,2022-08-21,Ligue 1,Strasbourg v Reims,11:00:00,Match 3
-3259,2022-08-21,Ligue 1,Toulouse v Lorient,13:00:00,Match 3
 3260,2022-08-26,Ligue 1,AC Ajaccio v Lille,19:00:00,Match 4
 3261,2022-08-27,Ligue 1,Auxerre v Strasbourg,15:00:00,Match 4
 3262,2022-08-28,Ligue 1,Brest v Montpellier,13:00:00,Match 4
@@ -3076,16 +2828,16 @@ ID,date,league,teams,time,note_1
 3267,2022-08-27,Ligue 1,RC Lens v Rennes,19:00:00,Match 4
 3268,2022-08-28,Ligue 1,Reims v Lyon,15:05:00,Match 4
 3269,2022-08-28,Ligue 1,Troyes v Angers,13:00:00,Match 4
-3270,2022-08-31,Ligue 1,Angers v Reims,,Match 5
-3271,2022-08-31,Ligue 1,Lille v Nice,,Match 5
-3272,2022-08-31,Ligue 1,Lyon v Auxerre,,Match 5
-3273,2022-08-31,Ligue 1,Marseille v Clermont,,Match 5
-3274,2022-08-31,Ligue 1,Monaco v Troyes,,Match 5
-3275,2022-08-31,Ligue 1,Montpellier v AC Ajaccio,,Match 5
-3276,2022-08-31,Ligue 1,RC Lens v Lorient,,Match 5
-3277,2022-08-31,Ligue 1,Rennes v Brest,,Match 5
-3278,2022-08-31,Ligue 1,Strasbourg v Nantes,,Match 5
-3279,2022-08-31,Ligue 1,Toulouse v Paris Saint-Germain,,Match 5
+3270,2022-08-31,Ligue 1,Angers v Reims,17:00:00,Match 5
+3271,2022-08-31,Ligue 1,Lille v Nice,19:00:00,Match 5
+3272,2022-08-31,Ligue 1,Lyon v Auxerre,17:00:00,Match 5
+3273,2022-08-31,Ligue 1,Marseille v Clermont,19:00:00,Match 5
+3274,2022-08-31,Ligue 1,Monaco v Troyes,17:00:00,Match 5
+3275,2022-08-31,Ligue 1,Montpellier v AC Ajaccio,17:00:00,Match 5
+3276,2022-08-31,Ligue 1,RC Lens v Lorient,19:00:00,Match 5
+3277,2022-08-31,Ligue 1,Rennes v Brest,19:00:00,Match 5
+3278,2022-08-31,Ligue 1,Strasbourg v Nantes,17:00:00,Match 5
+3279,2022-08-31,Ligue 1,Toulouse v Paris Saint-Germain,19:00:00,Match 5
 3280,2022-09-04,Ligue 1,AC Ajaccio v Lorient,,Match 6
 3281,2022-09-04,Ligue 1,Auxerre v Marseille,,Match 6
 3282,2022-09-04,Ligue 1,Brest v Strasbourg,,Match 6
@@ -3416,22 +3168,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3643,2022-08-14,Norway 1. Divisjon,Fredrikstad v Ranheim TF,13:00:00,Match 20
-3644,2022-08-14,Norway 1. Divisjon,Kongsvinger v Start,13:00:00,Match 20
-3645,2022-08-14,Norway 1. Divisjon,Bryne v Grorud,13:00:00,Match 20
-3646,2022-08-14,Norway 1. Divisjon,Skeid v Åsane,16:00:00,Match 20
-3647,2022-08-14,Norway 1. Divisjon,Stjørdals-Blink v Stabæk,16:00:00,Match 20
-3648,2022-08-14,Norway 1. Divisjon,Kfum Oslo v Sandnes Ulf,16:00:00,Match 20
-3649,2022-08-14,Norway 1. Divisjon,Mjøndalen v Sogndal,16:00:00,Match 20
-3650,2022-08-14,Norway 1. Divisjon,Brann v Raufoss,16:00:00,Match 20
-3651,2022-08-20,Norway 1. Divisjon,Sogndal v Brann,14:00:00,Match 21
-3652,2022-08-21,Norway 1. Divisjon,Sandnes Ulf v Stjørdals-Blink,13:00:00,Match 21
-3653,2022-08-21,Norway 1. Divisjon,Stabæk v Start,13:00:00,Match 21
-3654,2022-08-22,Norway 1. Divisjon,Ranheim TF v Bryne,16:00:00,Match 21
-3655,2022-08-22,Norway 1. Divisjon,Åsane v Mjøndalen,16:00:00,Match 21
-3656,2022-08-22,Norway 1. Divisjon,Grorud v Skeid,16:00:00,Match 21
-3657,2022-08-22,Norway 1. Divisjon,Kfum Oslo v Fredrikstad,16:00:00,Match 21
-3658,2022-08-22,Norway 1. Divisjon,Raufoss v Kongsvinger,16:00:00,Match 21
 3659,2022-08-27,Norway 1. Divisjon,Fredrikstad v Sogndal,13:00:00,Match 22
 3660,2022-08-27,Norway 1. Divisjon,Kongsvinger v Stabæk,13:00:00,Match 22
 3661,2022-08-27,Norway 1. Divisjon,Stjørdals-Blink v Åsane,13:00:00,Match 22
@@ -3504,26 +3240,6 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3741,2022-08-13,Premier League,Aston Villa v Everton,11:30:00,Match 2
-3742,2022-08-13,Premier League,Arsenal v Leicester City,14:00:00,Match 2
-3743,2022-08-13,Premier League,Brighton and Hove Albion v Newcastle United,14:00:00,Match 2
-3744,2022-08-13,Premier League,Manchester City v Bournemouth,14:00:00,Match 2
-3745,2022-08-13,Premier League,Southampton v Leeds United,14:00:00,Match 2
-3746,2022-08-13,Premier League,Wolverhampton Wanderers v Fulham,14:00:00,Match 2
-3747,2022-08-13,Premier League,Brentford v Manchester United,16:30:00,Match 2
-3748,2022-08-14,Premier League,Nottingham Forest v West Ham United,13:00:00,Match 2
-3749,2022-08-14,Premier League,Chelsea v Tottenham Hotspur,15:30:00,Match 2
-3750,2022-08-15,Premier League,Liverpool v Crystal Palace,19:00:00,Match 2
-3751,2022-08-20,Premier League,Tottenham Hotspur v Wolverhampton Wanderers,11:30:00,Match 3
-3752,2022-08-20,Premier League,Crystal Palace v Aston Villa,14:00:00,Match 3
-3753,2022-08-20,Premier League,Everton v Nottingham Forest,14:00:00,Match 3
-3754,2022-08-20,Premier League,Fulham v Brentford,14:00:00,Match 3
-3755,2022-08-20,Premier League,Leicester City v Southampton,14:00:00,Match 3
-3756,2022-08-20,Premier League,Bournemouth v Arsenal,16:30:00,Match 3
-3757,2022-08-21,Premier League,Leeds United v Chelsea,13:00:00,Match 3
-3758,2022-08-21,Premier League,West Ham United v Brighton and Hove Albion,13:00:00,Match 3
-3759,2022-08-21,Premier League,Newcastle United v Manchester City,15:30:00,Match 3
-3760,2022-08-22,Premier League,Manchester United v Liverpool,19:00:00,Match 3
 3761,2022-08-27,Premier League,Southampton v Manchester United,11:30:00,Match 4
 3762,2022-08-27,Premier League,Brentford v Everton,14:00:00,Match 4
 3763,2022-08-27,Premier League,Brighton and Hove Albion v Leeds United,14:00:00,Match 4
@@ -3874,24 +3590,7 @@ ID,date,league,teams,time,note_1
 4108,2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 4109,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-4120,2022-08-13,Primeira Liga,Casa Pia AC v Benfica,17:00:00,Match 2
-4121,2022-08-12,Primeira Liga,FC Famalicão v Sporting Braga,19:15:00,Match 2
-4122,2022-08-13,Primeira Liga,Sporting Lisbon v Rio Ave,19:30:00,Match 2
-4123,2022-08-14,Primeira Liga,Boavista v Santa Clara,14:30:00,Match 2
-4124,2022-08-14,Primeira Liga,Vizela v FC Porto,17:00:00,Match 2
-4125,2022-08-14,Primeira Liga,Vitória Guimarães v Estoril Praia,19:30:00,Match 2
-4126,2022-08-15,Primeira Liga,Marítimo v Chaves,14:30:00,Match 2
-4127,2022-08-15,Primeira Liga,Arouca v Gil Vicente,17:00:00,Match 2
-4128,2022-08-15,Primeira Liga,Paços de Ferreira v Portimonense,19:30:00,Match 2
-4129,2022-08-20,Primeira Liga,Santa Clara v Arouca,14:30:00,Match 3
 4130,2022-08-30,Primeira Liga,Benfica v Paços de Ferreira,19:15:00,Match 3
-4131,2022-08-21,Primeira Liga,Casa Pia AC v Boavista,14:30:00,Match 3
-4132,2022-08-20,Primeira Liga,Chaves v Vizela,17:00:00,Match 3
-4133,2022-08-19,Primeira Liga,Estoril Praia v Rio Ave,19:15:00,Match 3
-4134,2022-08-20,Primeira Liga,FC Porto v Sporting Lisbon,19:30:00,Match 3
-4135,2022-08-22,Primeira Liga,Gil Vicente v FC Famalicão,19:15:00,Match 3
-4136,2022-08-21,Primeira Liga,Portimonense v Vitória Guimarães,19:30:00,Match 3
-4137,2022-08-21,Primeira Liga,Sporting Braga v Marítimo,17:00:00,Match 3
 4138,2022-08-28,Primeira Liga,Arouca v Sporting Braga,17:00:00,Match 4
 4139,2022-08-27,Primeira Liga,Boavista v Benfica,17:00:00,Match 4
 4140,2022-08-28,Primeira Liga,FC Famalicão v Santa Clara,14:30:00,Match 4
@@ -4171,26 +3870,6 @@ ID,date,league,teams,time,note_1
 4414,2023-05-28,Primeira Liga,Rio Ave v FC Famalicão,,Match 34
 4415,2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
 4416,2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
-4417,2022-08-13,Serie A,AC Milan v Udinese,16:30:00,Match 1
-4418,2022-08-13,Serie A,Sampdoria v Atalanta,16:30:00,Match 1
-4419,2022-08-13,Serie A,Lecce v Inter Milan,18:45:00,Match 1
-4420,2022-08-13,Serie A,Monza v Torino,18:45:00,Match 1
-4421,2022-08-14,Serie A,Fiorentina v Cremonese,16:30:00,Match 1
-4422,2022-08-14,Serie A,Lazio v Bologna,16:30:00,Match 1
-4423,2022-08-14,Serie A,Salernitana v Roma,18:45:00,Match 1
-4424,2022-08-14,Serie A,Spezia v Empoli,18:45:00,Match 1
-4425,2022-08-15,Serie A,Verona v Napoli,16:30:00,Match 1
-4426,2022-08-15,Serie A,Juventus v Sassuolo,18:45:00,Match 1
-4427,2022-08-20,Serie A,Torino v Lazio,16:30:00,Match 2
-4428,2022-08-20,Serie A,Udinese v Salernitana,16:30:00,Match 2
-4429,2022-08-20,Serie A,Inter Milan v Spezia,18:45:00,Match 2
-4430,2022-08-20,Serie A,Sassuolo v Lecce,18:45:00,Match 2
-4431,2022-08-21,Serie A,Empoli v Fiorentina,16:30:00,Match 2
-4432,2022-08-21,Serie A,Napoli v Monza,16:30:00,Match 2
-4433,2022-08-21,Serie A,Atalanta v AC Milan,18:45:00,Match 2
-4434,2022-08-21,Serie A,Bologna v Verona,18:45:00,Match 2
-4435,2022-08-22,Serie A,Roma v Cremonese,16:30:00,Match 2
-4436,2022-08-22,Serie A,Sampdoria v Juventus,18:45:00,Match 2
 4437,2022-08-26,Serie A,Monza v Udinese,16:30:00,Match 3
 4438,2022-08-26,Serie A,Lazio v Inter Milan,18:45:00,Match 3
 4439,2022-08-27,Serie A,Cremonese v Torino,16:30:00,Match 3
@@ -4551,33 +4230,15 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-4806,2022-08-13,Süper Lig,Kayserispor v İstanbulspor,16:15:00,Match 2
-4807,2022-08-14,Süper Lig,Alanyaspor v Beşiktaş,18:45:00,Match 2
-4808,2022-08-14,Süper Lig,Gaziantep v Ankaragücü,16:15:00,Match 2
-4809,2022-08-13,Süper Lig,Adana Demirspor v Sivasspor,18:45:00,Match 2
-4810,2022-08-15,Süper Lig,Galatasaray v Giresunspor,18:45:00,Match 2
-4811,2022-08-15,Süper Lig,Konyaspor v İstanbul Başakşehir,16:15:00,Match 2
-4812,2022-08-15,Süper Lig,Kasımpaşa v Fenerbahçe,18:45:00,Match 2
-4813,2022-08-14,Süper Lig,Ümraniyespor v Antalyaspor,16:15:00,Match 2
-4814,2022-08-12,Süper Lig,Trabzonspor v Hatayspor,18:00:00,Match 2
-4815,2022-08-21,Süper Lig,Ümraniyespor v Galatasaray,,Match 3
-4816,2022-08-21,Süper Lig,Beşiktaş v Fatih Karagümrük,,Match 3
-4817,2022-08-21,Süper Lig,Hatayspor v Gaziantep,,Match 3
-4818,2022-08-21,Süper Lig,Fenerbahçe v Adana Demirspor,,Match 3
-4819,2022-08-21,Süper Lig,Sivasspor v Alanyaspor,,Match 3
-4820,2022-08-21,Süper Lig,Giresunspor v Kasımpaşa,,Match 3
-4821,2022-08-21,Süper Lig,İstanbulspor v Konyaspor,,Match 3
-4822,2022-08-21,Süper Lig,İstanbul Başakşehir v Kayserispor,,Match 3
-4823,2022-08-21,Süper Lig,Antalyaspor v Trabzonspor,,Match 3
-4824,2022-08-28,Süper Lig,Fatih Karagümrük v Ankaragücü,,Match 4
-4825,2022-08-28,Süper Lig,Alanyaspor v İstanbulspor,,Match 4
-4826,2022-08-28,Süper Lig,Beşiktaş v Sivasspor,,Match 4
-4827,2022-08-28,Süper Lig,Kayserispor v Giresunspor,,Match 4
-4828,2022-08-28,Süper Lig,Konyaspor v Fenerbahçe,,Match 4
-4829,2022-08-28,Süper Lig,Trabzonspor v Galatasaray,,Match 4
-4830,2022-08-28,Süper Lig,Gaziantep v Antalyaspor,,Match 4
-4831,2022-08-28,Süper Lig,Adana Demirspor v Ümraniyespor,,Match 4
-4832,2022-08-28,Süper Lig,Kasımpaşa v Hatayspor,,Match 4
+4824,2022-08-27,Süper Lig,Fatih Karagümrük v Ankaragücü,16:15:00,Match 4
+4825,2022-08-27,Süper Lig,Alanyaspor v İstanbulspor,18:45:00,Match 4
+4826,2022-08-29,Süper Lig,Beşiktaş v Sivasspor,18:45:00,Match 4
+4827,2022-08-28,Süper Lig,Kayserispor v Giresunspor,16:15:00,Match 4
+4828,2022-08-29,Süper Lig,Konyaspor v Fenerbahçe,16:15:00,Match 4
+4829,2022-08-28,Süper Lig,Trabzonspor v Galatasaray,16:15:00,Match 4
+4830,2022-08-26,Süper Lig,Gaziantep v Antalyaspor,18:00:00,Match 4
+4831,2022-08-27,Süper Lig,Adana Demirspor v Ümraniyespor,18:45:00,Match 4
+4832,2022-08-28,Süper Lig,Kasımpaşa v Hatayspor,16:15:00,Match 4
 4833,2022-09-04,Süper Lig,İstanbul Başakşehir v Alanyaspor,,Match 5
 4834,2022-09-04,Süper Lig,Galatasaray v Gaziantep,,Match 5
 4835,2022-09-04,Süper Lig,Sivasspor v Fatih Karagümrük,,Match 5
@@ -4937,40 +4598,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5239,2022-08-13,USA MLS,New York Red Bulls v Orlando City SC,22:00:00,Regular Season
-5240,2022-08-13,USA MLS,FC Cincinnati v Atlanta United FC,23:30:00,Regular Season
-5241,2022-08-13,USA MLS,New England Revolution v D.C. United,23:30:00,Regular Season
-5242,2022-08-13,USA MLS,Philadelphia Union v Chicago Fire,23:30:00,Regular Season
-5243,2022-08-13,USA MLS,Toronto FC v Portland Timbers,23:30:00,Regular Season
-5244,2022-08-14,USA MLS,Inter Miami CF v New York City FC,00:00:00,Regular Season
-5245,2022-08-14,USA MLS,Austin FC v Sporting Kansas City,01:00:00,Regular Season
-5246,2022-08-14,USA MLS,Colorado Rapids v Columbus Crew,01:00:00,Regular Season
-5247,2022-08-14,USA MLS,FC Dallas v San Jose Earthquakes,01:00:00,Regular Season
-5248,2022-08-14,USA MLS,Houston Dynamo v CF Montréal,01:00:00,Regular Season
-5249,2022-08-14,USA MLS,Los Angeles Galaxy v Vancouver Whitecaps,02:00:00,Regular Season
-5250,2022-08-14,USA MLS,Los Angeles Football Club v Charlotte FC,02:30:00,Regular Season
-5251,2022-08-15,USA MLS,Nashville SC v Minnesota United FC,00:00:00,Regular Season
-5252,2022-08-15,USA MLS,Seattle Sounders FC v Real Salt Lake,02:00:00,Regular Season
-5253,2022-08-17,USA MLS,Los Angeles Football Club v D.C. United,02:30:00,Regular Season
-5254,2022-08-17,USA MLS,Atlanta United FC v New York Red Bulls,23:30:00,Regular Season
-5255,2022-08-17,USA MLS,Toronto FC v New England Revolution,23:30:00,Regular Season
-5256,2022-08-18,USA MLS,New York City FC v Charlotte FC,00:00:00,Regular Season
-5257,2022-08-18,USA MLS,FC Dallas v Philadelphia Union,01:00:00,Regular Season
-5258,2022-08-18,USA MLS,Vancouver Whitecaps v Colorado Rapids,02:00:00,Regular Season
-5259,2022-08-20,USA MLS,Los Angeles Galaxy v Seattle Sounders FC,02:00:00,Regular Season
-5260,2022-08-20,USA MLS,New York Red Bulls v FC Cincinnati,22:00:00,Regular Season
-5261,2022-08-20,USA MLS,CF Montréal v New England Revolution,23:30:00,Regular Season
-5262,2022-08-20,USA MLS,D.C. United v Philadelphia Union,23:30:00,Regular Season
-5263,2022-08-21,USA MLS,Inter Miami CF v Toronto FC,00:00:00,Regular Season
-5264,2022-08-21,USA MLS,Minnesota United FC v Austin FC,00:00:00,Regular Season
-5265,2022-08-21,USA MLS,Colorado Rapids v Houston Dynamo,01:00:00,Regular Season
-5266,2022-08-21,USA MLS,Real Salt Lake v Vancouver Whitecaps,02:00:00,Regular Season
-5267,2022-08-21,USA MLS,San Jose Earthquakes v Los Angeles Football Club,02:00:00,Regular Season
-5268,2022-08-21,USA MLS,Chicago Fire v New York City FC,22:00:00,Regular Season
-5269,2022-08-21,USA MLS,Columbus Crew v Atlanta United FC,22:00:00,Regular Season
-5270,2022-08-21,USA MLS,Charlotte FC v Orlando City SC,23:00:00,Regular Season
-5271,2022-08-22,USA MLS,Sporting Kansas City v Portland Timbers,00:00:00,Regular Season
-5272,2022-08-22,USA MLS,Nashville SC v FC Dallas,00:30:00,Regular Season
 5273,2022-08-27,USA MLS,Austin FC v Los Angeles Football Club,00:00:00,Regular Season
 5274,2022-08-27,USA MLS,Portland Timbers v Seattle Sounders FC,02:00:00,Regular Season
 5275,2022-08-27,USA MLS,Minnesota United FC v Houston Dynamo,19:30:00,Regular Season
@@ -5077,17 +4704,6 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5397,2022-08-12,Veikkausliiga,Haka v AC Oulu,15:00:00,Match 18
-5398,2022-08-13,Veikkausliiga,Ilves v FC Honka,14:00:00,Match 18
-5399,2022-08-13,Veikkausliiga,Inter Turku v VPS Vaasa,14:00:00,Match 18
-5400,2022-08-13,Veikkausliiga,KuPS Kuopio v IFK Mariehamn,14:00:00,Match 18
-5401,2022-08-15,Veikkausliiga,HIFK Helsinki v SJK,15:00:00,Match 18
-5402,2022-08-20,Veikkausliiga,FC Honka v HIFK Helsinki,12:00:00,Match 19
-5403,2022-08-20,Veikkausliiga,SJK v KuPS Kuopio,14:00:00,Match 19
-5404,2022-08-20,Veikkausliiga,VPS Vaasa v Lahti,14:00:00,Match 19
-5405,2022-08-21,Veikkausliiga,AC Oulu v Inter Turku,13:00:00,Match 19
-5406,2022-08-21,Veikkausliiga,Haka v HJK Helsinki,13:00:00,Match 19
-5407,2022-08-21,Veikkausliiga,IFK Mariehamn v Ilves,15:30:00,Match 19
 5408,2022-08-26,Veikkausliiga,Lahti v IFK Mariehamn,15:00:00,Match 20
 5409,2022-08-27,Veikkausliiga,FC Honka v AC Oulu,12:00:00,Match 20
 5410,2022-08-27,Veikkausliiga,Ilves v Haka,14:00:00,Match 20
@@ -5172,3 +4788,6 @@ ID,date,league,teams,time,note_1
 5489,2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
 5490,2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals
 5492,2022-08-31,Eliteserien,Tromsø v Strømsgodset,17:00:00,Match 14
+5493,2022-08-31,Eredivisie,PSV Eindhoven v FC Volendam,16:45:00,Match 3
+5494,2022-09-01,Eredivisie,AZ Alkmaar v NEC Nijmegen,18:00:00,Match 3
+5495,2022-08-31,J1 League,Avispa Fukuoka v Gamba Osaka,10:00:00,Match 24

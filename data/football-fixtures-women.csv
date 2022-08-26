@@ -135,32 +135,11 @@ ID,date,league,teams,time,note_1
 143,2022-09-06,International Friendly,Australia v Canada,09:40:00,Allianz Stadium (Australia)
 144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium (Japan)
 145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
-152,2022-08-14,Norwegian Toppserien,Avaldsnes v Vålerenga,12:00:00,Round 16
-153,2022-08-14,Norwegian Toppserien,Kolbotn v Rosenborg,13:00:00,Round 16
-154,2022-08-14,Norwegian Toppserien,Lyn v Arna-Bjørnar,13:00:00,Round 16
-155,2022-08-14,Norwegian Toppserien,Røa v LSK,13:00:00,Round 16
-156,2022-08-13,Norwegian Toppserien,SK Brann v Stabæk,16:00:00,Round 16
-157,2022-08-21,Norwegian Toppserien,LSK v Avaldsnes,13:00:00,Round 17
-158,2022-08-21,Norwegian Toppserien,Røa v Kolbotn,13:00:00,Round 17
-159,2022-08-20,Norwegian Toppserien,Vålerenga v Lyn,15:00:00,Round 17
 160,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
 161,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
 162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
 163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
 164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-174,2022-08-12,Swedish Damallsvenskan,Kristianstad v Vittsjö,16:00:00,Round 16
-175,2022-08-14,Swedish Damallsvenskan,Eskilstuna v Hammarby,13:00:00,Round 16
-176,2022-08-14,Swedish Damallsvenskan,Örebro v BP,13:00:00,Round 16
-177,2022-08-14,Swedish Damallsvenskan,Piteå v AIK,13:00:00,Round 16
-178,2022-08-14,Swedish Damallsvenskan,Umeå IK v IFK Kalmar,13:00:00,Round 16
-179,2022-08-15,Swedish Damallsvenskan,Djurgården v Linköping,17:00:00,Round 16
-180,2022-08-19,Swedish Damallsvenskan,Häcken v Örebro,16:00:00,Round 17
-181,2022-08-19,Swedish Damallsvenskan,Piteå v Rosengård,16:00:00,Round 17
-182,2022-08-21,Swedish Damallsvenskan,AIK v Umeå IK,11:00:00,Round 17
-183,2022-08-21,Swedish Damallsvenskan,Hammarby v Djurgården,13:00:00,Round 17
-184,2022-08-21,Swedish Damallsvenskan,Linköping v BP,13:00:00,Round 17
-185,2022-08-22,Swedish Damallsvenskan,Vittsjö v Eskilstuna,16:00:00,Round 17
-186,2022-08-24,Swedish Damallsvenskan,Rosengård v Häcken,17:00:00,Round 16
 187,2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
 188,2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
 189,2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
