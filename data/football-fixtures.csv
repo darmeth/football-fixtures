@@ -1,11 +1,4 @@
 ID,date,league,teams,time,note_1
-39,2022-08-27,Allsvenskan,BK Häcken v IFK Värnamo,13:00:00,Match 20
-40,2022-08-27,Allsvenskan,Degerfors IF v GIF Sundsvall,15:30:00,Match 20
-41,2022-08-28,Allsvenskan,AIK v Hammarby IF,13:00:00,Match 20
-42,2022-08-28,Allsvenskan,IFK Göteborg v IK Sirius,13:00:00,Match 20
-43,2022-08-28,Allsvenskan,Varbergs BoIS v IFK Norrköping,13:00:00,Match 20
-44,2022-08-28,Allsvenskan,Helsingborgs IF v Mjällby AIF,15:30:00,Match 20
-45,2022-08-28,Allsvenskan,Malmö FF v Kalmar FF,15:30:00,Match 20
 46,2022-08-29,Allsvenskan,Djurgårdens IF v IF Elfsborg,17:10:00,Match 20
 47,2022-09-04,Allsvenskan,BK Häcken v Degerfors IF,13:00:00,Match 21
 48,2022-09-04,Allsvenskan,IK Sirius v Djurgårdens IF,13:00:00,Match 21
@@ -87,15 +80,7 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-177,2022-08-27,Brazilian Série A,Goias v Atletico Goianiense,19:30:00,Match 24
-178,2022-08-27,Brazilian Série A,Coritiba v Avai,19:30:00,Match 24
-179,2022-08-28,Brazilian Série A,Botafogo v Flamengo,21:00:00,Match 24
 180,2022-08-30,Brazilian Série A,Corinthians v Bragantino,00:30:00,Match 24
-181,2022-08-27,Brazilian Série A,Fluminense v Palmeiras,22:00:00,Match 24
-182,2022-08-28,Brazilian Série A,Sao Paulo v Fortaleza,19:00:00,Match 24
-183,2022-08-28,Brazilian Série A,America Mineiro v Atletico Mineiro,19:00:00,Match 24
-184,2022-08-28,Brazilian Série A,Cuiaba v Santos,21:00:00,Match 24
-185,2022-08-28,Brazilian Série A,Ceara v Atletico Paranaense,00:00:00,Match 24
 186,2022-08-29,Brazilian Série A,Internacional v Juventude,23:00:00,Match 24
 187,2022-09-03,Brazilian Série A,Juventude v Avai,19:30:00,Match 25
 188,2022-09-03,Brazilian Série A,Bragantino v Palmeiras,22:00:00,Match 25
@@ -237,33 +222,24 @@ ID,date,league,teams,time,note_1
 324,2022-11-13,Brazilian Série A,Flamengo v Avai,,Match 38
 325,2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 326,2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
-354,2022-08-26,Bundesliga,SC Freiburg v VfL Bochum,18:30:00,Match 4
-355,2022-08-27,Bundesliga,Hertha v Dortmund,13:30:00,Match 4
-356,2022-08-27,Bundesliga,Hoffenheim v Augsburg,13:30:00,Match 4
-357,2022-08-27,Bundesliga,Mainz v Leverkusen,13:30:00,Match 4
-358,2022-08-27,Bundesliga,RB Leipzig v Wolfsburg,13:30:00,Match 4
-359,2022-08-27,Bundesliga,Schalke v Union Berlin,13:30:00,Match 4
-360,2022-08-27,Bundesliga,Bayern v Mönchengladbach,16:30:00,Match 4
-361,2022-08-28,Bundesliga,Köln v VfB Stuttgart,13:30:00,Match 4
-362,2022-08-28,Bundesliga,Werder v Eintracht Frankfurt,15:30:00,Match 4
 363,2022-09-02,Bundesliga,Dortmund v Hoffenheim,18:30:00,Match 5
 364,2022-09-03,Bundesliga,Union Berlin v Bayern,13:30:00,Match 5
 365,2022-09-03,Bundesliga,Leverkusen v SC Freiburg,13:30:00,Match 5
 366,2022-09-03,Bundesliga,VfL Bochum v Werder,13:30:00,Match 5
-367,2022-09-03,Bundesliga,Augsburg v Hertha,13:30:00,Match 5
-368,2022-09-03,1. FC Köln,Wolfsburg v Köln,13:30:00,Match 5
+367,2022-09-04,Bundesliga,Augsburg v Hertha,13:30:00,Match 5
+368,2022-09-03,Bundesliga,Wolfsburg v Köln,13:30:00,Match 5
 369,2022-09-03,Bundesliga,Eintracht Frankfurt v RB Leipzig,16:30:00,Match 5
-370,2022-09-04,Bundesliga,VfB Stuttgart v Schalke,13:30:00,Match 5
+370,2022-09-03,Bundesliga,VfB Stuttgart v Schalke,13:30:00,Match 5
 371,2022-09-04,Bundesliga,Mönchengladbach v Mainz,15:30:00,Match 5
-372,2022-09-10,Bundesliga,Bayern v VfB Stuttgart,,Match 6
-373,2022-09-10,Bundesliga,Köln v Union Berlin,,Match 6
-374,2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,,Match 6
-375,2022-09-10,Bundesliga,Hertha v Leverkusen,,Match 6
-376,2022-09-10,Bundesliga,Hoffenheim v Mainz,,Match 6
-377,2022-09-10,Bundesliga,RB Leipzig v Dortmund,,Match 6
-378,2022-09-10,Bundesliga,SC Freiburg v Mönchengladbach,,Match 6
-379,2022-09-10,Bundesliga,Schalke v VfL Bochum,,Match 6
-380,2022-09-10,Bundesliga,Werder v Augsburg,,Match 6
+372,2022-09-10,Bundesliga,Bayern v VfB Stuttgart,13:30:00,Match 6
+373,2022-09-11,Bundesliga,Köln v Union Berlin,13:30:00,Match 6
+374,2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,13:30:00,Match 6
+375,2022-09-10,Bundesliga,Hertha v Leverkusen,13:30:00,Match 6
+376,2022-09-10,Bundesliga,Hoffenheim v Mainz,13:30:00,Match 6
+377,2022-09-10,Bundesliga,RB Leipzig v Dortmund,13:30:00,Match 6
+378,2022-09-11,Bundesliga,SC Freiburg v Mönchengladbach,15:30:00,Match 6
+379,2022-09-10,Bundesliga,Schalke v VfL Bochum,16:30:00,Match 6
+380,2022-09-09,Bundesliga,Werder v Augsburg,18:30:00,Match 6
 381,2022-09-17,Bundesliga,Union Berlin v Wolfsburg,,Match 7
 382,2022-09-17,Bundesliga,Leverkusen v Werder,,Match 7
 383,2022-09-17,Bundesliga,VfL Bochum v Köln,,Match 7
@@ -517,28 +493,16 @@ ID,date,league,teams,time,note_1
 631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
 655,,EFL Championship,Coventry City v Rotherham United,,Match 2
-693,2022-08-27,EFL Championship,Blackburn Rovers v Stoke City,14:00:00,Match 6
-694,2022-08-27,EFL Championship,Blackpool v Bristol City,14:00:00,Match 6
-695,2022-08-27,EFL Championship,Cardiff City v Preston North End,14:00:00,Match 6
-696,2022-08-27,EFL Championship,Huddersfield Town v West Bromwich Albion,14:00:00,Match 6
-697,2022-08-27,EFL Championship,Hull City v Coventry City,14:00:00,Match 6
-698,2022-08-26,EFL Championship,Luton Town v Sheffield United,19:00:00,Match 6
-699,2022-08-27,EFL Championship,Middlesbrough v Swansea City,14:00:00,Match 6
-700,2022-08-27,EFL Championship,Millwall v Reading,14:00:00,Match 6
-701,2022-08-27,EFL Championship,Rotherham United v Birmingham City,14:00:00,Match 6
-702,2022-08-27,EFL Championship,Sunderland v Norwich City,11:30:00,Match 6
-703,2022-08-27,EFL Championship,Watford v Queens Park Rangers,14:00:00,Match 6
-704,2022-08-27,EFL Championship,Wigan Athletic v Burnley,14:00:00,Match 6
 705,2022-08-30,EFL Championship,Birmingham City v Norwich City,18:45:00,Match 7
 706,2022-08-30,EFL Championship,Burnley v Millwall,18:45:00,Match 7
 707,2022-08-30,EFL Championship,Cardiff City v Luton Town,18:45:00,Match 7
 708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,18:45:00,Match 7
-709,2022-08-30,EFL Championship,Watford v Middlesbrough,18:45:00,Match 7
+709,2022-08-30,EFL Championship,Watford v Middlesbrough,19:00:00,Match 7
 710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,18:45:00,Match 7
 711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,19:00:00,Match 7
 712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,18:45:00,Match 7
 713,2022-08-31,EFL Championship,Coventry City v Preston North End,18:45:00,Match 7
-714,2022-08-31,EFL Championship,Sheffield United v Reading,18:45:00,Match 7
+714,2022-08-30,EFL Championship,Sheffield United v Reading,18:45:00,Match 7
 715,2022-08-31,EFL Championship,Sunderland v Rotherham United,18:45:00,Match 7
 716,2022-08-31,EFL Championship,Stoke City v Swansea City,18:45:00,Match 7
 717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,,Match 8
@@ -1009,18 +973,6 @@ ID,date,league,teams,time,note_1
 1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
 1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
 1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
-1245,2022-08-27,EFL League One,Accrington Stanley v Exeter City,14:00:00,Match 6
-1246,2022-08-27,EFL League One,Bristol Rovers v Shrewsbury Town,14:00:00,Match 6
-1247,2022-08-27,EFL League One,Cambridge United v Burton Albion,14:00:00,Match 6
-1248,2022-08-27,EFL League One,Cheltenham Town v Oxford United,14:00:00,Match 6
-1249,2022-08-27,EFL League One,Derby County v Peterborough United,14:00:00,Match 6
-1250,2022-08-27,EFL League One,Ipswich Town v Barnsley,14:00:00,Match 6
-1251,2022-08-27,EFL League One,Lincoln City v Fleetwood Town,14:00:00,Match 6
-1252,2022-08-27,EFL League One,Morecambe v Milton Keynes Dons,14:00:00,Match 6
-1253,2022-08-27,EFL League One,Plymouth Argyle v Bolton Wanderers,14:00:00,Match 6
-1254,2022-08-27,EFL League One,Port Vale v Portsmouth,14:00:00,Match 6
-1255,2022-08-27,EFL League One,Sheffield Wednesday v Forest Green Rovers,14:00:00,Match 6
-1256,2022-08-27,EFL League One,Wycombe Wanderers v Charlton Athletic,14:00:00,Match 6
 1257,2022-09-03,EFL League One,Accrington Stanley v Ipswich Town,14:00:00,Match 7
 1258,2022-09-03,EFL League One,Bolton Wanderers v Charlton Athletic,14:00:00,Match 7
 1259,2022-09-03,EFL League One,Bristol Rovers v Morecambe,14:00:00,Match 7
@@ -1501,18 +1453,6 @@ ID,date,league,teams,time,note_1
 1734,2023-05-06,EFL League One,Port Vale v Plymouth Argyle,14:00:00,Match 46
 1735,2023-05-06,EFL League One,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 1736,2023-05-06,EFL League One,Sheffield Wednesday v Derby County,14:00:00,Match 46
-1797,2022-08-27,EFL League Two,AFC Wimbledon v Barrow,14:00:00,Match 6
-1798,2022-08-27,EFL League Two,Bradford City v Crewe Alexandra,14:00:00,Match 6
-1799,2022-08-27,EFL League Two,Carlisle United v Gillingham,14:00:00,Match 6
-1800,2022-08-27,EFL League Two,Harrogate Town v Newport County AFC,14:00:00,Match 6
-1801,2022-08-27,EFL League Two,Leyton Orient v Hartlepool United,14:00:00,Match 6
-1802,2022-08-27,EFL League Two,Northampton Town v Doncaster Rovers,14:00:00,Match 6
-1803,2022-08-27,EFL League Two,Rochdale v Crawley Town,14:00:00,Match 6
-1804,2022-08-27,EFL League Two,Salford City v Stevenage,14:00:00,Match 6
-1805,2022-08-27,EFL League Two,Stockport County v Swindon Town,14:00:00,Match 6
-1806,2022-08-27,EFL League Two,Sutton United v Mansfield Town,14:00:00,Match 6
-1807,2022-08-27,EFL League Two,Tranmere Rovers v Colchester United,14:00:00,Match 6
-1808,2022-08-27,EFL League Two,Walsall v Grimsby Town,14:00:00,Match 6
 1809,2022-09-03,EFL League Two,Bradford City v Walsall,14:00:00,Match 7
 1810,2022-09-03,EFL League Two,Carlisle United v Rochdale,14:00:00,Match 7
 1811,2022-09-03,EFL League Two,Colchester United v Hartlepool United,14:00:00,Match 7
@@ -1993,28 +1933,20 @@ ID,date,league,teams,time,note_1
 2286,2023-05-06,EFL League Two,Swindon Town v Crawley Town,14:00:00,Match 46
 2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
-2326,2022-08-27,Eliteserien,Sandefjord v Strømsgodset,16:00:00,Match 20
-2327,2022-08-27,Eliteserien,Jerv v Bodø/Glimt,16:00:00,Match 20
-2328,2022-08-28,Eliteserien,Viking v Vålerenga,16:00:00,Match 20
-2329,2022-08-28,Eliteserien,Lillestrøm v Kristiansund Bk,16:00:00,Match 20
-2330,2022-08-28,Eliteserien,Molde v Sarpsborg 08,16:00:00,Match 20
-2331,2022-08-28,Eliteserien,Aalesund v Odd Ballklubb,16:00:00,Match 20
-2332,2022-08-28,Eliteserien,HamKam v Haugesund,16:00:00,Match 20
-2333,2022-08-28,Eliteserien,Tromsø v Rosenborg,18:00:00,Match 20
-2334,2022-09-04,Eliteserien,Bodø/Glimt v Molde,16:00:00,Match 21
+2334,2022-09-03,Eliteserien,Bodø/Glimt v Molde,16:00:00,Match 21
 2335,2022-09-04,Eliteserien,Haugesund v Tromsø,16:00:00,Match 21
 2336,2022-09-04,Eliteserien,Odd Ballklubb v Jerv,16:00:00,Match 21
-2337,2022-09-04,Eliteserien,Vålerenga v Lillestrøm,16:00:00,Match 21
+2337,2022-09-04,Eliteserien,Vålerenga v Lillestrøm,18:00:00,Match 21
 2338,2022-09-04,Eliteserien,Kristiansund Bk v Sandefjord,16:00:00,Match 21
 2339,2022-09-04,Eliteserien,Strømsgodset v Aalesund,16:00:00,Match 21
 2340,2022-09-04,Eliteserien,Rosenborg v Viking,16:00:00,Match 21
 2341,2022-09-04,Eliteserien,Sarpsborg 08 v HamKam,16:00:00,Match 21
 2342,2022-09-11,Eliteserien,Aalesund v Sarpsborg 08,16:00:00,Match 22
 2343,2022-09-11,Eliteserien,HamKam v Viking,16:00:00,Match 22
-2344,2022-09-11,Eliteserien,Haugesund v Rosenborg,16:00:00,Match 22
+2344,2022-09-11,Eliteserien,Haugesund v Rosenborg,18:00:00,Match 22
 2345,2022-09-11,Eliteserien,Tromsø v Bodø/Glimt,16:00:00,Match 22
 2346,2022-09-11,Eliteserien,Lillestrøm v Strømsgodset,16:00:00,Match 22
-2347,2022-09-11,Eliteserien,Sandefjord v Odd Ballklubb,16:00:00,Match 22
+2347,2022-09-10,Eliteserien,Sandefjord v Odd Ballklubb,16:00:00,Match 22
 2348,2022-09-11,Eliteserien,Jerv v Molde,16:00:00,Match 22
 2349,2022-09-11,Eliteserien,Kristiansund Bk v Vålerenga,16:00:00,Match 22
 2350,2022-09-18,Eliteserien,Sarpsborg 08 v Jerv,16:00:00,Match 23
@@ -2081,15 +2013,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2440,2022-08-26,Eredivisie,NEC Nijmegen v Groningen,18:00:00,Match 3
-2441,2022-08-27,Eredivisie,Go Ahead Eagles v Sparta Rotterdam,14:30:00,Match 4
-2442,2022-08-27,Eredivisie,Vitesse Arnhem v RKC Waalwijk,16:45:00,Match 4
-2443,2022-08-27,Eredivisie,Feyenoord v Emmen,18:00:00,Match 4
-2444,2022-08-27,Eredivisie,Heerenveen v Fortuna Sittard,19:00:00,Match 4
-2445,2022-08-28,Eredivisie,FC Utrecht v Ajax,10:15:00,Match 4
-2446,2022-08-28,Eredivisie,Excelsior v PSV Eindhoven,12:30:00,Match 4
-2447,2022-08-28,Eredivisie,FC Volendam v FC Twente,12:30:00,Match 4
-2448,2022-08-28,Eredivisie,Cambuur Leeuwarden v AZ Alkmaar,14:45:00,Match 4
 2449,2022-08-31,Eredivisie,FC Twente v Excelsior,19:00:00,Match 3
 2450,2022-09-02,Eredivisie,Fortuna Sittard v FC Utrecht,18:00:00,Match 5
 2451,2022-09-03,Eredivisie,Ajax v Cambuur Leeuwarden,14:30:00,Match 5
@@ -2382,12 +2305,6 @@ ID,date,league,teams,time,note_1
 2738,2022-10-30,International Friendly,Saudi Arabia v Honduras,,
 2739,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2740,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2774,2022-08-26,J1 League,Sagan Tosu v Avispa Fukuoka,10:00:00,Match 27
-2775,2022-08-27,J1 League,Shimizu S-Pulse v Kyoto Sanga FC,09:00:00,Match 27
-2776,2022-08-27,J1 League,Nagoya Grampus v Gamba Osaka,09:00:00,Match 27
-2777,2022-08-27,J1 League,Kashiwa Reysol v FC Tokyo,10:00:00,Match 27
-2778,2022-08-27,J1 League,Cerezo Osaka v Sanfrecce Hiroshima,10:00:00,Match 27
-2779,2022-08-27,J1 League,Kawasaki Frontale v Kashima Antlers,10:00:00,Match 27
 2780,2022-08-31,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
 2781,2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,10:30:00,Match 28
 2782,2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,09:00:00,Match 28
@@ -2458,14 +2375,6 @@ ID,date,league,teams,time,note_1
 2847,2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2870,2022-08-26,La Liga,Girona v Celta Vigo,18:00:00,Match 3
-2871,2022-08-26,La Liga,Real Betis v Osasuna,20:00:00,Match 3
-2872,2022-08-27,La Liga,Elche v Real Sociedad,15:30:00,Match 3
-2873,2022-08-27,La Liga,Rayo Vallecano v Real Mallorca,17:30:00,Match 3
-2874,2022-08-27,La Liga,Almeria v Sevilla,20:00:00,Match 3
-2875,2022-08-28,La Liga,Getafe v Villarreal,15:30:00,Match 3
-2876,2022-08-28,La Liga,Barcelona v Real Valladolid,17:30:00,Match 3
-2877,2022-08-28,La Liga,Espanyol v Real Madrid,20:00:00,Match 3
 2878,2022-08-29,La Liga,Cadiz v Athletic Bilbao,18:00:00,Match 3
 2879,2022-08-29,La Liga,Valencia v Atletico Madrid,20:00:00,Match 3
 2880,2022-09-02,La Liga,Celta Vigo v Cadiz,19:00:00,Match 4
@@ -2818,16 +2727,6 @@ ID,date,league,teams,time,note_1
 3227,2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 3228,2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 3229,2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-3260,2022-08-26,Ligue 1,AC Ajaccio v Lille,19:00:00,Match 4
-3261,2022-08-27,Ligue 1,Auxerre v Strasbourg,15:00:00,Match 4
-3262,2022-08-28,Ligue 1,Brest v Montpellier,13:00:00,Match 4
-3263,2022-08-28,Ligue 1,Lorient v Clermont,13:00:00,Match 4
-3264,2022-08-28,Ligue 1,Nantes v Toulouse,11:00:00,Match 4
-3265,2022-08-28,Ligue 1,Nice v Marseille,13:00:00,Match 4
-3266,2022-08-28,Ligue 1,Paris Saint-Germain v Monaco,18:45:00,Match 4
-3267,2022-08-27,Ligue 1,RC Lens v Rennes,19:00:00,Match 4
-3268,2022-08-28,Ligue 1,Reims v Lyon,15:05:00,Match 4
-3269,2022-08-28,Ligue 1,Troyes v Angers,13:00:00,Match 4
 3270,2022-08-31,Ligue 1,Angers v Reims,17:00:00,Match 5
 3271,2022-08-31,Ligue 1,Lille v Nice,19:00:00,Match 5
 3272,2022-08-31,Ligue 1,Lyon v Auxerre,17:00:00,Match 5
@@ -2838,16 +2737,16 @@ ID,date,league,teams,time,note_1
 3277,2022-08-31,Ligue 1,Rennes v Brest,19:00:00,Match 5
 3278,2022-08-31,Ligue 1,Strasbourg v Nantes,17:00:00,Match 5
 3279,2022-08-31,Ligue 1,Toulouse v Paris Saint-Germain,19:00:00,Match 5
-3280,2022-09-04,Ligue 1,AC Ajaccio v Lorient,,Match 6
-3281,2022-09-04,Ligue 1,Auxerre v Marseille,,Match 6
-3282,2022-09-04,Ligue 1,Brest v Strasbourg,,Match 6
-3283,2022-09-04,Ligue 1,Clermont v Toulouse,,Match 6
-3284,2022-09-04,Ligue 1,Lyon v Angers,,Match 6
-3285,2022-09-04,Ligue 1,Montpellier v Lille,,Match 6
-3286,2022-09-04,Ligue 1,Nantes v Paris Saint-Germain,,Match 6
-3287,2022-09-04,Ligue 1,Nice v Monaco,,Match 6
-3288,2022-09-04,Ligue 1,Reims v RC Lens,,Match 6
-3289,2022-09-04,Ligue 1,Troyes v Rennes,,Match 6
+3280,2022-09-04,Ligue 1,AC Ajaccio v Lorient,13:00:00,Match 6
+3281,2022-09-03,Ligue 1,Auxerre v Marseille,15:00:00,Match 6
+3282,2022-09-04,Ligue 1,Brest v Strasbourg,13:00:00,Match 6
+3283,2022-09-04,Ligue 1,Clermont v Toulouse,13:00:00,Match 6
+3284,2022-09-03,Ligue 1,Lyon v Angers,17:00:00,Match 6
+3285,2022-09-04,Ligue 1,Montpellier v Lille,11:00:00,Match 6
+3286,2022-09-03,Ligue 1,Nantes v Paris Saint-Germain,19:00:00,Match 6
+3287,2022-09-04,Ligue 1,Nice v Monaco,18:45:00,Match 6
+3288,2022-09-04,Ligue 1,Reims v RC Lens,13:00:00,Match 6
+3289,2022-09-04,Ligue 1,Troyes v Rennes,15:05:00,Match 6
 3290,2022-09-11,Ligue 1,AC Ajaccio v Nice,,Match 7
 3291,2022-09-11,Ligue 1,Angers v Montpellier,,Match 7
 3292,2022-09-11,Ligue 1,Lorient v Nantes,,Match 7
@@ -3168,9 +3067,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3659,2022-08-27,Norway 1. Divisjon,Fredrikstad v Sogndal,13:00:00,Match 22
-3660,2022-08-27,Norway 1. Divisjon,Kongsvinger v Stabæk,13:00:00,Match 22
-3661,2022-08-27,Norway 1. Divisjon,Stjørdals-Blink v Åsane,13:00:00,Match 22
 3662,2022-08-29,Norway 1. Divisjon,Bryne v Raufoss,16:00:00,Match 22
 3663,2022-08-29,Norway 1. Divisjon,Mjøndalen v Sandnes Ulf,16:00:00,Match 22
 3664,2022-08-29,Norway 1. Divisjon,Brann v Ranheim TF,16:00:00,Match 22
@@ -3240,16 +3136,6 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3761,2022-08-27,Premier League,Southampton v Manchester United,11:30:00,Match 4
-3762,2022-08-27,Premier League,Brentford v Everton,14:00:00,Match 4
-3763,2022-08-27,Premier League,Brighton and Hove Albion v Leeds United,14:00:00,Match 4
-3764,2022-08-27,Premier League,Chelsea v Leicester City,14:00:00,Match 4
-3765,2022-08-27,Premier League,Liverpool v Bournemouth,14:00:00,Match 4
-3766,2022-08-27,Premier League,Manchester City v Crystal Palace,14:00:00,Match 4
-3767,2022-08-27,Premier League,Arsenal v Fulham,16:30:00,Match 4
-3768,2022-08-28,Premier League,Aston Villa v West Ham United,13:00:00,Match 4
-3769,2022-08-28,Premier League,Wolverhampton Wanderers v Newcastle United,13:00:00,Match 4
-3770,2022-08-28,Premier League,Nottingham Forest v Tottenham Hotspur,15:30:00,Match 4
 3771,2022-08-30,Premier League,Fulham v Brighton and Hove Albion,18:30:00,Match 5
 3772,2022-08-30,Premier League,Leeds United v Everton,19:00:00,Match 5
 3773,2022-08-30,Premier League,Crystal Palace v Brentford,18:30:00,Match 5
@@ -3260,16 +3146,16 @@ ID,date,league,teams,time,note_1
 3778,2022-08-30,Premier League,Southampton v Chelsea,18:45:00,Match 5
 3779,2022-08-31,Premier League,Liverpool v Newcastle United,19:00:00,Match 5
 3780,2022-09-01,Premier League,Leicester City v Manchester United,19:00:00,Match 5
-3781,2022-09-03,Premier League,Aston Villa v Manchester City,,Match 6
-3782,2022-09-03,Premier League,Brentford v Leeds United,,Match 6
-3783,2022-09-03,Premier League,Brighton and Hove Albion v Leicester City,,Match 6
-3784,2022-09-03,Premier League,Chelsea v West Ham United,,Match 6
-3785,2022-09-03,Premier League,Everton v Liverpool,,Match 6
-3786,2022-09-03,Premier League,Manchester United v Arsenal,,Match 6
-3787,2022-09-03,Premier League,Newcastle United v Crystal Palace,,Match 6
-3788,2022-09-03,Premier League,Nottingham Forest v Bournemouth,,Match 6
-3789,2022-09-03,Premier League,Tottenham Hotspur v Fulham,,Match 6
-3790,2022-09-03,Premier League,Wolverhampton Wanderers v Southampton,,Match 6
+3781,2022-09-03,Premier League,Aston Villa v Manchester City,16:30:00,Match 6
+3782,2022-09-03,Premier League,Brentford v Leeds United,14:00:00,Match 6
+3783,2022-09-04,Premier League,Brighton and Hove Albion v Leicester City,13:00:00,Match 6
+3784,2022-09-03,Premier League,Chelsea v West Ham United,14:00:00,Match 6
+3785,2022-09-03,Premier League,Everton v Liverpool,11:30:00,Match 6
+3786,2022-09-04,Premier League,Manchester United v Arsenal,15:30:00,Match 6
+3787,2022-09-03,Premier League,Newcastle United v Crystal Palace,14:00:00,Match 6
+3788,2022-09-03,Premier League,Nottingham Forest v Bournemouth,14:00:00,Match 6
+3789,2022-09-03,Premier League,Tottenham Hotspur v Fulham,14:00:00,Match 6
+3790,2022-09-03,Premier League,Wolverhampton Wanderers v Southampton,14:00:00,Match 6
 3791,2022-09-10,Premier League,Arsenal v Everton,,Match 7
 3792,2022-09-10,Premier League,Bournemouth v Brighton and Hove Albion,,Match 7
 3793,2022-09-10,Premier League,Crystal Palace v Manchester United,,Match 7
@@ -3591,24 +3477,17 @@ ID,date,league,teams,time,note_1
 4109,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
 4130,2022-08-30,Primeira Liga,Benfica v Paços de Ferreira,19:15:00,Match 3
-4138,2022-08-28,Primeira Liga,Arouca v Sporting Braga,17:00:00,Match 4
-4139,2022-08-27,Primeira Liga,Boavista v Benfica,17:00:00,Match 4
-4140,2022-08-28,Primeira Liga,FC Famalicão v Santa Clara,14:30:00,Match 4
-4141,2022-08-27,Primeira Liga,Marítimo v Portimonense,14:30:00,Match 4
-4142,2022-08-26,Primeira Liga,Paços de Ferreira v Estoril Praia,19:15:00,Match 4
-4143,2022-08-28,Primeira Liga,Rio Ave v FC Porto,19:30:00,Match 4
-4144,2022-08-27,Primeira Liga,Sporting Lisbon v Chaves,19:30:00,Match 4
 4145,2022-08-29,Primeira Liga,Vitória Guimarães v Casa Pia AC,18:00:00,Match 4
 4146,2022-08-29,Primeira Liga,Vizela v Gil Vicente,20:15:00,Match 4
-4147,2022-09-04,Primeira Liga,Benfica v Vizela,,Match 5
-4148,2022-09-04,Primeira Liga,Boavista v Paços de Ferreira,,Match 5
-4149,2022-09-04,Primeira Liga,Casa Pia AC v Arouca,,Match 5
-4150,2022-09-04,Primeira Liga,Chaves v Rio Ave,,Match 5
-4151,2022-09-04,Primeira Liga,Estoril Praia v Sporting Lisbon,,Match 5
-4152,2022-09-04,Primeira Liga,Gil Vicente v FC Porto,,Match 5
-4153,2022-09-04,Primeira Liga,Portimonense v FC Famalicão,,Match 5
-4154,2022-09-04,Primeira Liga,Santa Clara v Marítimo,,Match 5
-4155,2022-09-04,Primeira Liga,Sporting Braga v Vitória Guimarães,,Match 5
+4147,2022-09-02,Primeira Liga,Benfica v Vizela,18:00:00,Match 5
+4148,2022-09-05,Primeira Liga,Boavista v Paços de Ferreira,18:00:00,Match 5
+4149,2022-09-04,Primeira Liga,Casa Pia AC v Arouca,14:30:00,Match 5
+4150,2022-09-05,Primeira Liga,Chaves v Rio Ave,20:15:00,Match 5
+4151,2022-09-02,Primeira Liga,Estoril Praia v Sporting Lisbon,20:15:00,Match 5
+4152,2022-09-03,Primeira Liga,Gil Vicente v FC Porto,19:30:00,Match 5
+4153,2022-09-04,Primeira Liga,Portimonense v FC Famalicão,19:30:00,Match 5
+4154,2022-09-04,Primeira Liga,Santa Clara v Marítimo,17:00:00,Match 5
+4155,2022-09-03,Primeira Liga,Sporting Braga v Vitória Guimarães,17:00:00,Match 5
 4156,2022-09-11,Primeira Liga,Arouca v Boavista,,Match 6
 4157,2022-09-11,Primeira Liga,FC Famalicão v Benfica,,Match 6
 4158,2022-09-11,Primeira Liga,FC Porto v Chaves,,Match 6
@@ -3870,16 +3749,6 @@ ID,date,league,teams,time,note_1
 4414,2023-05-28,Primeira Liga,Rio Ave v FC Famalicão,,Match 34
 4415,2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
 4416,2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
-4437,2022-08-26,Serie A,Monza v Udinese,16:30:00,Match 3
-4438,2022-08-26,Serie A,Lazio v Inter Milan,18:45:00,Match 3
-4439,2022-08-27,Serie A,Cremonese v Torino,16:30:00,Match 3
-4440,2022-08-27,Serie A,Juventus v Roma,16:30:00,Match 3
-4441,2022-08-27,Serie A,AC Milan v Bologna,18:45:00,Match 3
-4442,2022-08-27,Serie A,Spezia v Sassuolo,18:45:00,Match 3
-4443,2022-08-28,Serie A,Salernitana v Sampdoria,16:30:00,Match 3
-4444,2022-08-28,Serie A,Verona v Atalanta,16:30:00,Match 3
-4445,2022-08-28,Serie A,Fiorentina v Napoli,18:45:00,Match 3
-4446,2022-08-28,Serie A,Lecce v Empoli,18:45:00,Match 3
 4447,2022-08-30,Serie A,Sassuolo v AC Milan,16:30:00,Match 4
 4448,2022-08-30,Serie A,Inter Milan v Cremonese,18:45:00,Match 4
 4449,2022-08-30,Serie A,Roma v Monza,18:45:00,Match 4
@@ -4230,321 +4099,17 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-4824,2022-08-27,Süper Lig,Fatih Karagümrük v Ankaragücü,16:15:00,Match 4
-4825,2022-08-27,Süper Lig,Alanyaspor v İstanbulspor,18:45:00,Match 4
 4826,2022-08-29,Süper Lig,Beşiktaş v Sivasspor,18:45:00,Match 4
-4827,2022-08-28,Süper Lig,Kayserispor v Giresunspor,16:15:00,Match 4
 4828,2022-08-29,Süper Lig,Konyaspor v Fenerbahçe,16:15:00,Match 4
-4829,2022-08-28,Süper Lig,Trabzonspor v Galatasaray,16:15:00,Match 4
-4830,2022-08-26,Süper Lig,Gaziantep v Antalyaspor,18:00:00,Match 4
-4831,2022-08-27,Süper Lig,Adana Demirspor v Ümraniyespor,18:45:00,Match 4
-4832,2022-08-28,Süper Lig,Kasımpaşa v Hatayspor,16:15:00,Match 4
-4833,2022-09-04,Süper Lig,İstanbul Başakşehir v Alanyaspor,,Match 5
-4834,2022-09-04,Süper Lig,Galatasaray v Gaziantep,,Match 5
-4835,2022-09-04,Süper Lig,Sivasspor v Fatih Karagümrük,,Match 5
-4836,2022-09-04,Süper Lig,Ankaragücü v Beşiktaş,,Match 5
-4837,2022-09-04,Süper Lig,Giresunspor v Konyaspor,,Match 5
-4838,2022-09-04,Süper Lig,Ümraniyespor v Trabzonspor,,Match 5
-4839,2022-09-04,Süper Lig,Antalyaspor v Kasımpaşa,,Match 5
-4840,2022-09-04,Süper Lig,Fenerbahçe v Kayserispor,,Match 5
-4841,2022-09-04,Süper Lig,Hatayspor v Adana Demirspor,,Match 5
-4842,2022-09-11,Süper Lig,Sivasspor v İstanbulspor,,Match 6
-4843,2022-09-11,Süper Lig,Beşiktaş v İstanbul Başakşehir,,Match 6
-4844,2022-09-11,Süper Lig,Konyaspor v Hatayspor,,Match 6
-4845,2022-09-11,Süper Lig,Kasımpaşa v Galatasaray,,Match 6
-4846,2022-09-11,Süper Lig,Adana Demirspor v Trabzonspor,,Match 6
-4847,2022-09-11,Süper Lig,Gaziantep v Ümraniyespor,,Match 6
-4848,2022-09-11,Süper Lig,Alanyaspor v Ankaragücü,,Match 6
-4849,2022-09-11,Süper Lig,Fatih Karagümrük v Giresunspor,,Match 6
-4850,2022-09-11,Süper Lig,Kayserispor v Antalyaspor,,Match 6
-4851,2022-09-18,Süper Lig,Trabzonspor v Gaziantep,,Match 7
-4852,2022-09-18,Süper Lig,Galatasaray v Konyaspor,,Match 7
-4853,2022-09-18,Süper Lig,Ümraniyespor v Kasımpaşa,,Match 7
-4854,2022-09-18,Süper Lig,Hatayspor v Kayserispor,,Match 7
-4855,2022-09-18,Süper Lig,Fenerbahçe v Alanyaspor,,Match 7
-4856,2022-09-18,Süper Lig,İstanbulspor v Beşiktaş,,Match 7
-4857,2022-09-18,Süper Lig,İstanbul Başakşehir v Fatih Karagümrük,,Match 7
-4858,2022-09-18,Süper Lig,Ankaragücü v Sivasspor,,Match 7
-4859,2022-09-18,Süper Lig,Antalyaspor v Adana Demirspor,,Match 7
-4860,2022-10-02,Süper Lig,Kayserispor v Trabzonspor,,Match 8
-4861,2022-10-02,Süper Lig,Beşiktaş v Fenerbahçe,,Match 8
-4862,2022-10-02,Süper Lig,Kasımpaşa v Gaziantep,,Match 8
-4863,2022-10-02,Süper Lig,Adana Demirspor v Galatasaray,,Match 8
-4864,2022-10-02,Süper Lig,Ankaragücü v İstanbul Başakşehir,,Match 8
-4865,2022-10-02,Süper Lig,Sivasspor v Hatayspor,,Match 8
-4866,2022-10-02,Süper Lig,Fatih Karagümrük v İstanbulspor,,Match 8
-4867,2022-10-02,Süper Lig,Alanyaspor v Giresunspor,,Match 8
-4868,2022-10-02,Süper Lig,Konyaspor v Ümraniyespor,,Match 8
-4869,2022-10-09,Süper Lig,İstanbulspor v Ankaragücü,,Match 9
-4870,2022-10-09,Süper Lig,Giresunspor v Beşiktaş,,Match 9
-4871,2022-10-09,Süper Lig,Ümraniyespor v Kayserispor,,Match 9
-4872,2022-10-09,Süper Lig,Antalyaspor v Konyaspor,,Match 9
-4873,2022-10-09,Süper Lig,Fenerbahçe v Fatih Karagümrük,,Match 9
-4874,2022-10-09,Süper Lig,Gaziantep v Adana Demirspor,,Match 9
-4875,2022-10-09,Süper Lig,İstanbul Başakşehir v Sivasspor,,Match 9
-4876,2022-10-09,Süper Lig,Hatayspor v Alanyaspor,,Match 9
-4877,2022-10-09,Süper Lig,Trabzonspor v Kasımpaşa,,Match 9
-4878,2022-10-16,Süper Lig,İstanbul Başakşehir v İstanbulspor,,Match 10
-4879,2022-10-16,Süper Lig,Kasımpaşa v Adana Demirspor,,Match 10
-4880,2022-10-16,Süper Lig,Alanyaspor v Antalyaspor,,Match 10
-4881,2022-10-16,Süper Lig,Beşiktaş v Trabzonspor,,Match 10
-4882,2022-10-16,Süper Lig,Sivasspor v Giresunspor,,Match 10
-4883,2022-10-16,Süper Lig,Ankaragücü v Fenerbahçe,,Match 10
-4884,2022-10-16,Süper Lig,Kayserispor v Galatasaray,,Match 10
-4885,2022-10-16,Süper Lig,Konyaspor v Gaziantep,,Match 10
-4886,2022-10-16,Süper Lig,Fatih Karagümrük v Hatayspor,,Match 10
-4887,2022-10-23,Süper Lig,Antalyaspor v İstanbulspor,,Match 11
-4888,2022-10-23,Süper Lig,Giresunspor v Ankaragücü,,Match 11
-4889,2022-10-23,Süper Lig,Hatayspor v Beşiktaş,,Match 11
-4890,2022-10-23,Süper Lig,Ümraniyespor v Fatih Karagümrük,,Match 11
-4891,2022-10-23,Süper Lig,Kasımpaşa v Kayserispor,,Match 11
-4892,2022-10-23,Süper Lig,Fenerbahçe v İstanbul Başakşehir,,Match 11
-4893,2022-10-23,Süper Lig,Galatasaray v Alanyaspor,,Match 11
-4894,2022-10-23,Süper Lig,Trabzonspor v Sivasspor,,Match 11
-4895,2022-10-23,Süper Lig,Adana Demirspor v Konyaspor,,Match 11
-4896,2022-10-30,Süper Lig,Sivasspor v Antalyaspor,,Match 12
-4897,2022-10-30,Süper Lig,Kayserispor v Adana Demirspor,,Match 12
-4898,2022-10-30,Süper Lig,Ankaragücü v Hatayspor,,Match 12
-4899,2022-10-30,Süper Lig,Fatih Karagümrük v Galatasaray,,Match 12
-4900,2022-10-30,Süper Lig,Beşiktaş v Ümraniyespor,,Match 12
-4901,2022-10-30,Süper Lig,İstanbul Başakşehir v Giresunspor,,Match 12
-4902,2022-10-30,Süper Lig,İstanbulspor v Fenerbahçe,,Match 12
-4903,2022-10-30,Süper Lig,Konyaspor v Kasımpaşa,,Match 12
-4904,2022-10-30,Süper Lig,Alanyaspor v Gaziantep,,Match 12
-4905,2022-11-06,Süper Lig,Trabzonspor v Konyaspor,,Match 13
-4906,2022-11-06,Süper Lig,Galatasaray v Beşiktaş,,Match 13
-4907,2022-11-06,Süper Lig,Fenerbahçe v Sivasspor,,Match 13
-4908,2022-11-06,Süper Lig,Antalyaspor v Fatih Karagümrük,,Match 13
-4909,2022-11-06,Süper Lig,Ümraniyespor v Alanyaspor,,Match 13
-4910,2022-11-06,Süper Lig,Giresunspor v İstanbulspor,,Match 13
-4911,2022-11-06,Süper Lig,Gaziantep v Kayserispor,,Match 13
-4912,2022-11-06,Süper Lig,Hatayspor v İstanbul Başakşehir,,Match 13
-4913,2022-11-06,Süper Lig,Kasımpaşa v Ankaragücü,,Match 13
-4914,2022-11-13,Süper Lig,Ankaragücü v Trabzonspor,,Match 14
-4915,2022-11-13,Süper Lig,Beşiktaş v Antalyaspor,,Match 14
-4916,2022-11-13,Süper Lig,Fatih Karagümrük v Gaziantep,,Match 14
-4917,2022-11-13,Süper Lig,Sivasspor v Ümraniyespor,,Match 14
-4918,2022-11-13,Süper Lig,Alanyaspor v Adana Demirspor,,Match 14
-4919,2022-11-13,Süper Lig,Kayserispor v Konyaspor,,Match 14
-4920,2022-11-13,Süper Lig,Fenerbahçe v Giresunspor,,Match 14
-4921,2022-11-13,Süper Lig,İstanbulspor v Hatayspor,,Match 14
-4922,2022-11-13,Süper Lig,İstanbul Başakşehir v Galatasaray,,Match 14
-4923,2022-12-25,Süper Lig,Gaziantep v Beşiktaş,,Match 15
-4924,2022-12-25,Süper Lig,Adana Demirspor v Fatih Karagümrük,,Match 15
-4925,2022-12-25,Süper Lig,Kasımpaşa v Sivasspor,,Match 15
-4926,2022-12-25,Süper Lig,Galatasaray v İstanbulspor,,Match 15
-4927,2022-12-25,Süper Lig,Hatayspor v Giresunspor,,Match 15
-4928,2022-12-25,Süper Lig,Trabzonspor v Fenerbahçe,,Match 15
-4929,2022-12-25,Süper Lig,Antalyaspor v Ankaragücü,,Match 15
-4930,2022-12-25,Süper Lig,Ümraniyespor v İstanbul Başakşehir,,Match 15
-4931,2022-12-25,Süper Lig,Konyaspor v Alanyaspor,,Match 15
-4932,2022-12-28,Süper Lig,Ankaragücü v Ümraniyespor,,Match 16
-4933,2022-12-28,Süper Lig,Sivasspor v Galatasaray,,Match 16
-4934,2022-12-28,Süper Lig,Beşiktaş v Adana Demirspor,,Match 16
-4935,2022-12-28,Süper Lig,Fatih Karagümrük v Trabzonspor,,Match 16
-4936,2022-12-28,Süper Lig,Giresunspor v Gaziantep,,Match 16
-4937,2022-12-28,Süper Lig,Fenerbahçe v Hatayspor,,Match 16
-4938,2022-12-28,Süper Lig,İstanbulspor v Kasımpaşa,,Match 16
-4939,2022-12-28,Süper Lig,İstanbul Başakşehir v Antalyaspor,,Match 16
-4940,2022-12-28,Süper Lig,Alanyaspor v Kayserispor,,Match 16
-4941,2023-01-04,Süper Lig,Adana Demirspor v İstanbulspor,,Match 17
-4942,2023-01-04,Süper Lig,Antalyaspor v Fenerbahçe,,Match 17
-4943,2023-01-04,Süper Lig,Galatasaray v Ankaragücü,,Match 17
-4944,2023-01-04,Süper Lig,Kayserispor v Fatih Karagümrük,,Match 17
-4945,2023-01-04,Süper Lig,Konyaspor v Sivasspor,,Match 17
-4946,2023-01-04,Süper Lig,Kasımpaşa v Alanyaspor,,Match 17
-4947,2023-01-04,Süper Lig,Ümraniyespor v Hatayspor,,Match 17
-4948,2023-01-04,Süper Lig,Trabzonspor v Giresunspor,,Match 17
-4949,2023-01-04,Süper Lig,Gaziantep v İstanbul Başakşehir,,Match 17
-4950,2023-01-08,Süper Lig,Beşiktaş v Kasımpaşa,,Match 18
-4951,2023-01-08,Süper Lig,İstanbulspor v Gaziantep,,Match 18
-4952,2023-01-08,Süper Lig,Giresunspor v Ümraniyespor,,Match 18
-4953,2023-01-08,Süper Lig,Fatih Karagümrük v Konyaspor,,Match 18
-4954,2023-01-08,Süper Lig,İstanbul Başakşehir v Adana Demirspor,,Match 18
-4955,2023-01-08,Süper Lig,Alanyaspor v Trabzonspor,,Match 18
-4956,2023-01-08,Süper Lig,Ankaragücü v Kayserispor,,Match 18
-4957,2023-01-08,Süper Lig,Hatayspor v Antalyaspor,,Match 18
-4958,2023-01-08,Süper Lig,Fenerbahçe v Galatasaray,,Match 18
-4959,2023-01-15,Süper Lig,Kayserispor v Sivasspor,,Match 19
-4960,2023-01-15,Süper Lig,Gaziantep v Fenerbahçe,,Match 19
-4961,2023-01-15,Süper Lig,Konyaspor v Beşiktaş,,Match 19
-4962,2023-01-15,Süper Lig,Galatasaray v Hatayspor,,Match 19
-4963,2023-01-15,Süper Lig,Kasımpaşa v Fatih Karagümrük,,Match 19
-4964,2023-01-15,Süper Lig,Adana Demirspor v Ankaragücü,,Match 19
-4965,2023-01-15,Süper Lig,Ümraniyespor v İstanbulspor,,Match 19
-4966,2023-01-15,Süper Lig,Trabzonspor v İstanbul Başakşehir,,Match 19
-4967,2023-01-15,Süper Lig,Antalyaspor v Giresunspor,,Match 19
-4968,2023-01-22,Süper Lig,Ümraniyespor v Fenerbahçe,,Match 20
-4969,2023-01-22,Süper Lig,Trabzonspor v İstanbulspor,,Match 20
-4970,2023-01-22,Süper Lig,Adana Demirspor v Giresunspor,,Match 20
-4971,2023-01-22,Süper Lig,Kasımpaşa v İstanbul Başakşehir,,Match 20
-4972,2023-01-22,Süper Lig,Gaziantep v Sivasspor,,Match 20
-4973,2023-01-22,Süper Lig,Kayserispor v Beşiktaş,,Match 20
-4974,2023-01-22,Süper Lig,Alanyaspor v Fatih Karagümrük,,Match 20
-4975,2023-01-22,Süper Lig,Galatasaray v Antalyaspor,,Match 20
-4976,2023-01-22,Süper Lig,Konyaspor v Ankaragücü,,Match 20
-4977,2023-01-29,Süper Lig,Antalyaspor v Ümraniyespor,,Match 21
-4978,2023-01-29,Süper Lig,Giresunspor v Galatasaray,,Match 21
-4979,2023-01-29,Süper Lig,Hatayspor v Trabzonspor,,Match 21
-4980,2023-01-29,Süper Lig,Ankaragücü v Gaziantep,,Match 21
-4981,2023-01-29,Süper Lig,Fenerbahçe v Kasımpaşa,,Match 21
-4982,2023-01-29,Süper Lig,Beşiktaş v Alanyaspor,,Match 21
-4983,2023-01-29,Süper Lig,Sivasspor v Adana Demirspor,,Match 21
-4984,2023-01-29,Süper Lig,İstanbul Başakşehir v Konyaspor,,Match 21
-4985,2023-01-29,Süper Lig,İstanbulspor v Kayserispor,,Match 21
-4986,2023-02-01,Süper Lig,Galatasaray v Ümraniyespor,,Match 22
-4987,2023-02-01,Süper Lig,Kayserispor v İstanbul Başakşehir,,Match 22
-4988,2023-02-01,Süper Lig,Konyaspor v İstanbulspor,,Match 22
-4989,2023-02-01,Süper Lig,Alanyaspor v Sivasspor,,Match 22
-4990,2023-02-01,Süper Lig,Fatih Karagümrük v Beşiktaş,,Match 22
-4991,2023-02-01,Süper Lig,Trabzonspor v Antalyaspor,,Match 22
-4992,2023-02-01,Süper Lig,Kasımpaşa v Giresunspor,,Match 22
-4993,2023-02-01,Süper Lig,Adana Demirspor v Fenerbahçe,,Match 22
-4994,2023-02-01,Süper Lig,Gaziantep v Hatayspor,,Match 22
-4995,2023-02-05,Süper Lig,Hatayspor v Kasımpaşa,,Match 23
-4996,2023-02-05,Süper Lig,Fenerbahçe v Konyaspor,,Match 23
-4997,2023-02-05,Süper Lig,İstanbulspor v Alanyaspor,,Match 23
-4998,2023-02-05,Süper Lig,Galatasaray v Trabzonspor,,Match 23
-4999,2023-02-05,Süper Lig,Antalyaspor v Gaziantep,,Match 23
-5000,2023-02-05,Süper Lig,Ümraniyespor v Adana Demirspor,,Match 23
-5001,2023-02-05,Süper Lig,Giresunspor v Kayserispor,,Match 23
-5002,2023-02-05,Süper Lig,Ankaragücü v Fatih Karagümrük,,Match 23
-5003,2023-02-05,Süper Lig,Sivasspor v Beşiktaş,,Match 23
-5004,2023-02-12,Süper Lig,Konyaspor v Giresunspor,,Match 24
-5005,2023-02-12,Süper Lig,Fatih Karagümrük v Sivasspor,,Match 24
-5006,2023-02-12,Süper Lig,Adana Demirspor v Hatayspor,,Match 24
-5007,2023-02-12,Süper Lig,Beşiktaş v Ankaragücü,,Match 24
-5008,2023-02-12,Süper Lig,Kasımpaşa v Antalyaspor,,Match 24
-5009,2023-02-12,Süper Lig,Trabzonspor v Ümraniyespor,,Match 24
-5010,2023-02-12,Süper Lig,Gaziantep v Galatasaray,,Match 24
-5011,2023-02-12,Süper Lig,Kayserispor v Fenerbahçe,,Match 24
-5012,2023-02-12,Süper Lig,Alanyaspor v İstanbul Başakşehir,,Match 24
-5013,2023-02-19,Süper Lig,Giresunspor v Fatih Karagümrük,,Match 25
-5014,2023-02-19,Süper Lig,İstanbul Başakşehir v Beşiktaş,,Match 25
-5015,2023-02-19,Süper Lig,Galatasaray v Kasımpaşa,,Match 25
-5016,2023-02-19,Süper Lig,Ümraniyespor v Gaziantep,,Match 25
-5017,2023-02-19,Süper Lig,Trabzonspor v Adana Demirspor,,Match 25
-5018,2023-02-19,Süper Lig,İstanbulspor v Sivasspor,,Match 25
-5019,2023-02-19,Süper Lig,Ankaragücü v Alanyaspor,,Match 25
-5020,2023-02-19,Süper Lig,Hatayspor v Konyaspor,,Match 25
-5021,2023-02-19,Süper Lig,Antalyaspor v Kayserispor,,Match 25
-5022,2023-02-26,Süper Lig,Sivasspor v Ankaragücü,,Match 26
-5023,2023-02-26,Süper Lig,Gaziantep v Trabzonspor,,Match 26
-5024,2023-02-26,Süper Lig,Konyaspor v Galatasaray,,Match 26
-5025,2023-02-26,Süper Lig,Kasımpaşa v Ümraniyespor,,Match 26
-5026,2023-02-26,Süper Lig,Kayserispor v Hatayspor,,Match 26
-5027,2023-02-26,Süper Lig,Alanyaspor v Fenerbahçe,,Match 26
-5028,2023-02-26,Süper Lig,Beşiktaş v İstanbulspor,,Match 26
-5029,2023-02-26,Süper Lig,Fatih Karagümrük v İstanbul Başakşehir,,Match 26
-5030,2023-02-26,Süper Lig,Adana Demirspor v Antalyaspor,,Match 26
-5031,2023-03-05,Süper Lig,Gaziantep v Kasımpaşa,,Match 27
-5032,2023-03-05,Süper Lig,Galatasaray v Adana Demirspor,,Match 27
-5033,2023-03-05,Süper Lig,İstanbul Başakşehir v Ankaragücü,,Match 27
-5034,2023-03-05,Süper Lig,Hatayspor v Sivasspor,,Match 27
-5035,2023-03-05,Süper Lig,Giresunspor v Alanyaspor,,Match 27
-5036,2023-03-05,Süper Lig,Ümraniyespor v Konyaspor,,Match 27
-5037,2023-03-05,Süper Lig,Fenerbahçe v Beşiktaş,,Match 27
-5038,2023-03-05,Süper Lig,İstanbulspor v Fatih Karagümrük,,Match 27
-5039,2023-03-05,Süper Lig,Trabzonspor v Kayserispor,,Match 27
-5040,2023-03-12,Süper Lig,Konyaspor v Antalyaspor,,Match 28
-5041,2023-03-12,Süper Lig,Alanyaspor v Hatayspor,,Match 28
-5042,2023-03-12,Süper Lig,Beşiktaş v Giresunspor,,Match 28
-5043,2023-03-12,Süper Lig,Ankaragücü v İstanbulspor,,Match 28
-5044,2023-03-12,Süper Lig,Fatih Karagümrük v Fenerbahçe,,Match 28
-5045,2023-03-12,Süper Lig,Sivasspor v İstanbul Başakşehir,,Match 28
-5046,2023-03-12,Süper Lig,Adana Demirspor v Gaziantep,,Match 28
-5047,2023-03-12,Süper Lig,Kasımpaşa v Trabzonspor,,Match 28
-5048,2023-03-12,Süper Lig,Kayserispor v Ümraniyespor,,Match 28
-5049,2023-03-19,Süper Lig,Hatayspor v Fatih Karagümrük,,Match 29
-5050,2023-03-19,Süper Lig,Antalyaspor v Alanyaspor,,Match 29
-5051,2023-03-19,Süper Lig,Galatasaray v Kayserispor,,Match 29
-5052,2023-03-19,Süper Lig,Gaziantep v Konyaspor,,Match 29
-5053,2023-03-19,Süper Lig,Trabzonspor v Beşiktaş,,Match 29
-5054,2023-03-19,Süper Lig,Adana Demirspor v Kasımpaşa,,Match 29
-5055,2023-03-19,Süper Lig,İstanbulspor v İstanbul Başakşehir,,Match 29
-5056,2023-03-19,Süper Lig,Fenerbahçe v Ankaragücü,,Match 29
-5057,2023-03-19,Süper Lig,Giresunspor v Sivasspor,,Match 29
-5058,2023-04-02,Süper Lig,Fatih Karagümrük v Ümraniyespor,,Match 30
-5059,2023-04-02,Süper Lig,İstanbulspor v Antalyaspor,,Match 30
-5060,2023-04-02,Süper Lig,Alanyaspor v Galatasaray,,Match 30
-5061,2023-04-02,Süper Lig,Konyaspor v Adana Demirspor,,Match 30
-5062,2023-04-02,Süper Lig,Sivasspor v Trabzonspor,,Match 30
-5063,2023-04-02,Süper Lig,Beşiktaş v Hatayspor,,Match 30
-5064,2023-04-02,Süper Lig,Ankaragücü v Giresunspor,,Match 30
-5065,2023-04-02,Süper Lig,İstanbul Başakşehir v Fenerbahçe,,Match 30
-5066,2023-04-02,Süper Lig,Kayserispor v Kasımpaşa,,Match 30
-5067,2023-04-09,Süper Lig,Antalyaspor v Sivasspor,,Match 31
-5068,2023-04-09,Süper Lig,Ümraniyespor v Beşiktaş,,Match 31
-5069,2023-04-09,Süper Lig,Galatasaray v Fatih Karagümrük,,Match 31
-5070,2023-04-09,Süper Lig,Gaziantep v Alanyaspor,,Match 31
-5071,2023-04-09,Süper Lig,Fenerbahçe v İstanbulspor,,Match 31
-5072,2023-04-09,Süper Lig,Giresunspor v İstanbul Başakşehir,,Match 31
-5073,2023-04-09,Süper Lig,Hatayspor v Ankaragücü,,Match 31
-5074,2023-04-09,Süper Lig,Adana Demirspor v Kayserispor,,Match 31
-5075,2023-04-09,Süper Lig,Kasımpaşa v Konyaspor,,Match 31
-5076,2023-04-16,Süper Lig,İstanbul Başakşehir v Hatayspor,,Match 32
-5077,2023-04-16,Süper Lig,İstanbulspor v Giresunspor,,Match 32
-5078,2023-04-16,Süper Lig,Sivasspor v Fenerbahçe,,Match 32
-5079,2023-04-16,Süper Lig,Ankaragücü v Kasımpaşa,,Match 32
-5080,2023-04-16,Süper Lig,Kayserispor v Gaziantep,,Match 32
-5081,2023-04-16,Süper Lig,Konyaspor v Trabzonspor,,Match 32
-5082,2023-04-16,Süper Lig,Beşiktaş v Galatasaray,,Match 32
-5083,2023-04-16,Süper Lig,Alanyaspor v Ümraniyespor,,Match 32
-5084,2023-04-16,Süper Lig,Fatih Karagümrük v Antalyaspor,,Match 32
-5085,2023-04-23,Süper Lig,Galatasaray v İstanbul Başakşehir,,Match 33
-5086,2023-04-23,Süper Lig,Trabzonspor v Ankaragücü,,Match 33
-5087,2023-04-23,Süper Lig,Ümraniyespor v Sivasspor,,Match 33
-5088,2023-04-23,Süper Lig,Antalyaspor v Beşiktaş,,Match 33
-5089,2023-04-23,Süper Lig,Gaziantep v Fatih Karagümrük,,Match 33
-5090,2023-04-23,Süper Lig,Adana Demirspor v Alanyaspor,,Match 33
-5091,2023-04-23,Süper Lig,Hatayspor v İstanbulspor,,Match 33
-5092,2023-04-23,Süper Lig,Konyaspor v Kayserispor,,Match 33
-5093,2023-04-23,Süper Lig,Giresunspor v Fenerbahçe,,Match 33
-5094,2023-04-30,Süper Lig,Sivasspor v Kasımpaşa,,Match 34
-5095,2023-04-30,Süper Lig,İstanbul Başakşehir v Ümraniyespor,,Match 34
-5096,2023-04-30,Süper Lig,Ankaragücü v Antalyaspor,,Match 34
-5097,2023-04-30,Süper Lig,Fatih Karagümrük v Adana Demirspor,,Match 34
-5098,2023-04-30,Süper Lig,Beşiktaş v Gaziantep,,Match 34
-5099,2023-04-30,Süper Lig,Fenerbahçe v Trabzonspor,,Match 34
-5100,2023-04-30,Süper Lig,İstanbulspor v Galatasaray,,Match 34
-5101,2023-04-30,Süper Lig,Giresunspor v Hatayspor,,Match 34
-5102,2023-04-30,Süper Lig,Alanyaspor v Konyaspor,,Match 34
-5103,2023-05-07,Süper Lig,Adana Demirspor v Beşiktaş,,Match 35
-5104,2023-05-07,Süper Lig,Antalyaspor v İstanbul Başakşehir,,Match 35
-5105,2023-05-07,Süper Lig,Galatasaray v Sivasspor,,Match 35
-5106,2023-05-07,Süper Lig,Gaziantep FK v Giresunspor,,Match 35
-5107,2023-05-07,Süper Lig,Hatayspor v Fenerbahçe,,Match 35
-5108,2023-05-07,Süper Lig,Kasımpaşa v İstanbulspor,,Match 35
-5109,2023-05-07,Süper Lig,Kayserispor v Alanyaspor,,Match 35
-5110,2023-05-07,Süper Lig,Trabzonspor v Fatih Karagümrük,,Match 35
-5111,2023-05-07,Süper Lig,Ümraniyespor v Ankaragücü,,Match 35
-5112,2023-05-14,Süper Lig,Alanyaspor v Kasımpaşa,,Match 36
-5113,2023-05-14,Süper Lig,Ankaragücü v Galatasaray,,Match 36
-5114,2023-05-14,Süper Lig,Fatih Karagümrük v Kayserispor,,Match 36
-5115,2023-05-14,Süper Lig,Fenerbahçe v Antalyaspor,,Match 36
-5116,2023-05-14,Süper Lig,Giresunspor v Trabzonspor,,Match 36
-5117,2023-05-14,Süper Lig,Hatayspor v Ümraniyespor,,Match 36
-5118,2023-05-14,Süper Lig,İstanbul Başakşehir v Gaziantep FK,,Match 36
-5119,2023-05-14,Süper Lig,İstanbulspor v Adana Demirspor,,Match 36
-5120,2023-05-14,Süper Lig,Sivasspor v Konyaspor,,Match 36
-5121,2023-05-21,Süper Lig,Adana Demirspor v İstanbul Başakşehir,,Match 37
-5122,2023-05-21,Süper Lig,Antalyaspor v Hatayspor,,Match 37
-5123,2023-05-21,Süper Lig,Galatasaray v Fenerbahçe,,Match 37
-5124,2023-05-21,Süper Lig,Gaziantep FK v İstanbulspor,,Match 37
-5125,2023-05-21,Süper Lig,Kasımpaşa v Beşiktaş,,Match 37
-5126,2023-05-21,Süper Lig,Kayserispor v Ankaragücü,,Match 37
-5127,2023-05-21,Süper Lig,Konyaspor v Fatih Karagümrük,,Match 37
-5128,2023-05-21,Süper Lig,Trabzonspor v Alanyaspor,,Match 37
-5129,2023-05-21,Süper Lig,Ümraniyespor v Giresunspor,,Match 37
-5130,2023-05-28,Süper Lig,Ankaragücü v Adana Demirspor,,Match 38
-5131,2023-05-28,Süper Lig,Beşiktaş v Konyaspor,,Match 38
-5132,2023-05-28,Süper Lig,Fatih Karagümrük v Kasımpaşa,,Match 38
-5133,2023-05-28,Süper Lig,Fenerbahçe v Gaziantep FK,,Match 38
-5134,2023-05-28,Süper Lig,Giresunspor v Antalyaspor,,Match 38
-5135,2023-05-28,Süper Lig,Hatayspor v Galatasaray,,Match 38
-5136,2023-05-28,Süper Lig,İstanbul Başakşehir v Trabzonspor,,Match 38
-5137,2023-05-28,Süper Lig,İstanbulspor v Ümraniyespor,,Match 38
-5138,2023-05-28,Süper Lig,Sivasspor v Kayserispor,,Match 38
+4833,2022-09-03,Süper Lig,İstanbul Başakşehir v Alanyaspor,16:15:00,Match 5
+4834,2022-09-05,Süper Lig,Galatasaray v Gaziantep,18:00:00,Match 5
+4835,2022-09-03,Süper Lig,Sivasspor v Fatih Karagümrük,16:15:00,Match 5
+4836,2022-09-04,Süper Lig,Ankaragücü v Beşiktaş,18:45:00,Match 5
+4837,2022-09-03,Süper Lig,Giresunspor v Konyaspor,18:45:00,Match 5
+4838,2022-09-02,Süper Lig,Ümraniyespor v Trabzonspor,18:00:00,Match 5
+4839,2022-09-04,Süper Lig,Antalyaspor v Kasımpaşa,18:45:00,Match 5
+4840,2022-09-03,Süper Lig,Fenerbahçe v Kayserispor,18:45:00,Match 5
+4841,2022-09-04,Süper Lig,Hatayspor v Adana Demirspor,16:15:00,Match 5
 5139,2022-09-21,UEFA Nations League,Scotland v Ukraine,18:45:00,Group Stage
 5140,2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
 5141,2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
@@ -4598,19 +4163,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5273,2022-08-27,USA MLS,Austin FC v Los Angeles Football Club,00:00:00,Regular Season
-5274,2022-08-27,USA MLS,Portland Timbers v Seattle Sounders FC,02:00:00,Regular Season
-5275,2022-08-27,USA MLS,Minnesota United FC v Houston Dynamo,19:30:00,Regular Season
-5276,2022-08-27,USA MLS,Charlotte FC v Toronto FC,23:00:00,Regular Season
-5277,2022-08-27,USA MLS,New York Red Bulls v Inter Miami CF,23:00:00,Regular Season
-5278,2022-08-27,USA MLS,FC Cincinnati v Columbus Crew,23:30:00,Regular Season
-5279,2022-08-27,USA MLS,Philadelphia Union v Colorado Rapids,23:30:00,Regular Season
-5280,2022-08-28,USA MLS,Sporting Kansas City v San Jose Earthquakes,00:30:00,Regular Season
-5281,2022-08-28,USA MLS,FC Dallas v Real Salt Lake,01:00:00,Regular Season
-5282,2022-08-28,USA MLS,Vancouver Whitecaps v Nashville SC,02:00:00,Regular Season
-5283,2022-08-28,USA MLS,Atlanta United FC v D.C. United,20:00:00,Regular Season
-5284,2022-08-28,USA MLS,Chicago Fire v CF Montréal,22:00:00,Regular Season
-5285,2022-08-28,USA MLS,Orlando City SC v New York City FC,23:30:00,Regular Season
 5286,2022-08-29,USA MLS,New England Revolution v Los Angeles Galaxy,00:00:00,Regular Season
 5287,2022-08-31,USA MLS,Philadelphia Union v Atlanta United FC,23:00:00,Regular Season
 5288,2022-08-31,USA MLS,CF Montréal v New York Red Bulls,23:30:00,Regular Season
@@ -4704,28 +4256,22 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5408,2022-08-26,Veikkausliiga,Lahti v IFK Mariehamn,15:00:00,Match 20
-5409,2022-08-27,Veikkausliiga,FC Honka v AC Oulu,12:00:00,Match 20
-5410,2022-08-27,Veikkausliiga,Ilves v Haka,14:00:00,Match 20
-5411,2022-08-27,Veikkausliiga,Inter Turku v KuPS Kuopio,14:00:00,Match 20
-5412,2022-08-28,Veikkausliiga,VPS Vaasa v HIFK Helsinki,13:00:00,Match 20
-5413,2022-08-28,Veikkausliiga,HJK Helsinki v SJK,15:30:00,Match 20
 5414,2022-09-01,Veikkausliiga,Haka v FC Honka,15:00:00,Match 21
 5415,2022-09-03,Veikkausliiga,KuPS Kuopio v Ilves,14:00:00,Match 21
 5416,2022-09-03,Veikkausliiga,SJK v VPS Vaasa,14:00:00,Match 21
 5417,2022-09-04,Veikkausliiga,AC Oulu v Lahti,13:00:00,Match 21
 5418,2022-09-04,Veikkausliiga,IFK Mariehamn v Inter Turku,15:30:00,Match 21
 5419,2022-09-05,Veikkausliiga,HJK Helsinki v HIFK Helsinki,15:00:00,Match 21
-5420,2022-09-10,Veikkausliiga,FC Honka v HJK Helsinki,14:00:00,Match 22
-5421,2022-09-10,Veikkausliiga,HIFK Helsinki v AC Oulu,14:00:00,Match 22
-5422,2022-09-10,Veikkausliiga,IFK Mariehamn v SJK,14:00:00,Match 22
-5423,2022-09-10,Veikkausliiga,Ilves v Inter Turku,14:00:00,Match 22
-5424,2022-09-10,Veikkausliiga,Lahti v Haka,14:00:00,Match 22
-5425,2022-09-10,Veikkausliiga,VPS Vaasa v KuPS Kuopio,14:00:00,Match 22
+5420,2022-09-11,Veikkausliiga,FC Honka v HJK Helsinki,13:00:00,Match 22
+5421,2022-09-11,Veikkausliiga,HIFK Helsinki v AC Oulu,13:00:00,Match 22
+5422,2022-09-11,Veikkausliiga,IFK Mariehamn v SJK,13:00:00,Match 22
+5423,2022-09-11,Veikkausliiga,Ilves v Inter Turku,13:00:00,Match 22
+5424,2022-09-11,Veikkausliiga,Lahti v Haka,13:00:00,Match 22
+5425,2022-09-11,Veikkausliiga,VPS Vaasa v KuPS Kuopio,13:00:00,Match 22
 5426,2022-09-22,World Cup 2022,Brazil v Argentina,19:00:00,Qualifiers (replay)
 5427,2022-11-21,World Cup 2022,Senegal v Netherlands,10:00:00,Group Stage (A)
 5428,2022-11-21,World Cup 2022,England v Iran,13:00:00,Group Stage (B)
-5429,2022-11-21,World Cup 2022,Qatar v Ecuador,16:00:00,Group Stage (A)
+5429,2022-11-20,World Cup 2022,Qatar v Ecuador,16:00:00,Group Stage (A)
 5430,2022-11-21,World Cup 2022,USA v Wales,19:00:00,Group Stage (B)
 5431,2022-11-22,World Cup 2022,Argentina v Saudi Arabia,10:00:00,Group Stage (C)
 5432,2022-11-22,World Cup 2022,Denmark v Tunisia,13:00:00,Group Stage (D)
@@ -4791,3 +4337,103 @@ ID,date,league,teams,time,note_1
 5493,2022-08-31,Eredivisie,PSV Eindhoven v FC Volendam,16:45:00,Match 3
 5494,2022-09-01,Eredivisie,AZ Alkmaar v NEC Nijmegen,18:00:00,Match 3
 5495,2022-08-31,J1 League,Avispa Fukuoka v Gamba Osaka,10:00:00,Match 24
+5496,2022-09-06,EFL League One,Forest Green Rovers v Accrington Stanley,18:45:00,Match 4
+5497,2022-09-07,Ligue 1,Lorient v Lyon,17:00:00,Match 2
+5498,2022-08-31,Eliteserien,Kristiansund Bk v Viking,17:00:00,Match 19
+5499,2022-09-07,J1 League,Yokohama F. Marinos v Shonan Bellmare,10:00:00,Match 25
+5500,2022-09-06,UEFA Champions League,Borussia Dortmund v FC Copenhagen,16:45:00,Group stage – Match 1
+5501,2022-09-06,UEFA Champions League,Dinamo Zagreb v Chelsea,16:45:00,Group stage – Match 1
+5502,2022-09-06,UEFA Champions League,Benfica v Maccabi Haifa,19:00:00,Group stage – Match 1
+5503,2022-09-06,UEFA Champions League,Celtic v Real Madrid,19:00:00,Group stage – Match 1
+5504,2022-09-06,UEFA Champions League,Paris Saint-Germain v Juventus,19:00:00,Group stage – Match 1
+5505,2022-09-06,UEFA Champions League,RB Leipzig v Shakhtar Donetsk,19:00:00,Group stage – Match 1
+5506,2022-09-06,UEFA Champions League,Red Bull Salzburg v AC Milan,19:00:00,Group stage – Match 1
+5507,2022-09-06,UEFA Champions League,Sevilla v Manchester City,19:00:00,Group stage – Match 1
+5508,2022-09-07,UEFA Champions League,Ajax v Rangers,16:45:00,Group stage – Match 1
+5509,2022-09-07,UEFA Champions League,Eintracht Frankfurt v Sporting Lisbon,16:45:00,Group stage – Match 1
+5510,2022-09-07,UEFA Champions League,Atletico Madrid v FC Porto,19:00:00,Group stage – Match 1
+5511,2022-09-07,UEFA Champions League,Barcelona v FC Viktoria Plzen,19:00:00,Group stage – Match 1
+5512,2022-09-07,UEFA Champions League,Club Brugge v Bayer Leverkusen,19:00:00,Group stage – Match 1
+5513,2022-09-07,UEFA Champions League,Inter Milan v Bayern Munich,19:00:00,Group stage – Match 1
+5514,2022-09-07,UEFA Champions League,Napoli v Liverpool,19:00:00,Group stage – Match 1
+5515,2022-09-07,UEFA Champions League,Tottenham Hotspur v Marseille,19:00:00,Group stage – Match 1
+5516,2022-09-13,UEFA Champions League,FC Viktoria Plzen v Inter Milan,16:45:00,Group stage – Match 2
+5517,2022-09-13,UEFA Champions League,Sporting Lisbon v Tottenham Hotspur,16:45:00,Group stage – Match 2
+5518,2022-09-13,UEFA Champions League,Bayer Leverkusen v Atletico Madrid,19:00:00,Group stage – Match 2
+5519,2022-09-13,UEFA Champions League,Bayern Munich v Barcelona,19:00:00,Group stage – Match 2
+5520,2022-09-13,UEFA Champions League,FC Porto v Club Brugge,19:00:00,Group stage – Match 2
+5521,2022-09-13,UEFA Champions League,Liverpool v Ajax,19:00:00,Group stage – Match 2
+5522,2022-09-13,UEFA Champions League,Marseille v Eintracht Frankfurt,19:00:00,Group stage – Match 2
+5523,2022-09-13,UEFA Champions League,Rangers v Napoli,19:00:00,Group stage – Match 2
+5524,2022-09-14,UEFA Champions League,AC Milan v Dinamo Zagreb,16:45:00,Group stage – Match 2
+5525,2022-09-14,UEFA Champions League,Shakhtar Donetsk v Celtic,16:45:00,Group stage – Match 2
+5526,2022-09-14,UEFA Champions League,Chelsea v Red Bull Salzburg,19:00:00,Group stage – Match 2
+5527,2022-09-14,UEFA Champions League,FC Copenhagen v Sevilla,19:00:00,Group stage – Match 2
+5528,2022-09-14,UEFA Champions League,Juventus v Benfica,19:00:00,Group stage – Match 2
+5529,2022-09-14,UEFA Champions League,Maccabi Haifa v Paris Saint-Germain,19:00:00,Group stage – Match 2
+5530,2022-09-14,UEFA Champions League,Manchester City v Borussia Dortmund,19:00:00,Group stage – Match 2
+5531,2022-09-14,UEFA Champions League,Real Madrid v RB Leipzig,19:00:00,Group stage – Match 2
+5532,2022-10-04,UEFA Champions League,Bayern Munich v FC Viktoria Plzen,16:45:00,Group stage – Match 3
+5533,2022-10-04,UEFA Champions League,Marseille v Sporting Lisbon,16:45:00,Group stage – Match 3
+5534,2022-10-04,UEFA Champions League,Ajax v Napoli,19:00:00,Group stage – Match 3
+5535,2022-10-04,UEFA Champions League,Club Brugge v Atletico Madrid,19:00:00,Group stage – Match 3
+5536,2022-10-04,UEFA Champions League,Eintracht Frankfurt v Tottenham Hotspur,19:00:00,Group stage – Match 3
+5537,2022-10-04,UEFA Champions League,FC Porto v Bayer Leverkusen,19:00:00,Group stage – Match 3
+5538,2022-10-04,UEFA Champions League,Inter Milan v Barcelona,19:00:00,Group stage – Match 3
+5539,2022-10-04,UEFA Champions League,Liverpool v Rangers,19:00:00,Group stage – Match 3
+5540,2022-10-05,UEFA Champions League,RB Leipzig v Celtic,16:45:00,Group stage – Match 3
+5541,2022-10-05,UEFA Champions League,Red Bull Salzburg v Dinamo Zagreb,16:45:00,Group stage – Match 3
+5542,2022-10-05,UEFA Champions League,Benfica v Paris Saint-Germain,19:00:00,Group stage – Match 3
+5543,2022-10-05,UEFA Champions League,Chelsea v AC Milan,19:00:00,Group stage – Match 3
+5544,2022-10-05,UEFA Champions League,Juventus v Maccabi Haifa,19:00:00,Group stage – Match 3
+5545,2022-10-05,UEFA Champions League,Manchester City v FC Copenhagen,19:00:00,Group stage – Match 3
+5546,2022-10-05,UEFA Champions League,Real Madrid v Shakhtar Donetsk,19:00:00,Group stage – Match 3
+5547,2022-10-05,UEFA Champions League,Sevilla v Borussia Dortmund,19:00:00,Group stage – Match 3
+5548,2022-10-11,UEFA Champions League,FC Copenhagen v Manchester City,16:45:00,Group stage – Match 4
+5549,2022-10-11,UEFA Champions League,Maccabi Haifa v Juventus,16:45:00,Group stage – Match 4
+5550,2022-10-11,UEFA Champions League,AC Milan v Chelsea,19:00:00,Group stage – Match 4
+5551,2022-10-11,UEFA Champions League,Borussia Dortmund v Sevilla,19:00:00,Group stage – Match 4
+5552,2022-10-11,UEFA Champions League,Celtic v RB Leipzig,19:00:00,Group stage – Match 4
+5553,2022-10-11,UEFA Champions League,Dinamo Zagreb v Red Bull Salzburg,19:00:00,Group stage – Match 4
+5554,2022-10-11,UEFA Champions League,Paris Saint-Germain v Benfica,19:00:00,Group stage – Match 4
+5555,2022-10-11,UEFA Champions League,Shakhtar Donetsk v Real Madrid,19:00:00,Group stage – Match 4
+5556,2022-10-12,UEFA Champions League,Atletico Madrid v Club Brugge,16:45:00,Group stage – Match 4
+5557,2022-10-12,UEFA Champions League,Napoli v Ajax,16:45:00,Group stage – Match 4
+5558,2022-10-12,UEFA Champions League,Barcelona v Inter Milan,19:00:00,Group stage – Match 4
+5559,2022-10-12,UEFA Champions League,Bayer Leverkusen v FC Porto,19:00:00,Group stage – Match 4
+5560,2022-10-12,UEFA Champions League,FC Viktoria Plzen v Bayern Munich,19:00:00,Group stage – Match 4
+5561,2022-10-12,UEFA Champions League,Rangers v Liverpool,19:00:00,Group stage – Match 4
+5562,2022-10-12,UEFA Champions League,Sporting Lisbon v Marseille,19:00:00,Group stage – Match 4
+5563,2022-10-12,UEFA Champions League,Tottenham Hotspur v Eintracht Frankfurt,19:00:00,Group stage – Match 4
+5564,2022-10-25,UEFA Champions League,Red Bull Salzburg v Chelsea,16:45:00,Group stage – Match 5
+5565,2022-10-25,UEFA Champions League,Sevilla v FC Copenhagen,16:45:00,Group stage – Match 5
+5566,2022-10-25,UEFA Champions League,Benfica v Juventus,19:00:00,Group stage – Match 5
+5567,2022-10-25,UEFA Champions League,Borussia Dortmund v Manchester City,19:00:00,Group stage – Match 5
+5568,2022-10-25,UEFA Champions League,Celtic v Shakhtar Donetsk,19:00:00,Group stage – Match 5
+5569,2022-10-25,UEFA Champions League,Dinamo Zagreb v AC Milan,19:00:00,Group stage – Match 5
+5570,2022-10-25,UEFA Champions League,Paris Saint-Germain v Maccabi Haifa,19:00:00,Group stage – Match 5
+5571,2022-10-25,UEFA Champions League,RB Leipzig v Real Madrid,19:00:00,Group stage – Match 5
+5572,2022-10-26,UEFA Champions League,Club Brugge v FC Porto,16:45:00,Group stage – Match 5
+5573,2022-10-26,UEFA Champions League,Inter Milan v FC Viktoria Plzen,16:45:00,Group stage – Match 5
+5574,2022-10-26,UEFA Champions League,Ajax v Liverpool,19:00:00,Group stage – Match 5
+5575,2022-10-26,UEFA Champions League,Atletico Madrid v Bayer Leverkusen,19:00:00,Group stage – Match 5
+5576,2022-10-26,UEFA Champions League,Barcelona v Bayern Munich,19:00:00,Group stage – Match 5
+5577,2022-10-26,UEFA Champions League,Eintracht Frankfurt v Marseille,19:00:00,Group stage – Match 5
+5578,2022-10-26,UEFA Champions League,Napoli v Rangers,19:00:00,Group stage – Match 5
+5579,2022-10-26,UEFA Champions League,Tottenham Hotspur v Sporting Lisbon,19:00:00,Group stage – Match 5
+5580,2022-11-01,UEFA Champions League,Bayer Leverkusen v Club Brugge,17:45:00,Group stage – Match 6
+5581,2022-11-01,UEFA Champions League,FC Porto v Atletico Madrid,17:45:00,Group stage – Match 6
+5582,2022-11-01,UEFA Champions League,Bayern Munich v Inter Milan,20:00:00,Group stage – Match 6
+5583,2022-11-01,UEFA Champions League,FC Viktoria Plzen v Barcelona,20:00:00,Group stage – Match 6
+5584,2022-11-01,UEFA Champions League,Liverpool v Napoli,20:00:00,Group stage – Match 6
+5585,2022-11-01,UEFA Champions League,Marseille v Tottenham Hotspur,20:00:00,Group stage – Match 6
+5586,2022-11-01,UEFA Champions League,Rangers v Ajax,20:00:00,Group stage – Match 6
+5587,2022-11-01,UEFA Champions League,Sporting Lisbon v Eintracht Frankfurt,20:00:00,Group stage – Match 6
+5588,2022-11-02,UEFA Champions League,Real Madrid v Celtic,17:45:00,Group stage – Match 6
+5589,2022-11-02,UEFA Champions League,Shakhtar Donetsk v RB Leipzig,17:45:00,Group stage – Match 6
+5590,2022-11-02,UEFA Champions League,AC Milan v Red Bull Salzburg,20:00:00,Group stage – Match 6
+5591,2022-11-02,UEFA Champions League,Chelsea v Dinamo Zagreb,20:00:00,Group stage – Match 6
+5592,2022-11-02,UEFA Champions League,FC Copenhagen v Borussia Dortmund,20:00:00,Group stage – Match 6
+5593,2022-11-02,UEFA Champions League,Juventus v Paris Saint-Germain,20:00:00,Group stage – Match 6
+5594,2022-11-02,UEFA Champions League,Maccabi Haifa v Benfica,20:00:00,Group stage – Match 6
+5595,2022-11-02,UEFA Champions League,Manchester City v Sevilla,20:00:00,Group stage – Match 6

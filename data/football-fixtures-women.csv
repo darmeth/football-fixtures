@@ -135,18 +135,6 @@ ID,date,league,teams,time,note_1
 143,2022-09-06,International Friendly,Australia v Canada,09:40:00,Allianz Stadium (Australia)
 144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium (Japan)
 145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
-160,2022-08-28,Norwegian Toppserien,Avaldsnes v Røa,13:00:00,Round 18
-161,2022-08-28,Norwegian Toppserien,Kolbotn v Vålerenga,13:00:00,Round 18
-162,2022-08-28,Norwegian Toppserien,Lyn v Rosenborg,13:00:00,Round 18
-163,2022-08-28,Norwegian Toppserien,SK Brann v LSK,13:00:00,Round 18
-164,2022-08-28,Norwegian Toppserien,Stabæk v Arna-Bjørnar,13:00:00,Round 18
-187,2022-08-26,Swedish Damallsvenskan,Örebro v Piteå,16:00:00,Round 18
-188,2022-08-28,Swedish Damallsvenskan,BP v AIK,11:00:00,Round 18
-189,2022-08-28,Swedish Damallsvenskan,Umeå IK v Hammarby,11:00:00,Round 18
-190,2022-08-28,Swedish Damallsvenskan,Rosengård v Linköping,13:00:00,Round 18
-191,2022-08-28,Swedish Damallsvenskan,Eskilstuna v Djurgården,13:00:00,Round 18
-192,2022-08-28,Swedish Damallsvenskan,Vittsjö v IFK Kalmar,13:00:00,Round 18
-193,2022-08-28,Swedish Damallsvenskan,Kristianstad v Häcken,13:00:00,Round 18
 194,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
 195,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
 196,2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
@@ -337,7 +325,7 @@ ID,date,league,teams,time,note_1
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,13:00:00,Match 22
 389,2022-09-01,Women’s World Cup Qualifiers,Denmark v Montenegro,16:00:00,Group E (UEFA)
 390,2022-09-01,Women’s World Cup Qualifiers,Republic of Ireland v Finland,18:00:00,Group A (UEFA)
-391,2022-09-01,Women’s World Cup Qualifiers,Albania v Poland,,Group F (UEFA)
+391,2022-09-01,Women’s World Cup Qualifiers,Albania v Poland,16:00:00,Group F (UEFA)
 392,2022-09-01,Women’s World Cup Qualifiers,Cyprus v Czech Republic,17:00:00,Group C (UEFA)
 393,2022-09-01,Women’s World Cup Qualifiers,Georgia v Slovakia,16:00:00,Group A (UEFA)
 394,2022-09-01,Women’s World Cup Qualifiers,Israel v Bulgaria,16:30:00,Group H (UEFA)
@@ -348,9 +336,9 @@ ID,date,league,teams,time,note_1
 399,2022-09-02,Women’s World Cup Qualifiers,Greece v Wales,17:00:00,Group I (UEFA)
 400,2022-09-02,Women’s World Cup Qualifiers,Malta v Azerbaijan,17:30:00,Group E (UEFA)
 401,2022-09-02,Women’s World Cup Qualifiers,Belgium v Norway,18:30:00,Group F (UEFA)
-402,2022-09-02,Women’s World Cup Qualifiers,Iceland v Belarus,,Group C (UEFA)
-403,2022-09-02,Women’s World Cup Qualifiers,Slovenia v Kazakhstan,,Group I (UEFA)
-404,2022-09-02,Women’s World Cup Qualifiers,Spain v Hungary,,Group B (UEFA)
+402,2022-09-02,Women’s World Cup Qualifiers,Iceland v Belarus,17:30:00,Group C (UEFA)
+403,2022-09-02,Women’s World Cup Qualifiers,Slovenia v Kazakhstan,16:00:00,Group I (UEFA)
+404,2022-09-02,Women’s World Cup Qualifiers,Spain v Hungary,19:00:00,Group B (UEFA)
 405,2022-09-03,Women’s World Cup Qualifiers,Turkey v Germany,12:45:00,Group H (UEFA)
 406,2022-09-03,Women’s World Cup Qualifiers,Austria v England,15:30:00,Group D (UEFA)
 407,2022-09-06,Women’s World Cup Qualifiers,Finland v Sweden,16:00:00,Group A (UEFA)
@@ -364,27 +352,27 @@ ID,date,league,teams,time,note_1
 415,2022-09-06,Women’s World Cup Qualifiers,France v Greece,18:45:00,Group I (UEFA)
 416,2022-09-06,Women’s World Cup Qualifiers,Netherlands v Iceland,18:45:00,Group C (UEFA)
 417,2022-09-06,Women’s World Cup Qualifiers,Wales v Slovenia,18:45:00,Group I (UEFA)
-418,2022-09-06,Women’s World Cup Qualifiers,Azerbaijan v Bosnia and Herzegovina,,Group E (UEFA)
-419,2022-09-06,Women’s World Cup Qualifiers,Bulgaria v Germany,,Group H (UEFA)
-420,2022-09-06,Women’s World Cup Qualifiers,Israel v Serbia,,Group H (UEFA)
-421,2022-09-06,Women’s World Cup Qualifiers,Italy v Romania,,Group G (UEFA)
-422,2022-09-06,Women’s World Cup Qualifiers,Latvia v Northern Ireland,,Group D (UEFA)
-423,2022-09-06,Women’s World Cup Qualifiers,Spain v Ukraine,,Group B (UEFA)
+418,2022-09-06,Women’s World Cup Qualifiers,Azerbaijan v Bosnia and Herzegovina,16:00:00,Group E (UEFA)
+419,2022-09-06,Women’s World Cup Qualifiers,Bulgaria v Germany,16:30:00,Group H (UEFA)
+420,2022-09-06,Women’s World Cup Qualifiers,Israel v Serbia,16:30:00,Group H (UEFA)
+421,2022-09-06,Women’s World Cup Qualifiers,Italy v Romania,16:30:00,Group G (UEFA)
+422,2022-09-06,Women’s World Cup Qualifiers,Latvia v Northern Ireland,14:00:00,Group D (UEFA)
+423,2022-09-06,Women’s World Cup Qualifiers,Spain v Ukraine,19:00:00,Group B (UEFA)
 424,2022-09-02,International Friendly,Netherlands v Scotland,18:00:00,MAC³PARK Stadion (Netherlands)
 425,2022-09-03,International Friendly,USA v Nigeria,17:00:00,Children's Mercy Park (KA USA)
-426,2022-09-03,International Friendly,Andorra v Liechtenstein,,
+426,2022-09-03,International Friendly,Andorra v Liechtenstein,16:00:00,Estadi Comunal d'Andorra la Vella (Andorra)
 427,2022-09-06,International Friendly,USA v Nigeria,22:00:00,Audi Field (DC USA)
 428,2022-10-06,International Friendly,Cyprus v Liechtenstein,,
 429,2022-10-07,International Friendly,England v United States,,Wembley Stadium
 430,2022-10-09,International Friendly,Cyprus v Liechtenstein,,
 431,2022-09-02,Women’s World Cup Qualifiers,Faroe Islands v Ukraine,17:00:00,Group B (UEFA)
-432,2022-09-06,Women’s World Cup Qualifiers,Faroe Islands v Scotland,,Group B (UEFA)
-433,2022-09-06,Women’s World Cup Qualifiers,Czech Republic v Belarus,,Group C (UEFA)
+432,2022-09-06,Women’s World Cup Qualifiers,Faroe Islands v Scotland,17:00:00,Group B (UEFA)
+433,2022-09-06,Women’s World Cup Qualifiers,Czech Republic v Belarus,16:00:00,Group C (UEFA)
 434,2022-09-01,Women’s World Cup Qualifiers,North Macedonia v Latvia,14:00:00,Group D (UEFA)
 435,2022-09-02,Women’s World Cup Qualifiers,Luxembourg v Northern Ireland,16:30:00,Group D (UEFA)
-436,2022-09-06,Women’s World Cup Qualifiers,Montenegro v Malta,,Group E (UEFA)
-437,2022-09-02,Women’s World Cup Qualifiers,Croatia v Switzerland,,Group G (UEFA)
-438,2022-09-06,Women’s World Cup Qualifiers,Switzerland v Moldova,,Group G (UEFA)
-439,2022-09-02,Women’s World Cup Qualifiers,Serbia v Portugal,,Group H (UEFA)
-440,2022-09-06,Women’s World Cup Qualifiers,Portugal v Turkey,,Group H (UEFA)
-441,2022-09-06,Women’s World Cup Qualifiers,Kazakhstan v Estonia,,Group I (UEFA)
+436,2022-09-06,Women’s World Cup Qualifiers,Montenegro v Malta,16:00:00,Group E (UEFA)
+437,2022-09-02,Women’s World Cup Qualifiers,Croatia v Switzerland,17:00:00,Group G (UEFA)
+438,2022-09-06,Women’s World Cup Qualifiers,Switzerland v Moldova,16:30:00,Group G (UEFA)
+439,2022-09-02,Women’s World Cup Qualifiers,Serbia v Portugal,18:00:00,Group H (UEFA)
+440,2022-09-06,Women’s World Cup Qualifiers,Portugal v Turkey,16:30:00,Group H (UEFA)
+441,2022-09-06,Women’s World Cup Qualifiers,Kazakhstan v Estonia,13:00:00,Group I (UEFA)

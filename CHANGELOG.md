@@ -1,5 +1,10 @@
 # Change Log
 
+2022-08-29
+* Updates to times/dates
+* Removed Turkish Süper Lig
+* Added UEFA Champions League 2022/2023
+
 2022-08-26
 * Bundesliga team names to shortened version
 * Updates to times/dates
