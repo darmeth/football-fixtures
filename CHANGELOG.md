@@ -1,5 +1,8 @@
 # Change Log
 
+2022-09-01
+* Updates to times/dates
+
 2022-08-29
 * Updates to times/dates
 * Removed Turkish Süper Lig

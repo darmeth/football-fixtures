@@ -1,5 +1,4 @@
 ID,date,league,teams,time,note_1
-46,2022-08-29,Allsvenskan,Djurgårdens IF v IF Elfsborg,17:10:00,Match 20
 47,2022-09-04,Allsvenskan,BK Häcken v Degerfors IF,13:00:00,Match 21
 48,2022-09-04,Allsvenskan,IK Sirius v Djurgårdens IF,13:00:00,Match 21
 49,2022-09-04,Allsvenskan,AIK v GIF Sundsvall,15:30:00,Match 21
@@ -80,8 +79,6 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-180,2022-08-30,Brazilian Série A,Corinthians v Bragantino,00:30:00,Match 24
-186,2022-08-29,Brazilian Série A,Internacional v Juventude,23:00:00,Match 24
 187,2022-09-03,Brazilian Série A,Juventude v Avai,19:30:00,Match 25
 188,2022-09-03,Brazilian Série A,Bragantino v Palmeiras,22:00:00,Match 25
 189,2022-09-03,Brazilian Série A,America Mineiro v Coritiba,23:30:00,Match 25
@@ -493,42 +490,30 @@ ID,date,league,teams,time,note_1
 631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
 655,,EFL Championship,Coventry City v Rotherham United,,Match 2
-705,2022-08-30,EFL Championship,Birmingham City v Norwich City,18:45:00,Match 7
-706,2022-08-30,EFL Championship,Burnley v Millwall,18:45:00,Match 7
-707,2022-08-30,EFL Championship,Cardiff City v Luton Town,18:45:00,Match 7
-708,2022-08-30,EFL Championship,Queens Park Rangers v Hull City,18:45:00,Match 7
-709,2022-08-30,EFL Championship,Watford v Middlesbrough,19:00:00,Match 7
-710,2022-08-30,EFL Championship,Wigan Athletic v West Bromwich Albion,18:45:00,Match 7
-711,2022-08-31,EFL Championship,Blackpool v Blackburn Rovers,19:00:00,Match 7
-712,2022-08-31,EFL Championship,Bristol City v Huddersfield Town,18:45:00,Match 7
-713,2022-08-31,EFL Championship,Coventry City v Preston North End,18:45:00,Match 7
-714,2022-08-30,EFL Championship,Sheffield United v Reading,18:45:00,Match 7
-715,2022-08-31,EFL Championship,Sunderland v Rotherham United,18:45:00,Match 7
-716,2022-08-31,EFL Championship,Stoke City v Swansea City,18:45:00,Match 7
-717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,,Match 8
-718,2022-09-03,EFL Championship,Huddersfield Town v Blackpool,,Match 8
-719,2022-09-03,EFL Championship,Hull City v Sheffield United,,Match 8
-720,2022-09-03,EFL Championship,Luton Town v Wigan Athletic,,Match 8
-721,2022-09-03,EFL Championship,Middlesbrough v Sunderland,,Match 8
-722,2022-09-03,EFL Championship,Millwall v Cardiff City,,Match 8
-723,2022-09-03,EFL Championship,Norwich City v Coventry City,,Match 8
-724,2022-09-03,EFL Championship,Preston North End v Birmingham City,,Match 8
-725,2022-09-03,EFL Championship,Reading v Stoke City,,Match 8
-726,2022-09-03,EFL Championship,Rotherham United v Watford,,Match 8
-727,2022-09-03,EFL Championship,Swansea City v Queens Park Rangers,,Match 8
-728,2022-09-03,EFL Championship,West Bromwich Albion v Burnley,,Match 8
-729,2022-09-10,EFL Championship,Birmingham City v Swansea City,,Match 9
-730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,,Match 9
-731,2022-09-10,EFL Championship,Bristol City v Preston North End,,Match 9
-732,2022-09-10,EFL Championship,Burnley v Norwich City,,Match 9
-733,2022-09-10,EFL Championship,Cardiff City v Hull City,,Match 9
-734,2022-09-10,EFL Championship,Coventry City v West Bromwich Albion,,Match 9
-735,2022-09-10,EFL Championship,Queens Park Rangers v Huddersfield Town,,Match 9
-736,2022-09-10,EFL Championship,Sheffield United v Rotherham United,,Match 9
-737,2022-09-10,EFL Championship,Stoke City v Luton Town,,Match 9
-738,2022-09-10,EFL Championship,Sunderland v Millwall,,Match 9
-739,2022-09-10,EFL Championship,Watford v Reading,,Match 9
-740,2022-09-10,EFL Championship,Wigan Athletic v Blackburn Rovers,,Match 9
+717,2022-09-03,EFL Championship,Blackburn Rovers v Bristol City,14:00:00,Match 8
+718,2022-09-04,EFL Championship,Huddersfield Town v Blackpool,14:00:00,Match 8
+719,2022-09-04,EFL Championship,Hull City v Sheffield United,14:00:00,Match 8
+720,2022-09-03,EFL Championship,Luton Town v Wigan Athletic,14:00:00,Match 8
+721,2022-09-04,EFL Championship,Middlesbrough v Sunderland,19:00:00,Match 8
+722,2022-09-03,EFL Championship,Millwall v Cardiff City,14:00:00,Match 8
+723,2022-09-03,EFL Championship,Norwich City v Coventry City,14:00:00,Match 8
+724,2022-09-03,EFL Championship,Preston North End v Birmingham City,14:00:00,Match 8
+725,2022-09-04,EFL Championship,Reading v Stoke City,11:00:00,Match 8
+726,2022-09-03,EFL Championship,Rotherham United v Watford,14:00:00,Match 8
+727,2022-09-03,EFL Championship,Swansea City v Queens Park Rangers,14:00:00,Match 8
+728,2022-09-02,EFL Championship,West Bromwich Albion v Burnley,19:00:00,Match 8
+729,2022-09-10,EFL Championship,Birmingham City v Swansea City,14:00:00,Match 9
+730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,14:00:00,Match 9
+731,2022-09-10,EFL Championship,Bristol City v Preston North End,14:00:00,Match 9
+732,2022-09-09,EFL Championship,Burnley v Norwich City,19:00:00,Match 9
+733,2022-09-10,EFL Championship,Cardiff City v Hull City,14:00:00,Match 9
+734,2022-09-10,EFL Championship,Coventry City v West Bromwich Albion,14:00:00,Match 9
+735,2022-09-10,EFL Championship,Queens Park Rangers v Huddersfield Town,14:00:00,Match 9
+736,2022-09-10,EFL Championship,Sheffield United v Rotherham United,14:00:00,Match 9
+737,2022-09-10,EFL Championship,Stoke City v Luton Town,14:00:00,Match 9
+738,2022-09-10,EFL Championship,Sunderland v Millwall,14:00:00,Match 9
+739,2022-09-10,EFL Championship,Watford v Reading,14:00:00,Match 9
+740,2022-09-10,EFL Championship,Wigan Athletic v Blackburn Rovers,14:00:00,Match 9
 741,2022-09-13,EFL Championship,Blackburn Rovers v Watford,,Match 10
 742,2022-09-13,EFL Championship,Huddersfield Town v Wigan Athletic,,Match 10
 743,2022-09-13,EFL Championship,Hull City v Stoke City,,Match 10
@@ -2013,7 +1998,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2449,2022-08-31,Eredivisie,FC Twente v Excelsior,19:00:00,Match 3
 2450,2022-09-02,Eredivisie,Fortuna Sittard v FC Utrecht,18:00:00,Match 5
 2451,2022-09-03,Eredivisie,Ajax v Cambuur Leeuwarden,14:30:00,Match 5
 2452,2022-09-03,Eredivisie,FC Twente v PSV Eindhoven,16:45:00,Match 5
@@ -2305,7 +2289,6 @@ ID,date,league,teams,time,note_1
 2738,2022-10-30,International Friendly,Saudi Arabia v Honduras,,
 2739,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2740,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
-2780,2022-08-31,J1 League,Kawasaki Frontale v Sagan Tosu,10:00:00,Match 20
 2781,2022-09-02,J1 League,Hokkaido Consadole Sapporo v Cerezo Osaka,10:30:00,Match 28
 2782,2022-09-03,J1 League,Kashima Antlers v Urawa Red Diamonds,09:00:00,Match 28
 2783,2022-09-03,J1 League,FC Tokyo v Yokohama F. Marinos,10:00:00,Match 28
@@ -2375,8 +2358,6 @@ ID,date,league,teams,time,note_1
 2847,2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2878,2022-08-29,La Liga,Cadiz v Athletic Bilbao,18:00:00,Match 3
-2879,2022-08-29,La Liga,Valencia v Atletico Madrid,20:00:00,Match 3
 2880,2022-09-02,La Liga,Celta Vigo v Cadiz,19:00:00,Match 4
 2881,2022-09-03,La Liga,Real Mallorca v Girona,12:00:00,Match 4
 2882,2022-09-03,La Liga,Real Madrid v Real Betis,14:15:00,Match 4
@@ -2727,16 +2708,6 @@ ID,date,league,teams,time,note_1
 3227,2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 3228,2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 3229,2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-3270,2022-08-31,Ligue 1,Angers v Reims,17:00:00,Match 5
-3271,2022-08-31,Ligue 1,Lille v Nice,19:00:00,Match 5
-3272,2022-08-31,Ligue 1,Lyon v Auxerre,17:00:00,Match 5
-3273,2022-08-31,Ligue 1,Marseille v Clermont,19:00:00,Match 5
-3274,2022-08-31,Ligue 1,Monaco v Troyes,17:00:00,Match 5
-3275,2022-08-31,Ligue 1,Montpellier v AC Ajaccio,17:00:00,Match 5
-3276,2022-08-31,Ligue 1,RC Lens v Lorient,19:00:00,Match 5
-3277,2022-08-31,Ligue 1,Rennes v Brest,19:00:00,Match 5
-3278,2022-08-31,Ligue 1,Strasbourg v Nantes,17:00:00,Match 5
-3279,2022-08-31,Ligue 1,Toulouse v Paris Saint-Germain,19:00:00,Match 5
 3280,2022-09-04,Ligue 1,AC Ajaccio v Lorient,13:00:00,Match 6
 3281,2022-09-03,Ligue 1,Auxerre v Marseille,15:00:00,Match 6
 3282,2022-09-04,Ligue 1,Brest v Strasbourg,13:00:00,Match 6
@@ -3067,11 +3038,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3662,2022-08-29,Norway 1. Divisjon,Bryne v Raufoss,16:00:00,Match 22
-3663,2022-08-29,Norway 1. Divisjon,Mjøndalen v Sandnes Ulf,16:00:00,Match 22
-3664,2022-08-29,Norway 1. Divisjon,Brann v Ranheim TF,16:00:00,Match 22
-3665,2022-08-29,Norway 1. Divisjon,Start v Grorud,16:00:00,Match 22
-3666,2022-08-29,Norway 1. Divisjon,Skeid v Kfum Oslo,16:00:00,Match 22
 3667,2022-09-04,Norway 1. Divisjon,Sandnes Ulf v Start,13:00:00,Match 23
 3668,2022-09-04,Norway 1. Divisjon,Åsane v Brann,13:00:00,Match 23
 3669,2022-09-04,Norway 1. Divisjon,Kfum Oslo v Mjøndalen,13:00:00,Match 23
@@ -3136,15 +3102,6 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3771,2022-08-30,Premier League,Fulham v Brighton and Hove Albion,18:30:00,Match 5
-3772,2022-08-30,Premier League,Leeds United v Everton,19:00:00,Match 5
-3773,2022-08-30,Premier League,Crystal Palace v Brentford,18:30:00,Match 5
-3774,2022-08-31,Premier League,Arsenal v Aston Villa,18:30:00,Match 5
-3775,2022-08-31,Premier League,Bournemouth v Wolverhampton Wanderers,18:30:00,Match 5
-3776,2022-08-31,Premier League,Manchester City v Nottingham Forest,18:30:00,Match 5
-3777,2022-08-31,Premier League,West Ham United v Tottenham Hotspur,18:45:00,Match 5
-3778,2022-08-30,Premier League,Southampton v Chelsea,18:45:00,Match 5
-3779,2022-08-31,Premier League,Liverpool v Newcastle United,19:00:00,Match 5
 3780,2022-09-01,Premier League,Leicester City v Manchester United,19:00:00,Match 5
 3781,2022-09-03,Premier League,Aston Villa v Manchester City,16:30:00,Match 6
 3782,2022-09-03,Premier League,Brentford v Leeds United,14:00:00,Match 6
@@ -3476,9 +3433,6 @@ ID,date,league,teams,time,note_1
 4108,2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 4109,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-4130,2022-08-30,Primeira Liga,Benfica v Paços de Ferreira,19:15:00,Match 3
-4145,2022-08-29,Primeira Liga,Vitória Guimarães v Casa Pia AC,18:00:00,Match 4
-4146,2022-08-29,Primeira Liga,Vizela v Gil Vicente,20:15:00,Match 4
 4147,2022-09-02,Primeira Liga,Benfica v Vizela,18:00:00,Match 5
 4148,2022-09-05,Primeira Liga,Boavista v Paços de Ferreira,18:00:00,Match 5
 4149,2022-09-04,Primeira Liga,Casa Pia AC v Arouca,14:30:00,Match 5
@@ -3749,14 +3703,6 @@ ID,date,league,teams,time,note_1
 4414,2023-05-28,Primeira Liga,Rio Ave v FC Famalicão,,Match 34
 4415,2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
 4416,2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
-4447,2022-08-30,Serie A,Sassuolo v AC Milan,16:30:00,Match 4
-4448,2022-08-30,Serie A,Inter Milan v Cremonese,18:45:00,Match 4
-4449,2022-08-30,Serie A,Roma v Monza,18:45:00,Match 4
-4450,2022-08-31,Serie A,Empoli v Verona,16:30:00,Match 4
-4451,2022-08-31,Serie A,Sampdoria v Lazio,16:30:00,Match 4
-4452,2022-08-31,Serie A,Udinese v Fiorentina,16:30:00,Match 4
-4453,2022-08-31,Serie A,Juventus v Spezia,18:45:00,Match 4
-4454,2022-08-31,Serie A,Napoli v Lecce,18:45:00,Match 4
 4455,2022-09-01,Serie A,Atalanta v Torino,18:45:00,Match 4
 4456,2022-09-01,Serie A,Bologna v Salernitana,18:45:00,Match 4
 4457,2022-09-03,Serie A,Fiorentina v Juventus,13:00:00,Match 5
@@ -4099,8 +4045,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-4826,2022-08-29,Süper Lig,Beşiktaş v Sivasspor,18:45:00,Match 4
-4828,2022-08-29,Süper Lig,Konyaspor v Fenerbahçe,16:15:00,Match 4
 4833,2022-09-03,Süper Lig,İstanbul Başakşehir v Alanyaspor,16:15:00,Match 5
 4834,2022-09-05,Süper Lig,Galatasaray v Gaziantep,18:00:00,Match 5
 4835,2022-09-03,Süper Lig,Sivasspor v Fatih Karagümrük,16:15:00,Match 5
@@ -4163,13 +4107,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5286,2022-08-29,USA MLS,New England Revolution v Los Angeles Galaxy,00:00:00,Regular Season
-5287,2022-08-31,USA MLS,Philadelphia Union v Atlanta United FC,23:00:00,Regular Season
-5288,2022-08-31,USA MLS,CF Montréal v New York Red Bulls,23:30:00,Regular Season
-5289,2022-08-31,USA MLS,Columbus Crew v Inter Miami CF,23:30:00,Regular Season
-5290,2022-08-31,USA MLS,New England Revolution v Chicago Fire,23:30:00,Regular Season
-5291,2022-08-31,USA MLS,Orlando City SC v Seattle Sounders FC,23:30:00,Regular Season
-5292,2022-08-31,USA MLS,Toronto FC v Los Angeles Galaxy,23:30:00,Regular Season
 5293,2022-09-01,USA MLS,New York City FC v D.C. United,00:00:00,Regular Season
 5294,2022-09-01,USA MLS,Houston Dynamo v Los Angeles Football Club,00:30:00,Regular Season
 5295,2022-09-01,USA MLS,Nashville SC v Colorado Rapids,00:30:00,Regular Season
@@ -4333,13 +4270,9 @@ ID,date,league,teams,time,note_1
 5488,2022-12-14,World Cup 2022,Winner Match 59 v Winner Match 60,19:00:00,Semi Finals
 5489,2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
 5490,2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals
-5492,2022-08-31,Eliteserien,Tromsø v Strømsgodset,17:00:00,Match 14
-5493,2022-08-31,Eredivisie,PSV Eindhoven v FC Volendam,16:45:00,Match 3
 5494,2022-09-01,Eredivisie,AZ Alkmaar v NEC Nijmegen,18:00:00,Match 3
-5495,2022-08-31,J1 League,Avispa Fukuoka v Gamba Osaka,10:00:00,Match 24
 5496,2022-09-06,EFL League One,Forest Green Rovers v Accrington Stanley,18:45:00,Match 4
 5497,2022-09-07,Ligue 1,Lorient v Lyon,17:00:00,Match 2
-5498,2022-08-31,Eliteserien,Kristiansund Bk v Viking,17:00:00,Match 19
 5499,2022-09-07,J1 League,Yokohama F. Marinos v Shonan Bellmare,10:00:00,Match 25
 5500,2022-09-06,UEFA Champions League,Borussia Dortmund v FC Copenhagen,16:45:00,Group stage – Match 1
 5501,2022-09-06,UEFA Champions League,Dinamo Zagreb v Chelsea,16:45:00,Group stage – Match 1
