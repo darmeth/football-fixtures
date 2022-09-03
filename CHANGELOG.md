@@ -1,5 +1,10 @@
 # Change Log
 
+2022-09-03
+* Added Division 1 Féminine
+* Added Primera División Femenina
+* Added Serie A Femminile
+
 2022-09-01
 * Updates to times/dates
 

@@ -133,7 +133,7 @@ ID,date,league,teams,time,note_1
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
 142,2022-09-03,International Friendly,Australia v Canada,04:45;00,Suncorp Stadium (Australia)
 143,2022-09-06,International Friendly,Australia v Canada,09:40:00,Allianz Stadium (Australia)
-144,2022-10-06,International Friendly,Japan v Nigeria,,Misaki Park Stadium (Japan)
+144,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
 145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
 194,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
 195,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
@@ -154,7 +154,7 @@ ID,date,league,teams,time,note_1
 210,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
 211,2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
 212,2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
-213,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,,Round 21
+213,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,13:00:00,Round 21
 214,2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
 215,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
 216,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
@@ -203,12 +203,12 @@ ID,date,league,teams,time,note_1
 264,2022-09-18,Women's Super League,Liverpool v Chelsea,17:45:00,Match 2
 265,2022-09-17,Women's Super League,Manchester United v Reading,11:00:00,Match 2
 266,2022-09-18,Women's Super League,West Ham United v Everton,14:00:00,Match 2
-267,2022-09-25,Women's Super League,Arsenal v Tottenham Hotspur,,Match 3
-268,2022-09-25,Women's Super League,Brighton and Hove Albion v Reading,,Match 3
-269,2022-09-25,Women's Super League,Chelsea v Manchester City,,Match 3
-270,2022-09-25,Women's Super League,Leicester City v Aston Villa,,Match 3
-271,2022-09-25,Women's Super League,Liverpool v Everton,,Match 3
-272,2022-09-25,Women's Super League,West Ham United v Manchester United,,Match 3
+267,2022-09-24,Women's Super League,Arsenal v Tottenham Hotspur,12:30:00,Match 3
+268,2022-09-25,Women's Super League,Brighton and Hove Albion v Reading,13:00:00,Match 3
+269,2022-09-25,Women's Super League,Chelsea v Manchester City,15:00:00,Match 3
+270,2022-09-25,Women's Super League,Leicester City v Aston Villa,14:00:00,Match 3
+271,2022-09-25,Women's Super League,Liverpool v Everton,17:45:00,Match 3
+272,2022-09-25,Women's Super League,West Ham United v Manchester United,14:00:00,Match 3
 273,2022-10-16,Women's Super League,Aston Villa v West Ham United,,Match 4
 274,2022-10-16,Women's Super League,Everton v Chelsea,,Match 4
 275,2022-10-16,Women's Super League,Manchester City v Leicester City,,Match 4
@@ -323,22 +323,6 @@ ID,date,league,teams,time,note_1
 384,2023-05-28,Women's Super League,Manchester City v Everton,,Match 22
 385,2023-05-28,Women's Super League,Reading v Chelsea,,Match 22
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,,Match 22
-389,2022-09-01,Women’s World Cup Qualifiers,Denmark v Montenegro,16:00:00,Group E (UEFA)
-390,2022-09-01,Women’s World Cup Qualifiers,Republic of Ireland v Finland,18:00:00,Group A (UEFA)
-391,2022-09-01,Women’s World Cup Qualifiers,Albania v Poland,16:00:00,Group F (UEFA)
-392,2022-09-01,Women’s World Cup Qualifiers,Cyprus v Czech Republic,17:00:00,Group C (UEFA)
-393,2022-09-01,Women’s World Cup Qualifiers,Georgia v Slovakia,16:00:00,Group A (UEFA)
-394,2022-09-01,Women’s World Cup Qualifiers,Israel v Bulgaria,16:30:00,Group H (UEFA)
-395,2022-09-01,Women’s World Cup Qualifiers,Kosovo v Armenia,17:00:00,Group F (UEFA)
-396,2022-09-02,Women’s World Cup Qualifiers,Estonia v France,15:00:00,Group I (UEFA)
-397,2022-09-02,Women’s World Cup Qualifiers,Lithuania v Romania,16:00:00,Group G (UEFA)
-398,2022-09-02,Women’s World Cup Qualifiers,Moldova v Italy,16:30:00,Group G (UEFA)
-399,2022-09-02,Women’s World Cup Qualifiers,Greece v Wales,17:00:00,Group I (UEFA)
-400,2022-09-02,Women’s World Cup Qualifiers,Malta v Azerbaijan,17:30:00,Group E (UEFA)
-401,2022-09-02,Women’s World Cup Qualifiers,Belgium v Norway,18:30:00,Group F (UEFA)
-402,2022-09-02,Women’s World Cup Qualifiers,Iceland v Belarus,17:30:00,Group C (UEFA)
-403,2022-09-02,Women’s World Cup Qualifiers,Slovenia v Kazakhstan,16:00:00,Group I (UEFA)
-404,2022-09-02,Women’s World Cup Qualifiers,Spain v Hungary,19:00:00,Group B (UEFA)
 405,2022-09-03,Women’s World Cup Qualifiers,Turkey v Germany,12:45:00,Group H (UEFA)
 406,2022-09-03,Women’s World Cup Qualifiers,Austria v England,15:30:00,Group D (UEFA)
 407,2022-09-06,Women’s World Cup Qualifiers,Finland v Sweden,16:00:00,Group A (UEFA)
@@ -358,21 +342,476 @@ ID,date,league,teams,time,note_1
 421,2022-09-06,Women’s World Cup Qualifiers,Italy v Romania,16:30:00,Group G (UEFA)
 422,2022-09-06,Women’s World Cup Qualifiers,Latvia v Northern Ireland,14:00:00,Group D (UEFA)
 423,2022-09-06,Women’s World Cup Qualifiers,Spain v Ukraine,19:00:00,Group B (UEFA)
-424,2022-09-02,International Friendly,Netherlands v Scotland,18:00:00,MAC³PARK Stadion (Netherlands)
 425,2022-09-03,International Friendly,USA v Nigeria,17:00:00,Children's Mercy Park (KA USA)
 426,2022-09-03,International Friendly,Andorra v Liechtenstein,16:00:00,Estadi Comunal d'Andorra la Vella (Andorra)
 427,2022-09-06,International Friendly,USA v Nigeria,22:00:00,Audi Field (DC USA)
 428,2022-10-06,International Friendly,Cyprus v Liechtenstein,,
-429,2022-10-07,International Friendly,England v United States,,Wembley Stadium
+429,2022-09-07,International Friendly,New Zealand v Philippines,00:00:00,Titan Stadium
 430,2022-10-09,International Friendly,Cyprus v Liechtenstein,,
-431,2022-09-02,Women’s World Cup Qualifiers,Faroe Islands v Ukraine,17:00:00,Group B (UEFA)
 432,2022-09-06,Women’s World Cup Qualifiers,Faroe Islands v Scotland,17:00:00,Group B (UEFA)
 433,2022-09-06,Women’s World Cup Qualifiers,Czech Republic v Belarus,16:00:00,Group C (UEFA)
-434,2022-09-01,Women’s World Cup Qualifiers,North Macedonia v Latvia,14:00:00,Group D (UEFA)
-435,2022-09-02,Women’s World Cup Qualifiers,Luxembourg v Northern Ireland,16:30:00,Group D (UEFA)
 436,2022-09-06,Women’s World Cup Qualifiers,Montenegro v Malta,16:00:00,Group E (UEFA)
-437,2022-09-02,Women’s World Cup Qualifiers,Croatia v Switzerland,17:00:00,Group G (UEFA)
 438,2022-09-06,Women’s World Cup Qualifiers,Switzerland v Moldova,16:30:00,Group G (UEFA)
-439,2022-09-02,Women’s World Cup Qualifiers,Serbia v Portugal,18:00:00,Group H (UEFA)
 440,2022-09-06,Women’s World Cup Qualifiers,Portugal v Turkey,16:30:00,Group H (UEFA)
 441,2022-09-06,Women’s World Cup Qualifiers,Kazakhstan v Estonia,13:00:00,Group I (UEFA)
+442,2022-09-05,International Friendly,Papua New Guinea v Singapore,06:30:00,PNG Football Stadium
+443,2022-09-05,International Friendly,Gibraltar v Hungary,17:00:00,Victoria Stadium
+444,2022-09-05,International Friendly,South Africa v Brazil,16:00:00,Moses Mabhida Stadium
+445,2022-09-07,International Friendly,Colombia v Costa Rica,00:30:00,Estadio Pascual Guerrero
+446,2022-09-09,Division 1 Féminine,Paris St Germain v Soyaux,19:00:00,Match 1
+447,2022-09-10,Division 1 Féminine,Bordeaux v Le Havre,12:30:00,Match 1
+448,2022-09-10,Division 1 Féminine,Paris FC v Rodez,12:30:00,Match 1
+449,2022-09-10,Division 1 Féminine,Montpellier v Dijon,12:30:00,Match 1
+450,2022-09-10,Division 1 Féminine,Guingamp v Fleury,12:30:00,Match 1
+451,2022-09-11,Division 1 Féminine,Reims v Lyon,10:45:00,Match 1
+452,2022-09-16,Division 1 Féminine,Fleury v Paris FC,16:30:00,Match 2
+453,2022-09-17,Division 1 Féminine,Reims v Montpellier,12:30:00,Match 2
+454,2022-09-17,Division 1 Féminine,Rodez v Paris St Germain,12:30:00,Match 2
+455,2022-09-17,Division 1 Féminine,Dijon v Bordeaux,12:30:00,Match 2
+456,2022-09-18,Division 1 Féminine,Lyon v Soyaux,10:45:00,Match 2
+457,2022-09-18,Division 1 Féminine,Le Havre v Guingamp,10:45:00,Match 2
+458,2022-09-23,Division 1 Féminine,Paris FC v Le Havre,16:30:00,Match 3
+459,2022-09-23,Division 1 Féminine,Montpellier v Lyon,19:00:00,Match 3
+460,2022-09-24,Division 1 Féminine,Soyaux v Rodez,12:30:00,Match 3
+461,2022-09-24,Division 1 Féminine,Guingamp v Dijon,12:30:00,Match 3
+462,2022-09-24,Division 1 Féminine,Bordeaux v Reims,12:30:00,Match 3
+463,2022-09-25,Division 1 Féminine,Paris St Germain v Fleury,10:45:00,Match 3
+464,2022-10-01,Division 1 Féminine,Fleury v Soyaux,,Match 4
+465,2022-10-01,Division 1 Féminine,Reims v Guingamp,,Match 4
+466,2022-10-01,Division 1 Féminine,Lyon v Rodez,,Match 4
+467,2022-10-01,Division 1 Féminine,Montpellier v Bordeaux,,Match 4
+468,2022-10-01,Division 1 Féminine,Dijon v Paris FC,,Match 4
+469,2022-10-01,Division 1 Féminine,Le Havre v Paris St Germain,,Match 4
+470,2022-10-15,Division 1 Féminine,Rodez v Fleury,,Match 5
+471,2022-10-15,Division 1 Féminine,Paris St Germain v Dijon,,Match 5
+472,2022-10-15,Division 1 Féminine,Soyaux v Le Havre,,Match 5
+473,2022-10-15,Division 1 Féminine,Bordeaux v Lyon,,Match 5
+474,2022-10-15,Division 1 Féminine,Guingamp v Montpellier,,Match 5
+475,2022-10-15,Division 1 Féminine,Paris FC v Reims,,Match 5
+476,2022-10-29,Division 1 Féminine,Lyon v Fleury,,Match 6
+477,2022-10-29,Division 1 Féminine,Reims v Paris St Germain,,Match 6
+478,2022-10-29,Division 1 Féminine,Le Havre v Rodez,,Match 6
+479,2022-10-29,Division 1 Féminine,Dijon v Soyaux,,Match 6
+480,2022-10-29,Division 1 Féminine,Montpellier v Paris FC,,Match 6
+481,2022-10-29,Division 1 Féminine,Bordeaux v Guingamp,,Match 6
+482,2022-11-05,Division 1 Féminine,Paris FC v Bordeaux,,Match 7
+483,2022-11-05,Division 1 Féminine,Rodez v Dijon,,Match 7
+484,2022-11-05,Division 1 Féminine,Fleury v Le Havre,,Match 7
+485,2022-11-05,Division 1 Féminine,Guingamp v Lyon,,Match 7
+486,2022-11-05,Division 1 Féminine,Paris St Germain v Montpellier,,Match 7
+487,2022-11-05,Division 1 Féminine,Soyaux v Reims,,Match 7
+488,2022-11-19,Division 1 Féminine,Reims v Rodez,,Match 8
+489,2022-11-19,Division 1 Féminine,Montpellier v Soyaux,,Match 8
+490,2022-11-19,Division 1 Féminine,Bordeaux v Paris St Germain,,Match 8
+491,2022-11-19,Division 1 Féminine,Lyon v Le Havre,,Match 8
+492,2022-11-19,Division 1 Féminine,Dijon v Fleury,,Match 8
+493,2022-11-19,Division 1 Féminine,Guingamp v Paris FC,,Match 8
+494,2022-11-26,Division 1 Féminine,Soyaux v Bordeaux,,Match 9
+495,2022-11-26,Division 1 Féminine,Paris FC v Lyon,,Match 9
+496,2022-11-26,Division 1 Féminine,Le Havre v Dijon,,Match 9
+497,2022-11-26,Division 1 Féminine,Fleury v Reims,,Match 9
+498,2022-11-26,Division 1 Féminine,Rodez v Montpellier,,Match 9
+499,2022-11-26,Division 1 Féminine,Paris St Germain v Guingamp,,Match 9
+500,2022-12-03,Division 1 Féminine,Guingamp v Soyaux,,Match 10
+501,2022-12-03,Division 1 Féminine,Bordeaux v Rodez,,Match 10
+502,2022-12-03,Division 1 Féminine,Reims v Le Havre,,Match 10
+503,2022-12-03,Division 1 Féminine,Lyon v Dijon,,Match 10
+504,2022-12-03,Division 1 Féminine,Montpellier v Fleury,,Match 10
+505,2022-12-03,Division 1 Féminine,Paris FC v Paris St Germain,,Match 10
+506,2022-12-10,Division 1 Féminine,Rodez v Guingamp,,Match 11
+507,2022-12-10,Division 1 Féminine,Fleury v Bordeaux,,Match 11
+508,2022-12-10,Division 1 Féminine,Dijon v Reims,,Match 11
+509,2022-12-10,Division 1 Féminine,Soyaux v Paris FC,,Match 11
+510,2022-12-10,Division 1 Féminine,Le Havre v Montpellier,,Match 11
+511,2022-12-10,Division 1 Féminine,Lyon v Paris St Germain,,Match 11
+512,2023-01-14,Division 1 Féminine,Soyaux v Lyon,,Match 12
+513,2023-01-14,Division 1 Féminine,Paris St Germain v Rodez,,Match 12
+514,2023-01-14,Division 1 Féminine,Paris FC v Fleury,,Match 12
+515,2023-01-14,Division 1 Féminine,Bordeaux v Dijon,,Match 12
+516,2023-01-14,Division 1 Féminine,Guingamp v Le Havre,,Match 12
+517,2023-01-14,Division 1 Féminine,Montpellier v Reims,,Match 12
+518,2023-01-21,Division 1 Féminine,Rodez v Soyaux,,Match 13
+519,2023-01-21,Division 1 Féminine,Le Havre v Paris FC,,Match 13
+520,2023-01-21,Division 1 Féminine,Dijon v Guingamp,,Match 13
+521,2023-01-21,Division 1 Féminine,Reims v Bordeaux,,Match 13
+522,2023-01-21,Division 1 Féminine,Lyon v Montpellier,,Match 13
+523,2023-01-21,Division 1 Féminine,Fleury v Paris St Germain,,Match 13
+524,2023-02-04,Division 1 Féminine,Paris FC v Dijon,,Match 14
+525,2023-02-04,Division 1 Féminine,Paris St Germain v Le Havre,,Match 14
+526,2023-02-04,Division 1 Féminine,Guingamp v Reims,,Match 14
+527,2023-02-04,Division 1 Féminine,Soyaux v Fleury,,Match 14
+528,2023-02-04,Division 1 Féminine,Rodez v Lyon,,Match 14
+529,2023-02-04,Division 1 Féminine,Bordeaux v Montpellier,,Match 14
+530,2023-02-25,Division 1 Féminine,Montpellier v Guingamp,,Match 15
+531,2023-02-25,Division 1 Féminine,Le Havre v Soyaux,,Match 15
+532,2023-02-25,Division 1 Féminine,Reims v Paris FC,,Match 15
+533,2023-02-25,Division 1 Féminine,Dijon v Paris St Germain,,Match 15
+534,2023-02-25,Division 1 Féminine,Fleury v Rodez,,Match 15
+535,2023-02-25,Division 1 Féminine,Lyon v Bordeaux,,Match 15
+536,2023-03-11,Division 1 Féminine,Soyaux v Dijon,,Match 16
+537,2023-03-11,Division 1 Féminine,Guingamp v Bordeaux,,Match 16
+538,2023-03-11,Division 1 Féminine,Paris FC v Montpellier,,Match 16
+539,2023-03-11,Division 1 Féminine,Paris St Germain v Reims,,Match 16
+540,2023-03-11,Division 1 Féminine,Rodez v Le Havre,,Match 16
+541,2023-03-11,Division 1 Féminine,Fleury v Lyon,,Match 16
+542,2023-03-25,Division 1 Féminine,Montpellier v Paris St Germain,,Match 17
+543,2023-03-25,Division 1 Féminine,Reims v Soyaux,,Match 17
+544,2023-03-25,Division 1 Féminine,Bordeaux v Paris FC,,Match 17
+545,2023-03-25,Division 1 Féminine,Le Havre v Fleury,,Match 17
+546,2023-03-25,Division 1 Féminine,Lyon v Guingamp,,Match 17
+547,2023-03-25,Division 1 Féminine,Dijon v Rodez,,Match 17
+548,2023-04-01,Division 1 Féminine,Soyaux v Montpellier,,Match 18
+549,2023-04-01,Division 1 Féminine,Paris FC v Guingamp,,Match 18
+550,2023-04-01,Division 1 Féminine,Le Havre v Lyon,,Match 18
+551,2023-04-01,Division 1 Féminine,Rodez v Reims,,Match 18
+552,2023-04-01,Division 1 Féminine,Fleury v Dijon,,Match 18
+553,2023-04-01,Division 1 Féminine,Paris St Germain v Bordeaux,,Match 18
+554,2023-04-15,Division 1 Féminine,Reims v Fleury,,Match 19
+555,2023-04-15,Division 1 Féminine,Dijon v Le Havre,,Match 19
+556,2023-04-15,Division 1 Féminine,Guingamp v Paris St Germain,,Match 19
+557,2023-04-15,Division 1 Féminine,Bordeaux v Soyaux,,Match 19
+558,2023-04-15,Division 1 Féminine,Lyon v Paris FC,,Match 19
+559,2023-04-15,Division 1 Féminine,Montpellier v Rodez,,Match 19
+560,2023-05-06,Division 1 Féminine,Rodez v Bordeaux,,Match 20
+561,2023-05-06,Division 1 Féminine,Le Havre v Reims,,Match 20
+562,2023-05-06,Division 1 Féminine,Fleury v Montpellier,,Match 20
+563,2023-05-06,Division 1 Féminine,Dijon v Lyon,,Match 20
+564,2023-05-06,Division 1 Féminine,Paris St Germain v Paris FC,,Match 20
+565,2023-05-06,Division 1 Féminine,Soyaux v Guingamp,,Match 20
+566,2023-05-20,Division 1 Féminine,Paris FC v Soyaux,,Match 21
+567,2023-05-20,Division 1 Féminine,Bordeaux v Fleury,,Match 21
+568,2023-05-20,Division 1 Féminine,Guingamp v Rodez,,Match 21
+569,2023-05-20,Division 1 Féminine,Paris St Germain v Lyon,,Match 21
+570,2023-05-20,Division 1 Féminine,Reims v Dijon,,Match 21
+571,2023-05-20,Division 1 Féminine,Montpellier v Le Havre,,Match 21
+572,2023-05-27,Division 1 Féminine,Rodez v Paris FC,,Match 22
+573,2023-05-27,Division 1 Féminine,Lyon v Reims,,Match 22
+574,2023-05-27,Division 1 Féminine,Dijon v Montpellier,,Match 22
+575,2023-05-27,Division 1 Féminine,Fleury v Guingamp,,Match 22
+576,2023-05-27,Division 1 Féminine,Soyaux v Paris St Germain,,Match 22
+577,2023-05-27,Division 1 Féminine,Le Havre v Bordeaux,,Match 22
+578,2022-09-10,Primera División Femenina,Alhama v Madrid CFF,10:00:00,Match 1
+579,2022-09-10,Primera División Femenina,Atletico Madrid v Real Sociedad,10:00:00,Match 1
+580,2022-09-10,Primera División Femenina,Villarreal v Real Madrid,14:00:00,Match 1
+581,2022-09-10,Primera División Femenina,Granadilla Tenerife v Athletic Club,16:00:00,Match 1
+582,2022-09-11,Primera División Femenina,Levante v Alavés,10:00:00,Match 1
+583,2022-09-11,Primera División Femenina,Sporting Huelva v Sevilla,10:00:00,Match 1
+584,2022-09-11,Primera División Femenina,Valencia v Real Betis,14:00:00,Match 1
+585,2022-09-11,Primera División Femenina,Levante Las Planas v Barcelona,16:00:00,Match 1
+586,2022-09-17,Primera División Femenina,Barcelona v Granadilla Tenerife,10:00:00,Match 2
+587,2022-09-17,Primera División Femenina,Alavés v Madrid CFF,10:00:00,Match 2
+588,2022-09-17,Primera División Femenina,Real Sociedad v Villarreal,14:00:00,Match 2
+589,2022-09-17,Primera División Femenina,Sevilla v Atletico Madrid,16:00:00,Match 2
+590,2022-09-18,Primera División Femenina,Athletic Club v Sporting Huelva,10:00:00,Match 2
+591,2022-09-18,Primera División Femenina,Alhama v Levante,10:00:00,Match 2
+592,2022-09-18,Primera División Femenina,Real Madrid v Valencia,14:00:00,Match 2
+593,2022-09-18,Primera División Femenina,Real Betis v Levante Las Planas,16:00:00,Match 2
+594,2022-09-25,Primera División Femenina,Granadilla Tenerife v Real Madrid,,Match 3
+595,2022-09-25,Primera División Femenina,Levante v Athletic Club,,Match 3
+596,2022-09-25,Primera División Femenina,Atletico Madrid v Alavés,,Match 3
+597,2022-09-25,Primera División Femenina,Real Sociedad v Real Betis,,Match 3
+598,2022-09-25,Primera División Femenina,Sporting Huelva v Alhama,,Match 3
+599,2022-09-25,Primera División Femenina,Valencia v Sevilla,,Match 3
+600,2022-09-25,Primera División Femenina,Villarreal v Barcelona,,Match 3
+601,2022-09-25,Primera División Femenina,Madrid CFF v Levante Las Planas,,Match 3
+602,2022-10-02,Primera División Femenina,Levante v Atletico Madrid,,Match 4
+603,2022-10-02,Primera División Femenina,Levante Las Planas v Alhama,,Match 4
+604,2022-10-02,Primera División Femenina,Alavés v Villarreal,,Match 4
+605,2022-10-02,Primera División Femenina,Real Betis v Granadilla Tenerife,,Match 4
+606,2022-10-02,Primera División Femenina,Barcelona v Madrid CFF,,Match 4
+607,2022-10-02,Primera División Femenina,Athletic Club v Real Madrid,,Match 4
+608,2022-10-02,Primera División Femenina,Sporting Huelva v Valencia,,Match 4
+609,2022-10-02,Primera División Femenina,Sevilla v Real Sociedad,,Match 4
+610,2022-10-16,Primera División Femenina,Real Sociedad v Granadilla Tenerife,,Match 5
+611,2022-10-16,Primera División Femenina,Villarreal v Sevilla,,Match 5
+612,2022-10-16,Primera División Femenina,Levante Las Planas v Levante,,Match 5
+613,2022-10-16,Primera División Femenina,Real Madrid v Alavés,,Match 5
+614,2022-10-16,Primera División Femenina,Atletico Madrid v Sporting Huelva,,Match 5
+615,2022-10-16,Primera División Femenina,Madrid CFF v Real Betis,,Match 5
+616,2022-10-16,Primera División Femenina,Athletic Club v Barcelona,,Match 5
+617,2022-10-16,Primera División Femenina,Alhama v Valencia,,Match 5
+618,2022-10-23,Primera División Femenina,Sporting Huelva v Real Sociedad,,Match 6
+619,2022-10-23,Primera División Femenina,Levante v Real Madrid,,Match 6
+620,2022-10-23,Primera División Femenina,Alavés v Athletic Club,,Match 6
+621,2022-10-23,Primera División Femenina,Valencia v Levante Las Planas,,Match 6
+622,2022-10-23,Primera División Femenina,Sevilla v Alhama,,Match 6
+623,2022-10-23,Primera División Femenina,Granadilla Tenerife v Villarreal,,Match 6
+624,2022-10-23,Primera División Femenina,Atletico Madrid v Madrid CFF,,Match 6
+625,2022-10-23,Primera División Femenina,Real Betis v Barcelona,,Match 6
+626,2022-10-30,Primera División Femenina,Alhama v Real Betis,,Match 7
+627,2022-10-30,Primera División Femenina,Barcelona v Levante,,Match 7
+628,2022-10-30,Primera División Femenina,Athletic Club v Atletico Madrid,,Match 7
+629,2022-10-30,Primera División Femenina,Levante Las Planas v Sporting Huelva,,Match 7
+630,2022-10-30,Primera División Femenina,Villarreal v Valencia,,Match 7
+631,2022-10-30,Primera División Femenina,Madrid CFF v Granadilla Tenerife,,Match 7
+632,2022-10-30,Primera División Femenina,Real Madrid v Sevilla,,Match 7
+633,2022-10-30,Primera División Femenina,Alavés v Real Sociedad,,Match 7
+634,2022-11-06,Primera División Femenina,Atletico Madrid v Alhama,,Match 8
+635,2022-11-06,Primera División Femenina,Real Sociedad v Madrid CFF,,Match 8
+636,2022-11-06,Primera División Femenina,Valencia v Athletic Club,,Match 8
+637,2022-11-06,Primera División Femenina,Levante v Sporting Huelva,,Match 8
+638,2022-11-06,Primera División Femenina,Villarreal v Real Betis,,Match 8
+639,2022-11-06,Primera División Femenina,Sevilla v Levante Las Planas,,Match 8
+640,2022-11-06,Primera División Femenina,Real Madrid v Barcelona,,Match 8
+641,2022-11-06,Primera División Femenina,Granadilla Tenerife v Alavés,,Match 8
+642,2022-11-20,Primera División Femenina,Levante Las Planas v Atletico Madrid,,Match 9
+643,2022-11-20,Primera División Femenina,Sporting Huelva v Real Madrid,,Match 9
+644,2022-11-20,Primera División Femenina,Alhama v Granadilla Tenerife,,Match 9
+645,2022-11-20,Primera División Femenina,Real Betis v Sevilla,,Match 9
+646,2022-11-20,Primera División Femenina,Valencia v Levante,,Match 9
+647,2022-11-20,Primera División Femenina,Athletic Club v Real Sociedad,,Match 9
+648,2022-11-20,Primera División Femenina,Madrid CFF v Villarreal,,Match 9
+649,2022-11-20,Primera División Femenina,Barcelona v Alavés,,Match 9
+650,2022-11-27,Primera División Femenina,Real Madrid v Alhama,,Match 10
+651,2022-11-27,Primera División Femenina,Villarreal v Athletic Club,,Match 10
+652,2022-11-27,Primera División Femenina,Levante v Sevilla,,Match 10
+653,2022-11-27,Primera División Femenina,Madrid CFF v Sporting Huelva,,Match 10
+654,2022-11-27,Primera División Femenina,Granadilla Tenerife v Valencia,,Match 10
+655,2022-11-27,Primera División Femenina,Atletico Madrid v Barcelona,,Match 10
+656,2022-11-27,Primera División Femenina,Alavés v Real Betis,,Match 10
+657,2022-11-27,Primera División Femenina,Real Sociedad v Levante Las Planas,,Match 10
+658,2022-12-04,Primera División Femenina,Athletic Club v Madrid CFF,,Match 11
+659,2022-12-04,Primera División Femenina,Barcelona v Real Sociedad,,Match 11
+660,2022-12-04,Primera División Femenina,Levante Las Planas v Real Madrid,,Match 11
+661,2022-12-04,Primera División Femenina,Real Betis v Levante,,Match 11
+662,2022-12-04,Primera División Femenina,Valencia v Atletico Madrid,,Match 11
+663,2022-12-04,Primera División Femenina,Sporting Huelva v Alavés,,Match 11
+664,2022-12-04,Primera División Femenina,Sevilla v Granadilla Tenerife,,Match 11
+665,2022-12-04,Primera División Femenina,Alhama v Villarreal,,Match 11
+666,2022-12-11,Primera División Femenina,Real Madrid v Atletico Madrid,,Match 12
+667,2022-12-11,Primera División Femenina,Villarreal v Sporting Huelva,,Match 12
+668,2022-12-11,Primera División Femenina,Real Sociedad v Levante,,Match 12
+669,2022-12-11,Primera División Femenina,Madrid CFF v Valencia,,Match 12
+670,2022-12-11,Primera División Femenina,Granadilla Tenerife v Levante Las Planas,,Match 12
+671,2022-12-11,Primera División Femenina,Real Betis v Athletic Club,,Match 12
+672,2022-12-11,Primera División Femenina,Barcelona v Alhama,,Match 12
+673,2022-12-11,Primera División Femenina,Alavés v Sevilla,,Match 12
+674,2022-12-18,Primera División Femenina,Alhama v Alavés,,Match 13
+675,2022-12-18,Primera División Femenina,Sporting Huelva v Granadilla Tenerife,,Match 13
+676,2022-12-18,Primera División Femenina,Sevilla v Athletic Club,,Match 13
+677,2022-12-18,Primera División Femenina,Levante Las Planas v Villarreal,,Match 13
+678,2022-12-18,Primera División Femenina,Valencia v Barcelona,,Match 13
+679,2022-12-18,Primera División Femenina,Atletico Madrid v Real Betis,,Match 13
+680,2022-12-18,Primera División Femenina,Real Madrid v Real Sociedad,,Match 13
+681,2022-12-18,Primera División Femenina,Levante v Madrid CFF,,Match 13
+682,2023-01-08,Primera División Femenina,Barcelona v Sevilla,,Match 14
+683,2023-01-08,Primera División Femenina,Real Sociedad v Alhama,,Match 14
+684,2023-01-08,Primera División Femenina,Alavés v Valencia,,Match 14
+685,2023-01-08,Primera División Femenina,Real Betis v Sporting Huelva,,Match 14
+686,2023-01-08,Primera División Femenina,Granadilla Tenerife v Atletico Madrid,,Match 14
+687,2023-01-08,Primera División Femenina,Madrid CFF v Real Madrid,,Match 14
+688,2023-01-08,Primera División Femenina,Villarreal v Levante,,Match 14
+689,2023-01-08,Primera División Femenina,Athletic Club v Levante Las Planas,,Match 14
+690,2023-01-15,Primera División Femenina,Sevilla v Madrid CFF,,Match 15
+691,2023-01-15,Primera División Femenina,Alhama v Athletic Club,,Match 15
+692,2023-01-15,Primera División Femenina,Real Madrid v Real Betis,,Match 15
+693,2023-01-15,Primera División Femenina,Sporting Huelva v Barcelona,,Match 15
+694,2023-01-15,Primera División Femenina,Levante Las Planas v Alavés,,Match 15
+695,2023-01-15,Primera División Femenina,Atletico Madrid v Villarreal,,Match 15
+696,2023-01-15,Primera División Femenina,Levante v Granadilla Tenerife,,Match 15
+697,2023-01-15,Primera División Femenina,Valencia v Real Sociedad,,Match 15
+698,2023-01-25,Primera División Femenina,Valencia v Villarreal,,Match 16
+699,2023-01-25,Primera División Femenina,Sevilla v Sporting Huelva,,Match 16
+700,2023-01-25,Primera División Femenina,Granadilla Tenerife v Real Sociedad,,Match 16
+701,2023-01-25,Primera División Femenina,Barcelona v Levante Las Planas,,Match 16
+702,2023-01-25,Primera División Femenina,Alavés v Real Madrid,,Match 16
+703,2023-01-25,Primera División Femenina,Madrid CFF v Atletico Madrid,,Match 16
+704,2023-01-25,Primera División Femenina,Real Betis v Alhama,,Match 16
+705,2023-01-25,Primera División Femenina,Athletic Club v Levante,,Match 16
+706,2023-01-29,Primera División Femenina,Levante v Alhama,,Match 17
+707,2023-01-29,Primera División Femenina,Real Betis v Madrid CFF,,Match 17
+708,2023-01-29,Primera División Femenina,Real Madrid v Athletic Club,,Match 17
+709,2023-01-29,Primera División Femenina,Levante Las Planas v Valencia,,Match 17
+710,2023-01-29,Primera División Femenina,Atletico Madrid v Sevilla,,Match 17
+711,2023-01-29,Primera División Femenina,Villarreal v Alavés,,Match 17
+712,2023-01-29,Primera División Femenina,Real Sociedad v Sporting Huelva,,Match 17
+713,2023-01-29,Primera División Femenina,Granadilla Tenerife v Barcelona,,Match 17
+714,2023-02-05,Primera División Femenina,Sporting Huelva v Atletico Madrid,,Match 18
+715,2023-02-05,Primera División Femenina,Valencia v Real Madrid,,Match 18
+716,2023-02-05,Primera División Femenina,Barcelona v Real Betis,,Match 18
+717,2023-02-05,Primera División Femenina,Alavés v Levante,,Match 18
+718,2023-02-05,Primera División Femenina,Alhama v Levante Las Planas,,Match 18
+719,2023-02-05,Primera División Femenina,Athletic Club v Granadilla Tenerife,,Match 18
+720,2023-02-05,Primera División Femenina,Madrid CFF v Real Sociedad,,Match 18
+721,2023-02-05,Primera División Femenina,Sevilla v Villarreal,,Match 18
+722,2023-02-12,Primera División Femenina,Granadilla Tenerife v Alhama,,Match 19
+723,2023-02-12,Primera División Femenina,Real Betis v Valencia,,Match 19
+724,2023-02-12,Primera División Femenina,Real Sociedad v Sevilla,,Match 19
+725,2023-02-12,Primera División Femenina,Villarreal v Madrid CFF,,Match 19
+726,2023-02-12,Primera División Femenina,Real Madrid v Sporting Huelva,,Match 19
+727,2023-02-12,Primera División Femenina,Atletico Madrid v Athletic Club,,Match 19
+728,2023-02-12,Primera División Femenina,Alavés v Barcelona,,Match 19
+729,2023-02-12,Primera División Femenina,Levante v Levante Las Planas,,Match 19
+730,2023-03-05,Primera División Femenina,Barcelona v Villarreal,,Match 20
+731,2023-03-05,Primera División Femenina,Sevilla v Levante,,Match 20
+732,2023-03-05,Primera División Femenina,Alhama v Real Madrid,,Match 20
+733,2023-03-05,Primera División Femenina,Levante Las Planas v Real Betis,,Match 20
+734,2023-03-05,Primera División Femenina,Real Sociedad v Atletico Madrid,,Match 20
+735,2023-03-05,Primera División Femenina,Valencia v Granadilla Tenerife,,Match 20
+736,2023-03-05,Primera División Femenina,Madrid CFF v Alavés,,Match 20
+737,2023-03-05,Primera División Femenina,Sporting Huelva v Athletic Club,,Match 20
+738,2023-03-12,Primera División Femenina,Levante v Barcelona,,Match 21
+739,2023-03-12,Primera División Femenina,Levante Las Planas v Sevilla,,Match 21
+740,2023-03-12,Primera División Femenina,Atletico Madrid v Real Madrid,,Match 21
+741,2023-03-12,Primera División Femenina,Alavés v Sporting Huelva,,Match 21
+742,2023-03-12,Primera División Femenina,Athletic Club v Valencia,,Match 21
+743,2023-03-12,Primera División Femenina,Villarreal v Alhama,,Match 21
+744,2023-03-12,Primera División Femenina,Granadilla Tenerife v Madrid CFF,,Match 21
+745,2023-03-12,Primera División Femenina,Real Betis v Real Sociedad,,Match 21
+746,2023-03-19,Primera División Femenina,Real Madrid v Granadilla Tenerife,,Match 22
+747,2023-03-19,Primera División Femenina,Sporting Huelva v Levante,,Match 22
+748,2023-03-19,Primera División Femenina,Real Sociedad v Alavés,,Match 22
+749,2023-03-19,Primera División Femenina,Barcelona v Valencia,,Match 22
+750,2023-03-19,Primera División Femenina,Villarreal v Levante Las Planas,,Match 22
+751,2023-03-19,Primera División Femenina,Sevilla v Real Betis,,Match 22
+752,2023-03-19,Primera División Femenina,Alhama v Atletico Madrid,,Match 22
+753,2023-03-19,Primera División Femenina,Madrid CFF v Athletic Club,,Match 22
+754,2023-03-26,Primera División Femenina,Alavés v Atletico Madrid,,Match 23
+755,2023-03-26,Primera División Femenina,Granadilla Tenerife v Sporting Huelva,,Match 23
+756,2023-03-26,Primera División Femenina,Levante v Real Sociedad,,Match 23
+757,2023-03-26,Primera División Femenina,Athletic Club v Sevilla,,Match 23
+758,2023-03-26,Primera División Femenina,Barcelona v Real Madrid,,Match 23
+759,2023-03-26,Primera División Femenina,Levante Las Planas v Madrid CFF,,Match 23
+760,2023-03-26,Primera División Femenina,Real Betis v Villarreal,,Match 23
+761,2023-03-26,Primera División Femenina,Valencia v Alhama,,Match 23
+762,2023-04-02,Primera División Femenina,Sevilla v Alavés,,Match 24
+763,2023-04-02,Primera División Femenina,Atletico Madrid v Valencia,,Match 24
+764,2023-04-02,Primera División Femenina,Alhama v Barcelona,,Match 24
+765,2023-04-02,Primera División Femenina,Villarreal v Granadilla Tenerife,,Match 24
+766,2023-04-02,Primera División Femenina,Real Madrid v Levante Las Planas,,Match 24
+767,2023-04-02,Primera División Femenina,Madrid CFF v Levante,,Match 24
+768,2023-04-02,Primera División Femenina,Real Sociedad v Athletic Club,,Match 24
+769,2023-04-02,Primera División Femenina,Sporting Huelva v Real Betis,,Match 24
+770,2023-04-16,Primera División Femenina,Levante v Villarreal,,Match 25
+771,2023-04-16,Primera División Femenina,Athletic Club v Alavés,,Match 25
+772,2023-04-16,Primera División Femenina,Levante Las Planas v Granadilla Tenerife,,Match 25
+773,2023-04-16,Primera División Femenina,Barcelona v Atletico Madrid,,Match 25
+774,2023-04-16,Primera División Femenina,Valencia v Sporting Huelva,,Match 25
+775,2023-04-16,Primera División Femenina,Real Betis v Real Madrid,,Match 25
+776,2023-04-16,Primera División Femenina,Madrid CFF v Sevilla,,Match 25
+777,2023-04-16,Primera División Femenina,Alhama v Real Sociedad,,Match 25
+778,2023-04-23,Primera División Femenina,Athletic Club v Alhama,,Match 26
+779,2023-04-23,Primera División Femenina,Sporting Huelva v Madrid CFF,,Match 26
+780,2023-04-23,Primera División Femenina,Granadilla Tenerife v Real Betis,,Match 26
+781,2023-04-23,Primera División Femenina,Real Madrid v Villarreal,,Match 26
+782,2023-04-23,Primera División Femenina,Sevilla v Barcelona,,Match 26
+783,2023-04-23,Primera División Femenina,Real Sociedad v Valencia,,Match 26
+784,2023-04-23,Primera División Femenina,Atletico Madrid v Levante,,Match 26
+785,2023-04-23,Primera División Femenina,Alavés v Levante Las Planas,,Match 26
+786,2023-04-30,Primera División Femenina,Villarreal v Real Sociedad,,Match 27
+787,2023-04-30,Primera División Femenina,Valencia v Alavés,,Match 27
+788,2023-04-30,Primera División Femenina,Real Madrid v Madrid CFF,,Match 27
+789,2023-04-30,Primera División Femenina,Levante Las Planas v Athletic Club,,Match 27
+790,2023-04-30,Primera División Femenina,Barcelona v Sporting Huelva,,Match 27
+791,2023-04-30,Primera División Femenina,Granadilla Tenerife v Levante,,Match 27
+792,2023-04-30,Primera División Femenina,Real Betis v Atletico Madrid,,Match 27
+793,2023-04-30,Primera División Femenina,Alhama v Sevilla,,Match 27
+794,2023-05-07,Primera División Femenina,Madrid CFF v Alhama,,Match 28
+795,2023-05-07,Primera División Femenina,Sporting Huelva v Villarreal,,Match 28
+796,2023-05-07,Primera División Femenina,Real Sociedad v Barcelona,,Match 28
+797,2023-05-07,Primera División Femenina,Levante v Valencia,,Match 28
+798,2023-05-07,Primera División Femenina,Sevilla v Real Madrid,,Match 28
+799,2023-05-07,Primera División Femenina,Alavés v Granadilla Tenerife,,Match 28
+800,2023-05-07,Primera División Femenina,Atletico Madrid v Levante Las Planas,,Match 28
+801,2023-05-07,Primera División Femenina,Athletic Club v Real Betis,,Match 28
+802,2023-05-14,Primera División Femenina,Real Betis v Alavés,,Match 29
+803,2023-05-14,Primera División Femenina,Levante Las Planas v Real Sociedad,,Match 29
+804,2023-05-14,Primera División Femenina,Real Madrid v Levante,,Match 29
+805,2023-05-14,Primera División Femenina,Barcelona v Athletic Club,,Match 29
+806,2023-05-14,Primera División Femenina,Valencia v Madrid CFF,,Match 29
+807,2023-05-14,Primera División Femenina,Granadilla Tenerife v Sevilla,,Match 29
+808,2023-05-14,Primera División Femenina,Villarreal v Atletico Madrid,,Match 29
+809,2023-05-14,Primera División Femenina,Alhama v Sporting Huelva,,Match 29
+810,2023-05-21,Primera División Femenina,Levante v Real Betis,,Match 30
+811,2023-05-21,Primera División Femenina,Real Sociedad v Real Madrid,,Match 30
+812,2023-05-21,Primera División Femenina,Sevilla v Valencia,,Match 30
+813,2023-05-21,Primera División Femenina,Sporting Huelva v Levante Las Planas,,Match 30
+814,2023-05-21,Primera División Femenina,Alavés v Alhama,,Match 30
+815,2023-05-21,Primera División Femenina,Athletic Club v Villarreal,,Match 30
+816,2023-05-21,Primera División Femenina,Atletico Madrid v Granadilla Tenerife,,Match 30
+817,2023-05-21,Primera División Femenina,Madrid CFF v Barcelona,,Match 30
+818,2022-09-10,Serie A Femminile,Roma v ACMilan,12:30:00,Match 2
+819,2022-09-11,Serie A Femminile,Sampdoria v Pomigliano Calcio,10:30:00,Match 2
+820,2022-09-11,Serie A Femminile,Juventus v Inter,12:30:00,Match 2
+821,2022-09-11,Serie A Femminile,Fiorentina v Como,15:00:00,Match 2
+822,2022-09-12,Serie A Femminile,Parma v Sassuolo,17:00:00,Match 2
+823,2022-09-17,Serie A Femminile,Inter v Pomigliano Calcio,10:30:00,Match 3
+824,2022-09-17,Serie A Femminile,Juventus v Roma,12:30:00,Match 3
+825,2022-09-18,Serie A Femminile,Fiorentina v Parma,10:30:00,Match 3
+826,2022-09-18,Serie A Femminile,Como v Sampdoria,12:30:00,Match 3
+827,2022-09-18,Serie A Femminile,ACMilan v Sassuolo,12:30:00,Match 3
+828,2022-09-24,Serie A Femminile,Pomigliano Calcio v Como,,Match 4
+829,2022-09-24,Serie A Femminile,Parma v ACMilan,,Match 4
+830,2022-09-24,Serie A Femminile,Sassuolo v Juventus,,Match 4
+831,2022-09-24,Serie A Femminile,Sampdoria v Inter,,Match 4
+832,2022-09-24,Serie A Femminile,Roma v Fiorentina,,Match 4
+833,2022-10-01,Serie A Femminile,Fiorentina v Sassuolo,,Match 5
+834,2022-10-01,Serie A Femminile,Roma v Parma,,Match 5
+835,2022-10-01,Serie A Femminile,Como v Inter,,Match 5
+836,2022-10-01,Serie A Femminile,Juventus v Pomigliano Calcio,,Match 5
+837,2022-10-01,Serie A Femminile,ACMilan v Sampdoria,,Match 5
+838,2022-10-15,Serie A Femminile,Pomigliano Calcio v Fiorentina,,Match 6
+839,2022-10-15,Serie A Femminile,Sampdoria v Juventus,,Match 6
+840,2022-10-15,Serie A Femminile,Inter v ACMilan,,Match 6
+841,2022-10-15,Serie A Femminile,Como v Parma,,Match 6
+842,2022-10-15,Serie A Femminile,Sassuolo v Roma,,Match 6
+843,2022-10-22,Serie A Femminile,ACMilan v Juventus,,Match 7
+844,2022-10-22,Serie A Femminile,Sassuolo v Inter,,Match 7
+845,2022-10-22,Serie A Femminile,Parma v Pomigliano Calcio,,Match 7
+846,2022-10-22,Serie A Femminile,Fiorentina v Sampdoria,,Match 7
+847,2022-10-22,Serie A Femminile,Roma v Como,,Match 7
+848,2022-10-29,Serie A Femminile,Inter v Roma,,Match 8
+849,2022-10-29,Serie A Femminile,Como v Sassuolo,,Match 8
+850,2022-10-29,Serie A Femminile,Juventus v Fiorentina,,Match 8
+851,2022-10-29,Serie A Femminile,Pomigliano Calcio v ACMilan,,Match 8
+852,2022-10-29,Serie A Femminile,Sampdoria v Parma,,Match 8
+853,2022-11-19,Serie A Femminile,Sassuolo v Pomigliano Calcio,,Match 9
+854,2022-11-19,Serie A Femminile,Fiorentina v Inter,,Match 9
+855,2022-11-19,Serie A Femminile,ACMilan v Como,,Match 9
+856,2022-11-19,Serie A Femminile,Parma v Juventus,,Match 9
+857,2022-11-19,Serie A Femminile,Roma v Sampdoria,,Match 9
+858,2022-11-26,Serie A Femminile,Roma v Pomigliano Calcio,,Match 10
+859,2022-11-26,Serie A Femminile,Sampdoria v Sassuolo,,Match 10
+860,2022-11-26,Serie A Femminile,Juventus v Como,,Match 10
+861,2022-11-26,Serie A Femminile,Parma v Inter,,Match 10
+862,2022-11-26,Serie A Femminile,Fiorentina v ACMilan,,Match 10
+863,2022-12-03,Serie A Femminile,Como v Fiorentina,,Match 11
+864,2022-12-03,Serie A Femminile,Pomigliano Calcio v Sampdoria,,Match 11
+865,2022-12-03,Serie A Femminile,ACMilan v Roma,,Match 11
+866,2022-12-03,Serie A Femminile,Inter v Juventus,,Match 11
+867,2022-12-03,Serie A Femminile,Sassuolo v Parma,,Match 11
+868,2022-12-10,Serie A Femminile,Pomigliano Calcio v Inter,,Match 12
+869,2022-12-10,Serie A Femminile,Roma v Juventus,,Match 12
+870,2022-12-10,Serie A Femminile,Sampdoria v Como,,Match 12
+871,2022-12-10,Serie A Femminile,Parma v Fiorentina,,Match 12
+872,2022-12-10,Serie A Femminile,Sassuolo v ACMilan,,Match 12
+873,2023-01-14,Serie A Femminile,Juventus v Sassuolo,,Match 13
+874,2023-01-14,Serie A Femminile,Inter v Sampdoria,,Match 13
+875,2023-01-14,Serie A Femminile,Como v Pomigliano Calcio,,Match 13
+876,2023-01-14,Serie A Femminile,ACMilan v Parma,,Match 13
+877,2023-01-14,Serie A Femminile,Fiorentina v Roma,,Match 13
+878,2023-01-21,Serie A Femminile,Sampdoria v ACMilan,,Match 14
+879,2023-01-21,Serie A Femminile,Pomigliano Calcio v Juventus,,Match 14
+880,2023-01-21,Serie A Femminile,Sassuolo v Fiorentina,,Match 14
+881,2023-01-21,Serie A Femminile,Inter v Como,,Match 14
+882,2023-01-21,Serie A Femminile,Parma v Roma,,Match 14
+883,2023-01-28,Serie A Femminile,Parma v Como,,Match 15
+884,2023-01-28,Serie A Femminile,Roma v Sassuolo,,Match 15
+885,2023-01-28,Serie A Femminile,ACMilan v Inter,,Match 15
+886,2023-01-28,Serie A Femminile,Fiorentina v Pomigliano Calcio,,Match 15
+887,2023-01-28,Serie A Femminile,Juventus v Sampdoria,,Match 15
+888,2023-02-04,Serie A Femminile,Sampdoria v Fiorentina,,Match 16
+889,2023-02-04,Serie A Femminile,Juventus v ACMilan,,Match 16
+890,2023-02-04,Serie A Femminile,Como v Roma,,Match 16
+891,2023-02-04,Serie A Femminile,Inter v Sassuolo,,Match 16
+892,2023-02-04,Serie A Femminile,Pomigliano Calcio v Parma,,Match 16
+893,2023-02-11,Serie A Femminile,Roma v Inter,,Match 17
+894,2023-02-11,Serie A Femminile,Fiorentina v Juventus,,Match 17
+895,2023-02-11,Serie A Femminile,ACMilan v Pomigliano Calcio,,Match 17
+896,2023-02-11,Serie A Femminile,Parma v Sampdoria,,Match 17
+897,2023-02-11,Serie A Femminile,Sassuolo v Como,,Match 17
+898,2023-02-25,Serie A Femminile,Como v ACMilan,,Match 18
+899,2023-02-25,Serie A Femminile,Sampdoria v Roma,,Match 18
+900,2023-02-25,Serie A Femminile,Inter v Fiorentina,,Match 18
+901,2023-02-25,Serie A Femminile,Pomigliano Calcio v Sassuolo,,Match 18
+902,2023-02-25,Serie A Femminile,Juventus v Parma,,Match 18
