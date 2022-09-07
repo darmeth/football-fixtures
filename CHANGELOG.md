@@ -1,5 +1,9 @@
 # Change Log
 
+2022-09-07
+* Added UEFA Europa Conference League
+* Added UEFA Europa League
+
 2022-09-03
 * Added Division 1 Féminine
 * Added Primera División Femenina

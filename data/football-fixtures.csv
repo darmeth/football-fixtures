@@ -1,12 +1,4 @@
 ID,date,league,teams,time,note_1
-47,2022-09-04,Allsvenskan,BK Häcken v Degerfors IF,13:00:00,Match 21
-48,2022-09-04,Allsvenskan,IK Sirius v Djurgårdens IF,13:00:00,Match 21
-49,2022-09-04,Allsvenskan,AIK v GIF Sundsvall,15:30:00,Match 21
-50,2022-09-04,Allsvenskan,IF Elfsborg v Malmö FF,15:30:00,Match 21
-51,2022-09-05,Allsvenskan,IFK Värnamo v Helsingborgs IF,17:00:00,Match 21
-52,2022-09-05,Allsvenskan,Kalmar FF v Varbergs BoIS,17:00:00,Match 21
-53,2022-09-05,Allsvenskan,Mjällby AIF v IFK Göteborg,17:00:00,Match 21
-54,2022-09-05,Allsvenskan,IFK Norrköping v Hammarby IF,17:10:00,Match 21
 55,2022-09-10,Allsvenskan,IK Sirius v IFK Värnamo,13:00:00,Match 22
 56,2022-09-10,Allsvenskan,Degerfors IF v Mjällby AIF,15:30:00,Match 22
 57,2022-09-11,Allsvenskan,GIF Sundsvall v IF Elfsborg,13:00:00,Match 22
@@ -79,12 +71,6 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-190,2022-09-04,Brazilian Série A,Flamengo v Ceara,14:00:00,Match 25
-191,2022-09-04,Brazilian Série A,Corinthians v Internacional,19:00:00,Match 25
-192,2022-09-04,Brazilian Série A,Fortaleza v Botafogo,19:00:00,Match 25
-193,2022-09-05,Brazilian Série A,Santos v Goias,23:00:00,Match 25
-194,2022-09-04,Brazilian Série A,Atletico Goianiense v Atletico Mineiro,21:00:00,Match 25
-196,2022-09-04,Brazilian Série A,Cuiaba v Sao Paulo,22:00:00,Match 25
 197,2022-09-10,Brazilian Série A,Fluminense v Fortaleza,22:00:00,Match 26
 198,2022-09-11,Brazilian Série A,Sao Paulo v Corinthians,19:00:00,Match 26
 199,2022-09-11,Brazilian Série A,Botafogo v America Mineiro,14:00:00,Match 26
@@ -215,8 +201,6 @@ ID,date,league,teams,time,note_1
 324,2022-11-13,Brazilian Série A,Flamengo v Avai,,Match 38
 325,2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 326,2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
-367,2022-09-04,Bundesliga,Augsburg v Hertha,13:30:00,Match 5
-371,2022-09-04,Bundesliga,Mönchengladbach v Mainz,15:30:00,Match 5
 372,2022-09-10,Bundesliga,Bayern v VfB Stuttgart,13:30:00,Match 6
 373,2022-09-11,Bundesliga,Köln v Union Berlin,13:30:00,Match 6
 374,2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,13:30:00,Match 6
@@ -479,10 +463,6 @@ ID,date,league,teams,time,note_1
 631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
 655,,EFL Championship,Coventry City v Rotherham United,,Match 2
-718,2022-09-04,EFL Championship,Huddersfield Town v Blackpool,14:00:00,Match 8
-719,2022-09-04,EFL Championship,Hull City v Sheffield United,14:00:00,Match 8
-721,2022-09-05,EFL Championship,Middlesbrough v Sunderland,19:00:00,Match 8
-725,2022-09-04,EFL Championship,Reading v Stoke City,11:00:00,Match 8
 729,2022-09-10,EFL Championship,Birmingham City v Swansea City,14:00:00,Match 9
 730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,14:00:00,Match 9
 731,2022-09-10,EFL Championship,Bristol City v Preston North End,14:00:00,Match 9
@@ -1875,13 +1855,6 @@ ID,date,league,teams,time,note_1
 2286,2023-05-06,EFL League Two,Swindon Town v Crawley Town,14:00:00,Match 46
 2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
-2335,2022-09-04,Eliteserien,Haugesund v Tromsø,16:00:00,Match 21
-2336,2022-09-04,Eliteserien,Odd Ballklubb v Jerv,16:00:00,Match 21
-2337,2022-09-04,Eliteserien,Vålerenga v Lillestrøm,18:00:00,Match 21
-2338,2022-09-04,Eliteserien,Kristiansund Bk v Sandefjord,16:00:00,Match 21
-2339,2022-09-04,Eliteserien,Strømsgodset v Aalesund,16:00:00,Match 21
-2340,2022-09-04,Eliteserien,Rosenborg v Viking,16:00:00,Match 21
-2341,2022-09-04,Eliteserien,Sarpsborg 08 v HamKam,16:00:00,Match 21
 2342,2022-09-11,Eliteserien,Aalesund v Sarpsborg 08,16:00:00,Match 22
 2343,2022-09-11,Eliteserien,HamKam v Viking,16:00:00,Match 22
 2344,2022-09-11,Eliteserien,Haugesund v Rosenborg,18:00:00,Match 22
@@ -1954,10 +1927,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2455,2022-09-04,Eredivisie,RKC Waalwijk v Excelsior,10:15:00,Match 5
-2456,2022-09-04,Eredivisie,Emmen v AZ Alkmaar,12:30:00,Match 5
-2457,2022-09-04,Eredivisie,Heerenveen v NEC Nijmegen,12:30:00,Match 5
-2458,2022-09-04,Eredivisie,Groningen v Vitesse Arnhem,14:45:00,Match 5
 2459,2022-09-09,Eredivisie,FC Volendam v Go Ahead Eagles,18:00:00,Match 6
 2460,2022-09-10,Eredivisie,NEC Nijmegen v Fortuna Sittard,14:30:00,Match 6
 2461,2022-09-10,Eredivisie,Ajax v Heerenveen,16:45:00,Match 6
@@ -2299,11 +2268,6 @@ ID,date,league,teams,time,note_1
 2847,2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2885,2022-09-04,La Liga,Osasuna v Rayo Vallecano,12:00:00,Match 4
-2886,2022-09-04,La Liga,Athletic Bilbao v Espanyol,14:15:00,Match 4
-2887,2022-09-04,La Liga,Villarreal v Elche,16:30:00,Match 4
-2888,2022-09-04,La Liga,Valencia v Getafe,19:00:00,Match 4
-2889,2022-09-05,La Liga,Real Valladolid v Almeria,19:00:00,Match 4
 2890,2022-09-12,La Liga,Almeria v Osasuna,19:00:00,Match 5
 2891,2022-09-10,La Liga,Atletico Madrid v Celta Vigo,19:00:00,Match 5
 2892,2022-09-10,La Liga,Cadiz v Barcelona,16:30:00,Match 5
@@ -2644,13 +2608,6 @@ ID,date,league,teams,time,note_1
 3227,2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 3228,2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 3229,2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-3280,2022-09-04,Ligue 1,AC Ajaccio v Lorient,13:00:00,Match 6
-3282,2022-09-04,Ligue 1,Brest v Strasbourg,13:00:00,Match 6
-3283,2022-09-04,Ligue 1,Clermont v Toulouse,13:00:00,Match 6
-3285,2022-09-04,Ligue 1,Montpellier v Lille,11:00:00,Match 6
-3287,2022-09-04,Ligue 1,Nice v Monaco,18:45:00,Match 6
-3288,2022-09-04,Ligue 1,Reims v RC Lens,13:00:00,Match 6
-3289,2022-09-04,Ligue 1,Troyes v Rennes,15:05:00,Match 6
 3290,2022-09-11,Ligue 1,AC Ajaccio v Nice,13:00:00,Match 7
 3291,2022-09-11,Ligue 1,Angers v Montpellier,13:00:00,Match 7
 3292,2022-09-11,Ligue 1,Lorient v Nantes,13:00:00,Match 7
@@ -2971,13 +2928,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3667,2022-09-04,Norway 1. Divisjon,Sandnes Ulf v Start,13:00:00,Match 23
-3669,2022-09-04,Norway 1. Divisjon,Kfum Oslo v Mjøndalen,13:00:00,Match 23
-3670,2022-09-05,Norway 1. Divisjon,Stjørdals-Blink v Kongsvinger,16:00:00,Match 23
-3671,2022-09-05,Norway 1. Divisjon,Sogndal v Skeid,16:00:00,Match 23
-3672,2022-09-05,Norway 1. Divisjon,Stabæk v Bryne,16:00:00,Match 23
-3673,2022-09-05,Norway 1. Divisjon,Grorud v Ranheim TF,16:00:00,Match 23
-3674,2022-09-05,Norway 1. Divisjon,Raufoss v Fredrikstad,16:00:00,Match 23
 3675,2022-09-11,Norway 1. Divisjon,Ranheim TF v Åsane,13:00:00,Match 24
 3676,2022-09-11,Norway 1. Divisjon,Bryne v Sogndal,13:00:00,Match 24
 3677,2022-09-11,Norway 1. Divisjon,Fredrikstad v Sandnes Ulf,13:00:00,Match 24
@@ -3034,8 +2984,6 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3783,2022-09-04,Premier League,Brighton and Hove Albion v Leicester City,13:00:00,Match 6
-3786,2022-09-04,Premier League,Manchester United v Arsenal,15:30:00,Match 6
 3791,2022-09-11,Premier League,Arsenal v Everton,13:00:00,Match 7
 3792,2022-09-10,Premier League,Bournemouth v Brighton and Hove Albion,14:00:00,Match 7
 3793,2022-09-11,Premier League,Crystal Palace v Manchester United,15:30:00,Match 7
@@ -3356,11 +3304,6 @@ ID,date,league,teams,time,note_1
 4108,2023-05-28,Premier League,Leicester City v West Ham United,15:00:00,Match 38
 4109,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
-4148,2022-09-05,Primeira Liga,Boavista v Paços de Ferreira,18:00:00,Match 5
-4149,2022-09-04,Primeira Liga,Casa Pia AC v Arouca,14:30:00,Match 5
-4150,2022-09-05,Primeira Liga,Chaves v Rio Ave,20:15:00,Match 5
-4153,2022-09-04,Primeira Liga,Portimonense v FC Famalicão,19:30:00,Match 5
-4154,2022-09-04,Primeira Liga,Santa Clara v Marítimo,17:00:00,Match 5
 4156,2022-09-11,Primeira Liga,Arouca v Boavista,17:00:00,Match 6
 4157,2022-09-10,Primeira Liga,FC Famalicão v Benfica,14:30:00,Match 6
 4158,2022-09-10,Primeira Liga,FC Porto v Chaves,19:30:00,Match 6
@@ -3622,13 +3565,6 @@ ID,date,league,teams,time,note_1
 4414,2023-05-28,Primeira Liga,Rio Ave v FC Famalicão,,Match 34
 4415,2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
 4416,2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
-4460,2022-09-04,Serie A,Cremonese v Sassuolo,10:30:00,Match 5
-4461,2022-09-04,Serie A,Spezia v Bologna,13:00:00,Match 5
-4462,2022-09-04,Serie A,Verona v Sampdoria,16:00:00,Match 5
-4463,2022-09-04,Serie A,Udinese v Roma,18:45:00,Match 5
-4464,2022-09-05,Serie A,Monza v Atalanta,16:30:00,Match 5
-4465,2022-09-05,Serie A,Salernitana v Empoli,16:30:00,Match 5
-4466,2022-09-05,Serie A,Torino v Lecce,18:45:00,Match 5
 4467,2022-09-11,Serie A,Atalanta v Cremonese,10:30:00,Match 6
 4468,2022-09-11,Serie A,Bologna v Fiorentina,13:00:00,Match 6
 4469,2022-09-12,Serie A,Empoli v Roma,18:45:00,Match 6
@@ -3959,10 +3895,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-4834,2022-09-05,Süper Lig,Galatasaray v Gaziantep,18:00:00,Match 5
-4836,2022-09-04,Süper Lig,Ankaragücü v Beşiktaş,18:45:00,Match 5
-4839,2022-09-04,Süper Lig,Antalyaspor v Kasımpaşa,18:45:00,Match 5
-4841,2022-09-04,Süper Lig,Hatayspor v Adana Demirspor,16:15:00,Match 5
 5139,2022-09-21,UEFA Nations League,Scotland v Ukraine,18:45:00,Group Stage
 5140,2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
 5141,2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
@@ -4016,16 +3948,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5302,2022-09-04,USA MLS,Nashville SC v Austin FC,00:30:00,Regular Season
-5303,2022-09-04,USA MLS,Portland Timbers v Atlanta United FC,21:30:00,Regular Season
-5304,2022-09-04,USA MLS,D.C. United v Colorado Rapids,23:30:00,Regular Season
-5305,2022-09-04,USA MLS,Toronto FC v CF Montréal,23:30:00,Regular Season
-5306,2022-09-05,USA MLS,Inter Miami CF v Orlando City SC,00:00:00,Regular Season
-5307,2022-09-05,USA MLS,Los Angeles Galaxy v Sporting Kansas City,00:00:00,Regular Season
-5308,2022-09-05,USA MLS,New England Revolution v New York City FC,00:00:00,Regular Season
-5309,2022-09-05,USA MLS,Seattle Sounders FC v Houston Dynamo,01:00:00,Regular Season
-5310,2022-09-05,USA MLS,San Jose Earthquakes v Vancouver Whitecaps,01:30:00,Regular Season
-5311,2022-09-05,USA MLS,Los Angeles Football Club v Real Salt Lake,02:30:00,Regular Season
 5312,2022-09-08,USA MLS,New York City FC v FC Cincinnati,00:00:00,Regular Season
 5313,2022-09-09,USA MLS,CF Montréal v Columbus Crew,23:30:00,Regular Season
 5314,2022-09-10,USA MLS,New York Red Bulls v New England Revolution,13:00:00,Regular Season
@@ -4093,9 +4015,6 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
-5417,2022-09-04,Veikkausliiga,AC Oulu v Lahti,13:00:00,Match 21
-5418,2022-09-04,Veikkausliiga,IFK Mariehamn v Inter Turku,15:30:00,Match 21
-5419,2022-09-05,Veikkausliiga,HJK Helsinki v HIFK Helsinki,15:00:00,Match 21
 5420,2022-09-11,Veikkausliiga,FC Honka v HJK Helsinki,13:00:00,Match 22
 5421,2022-09-11,Veikkausliiga,HIFK Helsinki v AC Oulu,13:00:00,Match 22
 5422,2022-09-11,Veikkausliiga,IFK Mariehamn v SJK,13:00:00,Match 22
@@ -4167,17 +4086,8 @@ ID,date,league,teams,time,note_1
 5488,2022-12-14,World Cup 2022,Winner Match 59 v Winner Match 60,19:00:00,Semi Finals
 5489,2022-12-17,World Cup 2022,Loser Match 61 v Loser Match 62,15:00:00,Finals
 5490,2022-12-18,World Cup 2022,Winner Match 61 v Winner Match 62,15:00:00,Finals
-5496,2022-09-06,EFL League One,Forest Green Rovers v Accrington Stanley,18:45:00,Match 4
 5497,2022-09-07,Ligue 1,Lorient v Lyon,17:00:00,Match 2
 5499,2022-09-07,J1 League,Yokohama F. Marinos v Shonan Bellmare,10:00:00,Match 25
-5500,2022-09-06,UEFA Champions League,Borussia Dortmund v FC Copenhagen,16:45:00,Group stage – Match 1
-5501,2022-09-06,UEFA Champions League,Dinamo Zagreb v Chelsea,16:45:00,Group stage – Match 1
-5502,2022-09-06,UEFA Champions League,Benfica v Maccabi Haifa,19:00:00,Group stage – Match 1
-5503,2022-09-06,UEFA Champions League,Celtic v Real Madrid,19:00:00,Group stage – Match 1
-5504,2022-09-06,UEFA Champions League,Paris Saint-Germain v Juventus,19:00:00,Group stage – Match 1
-5505,2022-09-06,UEFA Champions League,RB Leipzig v Shakhtar Donetsk,19:00:00,Group stage – Match 1
-5506,2022-09-06,UEFA Champions League,Red Bull Salzburg v AC Milan,19:00:00,Group stage – Match 1
-5507,2022-09-06,UEFA Champions League,Sevilla v Manchester City,19:00:00,Group stage – Match 1
 5508,2022-09-07,UEFA Champions League,Ajax v Rangers,16:45:00,Group stage – Match 1
 5509,2022-09-07,UEFA Champions League,Eintracht Frankfurt v Sporting Lisbon,16:45:00,Group stage – Match 1
 5510,2022-09-07,UEFA Champions League,Atletico Madrid v FC Porto,19:00:00,Group stage – Match 1
@@ -4266,3 +4176,197 @@ ID,date,league,teams,time,note_1
 5593,2022-11-02,UEFA Champions League,Juventus v Paris Saint-Germain,20:00:00,Group stage – Match 6
 5594,2022-11-02,UEFA Champions League,Maccabi Haifa v Benfica,20:00:00,Group stage – Match 6
 5595,2022-11-02,UEFA Champions League,Manchester City v Sevilla,20:00:00,Group stage – Match 6
+5596,2022-09-27,EFL League Two,Grimsby Town v Carlisle,18:45:00,Match 4
+5597,2022-09-14,J1 League,Nagoya Grampus v Kawasaki Frontale,10:30:00,Match 22
+5598,2022-09-08,UEFA Europa Conference League,Anderlecht v Silkeborg,16:45:00,Group stage – Match 1
+5599,2022-09-08,UEFA Europa Conference League,Austria Wien v Hapoel Beer-Sheva,16:45:00,Group stage – Match 1
+5600,2022-09-08,UEFA Europa Conference League,Ballkani v CFR Cluj-Napoca,16:45:00,Group stage – Match 1
+5601,2022-09-08,UEFA Europa Conference League,Fiorentina v Rigas Futbola Skola,16:45:00,Group stage – Match 1
+5602,2022-09-08,UEFA Europa Conference League,Hearts v Istanbul Buyuksehir,16:45:00,Group stage – Match 1
+5603,2022-09-08,UEFA Europa Conference League,Nice v Cologne,16:45:00,Group stage – Match 1
+5604,2022-09-08,UEFA Europa Conference League,Slovácko v Partizan Belgrade,16:45:00,Group stage – Match 1
+5605,2022-09-08,UEFA Europa Conference League,Villarreal v Lech Poznan,16:45:00,Group stage – Match 1
+5606,2022-09-08,UEFA Europa Conference League,Basel v Pyunik Yerevan,19:00:00,Group stage – Match 1
+5607,2022-09-08,UEFA Europa Conference League,Dnipro-1 v AZ Alkmaar,19:00:00,Group stage – Match 1
+5608,2022-09-08,UEFA Europa Conference League,FC Vaduz v Apollon Limassol,19:00:00,Group stage – Match 1
+5609,2022-09-08,UEFA Europa Conference League,Molde v AA Gent,19:00:00,Group stage – Match 1
+5610,2022-09-08,UEFA Europa Conference League,SK Slovan Bratislava v VMFD Zalgiris,19:00:00,Group stage – Match 1
+5611,2022-09-08,UEFA Europa Conference League,Shamrock Rovers v Djurgardens IF,19:00:00,Group stage – Match 1
+5612,2022-09-08,UEFA Europa Conference League,Sivasspor v Slavia Prague,19:00:00,Group stage – Match 1
+5613,2022-09-08,UEFA Europa Conference League,West Ham United v FC Steaua Bucuresti,19:00:00,Group stage – Match 1
+5614,2022-09-15,UEFA Europa Conference League,AA Gent v Shamrock Rovers,16:45:00,Group stage – Match 2
+5615,2022-09-15,UEFA Europa Conference League,AZ Alkmaar v FC Vaduz,16:45:00,Group stage – Match 2
+5616,2022-09-15,UEFA Europa Conference League,Apollon Limassol v Dnipro-1,16:45:00,Group stage – Match 2
+5617,2022-09-15,UEFA Europa Conference League,CFR Cluj-Napoca v Sivasspor,16:45:00,Group stage – Match 2
+5618,2022-09-15,UEFA Europa Conference League,Djurgardens IF v Molde,16:45:00,Group stage – Match 2
+5619,2022-09-15,UEFA Europa Conference League,Pyunik Yerevan v SK Slovan Bratislava,16:45:00,Group stage – Match 2
+5620,2022-09-15,UEFA Europa Conference League,Slavia Prague v Ballkani,16:45:00,Group stage – Match 2
+5621,2022-09-15,UEFA Europa Conference League,VMFD Zalgiris v Basel,16:45:00,Group stage – Match 2
+5622,2022-09-15,UEFA Europa Conference League,Cologne v Slovácko,19:00:00,Group stage – Match 2
+5623,2022-09-15,UEFA Europa Conference League,FC Steaua Bucuresti v Anderlecht,19:00:00,Group stage – Match 2
+5624,2022-09-15,UEFA Europa Conference League,Hapoel Beer-Sheva v Villarreal,19:00:00,Group stage – Match 2
+5625,2022-09-15,UEFA Europa Conference League,Istanbul Buyuksehir v Fiorentina,19:00:00,Group stage – Match 2
+5626,2022-09-15,UEFA Europa Conference League,Lech Poznan v Austria Wien,19:00:00,Group stage – Match 2
+5627,2022-09-15,UEFA Europa Conference League,Partizan Belgrade v Nice,19:00:00,Group stage – Match 2
+5628,2022-09-15,UEFA Europa Conference League,Rigas Futbola Skola v Hearts,19:00:00,Group stage – Match 2
+5629,2022-09-15,UEFA Europa Conference League,Silkeborg v West Ham United,19:00:00,Group stage – Match 2
+5630,2022-10-06,UEFA Europa Conference League,Anderlecht v West Ham United,16:45:00,Group stage – Match 3
+5631,2022-10-06,UEFA Europa Conference League,Dnipro-1 v FC Vaduz,16:45:00,Group stage – Match 3
+5632,2022-10-06,UEFA Europa Conference League,Lech Poznan v Hapoel Beer-Sheva,16:45:00,Group stage – Match 3
+5633,2022-10-06,UEFA Europa Conference League,Molde v Shamrock Rovers,16:45:00,Group stage – Match 3
+5634,2022-10-06,UEFA Europa Conference League,Pyunik Yerevan v VMFD Zalgiris,16:45:00,Group stage – Match 3
+5635,2022-10-06,UEFA Europa Conference League,Silkeborg v FC Steaua Bucuresti,16:45:00,Group stage – Match 3
+5636,2022-10-06,UEFA Europa Conference League,Sivasspor v Ballkani,16:45:00,Group stage – Match 3
+5637,2022-10-06,UEFA Europa Conference League,Slovácko v Nice,16:45:00,Group stage – Match 3
+5638,2022-10-06,UEFA Europa Conference League,AA Gent v Djurgardens IF,19:00:00,Group stage – Match 3
+5639,2022-10-06,UEFA Europa Conference League,AZ Alkmaar v Apollon Limassol,19:00:00,Group stage – Match 3
+5640,2022-10-06,UEFA Europa Conference League,Basel v SK Slovan Bratislava,19:00:00,Group stage – Match 3
+5641,2022-10-06,UEFA Europa Conference League,Cologne v Partizan Belgrade,19:00:00,Group stage – Match 3
+5642,2022-10-06,UEFA Europa Conference League,Hearts v Fiorentina,19:00:00,Group stage – Match 3
+5643,2022-10-06,UEFA Europa Conference League,Rigas Futbola Skola v Istanbul Buyuksehir,19:00:00,Group stage – Match 3
+5644,2022-10-06,UEFA Europa Conference League,Slavia Prague v CFR Cluj-Napoca,19:00:00,Group stage – Match 3
+5645,2022-10-06,UEFA Europa Conference League,Villarreal v Austria Wien,19:00:00,Group stage – Match 3
+5646,2022-10-13,UEFA Europa Conference League,Apollon Limassol v AZ Alkmaar,16:45:00,Group stage – Match 4
+5647,2022-10-13,UEFA Europa Conference League,Austria Wien v Villarreal,16:45:00,Group stage – Match 4
+5648,2022-10-13,UEFA Europa Conference League,CFR Cluj-Napoca v Slavia Prague,16:45:00,Group stage – Match 4
+5649,2022-10-13,UEFA Europa Conference League,Djurgardens IF v AA Gent,16:45:00,Group stage – Match 4
+5650,2022-10-13,UEFA Europa Conference League,Fiorentina v Hearts,16:45:00,Group stage – Match 4
+5651,2022-10-13,UEFA Europa Conference League,Istanbul Buyuksehir v Rigas Futbola Skola,16:45:00,Group stage – Match 4
+5652,2022-10-13,UEFA Europa Conference League,Partizan Belgrade v Cologne,16:45:00,Group stage – Match 4
+5653,2022-10-13,UEFA Europa Conference League,SK Slovan Bratislava v Basel,16:45:00,Group stage – Match 4
+5654,2022-10-13,UEFA Europa Conference League,Ballkani v Sivasspor,19:00:00,Group stage – Match 4
+5655,2022-10-13,UEFA Europa Conference League,FC Steaua Bucuresti v Silkeborg,19:00:00,Group stage – Match 4
+5656,2022-10-13,UEFA Europa Conference League,FC Vaduz v Dnipro-1,19:00:00,Group stage – Match 4
+5657,2022-10-13,UEFA Europa Conference League,Hapoel Beer-Sheva v Lech Poznan,19:00:00,Group stage – Match 4
+5658,2022-10-13,UEFA Europa Conference League,Nice v Slovácko,19:00:00,Group stage – Match 4
+5659,2022-10-13,UEFA Europa Conference League,Shamrock Rovers v Molde,19:00:00,Group stage – Match 4
+5660,2022-10-13,UEFA Europa Conference League,VMFD Zalgiris v Pyunik Yerevan,19:00:00,Group stage – Match 4
+5661,2022-10-13,UEFA Europa Conference League,West Ham United v Anderlecht,19:00:00,Group stage – Match 4
+5662,2022-10-27,UEFA Europa Conference League,Anderlecht v FC Steaua Bucuresti,16:45:00,Group stage – Match 5
+5663,2022-10-27,UEFA Europa Conference League,Austria Wien v Lech Poznan,16:45:00,Group stage – Match 5
+5664,2022-10-27,UEFA Europa Conference League,FC Vaduz v AZ Alkmaar,16:45:00,Group stage – Match 5
+5665,2022-10-27,UEFA Europa Conference League,Fiorentina v Istanbul Buyuksehir,16:45:00,Group stage – Match 5
+5666,2022-10-27,UEFA Europa Conference League,Nice v Partizan Belgrade,16:45:00,Group stage – Match 5
+5667,2022-10-27,UEFA Europa Conference League,Slovácko v Cologne,16:45:00,Group stage – Match 5
+5668,2022-10-27,UEFA Europa Conference League,Villarreal v Hapoel Beer-Sheva,16:45:00,Group stage – Match 5
+5669,2022-10-27,UEFA Europa Conference League,Ballkani v Slavia Prague,19:00:00,Group stage – Match 5
+5670,2022-10-27,UEFA Europa Conference League,Basel v VMFD Zalgiris,19:00:00,Group stage – Match 5
+5671,2022-10-27,UEFA Europa Conference League,Dnipro-1 v Apollon Limassol,19:00:00,Group stage – Match 5
+5672,2022-10-27,UEFA Europa Conference League,Hearts v Rigas Futbola Skola,19:00:00,Group stage – Match 5
+5673,2022-10-27,UEFA Europa Conference League,Molde v Djurgardens IF,19:00:00,Group stage – Match 5
+5674,2022-10-27,UEFA Europa Conference League,SK Slovan Bratislava v Pyunik Yerevan,19:00:00,Group stage – Match 5
+5675,2022-10-27,UEFA Europa Conference League,Shamrock Rovers v AA Gent,19:00:00,Group stage – Match 5
+5676,2022-10-27,UEFA Europa Conference League,Sivasspor v CFR Cluj-Napoca,19:00:00,Group stage – Match 5
+5677,2022-10-27,UEFA Europa Conference League,West Ham United v Silkeborg,19:00:00,Group stage – Match 5
+5678,2022-11-03,UEFA Europa Conference League,Istanbul Buyuksehir v Hearts,15:30:00,Group stage – Match 6
+5679,2022-11-03,UEFA Europa Conference League,Rigas Futbola Skola v Fiorentina,15:30:00,Group stage – Match 6
+5680,2022-11-03,UEFA Europa Conference League,AA Gent v Molde,17:45:00,Group stage – Match 6
+5681,2022-11-03,UEFA Europa Conference League,AZ Alkmaar v Dnipro-1,17:45:00,Group stage – Match 6
+5682,2022-11-03,UEFA Europa Conference League,Apollon Limassol v FC Vaduz,17:45:00,Group stage – Match 6
+5683,2022-11-03,UEFA Europa Conference League,CFR Cluj-Napoca v Ballkani,17:45:00,Group stage – Match 6
+5684,2022-11-03,UEFA Europa Conference League,Djurgardens IF v Shamrock Rovers,17:45:00,Group stage – Match 6
+5685,2022-11-03,UEFA Europa Conference League,Pyunik Yerevan v Basel,17:45:00,Group stage – Match 6
+5686,2022-11-03,UEFA Europa Conference League,Slavia Prague v Sivasspor,17:45:00,Group stage – Match 6
+5687,2022-11-03,UEFA Europa Conference League,VMFD Zalgiris v SK Slovan Bratislava,17:45:00,Group stage – Match 6
+5688,2022-11-03,UEFA Europa Conference League,Cologne v Nice,20:00:00,Group stage – Match 6
+5689,2022-11-03,UEFA Europa Conference League,FC Steaua Bucuresti v West Ham United,20:00:00,Group stage – Match 6
+5690,2022-11-03,UEFA Europa Conference League,Hapoel Beer-Sheva v Austria Wien,20:00:00,Group stage – Match 6
+5691,2022-11-03,UEFA Europa Conference League,Lech Poznan v Villarreal,20:00:00,Group stage – Match 6
+5692,2022-11-03,UEFA Europa Conference League,Partizan Belgrade v Slovácko,20:00:00,Group stage – Match 6
+5693,2022-11-03,UEFA Europa Conference League,Silkeborg v Anderlecht,20:00:00,Group stage – Match 6
+5694,2022-09-08,UEFA Europa League,1. FC Union Berlin v Union Saint-Gilloise,16:45:00,Group stage – Match 1
+5695,2022-09-08,UEFA Europa League,AEK Larnaca v Rennes,16:45:00,Group stage – Match 1
+5696,2022-09-08,UEFA Europa League,FC Zurich v Arsenal,16:45:00,Group stage – Match 1
+5697,2022-09-08,UEFA Europa League,Fenerbahce v Dynamo Kiev,16:45:00,Group stage – Match 1
+5698,2022-09-08,UEFA Europa League,HJK Helsinki v Real Betis,16:45:00,Group stage – Match 1
+5699,2022-09-08,UEFA Europa League,Ludogorets v Roma,16:45:00,Group stage – Match 1
+5700,2022-09-08,UEFA Europa League,Malmo FF v Braga,16:45:00,Group stage – Match 1
+5701,2022-09-08,UEFA Europa League,PSV Eindhoven v Bodo/Glimt,16:45:00,Group stage – Match 1
+5702,2022-09-08,UEFA Europa League,Crvena Zvezda v Monaco,19:00:00,Group stage – Match 1
+5703,2022-09-08,UEFA Europa League,Ferencvaros v Trabzonspor,19:00:00,Group stage – Match 1
+5704,2022-09-08,UEFA Europa League,Lazio v Feyenoord,19:00:00,Group stage – Match 1
+5705,2022-09-08,UEFA Europa League,Manchester United v Real Sociedad,19:00:00,Group stage – Match 1
+5706,2022-09-08,UEFA Europa League,Nantes v Olympiakos FC,19:00:00,Group stage – Match 1
+5707,2022-09-08,UEFA Europa League,Omonia Nicosia v Sheriff Tiraspol (Mol),19:00:00,Group stage – Match 1
+5708,2022-09-08,UEFA Europa League,SC Freiburg v Qarabag FK,19:00:00,Group stage – Match 1
+5709,2022-09-08,UEFA Europa League,Sturm Graz v FC Midtjylland,19:00:00,Group stage – Match 1
+5710,2022-09-15,UEFA Europa League,FC Midtjylland v Lazio,16:45:00,Group stage – Match 2
+5711,2022-09-15,UEFA Europa League,Feyenoord v Sturm Graz,16:45:00,Group stage – Match 2
+5712,2022-09-15,UEFA Europa League,Monaco v Ferencvaros,16:45:00,Group stage – Match 2
+5713,2022-09-15,UEFA Europa League,Olympiakos FC v SC Freiburg,16:45:00,Group stage – Match 2
+5714,2022-09-15,UEFA Europa League,Qarabag FK v Nantes,16:45:00,Group stage – Match 2
+5715,2022-09-15,UEFA Europa League,Real Sociedad v Omonia Nicosia,16:45:00,Group stage – Match 2
+5716,2022-09-15,UEFA Europa League,Sheriff Tiraspol (Mol) v Manchester United,16:45:00,Group stage – Match 2
+5717,2022-09-15,UEFA Europa League,Trabzonspor v Crvena Zvezda,16:45:00,Group stage – Match 2
+5718,2022-09-15,UEFA Europa League,Arsenal v PSV Eindhoven,19:00:00,Group stage – Match 2
+5719,2022-09-15,UEFA Europa League,Bodo/Glimt v FC Zurich,19:00:00,Group stage – Match 2
+5720,2022-09-15,UEFA Europa League,Braga v 1. FC Union Berlin,19:00:00,Group stage – Match 2
+5721,2022-09-15,UEFA Europa League,Dynamo Kiev v AEK Larnaca,19:00:00,Group stage – Match 2
+5722,2022-09-15,UEFA Europa League,Real Betis v Ludogorets,19:00:00,Group stage – Match 2
+5723,2022-09-15,UEFA Europa League,Rennes v Fenerbahce,19:00:00,Group stage – Match 2
+5724,2022-09-15,UEFA Europa League,Roma v HJK Helsinki,19:00:00,Group stage – Match 2
+5725,2022-09-15,UEFA Europa League,Union Saint-Gilloise v Malmo FF,19:00:00,Group stage – Match 2
+5726,2022-10-06,UEFA Europa League,Crvena Zvezda v Ferencvaros,16:45:00,Group stage – Match 3
+5727,2022-10-06,UEFA Europa League,FC Zurich v PSV Eindhoven,16:45:00,Group stage – Match 3
+5728,2022-10-06,UEFA Europa League,HJK Helsinki v Ludogorets,16:45:00,Group stage – Match 3
+5729,2022-10-06,UEFA Europa League,Malmo FF v 1. FC Union Berlin,16:45:00,Group stage – Match 3
+5730,2022-10-06,UEFA Europa League,Monaco v Trabzonspor,16:45:00,Group stage – Match 3
+5731,2022-10-06,UEFA Europa League,Omonia Nicosia v Manchester United,16:45:00,Group stage – Match 3
+5732,2022-10-06,UEFA Europa League,Sheriff Tiraspol (Mol) v Real Sociedad,16:45:00,Group stage – Match 3
+5733,2022-10-06,UEFA Europa League,Sturm Graz v Lazio,16:45:00,Group stage – Match 3
+5734,2022-10-06,UEFA Europa League,Arsenal v Bodo/Glimt,19:00:00,Group stage – Match 3
+5735,2022-10-06,UEFA Europa League,Braga v Union Saint-Gilloise,19:00:00,Group stage – Match 3
+5736,2022-10-06,UEFA Europa League,FC Midtjylland v Feyenoord,19:00:00,Group stage – Match 3
+5737,2022-10-06,UEFA Europa League,Fenerbahce v AEK Larnaca,19:00:00,Group stage – Match 3
+5738,2022-10-06,UEFA Europa League,Olympiakos FC v Qarabag FK,19:00:00,Group stage – Match 3
+5739,2022-10-06,UEFA Europa League,Rennes v Dynamo Kiev,19:00:00,Group stage – Match 3
+5740,2022-10-06,UEFA Europa League,Roma v Real Betis,19:00:00,Group stage – Match 3
+5741,2022-10-06,UEFA Europa League,SC Freiburg v Nantes,19:00:00,Group stage – Match 3
+5742,2022-10-13,UEFA Europa League,AEK Larnaca v Fenerbahce,16:45:00,Group stage – Match 4
+5743,2022-10-13,UEFA Europa League,Bodo/Glimt v Arsenal,16:45:00,Group stage – Match 4
+5744,2022-10-13,UEFA Europa League,Dynamo Kiev v Rennes,16:45:00,Group stage – Match 4
+5745,2022-10-13,UEFA Europa League,Feyenoord v FC Midtjylland,16:45:00,Group stage – Match 4
+5746,2022-10-13,UEFA Europa League,Nantes v SC Freiburg,16:45:00,Group stage – Match 4
+5747,2022-10-13,UEFA Europa League,Qarabag FK v Olympiakos FC,16:45:00,Group stage – Match 4
+5748,2022-10-13,UEFA Europa League,Real Betis v Roma,16:45:00,Group stage – Match 4
+5749,2022-10-13,UEFA Europa League,Union Saint-Gilloise v Braga,16:45:00,Group stage – Match 4
+5750,2022-10-13,UEFA Europa League,1. FC Union Berlin v Malmo FF,19:00:00,Group stage – Match 4
+5751,2022-10-13,UEFA Europa League,Ferencvaros v Crvena Zvezda,19:00:00,Group stage – Match 4
+5752,2022-10-13,UEFA Europa League,Lazio v Sturm Graz,19:00:00,Group stage – Match 4
+5753,2022-10-13,UEFA Europa League,Ludogorets v HJK Helsinki,19:00:00,Group stage – Match 4
+5754,2022-10-13,UEFA Europa League,Manchester United v Omonia Nicosia,19:00:00,Group stage – Match 4
+5755,2022-10-13,UEFA Europa League,PSV Eindhoven v FC Zurich,19:00:00,Group stage – Match 4
+5756,2022-10-13,UEFA Europa League,Real Sociedad v Sheriff Tiraspol (Mol),19:00:00,Group stage – Match 4
+5757,2022-10-13,UEFA Europa League,Trabzonspor v Monaco,19:00:00,Group stage – Match 4
+5758,2022-10-27,UEFA Europa League,1. FC Union Berlin v Braga,16:45:00,Group stage – Match 5
+5759,2022-10-27,UEFA Europa League,AEK Larnaca v Dynamo Kiev,16:45:00,Group stage – Match 5
+5760,2022-10-27,UEFA Europa League,FC Zurich v Bodo/Glimt,16:45:00,Group stage – Match 5
+5761,2022-10-27,UEFA Europa League,Fenerbahce v Rennes,16:45:00,Group stage – Match 5
+5762,2022-10-27,UEFA Europa League,Lazio v FC Midtjylland,16:45:00,Group stage – Match 5
+5763,2022-10-27,UEFA Europa League,Ludogorets v Real Betis,16:45:00,Group stage – Match 5
+5764,2022-10-27,UEFA Europa League,Malmo FF v Union Saint-Gilloise,16:45:00,Group stage – Match 5
+5765,2022-10-27,UEFA Europa League,PSV Eindhoven v Arsenal,16:45:00,Group stage – Match 5
+5766,2022-10-27,UEFA Europa League,Crvena Zvezda v Trabzonspor,19:00:00,Group stage – Match 5
+5767,2022-10-27,UEFA Europa League,Ferencvaros v Monaco,19:00:00,Group stage – Match 5
+5768,2022-10-27,UEFA Europa League,HJK Helsinki v Roma,19:00:00,Group stage – Match 5
+5769,2022-10-27,UEFA Europa League,Manchester United v Sheriff Tiraspol (Mol),19:00:00,Group stage – Match 5
+5770,2022-10-27,UEFA Europa League,Nantes v Qarabag FK,19:00:00,Group stage – Match 5
+5771,2022-10-27,UEFA Europa League,Omonia Nicosia v Real Sociedad,19:00:00,Group stage – Match 5
+5772,2022-10-27,UEFA Europa League,SC Freiburg v Olympiakos FC,19:00:00,Group stage – Match 5
+5773,2022-10-27,UEFA Europa League,Sturm Graz v Feyenoord,19:00:00,Group stage – Match 5
+5774,2022-11-03,UEFA Europa League,FC Midtjylland v Sturm Graz,17:45:00,Group stage – Match 6
+5775,2022-11-03,UEFA Europa League,Feyenoord v Lazio,17:45:00,Group stage – Match 6
+5776,2022-11-03,UEFA Europa League,Monaco v Crvena Zvezda,17:45:00,Group stage – Match 6
+5777,2022-11-03,UEFA Europa League,Olympiakos FC v Nantes,17:45:00,Group stage – Match 6
+5778,2022-11-03,UEFA Europa League,Qarabag FK v SC Freiburg,17:45:00,Group stage – Match 6
+5779,2022-11-03,UEFA Europa League,Real Sociedad v Manchester United,17:45:00,Group stage – Match 6
+5780,2022-11-03,UEFA Europa League,Sheriff Tiraspol (Mol) v Omonia Nicosia,17:45:00,Group stage – Match 6
+5781,2022-11-03,UEFA Europa League,Trabzonspor v Ferencvaros,17:45:00,Group stage – Match 6
+5782,2022-11-03,UEFA Europa League,Arsenal v FC Zurich,20:00:00,Group stage – Match 6
+5783,2022-11-03,UEFA Europa League,Bodo/Glimt v PSV Eindhoven,20:00:00,Group stage – Match 6
+5784,2022-11-03,UEFA Europa League,Braga v Malmo FF,20:00:00,Group stage – Match 6
+5785,2022-11-03,UEFA Europa League,Dynamo Kiev v Fenerbahce,20:00:00,Group stage – Match 6
+5786,2022-11-03,UEFA Europa League,Real Betis v HJK Helsinki,20:00:00,Group stage – Match 6
+5787,2022-11-03,UEFA Europa League,Rennes v AEK Larnaca,20:00:00,Group stage – Match 6
+5788,2022-11-03,UEFA Europa League,Roma v Ludogorets,20:00:00,Group stage – Match 6
+5789,2022-11-03,UEFA Europa League,Union Saint-Gilloise v 1. FC Union Berlin,20:00:00,Group stage – Match 6
