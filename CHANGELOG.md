@@ -1,5 +1,8 @@
 # Change Log
 
+2022-09-09
+* Updates to times/dates
+
 2022-09-07
 * Added UEFA Europa Conference League
 * Added UEFA Europa League
