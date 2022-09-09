@@ -189,12 +189,12 @@ ID,date,league,teams,time,note_1
 247,2022-11-04,Swedish Damallsvenskan,Kristianstad v Umeå IK,16:00:00,Round 26
 248,2022-11-04,Swedish Damallsvenskan,Vittsjö v Hammarby,16:00:00,Round 26
 249,2022-11-04,Swedish Damallsvenskan,Örebro v Linköping,16:00:00,Round 26
-255,2022-09-11,Women's Super League,Brighton and Hove Albion v Aston Villa,13:00:00,Match 1
-256,2022-09-11,Women's Super League,Chelsea v West Ham United,11:30:00,Match 1
-257,2022-09-11,Women's Super League,Everton v Leicester City,12:00:00,Match 1
-258,2022-09-11,Women's Super League,Manchester City v Arsenal,18:00:00,Match 1
-259,2022-09-11,Women's Super League,Reading v Liverpool,13:00:00,Match 1
-260,2022-09-10,Women's Super League,Tottenham Hotspur v Manchester United,11:30:00,Match 1
+255,,Women's Super League,Brighton and Hove Albion v Aston Villa,,Match 1
+256,,Women's Super League,Chelsea v West Ham United,,Match 1
+257,,Women's Super League,Everton v Leicester City,,Match 1
+258,,Women's Super League,Manchester City v Arsenal,,Match 1
+259,,Women's Super League,Reading v Liverpool,,Match 1
+260,,Women's Super League,Tottenham Hotspur v Manchester United,,Match 1
 261,2022-09-16,Women's Super League,Arsenal v Brighton and Hove Albion,18:30:00,Match 2
 262,2022-09-18,Women's Super League,Aston Villa v Manchester City,11:30:00,Match 2
 263,2022-09-18,Women's Super League,Leicester City v Tottenham Hotspur,14:00:00,Match 2
