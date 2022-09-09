@@ -462,18 +462,18 @@ ID,date,league,teams,time,note_1
 631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
 655,,EFL Championship,Coventry City v Rotherham United,,Match 2
-729,2022-09-10,EFL Championship,Birmingham City v Swansea City,14:00:00,Match 9
-730,2022-09-10,EFL Championship,Blackpool v Middlesbrough,14:00:00,Match 9
-731,2022-09-10,EFL Championship,Bristol City v Preston North End,14:00:00,Match 9
+729,,EFL Championship,Birmingham City v Swansea City,,Match 9
+730,,EFL Championship,Blackpool v Middlesbrough,,Match 9
+731,,EFL Championship,Bristol City v Preston North End,,Match 9
 732,,EFL Championship,Burnley v Norwich City,,Match 9
-733,2022-09-10,EFL Championship,Cardiff City v Hull City,14:00:00,Match 9
-734,2022-09-10,EFL Championship,Coventry City v West Bromwich Albion,14:00:00,Match 9
-735,2022-09-10,EFL Championship,Queens Park Rangers v Huddersfield Town,14:00:00,Match 9
-736,2022-09-10,EFL Championship,Sheffield United v Rotherham United,14:00:00,Match 9
-737,2022-09-10,EFL Championship,Stoke City v Luton Town,14:00:00,Match 9
-738,2022-09-10,EFL Championship,Sunderland v Millwall,14:00:00,Match 9
-739,2022-09-10,EFL Championship,Watford v Reading,14:00:00,Match 9
-740,2022-09-10,EFL Championship,Wigan Athletic v Blackburn Rovers,14:00:00,Match 9
+733,,EFL Championship,Cardiff City v Hull City,,Match 9
+734,,EFL Championship,Coventry City v West Bromwich Albion,,Match 9
+735,,EFL Championship,Queens Park Rangers v Huddersfield Town,,Match 9
+736,,EFL Championship,Sheffield United v Rotherham United,,Match 9
+737,,EFL Championship,Stoke City v Luton Town,,Match 9
+738,,EFL Championship,Sunderland v Millwall,,Match 9
+739,,EFL Championship,Watford v Reading,,Match 9
+740,,EFL Championship,Wigan Athletic v Blackburn Rovers,,Match 9
 741,2022-09-13,EFL Championship,Blackburn Rovers v Watford,18:45:00,Match 10
 742,2022-09-13,EFL Championship,Huddersfield Town v Wigan Athletic,18:45:00,Match 10
 743,2022-09-13,EFL Championship,Hull City v Stoke City,18:45:00,Match 10
@@ -918,18 +918,18 @@ ID,date,league,teams,time,note_1
 1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
 1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
 1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
-1269,2022-09-10,EFL League One,Barnsley v Portsmouth,14:00:00,Match 8
-1270,2022-09-10,EFL League One,Burton Albion v Fleetwood Town,14:00:00,Match 8
-1271,2022-09-10,EFL League One,Charlton Athletic v Exeter City,14:00:00,Match 8
-1272,2022-09-10,EFL League One,Cheltenham Town v Bolton Wanderers,14:00:00,Match 8
-1273,2022-09-10,EFL League One,Ipswich Town v Cambridge United,14:00:00,Match 8
-1274,2022-09-10,EFL League One,Lincoln City v Accrington Stanley,14:00:00,Match 8
-1275,2022-09-10,EFL League One,Milton Keynes Dons v Bristol Rovers,14:00:00,Match 8
-1276,2022-09-10,EFL League One,Morecambe v Derby County,14:00:00,Match 8
-1277,2022-09-10,EFL League One,Peterborough United v Forest Green Rovers,14:00:00,Match 8
-1278,2022-09-10,EFL League One,Plymouth Argyle v Sheffield Wednesday,14:00:00,Match 8
-1279,2022-09-10,EFL League One,Shrewsbury Town v Oxford United,14:00:00,Match 8
-1280,2022-09-10,EFL League One,Wycombe Wanderers v Port Vale,14:00:00,Match 8
+1269,,EFL League One,Barnsley v Portsmouth,,Match 8
+1270,,EFL League One,Burton Albion v Fleetwood Town,,Match 8
+1271,,EFL League One,Charlton Athletic v Exeter City,,Match 8
+1272,,EFL League One,Cheltenham Town v Bolton Wanderers,,Match 8
+1273,,EFL League One,Ipswich Town v Cambridge United,,Match 8
+1274,,EFL League One,Lincoln City v Accrington Stanley,,Match 8
+1275,,EFL League One,Milton Keynes Dons v Bristol Rovers,,Match 8
+1276,,EFL League One,Morecambe v Derby County,,Match 8
+1277,,EFL League One,Peterborough United v Forest Green Rovers,,Match 8
+1278,,EFL League One,Plymouth Argyle v Sheffield Wednesday,,Match 8
+1279,,EFL League One,Shrewsbury Town v Oxford United,,Match 8
+1280,,EFL League One,Wycombe Wanderers v Port Vale,,Match 8
 1281,2022-09-13,EFL League One,Barnsley v Port Vale,18:45:00,Match 9
 1282,2022-09-13,EFL League One,Burton Albion v Portsmouth,18:45:00,Match 9
 1283,2022-09-13,EFL League One,Charlton Athletic v Forest Green Rovers,18:45:00,Match 9
@@ -1387,17 +1387,17 @@ ID,date,league,teams,time,note_1
 1735,2023-05-06,EFL League One,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 1736,2023-05-06,EFL League One,Sheffield Wednesday v Derby County,14:00:00,Match 46
 1821,,EFL League Two,Tranmere Rovers v Stockport County,,Match 8
-1822,2022-09-10,EFL League Two,AFC Wimbledon v Leyton Orient,14:00:00,Match 8
-1823,2022-09-10,EFL League Two,Barrow v Colchester United,14:00:00,Match 8
-1824,2022-09-10,EFL League Two,Crawley Town v Gillingham,14:00:00,Match 8
-1825,2022-09-10,EFL League Two,Grimsby Town v Crewe Alexandra,14:00:00,Match 8
-1826,2022-09-10,EFL League Two,Harrogate Town v Carlisle United,14:00:00,Match 8
-1827,2022-09-10,EFL League Two,Hartlepool United v Doncaster Rovers,14:00:00,Match 8
-1828,2022-09-10,EFL League Two,Mansfield Town v Bradford City,14:00:00,Match 8
-1829,2022-09-10,EFL League Two,Rochdale v Salford City,14:00:00,Match 8
-1830,2022-09-10,EFL League Two,Stevenage v Sutton United,14:00:00,Match 8
-1831,2022-09-10,EFL League Two,Swindon Town v Newport County AFC,14:00:00,Match 8
-1832,2022-09-10,EFL League Two,Walsall v Northampton Town,14:00:00,Match 8
+1822,,EFL League Two,AFC Wimbledon v Leyton Orient,,Match 8
+1823,,EFL League Two,Barrow v Colchester United,,Match 8
+1824,,EFL League Two,Crawley Town v Gillingham,,Match 8
+1825,,EFL League Two,Grimsby Town v Crewe Alexandra,,Match 8
+1826,,EFL League Two,Harrogate Town v Carlisle United,,Match 8
+1827,,EFL League Two,Hartlepool United v Doncaster Rovers,,Match 8
+1828,,EFL League Two,Mansfield Town v Bradford City,,Match 8
+1829,,EFL League Two,Rochdale v Salford City,,Match 8
+1830,,EFL League Two,Stevenage v Sutton United,,Match 8
+1831,,EFL League Two,Swindon Town v Newport County AFC,,Match 8
+1832,,EFL League Two,Walsall v Northampton Town,,Match 8
 1833,2022-09-13,EFL League Two,AFC Wimbledon v Northampton Town,18:45:00,Match 9
 1834,2022-09-13,EFL League Two,Barrow v Doncaster Rovers,18:45:00,Match 9
 1835,2022-09-13,EFL League Two,Crawley Town v Stockport County,18:45:00,Match 9
@@ -2983,16 +2983,16 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3791,2022-09-11,Premier League,Arsenal v Everton,13:00:00,Match 7
-3792,2022-09-10,Premier League,Bournemouth v Brighton and Hove Albion,14:00:00,Match 7
-3793,2022-09-11,Premier League,Crystal Palace v Manchester United,15:30:00,Match 7
-3794,2022-09-10,Premier League,Fulham v Chelsea,11:30:00,Match 7
-3795,2022-09-12,Premier League,Leeds United v Nottingham Forest,19:00:00,Match 7
-3796,2022-09-10,Premier League,Leicester City v Aston Villa,14:00:00,Match 7
-3797,2022-09-10,Premier League,Liverpool v Wolverhampton Wanderers,14:00:00,Match 7
-3798,2022-09-10,Premier League,Manchester City v Tottenham Hotspur,16:30:00,Match 7
-3799,2022-09-10,Premier League,Southampton v Brentford,14:00:00,Match 7
-3800,2022-09-11,Premier League,West Ham United v Newcastle United,13:00:00,Match 7
+3791,,Premier League,Arsenal v Everton,,Match 7
+3792,,Premier League,Bournemouth v Brighton and Hove Albion,,Match 7
+3793,,Premier League,Crystal Palace v Manchester United,,Match 7
+3794,,Premier League,Fulham v Chelsea,,Match 7
+3795,,Premier League,Leeds United v Nottingham Forest,,Match 7
+3796,,Premier League,Leicester City v Aston Villa,,Match 7
+3797,,Premier League,Liverpool v Wolverhampton Wanderers,,Match 7
+3798,,Premier League,Manchester City v Tottenham Hotspur,,Match 7
+3799,,Premier League,Southampton v Brentford,,Match 7
+3800,,Premier League,West Ham United v Newcastle United,,Match 7
 3801,2022-09-16,Premier League,Aston Villa v Southampton,19:00:00,Match 8
 3802,2022-09-18,Premier League,Brentford v Arsenal,13:00:00,Match 8
 3803,2022-09-17,Premier League,Brighton and Hove Albion v Crystal Palace,14:00:00,Match 8
