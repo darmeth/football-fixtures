@@ -1,5 +1,8 @@
 # Change Log
 
+2022-09-10
+* Updates to times/dates
+
 2022-09-09
 * Updates to times/dates
 
