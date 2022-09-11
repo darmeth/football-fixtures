@@ -133,10 +133,6 @@ ID,date,league,teams,time,note_1
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
 144,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
 145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
-194,2022-09-09,Swedish Damallsvenskan,Häcken v Umeå IK,16:00:00,Round 19
-195,2022-09-10,Swedish Damallsvenskan,AIK v Kristianstad,13:00:00,Round 19
-196,2022-09-10,Swedish Damallsvenskan,Hammarby v Rosengård,13:00:00,Round 19
-197,2022-09-10,Swedish Damallsvenskan,IFK Kalmar v Örebro,13:00:00,Round 19
 198,2022-09-11,Swedish Damallsvenskan,Piteå v BP,13:00:00,Round 19
 199,2022-09-11,Swedish Damallsvenskan,Linköping v Eskilstuna,13:00:00,Round 19
 200,2022-09-12,Swedish Damallsvenskan,Djurgården v Vittsjö,17:00:00,Round 19
@@ -323,11 +319,6 @@ ID,date,league,teams,time,note_1
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,,Match 22
 428,2022-10-06,International Friendly,Cyprus v Liechtenstein,,
 430,2022-10-09,International Friendly,Cyprus v Liechtenstein,,
-446,2022-09-09,Division 1 Féminine,Paris St Germain v Soyaux,19:00:00,Match 1
-447,2022-09-10,Division 1 Féminine,Bordeaux v Le Havre,12:30:00,Match 1
-448,2022-09-10,Division 1 Féminine,Paris FC v Rodez,12:30:00,Match 1
-449,2022-09-10,Division 1 Féminine,Montpellier v Dijon,12:30:00,Match 1
-450,2022-09-10,Division 1 Féminine,Guingamp v Fleury,12:30:00,Match 1
 451,2022-09-11,Division 1 Féminine,Reims v Lyon,10:45:00,Match 1
 452,2022-09-16,Division 1 Féminine,Fleury v Paris FC,16:30:00,Match 2
 453,2022-09-17,Division 1 Féminine,Reims v Montpellier,12:30:00,Match 2
@@ -455,10 +446,6 @@ ID,date,league,teams,time,note_1
 575,2023-05-27,Division 1 Féminine,Fleury v Guingamp,,Match 22
 576,2023-05-27,Division 1 Féminine,Soyaux v Paris St Germain,,Match 22
 577,2023-05-27,Division 1 Féminine,Le Havre v Bordeaux,,Match 22
-578,2022-09-10,Primera División Femenina,Alhama v Madrid CFF,10:00:00,Match 1
-579,2022-09-10,Primera División Femenina,Atletico Madrid v Real Sociedad,10:00:00,Match 1
-580,2022-09-10,Primera División Femenina,Villarreal v Real Madrid,14:00:00,Match 1
-581,2022-09-10,Primera División Femenina,Granadilla Tenerife v Athletic Club,16:00:00,Match 1
 582,2022-09-11,Primera División Femenina,Levante v Alavés,10:00:00,Match 1
 583,2022-09-11,Primera División Femenina,Sporting Huelva v Sevilla,10:00:00,Match 1
 584,2022-09-11,Primera División Femenina,Valencia v Real Betis,14:00:00,Match 1
@@ -695,7 +682,6 @@ ID,date,league,teams,time,note_1
 815,2023-05-21,Primera División Femenina,Athletic Club v Villarreal,,Match 30
 816,2023-05-21,Primera División Femenina,Atletico Madrid v Granadilla Tenerife,,Match 30
 817,2023-05-21,Primera División Femenina,Madrid CFF v Barcelona,,Match 30
-818,2022-09-10,Serie A Femminile,Roma v ACMilan,12:30:00,Match 2
 819,2022-09-11,Serie A Femminile,Sampdoria v Pomigliano Calcio,10:30:00,Match 2
 820,2022-09-11,Serie A Femminile,Juventus v Inter,12:30:00,Match 2
 821,2022-09-11,Serie A Femminile,Fiorentina v Como,15:00:00,Match 2
@@ -780,3 +766,16 @@ ID,date,league,teams,time,note_1
 900,2023-02-25,Serie A Femminile,Inter v Fiorentina,,Match 18
 901,2023-02-25,Serie A Femminile,Pomigliano Calcio v Sassuolo,,Match 18
 902,2023-02-25,Serie A Femminile,Juventus v Parma,,Match 18
+903,2022-10-06,Women’s World Cup 2022,Scotland v Austria,,UEFA play-offs
+904,2022-10-06,Women’s World Cup 2022,Wales v Bosnia and Herzegovina,,UEFA play-offs
+905,2022-10-06,Women’s World Cup 2022,Portugal v Belgium,,UEFA play-offs
+906,2022-10-11,Women’s World Cup 2022,Portugal / Belgium v Iceland,,UEFA play-offs
+907,2022-10-11,Women’s World Cup 2022,Switzerland v Wales / Bosnia and Herzegovina,,UEFA play-offs
+908,2022-10-11,Women’s World Cup 2022,Scotland / Austria v Republic of Ireland,,UEFA play-offs
+909,2023-02-18,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+910,2023-02-18,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+911,2023-02-19,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+912,2023-02-19,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+913,2023-02-22,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+914,2023-02-22,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs
+915,2023-02-23,Women’s World Cup 2022,TBA v TBA,,Inter-Confederation play-offs

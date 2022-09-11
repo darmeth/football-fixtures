@@ -1,6 +1,4 @@
 ID,date,league,teams,time,note_1
-55,2022-09-10,Allsvenskan,IK Sirius v IFK Värnamo,13:00:00,Match 22
-56,2022-09-10,Allsvenskan,Degerfors IF v Mjällby AIF,15:30:00,Match 22
 57,2022-09-11,Allsvenskan,GIF Sundsvall v IF Elfsborg,13:00:00,Match 22
 58,2022-09-11,Allsvenskan,Hammarby IF v Djurgårdens IF,13:00:00,Match 22
 59,2022-09-11,Allsvenskan,Malmö FF v IFK Norrköping,15:30:00,Match 22
@@ -71,12 +69,9 @@ ID,date,league,teams,time,note_1
 124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
 125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-197,2022-09-10,Brazilian Série A,Fluminense v Fortaleza,22:00:00,Match 26
 198,2022-09-11,Brazilian Série A,Sao Paulo v Corinthians,19:00:00,Match 26
 199,2022-09-11,Brazilian Série A,Botafogo v America Mineiro,14:00:00,Match 26
 200,2022-09-11,Brazilian Série A,Coritiba v Atletico Goianiense,21:00:00,Match 26
-201,2022-09-10,Brazilian Série A,Internacional v Cuiaba,19:30:00,Match 26
-202,2022-09-10,Brazilian Série A,Ceara v Santos,19:30:00,Match 26
 203,2022-09-11,Brazilian Série A,Goias v Flamengo,22:00:00,Match 26
 204,2022-09-11,Brazilian Série A,Avai v Atletico Paranaense,14:00:00,Match 26
 205,2022-09-11,Brazilian Série A,Palmeiras v Juventude,00:00:00,Match 26
@@ -200,15 +195,8 @@ ID,date,league,teams,time,note_1
 324,2022-11-13,Brazilian Série A,Flamengo v Avai,,Match 38
 325,2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 326,2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
-372,2022-09-10,Bundesliga,Bayern v VfB Stuttgart,13:30:00,Match 6
 373,2022-09-11,Bundesliga,Köln v Union Berlin,13:30:00,Match 6
-374,2022-09-10,Bundesliga,Eintracht Frankfurt v Wolfsburg,13:30:00,Match 6
-375,2022-09-10,Bundesliga,Hertha v Leverkusen,13:30:00,Match 6
-376,2022-09-10,Bundesliga,Hoffenheim v Mainz,13:30:00,Match 6
-377,2022-09-10,Bundesliga,RB Leipzig v Dortmund,13:30:00,Match 6
 378,2022-09-11,Bundesliga,SC Freiburg v Mönchengladbach,15:30:00,Match 6
-379,2022-09-10,Bundesliga,Schalke v VfL Bochum,16:30:00,Match 6
-380,2022-09-09,Bundesliga,Werder v Augsburg,18:30:00,Match 6
 381,2022-09-18,Bundesliga,Union Berlin v Wolfsburg,13:30:00,Match 7
 382,2022-09-17,Bundesliga,Leverkusen v Werder,13:30:00,Match 7
 383,2022-09-18,Bundesliga,VfL Bochum v Köln,15:30:00,Match 7
@@ -1858,8 +1846,6 @@ ID,date,league,teams,time,note_1
 2343,2022-09-11,Eliteserien,HamKam v Viking,16:00:00,Match 22
 2344,2022-09-11,Eliteserien,Haugesund v Rosenborg,18:00:00,Match 22
 2345,2022-09-11,Eliteserien,Tromsø v Bodø/Glimt,16:00:00,Match 22
-2346,2022-09-10,Eliteserien,Lillestrøm v Strømsgodset,16:00:00,Match 22
-2347,2022-09-10,Eliteserien,Sandefjord v Odd Ballklubb,14:00:00,Match 22
 2348,2022-09-11,Eliteserien,Jerv v Molde,16:00:00,Match 22
 2349,2022-09-11,Eliteserien,Kristiansund Bk v Vålerenga,16:00:00,Match 22
 2350,2022-09-18,Eliteserien,Sarpsborg 08 v Jerv,16:00:00,Match 23
@@ -1926,10 +1912,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2459,2022-09-09,Eredivisie,FC Volendam v Go Ahead Eagles,18:00:00,Match 6
-2460,2022-09-10,Eredivisie,NEC Nijmegen v Fortuna Sittard,14:30:00,Match 6
-2461,2022-09-10,Eredivisie,Ajax v Heerenveen,16:45:00,Match 6
-2462,2022-09-10,Eredivisie,Excelsior v Emmen,19:00:00,Match 6
 2463,2022-09-11,Eredivisie,PSV Eindhoven v RKC Waalwijk,12:30:00,Match 6
 2464,2022-09-11,Eredivisie,FC Utrecht v Vitesse Arnhem,10:15:00,Match 6
 2465,2022-09-11,Eredivisie,AZ Alkmaar v FC Twente,14:45:00,Match 6
@@ -2208,14 +2190,6 @@ ID,date,league,teams,time,note_1
 2739,2022-11-06,International Friendly,Iceland v Saudi Arabia,17:00:00,
 2740,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
 2790,2022-09-11,J1 League,Hokkaido Consadole Sapporo v Júbilo Iwata,04:05:00,Match 29
-2791,2022-09-10,J1 League,Urawa Red Diamonds v Kashiwa Reysol,10:00:00,Match 29
-2792,2022-09-10,J1 League,Kawasaki Frontale v Sanfrecce Hiroshima,09:30:00,Match 29
-2793,2022-09-10,J1 League,Yokohama F. Marinos v Avispa Fukuoka,10:00:00,Match 29
-2794,2022-09-10,J1 League,Shimizu S-Pulse v Shonan Bellmare,09:00:00,Match 29
-2795,2022-09-10,J1 League,Kyoto Sanga FC v Kashima Antlers,10:00:00,Match 29
-2796,2022-09-10,J1 League,Gamba Osaka v FC Tokyo,10:00:00,Match 29
-2797,2022-09-10,J1 League,Cerezo Osaka v Sagan Tosu,10:00:00,Match 29
-2798,2022-09-10,J1 League,Vissel Kobe v Nagoya Grampus,10:00:00,Match 29
 2799,2022-09-14,J1 League,Urawa Red Diamonds v Cerezo Osaka,10:30:00,Match 26
 2800,2022-09-14,J1 League,Kyoto Sanga FC v Yokohama F. Marinos,10:00:00,Match 26
 2801,2022-09-14,J1 League,Vissel Kobe v FC Tokyo,10:00:00,Match 26
@@ -2268,13 +2242,8 @@ ID,date,league,teams,time,note_1
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
 2890,2022-09-12,La Liga,Almeria v Osasuna,19:00:00,Match 5
-2891,2022-09-10,La Liga,Atletico Madrid v Celta Vigo,19:00:00,Match 5
-2892,2022-09-10,La Liga,Cadiz v Barcelona,16:30:00,Match 5
 2893,2022-09-11,La Liga,Elche v Athletic Bilbao,14:15:00,Match 5
-2894,2022-09-10,La Liga,Espanyol v Sevilla,14:15:00,Match 5
 2895,2022-09-11,La Liga,Getafe v Real Sociedad,16:30:00,Match 5
-2896,2022-09-09,La Liga,Girona v Real Valladolid,19:00:00,Match 5
-2897,2022-09-10,La Liga,Rayo Vallecano v Valencia,12:00:00,Match 5
 2898,2022-09-11,La Liga,Real Betis v Villarreal,19:00:00,Match 5
 2899,2022-09-11,La Liga,Real Madrid v Real Mallorca,12:00:00,Match 5
 2900,2022-09-17,La Liga,Athletic Bilbao v Rayo Vallecano,19:00:00,Match 6
@@ -2610,10 +2579,7 @@ ID,date,league,teams,time,note_1
 3290,2022-09-11,Ligue 1,AC Ajaccio v Nice,13:00:00,Match 7
 3291,2022-09-11,Ligue 1,Angers v Montpellier,13:00:00,Match 7
 3292,2022-09-11,Ligue 1,Lorient v Nantes,13:00:00,Match 7
-3293,2022-09-10,Ligue 1,Marseille v Lille,19:00:00,Match 7
 3294,2022-09-11,Ligue 1,Monaco v Lyon,18:45:00,Match 7
-3295,2022-09-10,Ligue 1,Paris Saint-Germain v Brest,15:00:00,Match 7
-3296,2022-09-09,Ligue 1,RC Lens v Troyes,19:00:00,Match 7
 3297,2022-09-11,Ligue 1,Rennes v Auxerre,15:05:00,Match 7
 3298,2022-09-11,Ligue 1,Strasbourg v Clermont,11:00:00,Match 7
 3299,2022-09-11,Ligue 1,Toulouse v Reims,13:00:00,Match 7
@@ -3304,13 +3270,9 @@ ID,date,league,teams,time,note_1
 4109,2023-05-28,Premier League,Manchester United v Fulham,15:00:00,Match 38
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
 4156,2022-09-11,Primeira Liga,Arouca v Boavista,17:00:00,Match 6
-4157,2022-09-10,Primeira Liga,FC Famalicão v Benfica,14:30:00,Match 6
-4158,2022-09-10,Primeira Liga,FC Porto v Chaves,19:30:00,Match 6
 4159,2022-09-11,Primeira Liga,Marítimo v Gil Vicente,17:00:00,Match 6
 4160,2022-09-11,Primeira Liga,Paços de Ferreira v Casa Pia AC,14:30:00,Match 6
 4161,2022-09-11,Primeira Liga,Rio Ave v Sporting Braga,19:30:00,Match 6
-4162,2022-09-10,Primeira Liga,Sporting Lisbon v Portimonense,17:00:00,Match 6
-4163,2022-09-09,Primeira Liga,Vitória Guimarães v Santa Clara,19:15:00,Match 6
 4164,2022-09-12,Primeira Liga,Vizela v Estoril Praia,19:15:00,Match 6
 4165,2022-09-18,Primeira Liga,Arouca v Vitória Guimarães,14:30:00,Match 7
 4166,2022-09-18,Primeira Liga,Benfica v Marítimo,17:00:00,Match 7
@@ -3567,12 +3529,9 @@ ID,date,league,teams,time,note_1
 4467,2022-09-11,Serie A,Atalanta v Cremonese,10:30:00,Match 6
 4468,2022-09-11,Serie A,Bologna v Fiorentina,13:00:00,Match 6
 4469,2022-09-12,Serie A,Empoli v Roma,18:45:00,Match 6
-4470,2022-09-10,Serie A,Inter Milan v Torino,16:00:00,Match 6
 4471,2022-09-11,Serie A,Juventus v Salernitana,18:45:00,Match 6
 4472,2022-09-11,Serie A,Lazio v Verona,16:00:00,Match 6
 4473,2022-09-11,Serie A,Lecce v Monza,13:00:00,Match 6
-4474,2022-09-10,Serie A,Napoli v Spezia,13:00:00,Match 6
-4475,2022-09-10,Serie A,Sampdoria v AC Milan,18:45:00,Match 6
 4476,2022-09-11,Serie A,Sassuolo v Udinese,13:00:00,Match 6
 4477,2022-09-18,Serie A,AC Milan v Napoli,18:45:00,Match 7
 4478,2022-09-17,Serie A,Bologna v Empoli,13:00:00,Match 7
@@ -3947,13 +3906,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5313,2022-09-09,USA MLS,CF Montréal v Columbus Crew,23:30:00,Regular Season
-5314,2022-09-10,USA MLS,New York Red Bulls v New England Revolution,13:00:00,Regular Season
-5315,2022-09-10,USA MLS,Nashville SC v Los Angeles Galaxy,19:30:00,Regular Season
-5316,2022-09-10,USA MLS,Charlotte FC v New York City FC,22:00:00,Regular Season
-5317,2022-09-10,USA MLS,Atlanta United FC v Toronto FC,23:30:00,Regular Season
-5318,2022-09-10,USA MLS,FC Cincinnati v San Jose Earthquakes,23:30:00,Regular Season
-5319,2022-09-10,USA MLS,Philadelphia Union v Orlando City SC,23:30:00,Regular Season
 5320,2022-09-11,USA MLS,Chicago Fire v Inter Miami CF,00:00:00,Regular Season
 5321,2022-09-11,USA MLS,Seattle Sounders FC v Austin FC,00:00:00,Regular Season
 5322,2022-09-11,USA MLS,FC Dallas v Los Angeles Football Club,00:30:00,Regular Season
@@ -4091,7 +4043,7 @@ ID,date,league,teams,time,note_1
 5520,2022-09-13,UEFA Champions League,FC Porto v Club Brugge,19:00:00,Group stage – Match 2
 5521,2022-09-13,UEFA Champions League,Liverpool v Ajax,19:00:00,Group stage – Match 2
 5522,2022-09-13,UEFA Champions League,Marseille v Eintracht Frankfurt,19:00:00,Group stage – Match 2
-5523,2022-09-13,UEFA Champions League,Rangers v Napoli,19:00:00,Group stage – Match 2
+5523,2022-09-14,UEFA Champions League,Rangers v Napoli,19:00:00,Group stage – Match 2
 5524,2022-09-14,UEFA Champions League,AC Milan v Dinamo Zagreb,16:45:00,Group stage – Match 2
 5525,2022-09-14,UEFA Champions League,Shakhtar Donetsk v Celtic,16:45:00,Group stage – Match 2
 5526,2022-09-14,UEFA Champions League,Chelsea v Red Bull Salzburg,19:00:00,Group stage – Match 2
