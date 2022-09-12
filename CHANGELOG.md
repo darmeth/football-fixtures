@@ -1,5 +1,10 @@
 # Change Log
 
+2022-09-12
+* Updates to times/dates
+* Added September International Friendlies
+* Deleted postponed fixtures
+
 2022-09-10
 * Updates to times/dates
 
