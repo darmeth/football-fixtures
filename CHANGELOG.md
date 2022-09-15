@@ -1,5 +1,9 @@
 # Change Log
 
+2022-09-15
+* Updates to times/dates
+* Re-assignment of ID on some men's International Friendlies
+
 2022-09-12
 * Updates to times/dates
 * Added September International Friendlies
