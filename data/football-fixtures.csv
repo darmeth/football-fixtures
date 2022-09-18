@@ -1,7 +1,4 @@
 ID,date,league,teams,time,note_1
-63,2022-09-17,Allsvenskan,BK Häcken v Hammarby IF,13:00:00,Match 23
-64,2022-09-17,Allsvenskan,IFK Norrköping v Kalmar FF,13:00:00,Match 23
-65,2022-09-17,Allsvenskan,IFK Värnamo v Varbergs BoIS,15:30:00,Match 23
 66,2022-09-18,Allsvenskan,Helsingborgs IF v Malmö FF,13:00:00,Match 23
 67,2022-09-18,Allsvenskan,IF Elfsborg v IK Sirius,13:00:00,Match 23
 68,2022-09-18,Allsvenskan,Mjällby AIF v GIF Sundsvall,13:00:00,Match 23
@@ -67,10 +64,8 @@ ID,date,league,teams,time,note_1
 208,2022-09-18,Brazilian Série A,Flamengo v Fluminense,19:00:00,Match 27
 209,2022-09-18,Brazilian Série A,Bragantino v Goias,14:00:00,Match 27
 210,2022-09-18,Brazilian Série A,Palmeiras v Santos,21:30:00,Match 27
-211,2022-09-17,Brazilian Série A,Botafogo v Coritiba,22:00:00,Match 27
 212,2022-09-18,Brazilian Série A,Atletico Paranaense v Cuiaba,22:00:00,Match 27
 213,2022-09-19,Brazilian Série A,Atletico Goianiense v Internacional,23:00:00,Match 27
-214,2022-09-17,Brazilian Série A,Avai v Atletico Mineiro,19:30:00,Match 27
 215,2022-09-18,Brazilian Série A,Juventude v Fortaleza,21:00:00,Match 27
 216,2022-09-18,Brazilian Série A,Ceara v Sao Paulo,19:00:00,Match 27
 217,2022-09-28,Brazilian Série A,Santos v Atletico Paranaense,00:30:00,Match 28
@@ -184,14 +179,8 @@ ID,date,league,teams,time,note_1
 325,2022-11-13,Brazilian Série A,Goias v Sao Paulo,,Match 38
 326,2022-11-13,Brazilian Série A,Bragantino v Fluminense,,Match 38
 381,2022-09-18,Bundesliga,Union Berlin v Wolfsburg,13:30:00,Match 7
-382,2022-09-17,Bundesliga,Leverkusen v Werder,13:30:00,Match 7
 383,2022-09-18,Bundesliga,VfL Bochum v Köln,15:30:00,Match 7
-384,2022-09-17,Bundesliga,Dortmund v Schalke,13:30:00,Match 7
-385,2022-09-17,Bundesliga,Augsburg v Bayern,13:30:00,Match 7
 386,2022-09-18,Bundesliga,Hoffenheim v SC Freiburg,17:30:00,Match 7
-387,2022-09-17,Bundesliga,Mönchengladbach v RB Leipzig,16:30:00,Match 7
-388,2022-09-16,Bundesliga,Mainz v Hertha,18:30:00,Match 7
-389,2022-09-17,Bundesliga,VfB Stuttgart v Eintracht Frankfurt,13:30:00,Match 7
 390,2022-09-30,Bundesliga,Bayern v Leverkusen,18:30:00,Match 8
 391,2022-10-01,Bundesliga,Köln v Dortmund,13:30:00,Match 8
 392,2022-10-01,Bundesliga,Eintracht Frankfurt v Union Berlin,13:30:00,Match 8
@@ -435,18 +424,9 @@ ID,date,league,teams,time,note_1
 630,2023-05-27,Bundesliga,RB Leipzig v Schalke,,Match 34
 631,2023-05-27,Bundesliga,VfB Stuttgart v Hoffenheim,,Match 34
 632,2023-05-27,Bundesliga,Wolfsburg v Hertha,,Match 34
-753,2022-09-17,EFL Championship,Birmingham City v Coventry City,14:00:00,Match 11
-754,2022-09-17,EFL Championship,Burnley v Bristol City,14:00:00,Match 11
-755,2022-09-17,EFL Championship,Huddersfield Town v Cardiff City,14:00:00,Match 11
-756,2022-09-17,EFL Championship,Luton Town v Blackburn Rovers,14:00:00,Match 11
-757,2022-09-17,EFL Championship,Middlesbrough v Rotherham United,18:45:00,Match 11
-758,2022-09-17,EFL Championship,Millwall v Blackpool,14:00:00,Match 11
-759,2022-09-17,EFL Championship,Norwich City v West Bromwich Albion,14:00:00,Match 11
-760,2022-09-17,EFL Championship,Preston North End v Sheffield United,14:00:00,Match 11
-761,2022-09-17,EFL Championship,Queens Park Rangers v Stoke City,14:00:00,Match 11
-762,2022-09-17,EFL Championship,Swansea City v Hull City,11:30:00,Match 11
-763,2022-09-17,EFL Championship,Watford v Sunderland,14:00:00,Match 11
-764,2022-09-17,EFL Championship,Wigan Athletic v Reading,14:00:00,Match 11
+762,2022-10-25,EFL Championship,Coventry City v Rotherham,18:45:00,Match 2
+763,2022-10-25,EFL Championship,Burnley v Norwich City,19:00:00,Match 9
+764,2022-10-11,EFL Championship,Wigan Athletic v Blackburn Rovers,18:45:00,Match 9
 765,2022-10-01,EFL Championship,Blackburn Rovers v Millwall,14:00:00,Match 12
 766,2022-10-01,EFL Championship,Blackpool v Norwich City,14:00:00,Match 12
 767,2022-10-01,EFL Championship,Bristol City v Queens Park Rangers,14:00:00,Match 12
@@ -471,54 +451,54 @@ ID,date,league,teams,time,note_1
 786,2022-10-05,EFL Championship,Preston North End v West Bromwich Albion,19:00:00,Match 13
 787,2022-10-05,EFL Championship,Rotherham United v Millwall,18:45:00,Match 13
 788,2022-10-05,EFL Championship,Watford v Swansea City,18:45:00,Match 13
-789,2022-10-08,EFL Championship,Birmingham City v Bristol City,,Match 14
-790,2022-10-08,EFL Championship,Blackburn Rovers v Rotherham United,,Match 14
-791,2022-10-08,EFL Championship,Blackpool v Watford,,Match 14
-792,2022-10-08,EFL Championship,Coventry City v Burnley,,Match 14
-793,2022-10-08,EFL Championship,Huddersfield Town v Hull City,,Match 14
-794,2022-10-08,EFL Championship,Millwall v Middlesbrough,,Match 14
-795,2022-10-08,EFL Championship,Norwich City v Preston North End,,Match 14
-796,2022-10-08,EFL Championship,Queens Park Rangers v Reading,,Match 14
-797,2022-10-08,EFL Championship,Stoke City v Sheffield United,,Match 14
-798,2022-10-08,EFL Championship,Swansea City v Sunderland,,Match 14
-799,2022-10-08,EFL Championship,West Bromwich Albion v Luton Town,,Match 14
-800,2022-10-08,EFL Championship,Wigan Athletic v Cardiff City,,Match 14
-801,2022-10-15,EFL Championship,Bristol City v Millwall,,Match 15
-802,2022-10-15,EFL Championship,Burnley v Swansea City,,Match 15
-803,2022-10-15,EFL Championship,Cardiff City v Coventry City,,Match 15
-804,2022-10-15,EFL Championship,Hull City v Birmingham City,,Match 15
-805,2022-10-15,EFL Championship,Luton Town v Queens Park Rangers,,Match 15
-806,2022-10-15,EFL Championship,Middlesbrough v Blackburn Rovers,,Match 15
-807,2022-10-15,EFL Championship,Preston North End v Stoke City,,Match 15
-808,2022-10-15,EFL Championship,Reading v West Bromwich Albion,,Match 15
-809,2022-10-15,EFL Championship,Rotherham United v Huddersfield Town,,Match 15
-810,2022-10-15,EFL Championship,Sheffield United v Blackpool,,Match 15
-811,2022-10-15,EFL Championship,Sunderland v Wigan Athletic,,Match 15
-812,2022-10-15,EFL Championship,Watford v Norwich City,,Match 15
-813,2022-10-18,EFL Championship,Blackburn Rovers v Sunderland,,Match 16
-814,2022-10-18,EFL Championship,Huddersfield Town v Preston North End,,Match 16
-815,2022-10-18,EFL Championship,Norwich City v Luton Town,,Match 16
-816,2022-10-18,EFL Championship,Swansea City v Reading,,Match 16
-817,2022-10-18,EFL Championship,Stoke City v Rotherham United,,Match 16
-818,2022-10-18,EFL Championship,West Bromwich Albion v Bristol City,,Match 16
-819,2022-10-19,EFL Championship,Birmingham City v Burnley,,Match 16
-820,2022-10-19,EFL Championship,Blackpool v Hull City,,Match 16
-821,2022-10-19,EFL Championship,Coventry City v Sheffield United,,Match 16
-822,2022-10-19,EFL Championship,Millwall v Watford,,Match 16
-823,2022-10-19,EFL Championship,Queens Park Rangers v Cardiff City,,Match 16
-824,2022-10-19,EFL Championship,Wigan Athletic v Middlesbrough,,Match 16
-825,2022-10-22,EFL Championship,Blackburn Rovers v Birmingham City,,Match 17
-826,2022-10-22,EFL Championship,Blackpool v Preston North End,,Match 17
-827,2022-10-22,EFL Championship,Middlesbrough v Huddersfield Town,,Match 17
-828,2022-10-22,EFL Championship,Millwall v West Bromwich Albion,,Match 17
-829,2022-10-22,EFL Championship,Queens Park Rangers v Wigan Athletic,,Match 17
-830,2022-10-22,EFL Championship,Reading v Bristol City,,Match 17
-831,2022-10-22,EFL Championship,Rotherham United v Hull City,,Match 17
-832,2022-10-22,EFL Championship,Sheffield United v Norwich City,,Match 17
-833,2022-10-22,EFL Championship,Stoke City v Coventry City,,Match 17
-834,2022-10-22,EFL Championship,Sunderland v Burnley,,Match 17
-835,2022-10-22,EFL Championship,Swansea City v Cardiff City,,Match 17
-836,2022-10-22,EFL Championship,Watford v Luton Town,,Match 17
+789,2022-10-08,EFL Championship,Birmingham City v Bristol City,14:00:00,Match 14
+790,2022-10-08,EFL Championship,Blackburn Rovers v Rotherham United,14:00:00,Match 14
+791,2022-10-08,EFL Championship,Blackpool v Watford,14:00:00,Match 14
+792,2022-10-08,EFL Championship,Coventry City v Burnley,14:00:00,Match 14
+793,2022-10-09,EFL Championship,Huddersfield Town v Hull City,11:00:00,Match 14
+794,2022-10-08,EFL Championship,Millwall v Middlesbrough,14:00:00,Match 14
+795,2022-10-08,EFL Championship,Norwich City v Preston North End,14:00:00,Match 14
+796,2022-10-07,EFL Championship,Queens Park Rangers v Reading,19:00:00,Match 14
+797,2022-10-08,EFL Championship,Stoke City v Sheffield United,14:00:00,Match 14
+798,2022-10-08,EFL Championship,Swansea City v Sunderland,14:00:00,Match 14
+799,2022-10-08,EFL Championship,West Bromwich Albion v Luton Town,14:00:00,Match 14
+800,2022-10-08,EFL Championship,Wigan Athletic v Cardiff City,14:00:00,Match 14
+801,2022-10-15,EFL Championship,Bristol City v Millwall,14:00:00,Match 15
+802,2022-10-15,EFL Championship,Burnley v Swansea City,14:00:00,Match 15
+803,2022-10-15,EFL Championship,Cardiff City v Coventry City,14:00:00,Match 15
+804,2022-10-16,EFL Championship,Hull City v Birmingham City,14:00:00,Match 15
+805,2022-10-15,EFL Championship,Luton Town v Queens Park Rangers,11:30:00,Match 15
+806,2022-10-15,EFL Championship,Middlesbrough v Blackburn Rovers,14:00:00,Match 15
+807,2022-10-15,EFL Championship,Preston North End v Stoke City,14:00:00,Match 15
+808,2022-10-15,EFL Championship,Reading v West Bromwich Albion,14:00:00,Match 15
+809,2022-10-15,EFL Championship,Rotherham United v Huddersfield Town,11:30:00,Match 15
+810,2022-10-15,EFL Championship,Sheffield United v Blackpool,14:00:00,Match 15
+811,2022-10-15,EFL Championship,Sunderland v Wigan Athletic,14:00:00,Match 15
+812,2022-10-15,EFL Championship,Watford v Norwich City,18:45:00,Match 15
+813,2022-10-18,EFL Championship,Blackburn Rovers v Sunderland,19:00:00,Match 16
+814,2022-10-18,EFL Championship,Huddersfield Town v Preston North End,18:45:00,Match 16
+815,2022-10-18,EFL Championship,Norwich City v Luton Town,18:45:00,Match 16
+816,2022-10-18,EFL Championship,Swansea City v Reading,18:45:00,Match 16
+817,2022-10-18,EFL Championship,Stoke City v Rotherham United,19:00:00,Match 16
+818,2022-10-18,EFL Championship,West Bromwich Albion v Bristol City,19:00:00,Match 16
+819,2022-10-19,EFL Championship,Birmingham City v Burnley,18:45:00,Match 16
+820,2022-10-19,EFL Championship,Blackpool v Hull City,18:45:00,Match 16
+821,2022-10-19,EFL Championship,Coventry City v Sheffield United,18:45:00,Match 16
+822,2022-10-19,EFL Championship,Millwall v Watford,19:00:00,Match 16
+823,2022-10-19,EFL Championship,Queens Park Rangers v Cardiff City,18:45:00,Match 16
+824,2022-10-19,EFL Championship,Wigan Athletic v Middlesbrough,18:45:00,Match 16
+825,2022-10-22,EFL Championship,Blackburn Rovers v Birmingham City,14:00:00,Match 17
+826,2022-10-22,EFL Championship,Blackpool v Preston North End,14:00:00,Match 17
+827,2022-10-22,EFL Championship,Middlesbrough v Huddersfield Town,14:00:00,Match 17
+828,2022-10-22,EFL Championship,Millwall v West Bromwich Albion,14:00:00,Match 17
+829,2022-10-22,EFL Championship,Queens Park Rangers v Wigan Athletic,14:00:00,Match 17
+830,2022-10-22,EFL Championship,Reading v Bristol City,14:00:00,Match 17
+831,2022-10-22,EFL Championship,Rotherham United v Hull City,14:00:00,Match 17
+832,2022-10-22,EFL Championship,Sheffield United v Norwich City,14:00:00,Match 17
+833,2022-10-22,EFL Championship,Stoke City v Coventry City,14:00:00,Match 17
+834,2022-10-22,EFL Championship,Sunderland v Burnley,14:00:00,Match 17
+835,2022-10-23,EFL Championship,Swansea City v Cardiff City,11:00:00,Match 17
+836,2022-10-23,EFL Championship,Watford v Luton Town,11:00:00,Match 17
 837,2022-10-29,EFL Championship,Birmingham City v Queens Park Rangers,,Match 18
 838,2022-10-29,EFL Championship,Bristol City v Swansea City,,Match 18
 839,2022-10-29,EFL Championship,Burnley v Reading,,Match 18
@@ -867,25 +847,17 @@ ID,date,league,teams,time,note_1
 1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
 1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
 1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
-1293,2022-09-17,EFL League One,Accrington Stanley v Cheltenham Town,14:00:00,Match 10
-1294,2022-09-17,EFL League One,Bolton Wanderers v Peterborough United,14:00:00,Match 10
-1295,2022-09-17,EFL League One,Bristol Rovers v Lincoln City,14:00:00,Match 10
-1296,2022-09-17,EFL League One,Cambridge United v Barnsley,14:00:00,Match 10
-1297,2022-09-17,EFL League One,Derby County v Wycombe Wanderers,14:00:00,Match 10
-1298,2022-09-17,EFL League One,Exeter City v Burton Albion,14:00:00,Match 10
-1299,2022-09-17,EFL League One,Fleetwood Town v Charlton Athletic,14:00:00,Match 10
-1300,2022-09-17,EFL League One,Forest Green Rovers v Morecambe,14:00:00,Match 10
-1301,2022-09-17,EFL League One,Oxford United v Milton Keynes Dons,14:00:00,Match 10
-1302,2022-09-17,EFL League One,Port Vale v Shrewsbury Town,14:00:00,Match 10
-1303,2022-09-17,EFL League One,Portsmouth v Plymouth Argyle,14:00:00,Match 10
-1304,2022-09-17,EFL League One,Sheffield Wednesday v Ipswich Town,14:00:00,Match 10
+1301,2022-10-04,EFL League One,Ipswich Town v Cambridge United,18:45:00,Match 8
+1302,2022-10-04,EFL League One,Plymouth Argyle v Sheffield Wednesday,18:45:00,Match 8
+1303,2022-10-11,EFL League One,Peterborough United v Forest Green Rovers,18:45:00,Match 8
+1304,2022-10-11,EFL League One,Milton Keynes Dons v Bristol Rovers,18:45:00,Match 8
 1305,2022-09-24,EFL League One,Barnsley v Charlton Athletic,14:00:00,Match 11
 1306,2022-09-24,EFL League One,Bristol Rovers v Accrington Stanley,14:00:00,Match 11
-1307,2022-09-24,EFL League One,Derby County v Cheltenham Town,14:00:00,Match 11
+1307,2022-09-24,EFL League One,Derby County v Cheltenham Town,,Match 11
 1308,2022-09-24,EFL League One,Forest Green Rovers v Exeter City,11:30:00,Match 11
-1309,2022-09-24,EFL League One,Lincoln City v Milton Keynes Dons,14:00:00,Match 11
+1309,2022-09-24,EFL League One,Lincoln City v Milton Keynes Dons,,Match 11
 1310,2022-09-24,EFL League One,Morecambe v Cambridge United,14:00:00,Match 11
-1311,2022-09-24,EFL League One,Oxford United v Fleetwood Town,14:00:00,Match 11
+1311,2022-09-24,EFL League One,Oxford United v Fleetwood Town,,Match 11
 1312,2022-09-24,EFL League One,Peterborough United v Port Vale,14:00:00,Match 11
 1313,2022-09-25,EFL League One,Plymouth Argyle v Ipswich Town,11:30:00,Match 11
 1314,2023-09-24,EFL League One,Portsmouth v Bolton Wanderers,,Match 11
@@ -1311,19 +1283,11 @@ ID,date,league,teams,time,note_1
 1734,2023-05-06,EFL League One,Port Vale v Plymouth Argyle,14:00:00,Match 46
 1735,2023-05-06,EFL League One,Portsmouth v Wycombe Wanderers,14:00:00,Match 46
 1736,2023-05-06,EFL League One,Sheffield Wednesday v Derby County,14:00:00,Match 46
+1840,2022-10-04,EFL League Two,Walsall v Northampton Town,18:45:00,Match 8
+1841,2022-10-04,EFL League Two,Hartlepool United v Doncaster Rovers,18:45:00,Match 8
+1842,2022-10-04,EFL League Two,Swindon Town v Newport County AFC,18:45:00,Match 8
+1843,2022-10-04,EFL League Two,Stevenage v Sutton United,18:45:00,Match 8
 1844,2022-09-27,EFL League Two,Grimsby Town v Carlisle,18:45:00,Match 4
-1845,2022-09-17,EFL League Two,Bradford City v Stevenage,14:00:00,Match 10
-1846,2022-09-17,EFL League Two,Carlisle United v AFC Wimbledon,14:00:00,Match 10
-1847,2022-09-17,EFL League Two,Colchester United v Grimsby Town,14:00:00,Match 10
-1848,2022-09-17,EFL League Two,Crewe Alexandra v Crawley Town,14:00:00,Match 10
-1849,2022-09-17,EFL League Two,Doncaster Rovers v Swindon Town,14:00:00,Match 10
-1850,2022-09-17,EFL League Two,Gillingham v Mansfield Town,14:00:00,Match 10
-1851,2022-09-17,EFL League Two,Leyton Orient v Walsall,14:00:00,Match 10
-1852,2022-09-17,EFL League Two,Newport County AFC v Barrow,14:00:00,Match 10
-1853,2022-09-17,EFL League Two,Northampton Town v Rochdale,14:00:00,Match 10
-1854,2022-09-17,EFL League Two,Salford City v Tranmere Rovers,14:00:00,Match 10
-1855,2022-09-17,EFL League Two,Stockport County v Harrogate Town,14:00:00,Match 10
-1856,2022-09-17,EFL League Two,Sutton United v Hartlepool United,14:00:00,Match 10
 1857,2022-09-24,EFL League Two,Barrow v Leyton Orient,14:00:00,Match 11
 1858,2022-09-24,EFL League Two,Bradford City v AFC Wimbledon,14:00:00,Match 11
 1859,2022-09-24,EFL League Two,Colchester United v Rochdale,14:00:00,Match 11
@@ -1395,7 +1359,7 @@ ID,date,league,teams,time,note_1
 1925,2022-10-25,EFL League Two,Stockport County v Carlisle United,18:45:00,Match 16
 1926,2022-10-25,EFL League Two,Tranmere Rovers v Rochdale,18:45:00,Match 16
 1927,2022-10-25,EFL League Two,Walsall v Harrogate Town,18:45:00,Match 16
-1928,2022-10-25,EFL League Two,Doncaster Rovers v Stevenage,19:00:00,Match 16
+1928,2022-10-25,EFL League Two,Doncaster Rovers v Stevenage,18:45:00,Match 16
 1929,2022-10-29,EFL League Two,AFC Wimbledon v Harrogate Town,14:00:00,Match 17
 1930,2022-10-29,EFL League Two,Barrow v Crewe Alexandra,14:00:00,Match 17
 1931,2022-10-29,EFL League Two,Bradford City v Crawley Town,14:00:00,Match 17
@@ -1757,7 +1721,6 @@ ID,date,league,teams,time,note_1
 2287,2023-05-06,EFL League Two,Tranmere Rovers v Northampton Town,14:00:00,Match 46
 2288,2023-05-06,EFL League Two,Walsall v Doncaster Rovers,14:00:00,Match 46
 2350,2022-09-18,Eliteserien,Sarpsborg 08 v Jerv,16:00:00,Match 23
-2351,2022-09-17,Eliteserien,Odd Ballklubb v HamKam,16:00:00,Match 23
 2352,2022-09-18,Eliteserien,Rosenborg v Lillestrøm,16:00:00,Match 23
 2353,2022-09-18,Eliteserien,Vålerenga v Sandefjord,16:00:00,Match 23
 2354,2022-09-18,Eliteserien,Bodø/Glimt v Haugesund,16:00:00,Match 23
@@ -1820,11 +1783,6 @@ ID,date,league,teams,time,note_1
 2411,2022-11-13,Eliteserien,Sandefjord v Haugesund,16:00:00,Match 30
 2412,2022-11-13,Eliteserien,Tromsø v Aalesund,16:00:00,Match 30
 2413,2022-11-13,Eliteserien,Viking v Odd Ballklubb,16:00:00,Match 30
-2468,2022-09-16,Eredivisie,FC Utrecht v NEC Nijmegen,18:00:00,Match 7
-2469,2022-09-17,Eredivisie,Sparta Rotterdam v Groningen,14:30:00,Match 7
-2470,2022-09-17,Eredivisie,Vitesse Arnhem v FC Volendam,16:45:00,Match 7
-2471,2022-09-17,Eredivisie,RKC Waalwijk v Cambuur Leeuwarden,18:00:00,Match 7
-2472,2022-09-17,Eredivisie,Fortuna Sittard v Excelsior,19:00:00,Match 7
 2473,2022-09-18,Eredivisie,Go Ahead Eagles v Emmen,10:15:00,Match 7
 2474,2022-09-18,Eredivisie,Heerenveen v FC Twente,12:30:00,Match 7
 2475,2022-09-18,Eredivisie,PSV Eindhoven v Feyenoord,12:30:00,Match 7
@@ -2135,15 +2093,9 @@ ID,date,league,teams,time,note_1
 2781,2022-09-27,International Friendly,Malta v Israel,19:00:00,Ta' Qali National Stadium (Malta)
 2782,2022-09-28,International Friendly,Jamaica v Argentina,00:00:00,Red Bull Academy (NJ USA)
 2783,2022-09-28,International Friendly,Peru v El Salvador,00:00:00,Audi Field (D.C. USA)
-2802,2022-09-17,J1 League,Kashiwa Reysol v Kawasaki Frontale,10:00:00,Match 30
 2803,2022-09-18,J1 League,FC Tokyo v Kyoto Sanga FC,10:00:00,Match 30
 2804,2022-09-18,J1 League,Yokohama F. Marinos v Hokkaido Consadole Sapporo,05:00:00,Match 30
-2805,2022-09-17,J1 League,Shonan Bellmare v Urawa Red Diamonds,10:00:00,Match 30
-2806,2022-09-17,J1 League,Júbilo Iwata v Cerezo Osaka,09:00:00,Match 30
-2807,2022-09-17,J1 League,Nagoya Grampus v Sanfrecce Hiroshima,10:00:00,Match 30
 2808,2022-09-18,J1 League,Vissel Kobe v Gamba Osaka,10:00:00,Match 30
-2809,2022-09-17,J1 League,Avispa Fukuoka v Shimizu S-Pulse,10:00:00,Match 30
-2810,2022-09-16,J1 League,Sagan Tosu v Kashima Antlers,10:00:00,Match 30
 2811,2022-10-01,J1 League,Hokkaido Consadole Sapporo v Kawasaki Frontale,07:00:00,Match 31
 2812,2022-10-01,J1 League,Kashima Antlers v FC Tokyo,06:00:00,Match 31
 2813,2022-10-01,J1 League,Shimizu S-Pulse v Júbilo Iwata,05:00:00,Match 31
@@ -2183,15 +2135,10 @@ ID,date,league,teams,time,note_1
 2847,2022-11-05,J1 League,Cerezo Osaka v Nagoya Grampus,,Match 34
 2848,2022-11-05,J1 League,Vissel Kobe v Yokohama F. Marinos,,Match 34
 2849,2022-11-05,J1 League,Sagan Tosu v Sanfrecce Hiroshima,,Match 34
-2900,2022-09-17,La Liga,Athletic Bilbao v Rayo Vallecano,19:00:00,Match 6
 2901,2022-09-18,La Liga,Atletico Madrid v Real Madrid,19:00:00,Match 6
-2902,2022-09-17,La Liga,Barcelona v Elche,14:15:00,Match 6
 2903,2022-09-18,La Liga,Osasuna v Getafe,12:00:00,Match 6
 2904,2022-09-18,La Liga,Real Betis v Girona,16:30:00,Match 6
-2905,2022-09-17,La Liga,Real Mallorca v Almeria,12:00:00,Match 6
 2906,2022-09-18,La Liga,Real Sociedad v Espanyol,16:30:00,Match 6
-2907,2022-09-16,La Liga,Real Valladolid v Cadiz,19:00:00,Match 6
-2908,2022-09-17,La Liga,Valencia v Celta Vigo,16:30:00,Match 6
 2909,2022-09-18,La Liga,Villarreal v Sevilla,14:15:00,Match 6
 2910,2022-09-30,La Liga,Athletic Bilbao v Almeria,19:00:00,Match 7
 2911,2022-10-01,La Liga,Cadiz v Villarreal,12:00:00,Match 7
@@ -2203,16 +2150,16 @@ ID,date,league,teams,time,note_1
 2917,2022-10-02,La Liga,Real Madrid v Osasuna,19:00:00,Match 7
 2918,2022-10-01,La Liga,Real Mallorca v Barcelona,19:00:00,Match 7
 2919,2022-10-01,La Liga,Sevilla v Atletico Madrid,16:30:00,Match 7
-2920,2022-10-09,La Liga,Almeria v Rayo Vallecano,,Match 8
-2921,2022-10-09,La Liga,Atletico Madrid v Girona,,Match 8
-2922,2022-10-09,La Liga,Barcelona v Celta Vigo,,Match 8
-2923,2022-10-09,La Liga,Cadiz v Espanyol,,Match 8
-2924,2022-10-09,La Liga,Elche v Real Mallorca,,Match 8
-2925,2022-10-09,La Liga,Getafe v Real Madrid,,Match 8
-2926,2022-10-09,La Liga,Osasuna v Valencia,,Match 8
-2927,2022-10-09,La Liga,Real Sociedad v Villarreal,,Match 8
-2928,2022-10-09,La Liga,Real Valladolid v Real Betis,,Match 8
-2929,2022-10-09,La Liga,Sevilla v Athletic Bilbao,,Match 8
+2920,2022-10-08,La Liga,Almeria v Rayo Vallecano,12:00:00,Match 8
+2921,2022-10-08,La Liga,Atletico Madrid v Girona,14:15:00,Match 8
+2922,2022-10-09,La Liga,Barcelona v Celta Vigo,19:00:00,Match 8
+2923,2022-10-09,La Liga,Cadiz v Espanyol,14:15:00,Match 8
+2924,2022-10-10,La Liga,Elche v Real Mallorca,19:00:00,Match 8
+2925,2022-10-08,La Liga,Getafe v Real Madrid,19:00:00,Match 8
+2926,2022-10-07,La Liga,Osasuna v Valencia,19:00:00,Match 8
+2927,2022-10-09,La Liga,Real Sociedad v Villarreal,16:30:00,Match 8
+2928,2022-10-09,La Liga,Real Valladolid v Real Betis,12:00:00,Match 8
+2929,2022-10-08,La Liga,Sevilla v Athletic Bilbao,16:30:00,Match 8
 2930,2022-10-16,La Liga,Athletic Bilbao v Atletico Madrid,,Match 9
 2931,2022-10-16,La Liga,Celta Vigo v Real Sociedad,,Match 9
 2932,2022-10-16,La Liga,Espanyol v Real Valladolid,,Match 9
@@ -2513,13 +2460,10 @@ ID,date,league,teams,time,note_1
 3227,2023-06-04,La Liga,Real Sociedad v Sevilla,,Match 38
 3228,2023-06-04,La Liga,Real Valladolid v Getafe,,Match 38
 3229,2023-06-04,La Liga,Villarreal v Atletico Madrid,,Match 38
-3300,2022-09-16,Ligue 1,Auxerre v Lorient,19:00:00,Match 8
 3301,2022-09-18,Ligue 1,Brest v AC Ajaccio,13:00:00,Match 8
 3302,2022-09-18,Ligue 1,Clermont v Troyes,13:00:00,Match 8
-3303,2022-09-17,Ligue 1,Lille v Toulouse,19:00:00,Match 8
 3304,2022-09-18,Ligue 1,Lyon v Paris Saint-Germain,18:45:00,Match 8
 3305,2022-09-18,Ligue 1,Marseille v Rennes,13:00:00,Match 8
-3306,2022-09-17,Ligue 1,Montpellier v Strasbourg,15:00:00,Match 8
 3307,2022-09-18,Ligue 1,Nantes v RC Lens,15:05:00,Match 8
 3308,2022-09-18,Ligue 1,Nice v Angers,13:00:00,Match 8
 3309,2022-09-18,Ligue 1,Reims v Monaco,11:00:00,Match 8
@@ -2533,26 +2477,26 @@ ID,date,league,teams,time,note_1
 3317,2022-10-01,Ligue 1,Strasbourg v Rennes,15:00:00,Match 9
 3318,2022-10-02,Ligue 1,Toulouse v Montpellier,13:00:00,Match 9
 3319,2022-10-02,Ligue 1,Troyes v Reims,13:00:00,Match 9
-3320,2022-10-09,Ligue 1,Angers v Strasbourg,,Match 10
-3321,2022-10-09,Ligue 1,Brest v Lorient,,Match 10
-3322,2022-10-09,Ligue 1,Clermont v Auxerre,,Match 10
-3323,2022-10-09,Ligue 1,Lille v RC Lens,,Match 10
-3324,2022-10-09,Ligue 1,Lyon v Toulouse,,Match 10
-3325,2022-10-09,Ligue 1,Marseille v AC Ajaccio,,Match 10
-3326,2022-10-09,Ligue 1,Montpellier v Monaco,,Match 10
-3327,2022-10-09,Ligue 1,Nice v Troyes,,Match 10
-3328,2022-10-09,Ligue 1,Reims v Paris Saint-Germain,,Match 10
-3329,2022-10-09,Ligue 1,Rennes v Nantes,,Match 10
-3330,2022-10-16,Ligue 1,Auxerre v Nice,,Match 11
-3331,2022-10-16,Ligue 1,Lorient v Reims,,Match 11
-3332,2022-10-16,Ligue 1,Monaco v Clermont,,Match 11
-3333,2022-10-16,Ligue 1,Nantes v Brest,,Match 11
-3334,2022-10-16,Ligue 1,Paris Saint-Germain v Marseille,,Match 11
-3335,2022-10-16,Ligue 1,RC Lens v Montpellier,,Match 11
-3336,2022-10-16,Ligue 1,Rennes v Lyon,,Match 11
-3337,2022-10-16,Ligue 1,Strasbourg v Lille,,Match 11
-3338,2022-10-16,Ligue 1,Toulouse v Angers,,Match 11
-3339,2022-10-16,Ligue 1,Troyes v AC Ajaccio,,Match 11
+3320,2022-10-09,Ligue 1,Angers v Strasbourg,13:00:00,Match 10
+3321,2022-10-09,Ligue 1,Brest v Lorient,13:00:00,Match 10
+3322,2022-10-09,Ligue 1,Clermont v Auxerre,13:00:00,Match 10
+3323,2022-10-09,Ligue 1,Lille v RC Lens,18:45:00,Match 10
+3324,2022-10-07,Ligue 1,Lyon v Toulouse,19:00:00,Match 10
+3325,2022-10-08,Ligue 1,Marseille v AC Ajaccio,15:00:00,Match 10
+3326,2022-10-09,Ligue 1,Montpellier v Monaco,11:00:00,Match 10
+3327,2022-10-09,Ligue 1,Nice v Troyes,13:00:00,Match 10
+3328,2022-10-08,Ligue 1,Reims v Paris Saint-Germain,19:00:00,Match 10
+3329,2022-10-09,Ligue 1,Rennes v Nantes,15:05:00,Match 10
+3330,2022-10-16,Ligue 1,Auxerre v Nice,13:00:00,Match 11
+3331,2022-10-15,Ligue 1,Lorient v Reims,15:00:00,Match 11
+3332,2022-10-16,Ligue 1,Monaco v Clermont,15:05:00,Match 11
+3333,2022-10-16,Ligue 1,Nantes v Brest,11:00:00,Match 11
+3334,2022-10-16,Ligue 1,Paris Saint-Germain v Marseille,18:45:00,Match 11
+3335,2022-10-15,Ligue 1,RC Lens v Montpellier,19:00:00,Match 11
+3336,2022-10-16,Ligue 1,Rennes v Lyon,13:00:00,Match 11
+3337,2022-10-14,Ligue 1,Strasbourg v Lille,19:00:00,Match 11
+3338,2022-10-16,Ligue 1,Toulouse v Angers,13:00:00,Match 11
+3339,2022-10-16,Ligue 1,Troyes v AC Ajaccio,13:00:00,Match 11
 3340,2022-10-23,Ligue 1,AC Ajaccio v Paris Saint-Germain,,Match 12
 3341,2022-10-23,Ligue 1,Angers v Rennes,,Match 12
 3342,2022-10-23,Ligue 1,Clermont v Brest,,Match 12
@@ -2823,12 +2767,6 @@ ID,date,league,teams,time,note_1
 3607,2023-06-03,Ligue 1,Paris Saint-Germain v Clermont,,Match 38
 3608,2023-06-03,Ligue 1,Reims v Montpellier,,Match 38
 3609,2023-06-03,Ligue 1,Troyes v Lille,,Match 38
-3683,2022-09-17,Norway 1. Divisjon,Sogndal v Ranheim TF,14:00:00,Match 25
-3684,2022-09-17,Norway 1. Divisjon,Stjørdals-Blink v Mjøndalen,14:00:00,Match 25
-3685,2022-09-17,Norway 1. Divisjon,Raufoss v Start,14:00:00,Match 25
-3686,2022-09-17,Norway 1. Divisjon,Sandnes Ulf v Brann,15:00:00,Match 25
-3687,2022-09-17,Norway 1. Divisjon,Skeid v Fredrikstad,14:00:00,Match 25
-3688,2022-09-17,Norway 1. Divisjon,Åsane v Kongsvinger,14:00:00,Match 25
 3689,2022-09-18,Norway 1. Divisjon,Kfum Oslo v Bryne,13:00:00,Match 25
 3690,2022-09-18,Norway 1. Divisjon,Grorud v Stabæk,13:00:00,Match 25
 3691,2022-10-02,Norway 1. Divisjon,Fredrikstad v Mjøndalen,12:00:00,Match 26
@@ -2841,7 +2779,7 @@ ID,date,league,teams,time,note_1
 3698,2022-10-03,Norway 1. Divisjon,Ranheim TF v Sandnes Ulf,16:00:00,Match 26
 3699,2022-10-09,Norway 1. Divisjon,Skeid v Start,12:00:00,Match 27
 3700,2022-10-09,Norway 1. Divisjon,Sogndal v Stjørdals-Blink,12:00:00,Match 27
-3701,2022-10-09,Norway 1. Divisjon,Mjøndalen v Brann,12:00:00,Match 27
+3701,2022-10-08,Norway 1. Divisjon,Mjøndalen v Brann,14:00:00,Match 27
 3702,2022-10-10,Norway 1. Divisjon,Sandnes Ulf v Grorud,16:00:00,Match 27
 3703,2022-10-10,Norway 1. Divisjon,Ranheim TF v Kongsvinger,16:00:00,Match 27
 3704,2022-10-10,Norway 1. Divisjon,Kfum Oslo v Stabæk,16:00:00,Match 27
@@ -2871,13 +2809,8 @@ ID,date,league,teams,time,note_1
 3728,2022-10-29,Norway 1. Divisjon,Stabæk v Mjøndalen,13:00:00,Match 30
 3729,2022-10-29,Norway 1. Divisjon,Start v Ranheim TF,13:00:00,Match 30
 3730,2022-10-29,Norway 1. Divisjon,Stjørdals-Blink v Skeid,13:00:00,Match 30
-3801,2022-09-16,Premier League,Aston Villa v Southampton,19:00:00,Match 8
 3802,2022-09-18,Premier League,Brentford v Arsenal,11:00:00,Match 8
 3805,2022-09-18,Premier League,Everton v West Ham United,13:15:00,Match 8
-3807,2022-09-17,Premier League,Newcastle United v Bournemouth,14:00:00,Match 8
-3808,2022-09-16,Premier League,Nottingham Forest v Fulham,19:00:00,Match 8
-3809,2022-09-17,Premier League,Tottenham Hotspur v Leicester City,16:30:00,Match 8
-3810,2022-09-17,Premier League,Wolverhampton Wanderers v Manchester City,11:30:00,Match 8
 3811,2022-10-01,Premier League,Arsenal v Tottenham Hotspur,11:30:00,Match 9
 3812,2022-10-01,Premier League,Bournemouth v Brentford,14:00:00,Match 9
 3813,2022-10-01,Premier League,Crystal Palace v Chelsea,14:00:00,Match 9
@@ -2888,26 +2821,26 @@ ID,date,league,teams,time,note_1
 3818,2022-10-02,Premier League,Manchester City v Manchester United,13:00:00,Match 9
 3819,2022-10-01,Premier League,Southampton v Everton,14:00:00,Match 9
 3820,2022-10-01,Premier League,West Ham United v Wolverhampton Wanderers,16:30:00,Match 9
-3821,2022-10-08,Premier League,Arsenal v Liverpool,,Match 10
-3822,2022-10-08,Premier League,Bournemouth v Leicester City,,Match 10
-3823,2022-10-08,Premier League,Brighton and Hove Albion v Tottenham Hotspur,,Match 10
-3824,2022-10-08,Premier League,Chelsea v Wolverhampton Wanderers,,Match 10
-3825,2022-10-08,Premier League,Crystal Palace v Leeds United,,Match 10
-3826,2022-10-08,Premier League,Everton v Manchester United,,Match 10
-3827,2022-10-08,Premier League,Manchester City v Southampton,,Match 10
-3828,2022-10-08,Premier League,Newcastle United v Brentford,,Match 10
-3829,2022-10-08,Premier League,Nottingham Forest v Aston Villa,,Match 10
-3830,2022-10-08,Premier League,West Ham United v Fulham,,Match 10
-3831,2022-10-15,Premier League,Aston Villa v Chelsea,,Match 11
-3832,2022-10-15,Premier League,Brentford v Brighton and Hove Albion,,Match 11
-3833,2022-10-15,Premier League,Fulham v Bournemouth,,Match 11
-3834,2022-10-15,Premier League,Leeds United v Arsenal,,Match 11
-3835,2022-10-15,Premier League,Leicester City v Crystal Palace,,Match 11
-3836,2022-10-15,Premier League,Liverpool v Manchester City,,Match 11
-3837,2022-10-15,Premier League,Manchester United v Newcastle United,,Match 11
-3838,2022-10-15,Premier League,Southampton v West Ham United,,Match 11
-3839,2022-10-15,Premier League,Tottenham Hotspur v Everton,,Match 11
-3840,2022-10-15,Premier League,Wolverhampton Wanderers v Nottingham Forest,,Match 11
+3821,2022-10-09,Premier League,Arsenal v Liverpool,15:30:00,Match 10
+3822,2022-10-08,Premier League,Bournemouth v Leicester City,14:00:00,Match 10
+3823,2022-10-08,Premier League,Brighton and Hove Albion v Tottenham Hotspur,16:30:00,Match 10
+3824,2022-10-08,Premier League,Chelsea v Wolverhampton Wanderers,14:00:00,Match 10
+3825,2022-10-09,Premier League,Crystal Palace v Leeds United,13:00:00,Match 10
+3826,2022-10-09,Premier League,Everton v Manchester United,18:00:00,Match 10
+3827,2022-10-08,Premier League,Manchester City v Southampton,14:00:00,Match 10
+3828,2022-10-08,Premier League,Newcastle United v Brentford,14:00:00,Match 10
+3829,2022-10-10,Premier League,Nottingham Forest v Aston Villa,19:00:00,Match 10
+3830,2022-10-09,Premier League,West Ham United v Fulham,13:00:00,Match 10
+3831,2022-10-16,Premier League,Aston Villa v Chelsea,13:00:00,Match 11
+3832,2022-10-14,Premier League,Brentford v Brighton and Hove Albion,19:00:00,Match 11
+3833,2022-10-15,Premier League,Fulham v Bournemouth,14:00:00,Match 11
+3834,2022-10-16,Premier League,Leeds United v Arsenal,13:00:00,Match 11
+3835,2022-10-15,Premier League,Leicester City v Crystal Palace,11:30:00,Match 11
+3836,2022-10-16,Premier League,Liverpool v Manchester City,15:30:00,Match 11
+3837,2022-10-16,Premier League,Manchester United v Newcastle United,13:00:00,Match 11
+3838,2022-10-16,Premier League,Southampton v West Ham United,13:00:00,Match 11
+3839,2022-10-15,Premier League,Tottenham Hotspur v Everton,16:30:00,Match 11
+3840,2022-10-15,Premier League,Wolverhampton Wanderers v Nottingham Forest,14:00:00,Match 11
 3841,2022-10-18,Premier League,Arsenal v Manchester City,,Match 12
 3842,2022-10-18,Premier League,Bournemouth v Southampton,,Match 12
 3843,2022-10-18,Premier League,Brentford v Chelsea,,Match 12
@@ -3180,12 +3113,7 @@ ID,date,league,teams,time,note_1
 4110,2023-05-28,Premier League,Southampton v Liverpool,15:00:00,Match 38
 4165,2022-09-18,Primeira Liga,Arouca v Vitória Guimarães,14:30:00,Match 7
 4166,2022-09-18,Primeira Liga,Benfica v Marítimo,17:00:00,Match 7
-4167,2022-09-17,Primeira Liga,Boavista v Sporting Lisbon,19:30:00,Match 7
 4168,2022-09-18,Primeira Liga,Casa Pia AC v FC Famalicão,17:00:00,Match 7
-4169,2022-09-17,Primeira Liga,Estoril Praia v FC Porto,17:00:00,Match 7
-4170,2022-09-17,Primeira Liga,Gil Vicente v Rio Ave,14:30:00,Match 7
-4171,2022-09-16,Primeira Liga,Portimonense v Chaves,19:15:00,Match 7
-4172,2022-09-17,Primeira Liga,Santa Clara v Paços de Ferreira,14:30:00,Match 7
 4173,2022-09-18,Primeira Liga,Sporting Braga v Vizela,19:30:00,Match 7
 4174,2022-10-01,Primeira Liga,Chaves v Estoril Praia,17:00:00,Match 8
 4175,2022-10-02,Primeira Liga,FC Famalicão v Boavista,19:30:00,Match 8
@@ -3196,33 +3124,33 @@ ID,date,league,teams,time,note_1
 4180,2022-09-30,Primeira Liga,Sporting Lisbon v Gil Vicente,18:00:00,Match 8
 4181,2022-10-01,Primeira Liga,Vitória Guimarães v Benfica,19:30:00,Match 8
 4182,2022-10-01,Primeira Liga,Vizela v Portimonense,14:30:00,Match 8
-4183,2022-10-09,Primeira Liga,Arouca v FC Famalicão,,Match 9
-4184,2022-10-09,Primeira Liga,Benfica v Rio Ave,,Match 9
-4185,2022-10-09,Primeira Liga,Boavista v Marítimo,,Match 9
-4186,2022-10-09,Primeira Liga,Casa Pia AC v Vizela,,Match 9
-4187,2022-10-09,Primeira Liga,Gil Vicente v Estoril Praia,,Match 9
-4188,2022-10-09,Primeira Liga,Paços de Ferreira v Vitória Guimarães,,Match 9
-4189,2022-10-09,Primeira Liga,Portimonense v FC Porto,,Match 9
-4190,2022-10-09,Primeira Liga,Santa Clara v Sporting Lisbon,,Match 9
-4191,2022-10-09,Primeira Liga,Sporting Braga v Chaves,,Match 9
-4192,2022-10-23,Primeira Liga,Chaves v Gil Vicente,,Match 10
-4193,2022-10-23,Primeira Liga,Estoril Praia v Sporting Braga,,Match 10
-4194,2022-10-23,Primeira Liga,FC Famalicão v Paços de Ferreira,,Match 10
-4195,2022-10-23,Primeira Liga,FC Porto v Benfica,,Match 10
-4196,2022-10-23,Primeira Liga,Marítimo v Arouca,,Match 10
-4197,2022-10-23,Primeira Liga,Rio Ave v Portimonense,,Match 10
-4198,2022-10-23,Primeira Liga,Sporting Lisbon v Casa Pia AC,,Match 10
-4199,2022-10-23,Primeira Liga,Vitória Guimarães v Boavista,,Match 10
-4200,2022-10-23,Primeira Liga,Vizela v Santa Clara,,Match 10
-4201,2022-10-30,Primeira Liga,Arouca v Sporting Lisbon,,Match 11
-4202,2022-10-30,Primeira Liga,Benfica v Chaves,,Match 11
-4203,2022-10-30,Primeira Liga,Boavista v Vizela,,Match 11
-4204,2022-10-30,Primeira Liga,Casa Pia AC v Rio Ave,,Match 11
-4205,2022-10-30,Primeira Liga,Gil Vicente v Sporting Braga,,Match 11
-4206,2022-10-30,Primeira Liga,Paços de Ferreira v Marítimo,,Match 11
-4207,2022-10-30,Primeira Liga,Portimonense v Estoril Praia,,Match 11
-4208,2022-10-30,Primeira Liga,Santa Clara v FC Porto,,Match 11
-4209,2022-10-30,Primeira Liga,Vitória Guimarães v FC Famalicão,,Match 11
+4183,2022-10-10,Primeira Liga,Arouca v FC Famalicão,19:15:00,Match 9
+4184,2022-10-08,Primeira Liga,Benfica v Rio Ave,17:00:00,Match 9
+4185,2022-10-09,Primeira Liga,Boavista v Marítimo,14:30:00,Match 9
+4186,2022-10-09,Primeira Liga,Casa Pia AC v Vizela,17:00:00,Match 9
+4187,2022-10-07,Primeira Liga,Gil Vicente v Estoril Praia,19:15:00,Match 9
+4188,2022-10-08,Primeira Liga,Paços de Ferreira v Vitória Guimarães,19:30:00,Match 9
+4189,2022-10-08,Primeira Liga,Portimonense v FC Porto,17:00:00,Match 9
+4190,2022-10-08,Primeira Liga,Santa Clara v Sporting Lisbon,14:30:00,Match 9
+4191,2022-10-09,Primeira Liga,Sporting Braga v Chaves,19:30:00,Match 9
+4192,2022-10-23,Primeira Liga,Chaves v Gil Vicente,17:00:00,Match 10
+4193,2022-10-22,Primeira Liga,Estoril Praia v Sporting Braga,17:00:00,Match 10
+4194,2022-10-22,Primeira Liga,FC Famalicão v Paços de Ferreira,14:30:00,Match 10
+4195,2022-10-21,Primeira Liga,FC Porto v Benfica,19:15:00,Match 10
+4196,2022-10-23,Primeira Liga,Marítimo v Arouca,14:30:00,Match 10
+4197,2022-10-24,Primeira Liga,Rio Ave v Portimonense,19:15:00,Match 10
+4198,2022-10-22,Primeira Liga,Sporting Lisbon v Casa Pia AC,19:30:00,Match 10
+4199,2022-10-23,Primeira Liga,Vitória Guimarães v Boavista,19:30:00,Match 10
+4200,2022-10-23,Primeira Liga,Vizela v Santa Clara,14:30:00,Match 10
+4201,2022-10-29,Primeira Liga,Arouca v Sporting Lisbon,19:30:00,Match 11
+4202,2022-10-29,Primeira Liga,Benfica v Chaves,17:00:00,Match 11
+4203,2022-10-30,Primeira Liga,Boavista v Vizela,15:30:00,Match 11
+4204,2022-10-30,Primeira Liga,Casa Pia AC v Rio Ave,18:00:00,Match 11
+4205,2022-10-30,Primeira Liga,Gil Vicente v Sporting Braga,20:30:00,Match 11
+4206,2022-10-28,Primeira Liga,Paços de Ferreira v Marítimo,19:15:00,Match 11
+4207,2022-10-30,Primeira Liga,Portimonense v Estoril Praia,15:30:00,Match 11
+4208,2022-10-29,Primeira Liga,Santa Clara v FC Porto,14:30:00,Match 11
+4209,2022-10-31,Primeira Liga,Vitória Guimarães v FC Famalicão,20:15:00,Match 11
 4210,2022-11-06,Primeira Liga,Chaves v Santa Clara,,Match 12
 4211,2022-11-06,Primeira Liga,Estoril Praia v Benfica,,Match 12
 4212,2022-11-06,Primeira Liga,FC Porto v Paços de Ferreira,,Match 12
@@ -3431,14 +3359,10 @@ ID,date,league,teams,time,note_1
 4415,2023-05-28,Primeira Liga,Sporting Braga v Paços de Ferreira,,Match 34
 4416,2023-05-28,Primeira Liga,Vizela v Sporting Lisbon,,Match 34
 4477,2022-09-18,Serie A,AC Milan v Napoli,18:45:00,Match 7
-4478,2022-09-17,Serie A,Bologna v Empoli,13:00:00,Match 7
 4479,2022-09-18,Serie A,Cremonese v Lazio,13:00:00,Match 7
 4480,2022-09-18,Serie A,Fiorentina v Verona,13:00:00,Match 7
 4481,2022-09-18,Serie A,Monza v Juventus,13:00:00,Match 7
 4482,2022-09-18,Serie A,Roma v Atalanta,16:00:00,Match 7
-4483,2022-09-16,Serie A,Salernitana v Lecce,18:45:00,Match 7
-4484,2022-09-17,Serie A,Spezia v Sampdoria,16:00:00,Match 7
-4485,2022-09-17,Serie A,Torino v Sassuolo,18:45:00,Match 7
 4486,2022-09-18,Serie A,Udinese v Inter Milan,10:30:00,Match 7
 4487,2022-10-02,Serie A,Atalanta v Fiorentina,16:00:00,Match 8
 4488,2022-10-01,Serie A,Empoli v AC Milan,18:45:00,Match 8
@@ -3450,46 +3374,46 @@ ID,date,league,teams,time,note_1
 4494,2022-10-02,Serie A,Sampdoria v Monza,13:00:00,Match 8
 4495,2022-10-02,Serie A,Sassuolo v Salernitana,13:00:00,Match 8
 4496,2022-10-03,Serie A,Verona v Udinese,18:45:00,Match 8
-4497,2022-10-09,Serie A,AC Milan v Juventus,,Match 9
-4498,2022-10-09,Serie A,Bologna v Sampdoria,,Match 9
-4499,2022-10-09,Serie A,Cremonese v Napoli,,Match 9
-4500,2022-10-09,Serie A,Fiorentina v Lazio,,Match 9
-4501,2022-10-09,Serie A,Monza v Spezia,,Match 9
-4502,2022-10-09,Serie A,Roma v Lecce,,Match 9
-4503,2022-10-09,Serie A,Salernitana v Verona,,Match 9
-4504,2022-10-09,Serie A,Sassuolo v Inter Milan,,Match 9
-4505,2022-10-09,Serie A,Torino v Empoli,,Match 9
-4506,2022-10-09,Serie A,Udinese v Atalanta,,Match 9
-4507,2022-10-16,Serie A,Atalanta v Sassuolo,,Match 10
-4508,2022-10-16,Serie A,Empoli v Monza,,Match 10
-4509,2022-10-16,Serie A,Inter Milan v Salernitana,,Match 10
-4510,2022-10-16,Serie A,Lazio v Udinese,,Match 10
-4511,2022-10-16,Serie A,Lecce v Fiorentina,,Match 10
-4512,2022-10-16,Serie A,Napoli v Bologna,,Match 10
-4513,2022-10-16,Serie A,Sampdoria v Roma,,Match 10
-4514,2022-10-16,Serie A,Spezia v Cremonese,,Match 10
-4515,2022-10-16,Serie A,Torino v Juventus,,Match 10
-4516,2022-10-16,Serie A,Verona v AC Milan,,Match 10
-4517,2022-10-23,Serie A,AC Milan v Monza,,Match 11
-4518,2022-10-23,Serie A,Atalanta v Lazio,,Match 11
-4519,2022-10-23,Serie A,Bologna v Lecce,,Match 11
-4520,2022-10-23,Serie A,Cremonese v Sampdoria,,Match 11
-4521,2022-10-23,Serie A,Fiorentina v Inter Milan,,Match 11
-4522,2022-10-23,Serie A,Juventus v Empoli,,Match 11
-4523,2022-10-23,Serie A,Roma v Napoli,,Match 11
-4524,2022-10-23,Serie A,Salernitana v Spezia,,Match 11
-4525,2022-10-23,Serie A,Sassuolo v Verona,,Match 11
-4526,2022-10-23,Serie A,Udinese v Torino,,Match 11
-4527,2022-10-30,Serie A,Cremonese v Udinese,,Match 12
-4528,2022-10-30,Serie A,Empoli v Atalanta,,Match 12
-4529,2022-10-30,Serie A,Inter Milan v Sampdoria,,Match 12
-4530,2022-10-30,Serie A,Lazio v Salernitana,,Match 12
-4531,2022-10-30,Serie A,Lecce v Juventus,,Match 12
-4532,2022-10-30,Serie A,Monza v Bologna,,Match 12
-4533,2022-10-30,Serie A,Napoli v Sassuolo,,Match 12
-4534,2022-10-30,Serie A,Spezia v Fiorentina,,Match 12
-4535,2022-10-30,Serie A,Torino v AC Milan,,Match 12
-4536,2022-10-30,Serie A,Verona v Roma,,Match 12
+4497,2022-10-08,Serie A,AC Milan v Juventus,16:00:00,Match 9
+4498,2022-10-08,Serie A,Bologna v Sampdoria,18:45:00,Match 9
+4499,2022-10-09,Serie A,Cremonese v Napoli,16:00:00,Match 9
+4500,2022-10-10,Serie A,Fiorentina v Lazio,18:45:00,Match 9
+4501,2022-10-09,Serie A,Monza v Spezia,13:00:00,Match 9
+4502,2022-10-09,Serie A,Roma v Lecce,18:45:00,Match 9
+4503,2022-10-09,Serie A,Salernitana v Verona,13:00:00,Match 9
+4504,2022-10-08,Serie A,Sassuolo v Inter Milan,13:00:00,Match 9
+4505,2022-10-09,Serie A,Torino v Empoli,10:30:00,Match 9
+4506,2022-10-09,Serie A,Udinese v Atalanta,13:00:00,Match 9
+4507,2022-10-15,Serie A,Atalanta v Sassuolo,18:45:00,Match 10
+4508,2022-10-15,Serie A,Empoli v Monza,13:00:00,Match 10
+4509,2022-10-16,Serie A,Inter Milan v Salernitana,10:30:00,Match 10
+4510,2022-10-16,Serie A,Lazio v Udinese,13:00:00,Match 10
+4511,2022-10-17,Serie A,Lecce v Fiorentina,18:45:00,Match 10
+4512,2022-10-16,Serie A,Napoli v Bologna,16:00:00,Match 10
+4513,2022-10-17,Serie A,Sampdoria v Roma,16:30:00,Match 10
+4514,2022-10-16,Serie A,Spezia v Cremonese,13:00:00,Match 10
+4515,2022-10-15,Serie A,Torino v Juventus,16:00:00,Match 10
+4516,2022-10-16,Serie A,Verona v AC Milan,18:45:00,Match 10
+4517,2022-10-22,Serie A,AC Milan v Monza,16:00:00,Match 11
+4518,2022-10-23,Serie A,Atalanta v Lazio,16:00:00,Match 11
+4519,2022-10-23,Serie A,Bologna v Lecce,13:00:00,Match 11
+4520,2022-10-24,Serie A,Cremonese v Sampdoria,16:30:00,Match 11
+4521,2022-10-22,Serie A,Fiorentina v Inter Milan,18:45:00,Match 11
+4522,2022-10-21,Serie A,Juventus v Empoli,18:45:00,Match 11
+4523,2022-10-23,Serie A,Roma v Napoli,18:45:00,Match 11
+4524,2022-10-22,Serie A,Salernitana v Spezia,13:00:00,Match 11
+4525,2022-10-24,Serie A,Sassuolo v Verona,18:45:00,Match 11
+4526,2022-10-23,Serie A,Udinese v Torino,10:30:00,Match 11
+4527,2022-10-30,Serie A,Cremonese v Udinese,14:00:00,Match 12
+4528,2022-10-30,Serie A,Empoli v Atalanta,11:30:00,Match 12
+4529,2022-10-29,Serie A,Inter Milan v Sampdoria,18:45:00,Match 12
+4530,2022-10-30,Serie A,Lazio v Salernitana,17:00:00,Match 12
+4531,2022-10-29,Serie A,Lecce v Juventus,16:00:00,Match 12
+4532,2022-10-31,Serie A,Monza v Bologna,19:45:00,Match 12
+4533,2022-10-29,Serie A,Napoli v Sassuolo,13:00:00,Match 12
+4534,2022-10-30,Serie A,Spezia v Fiorentina,14:00:00,Match 12
+4535,2022-10-30,Serie A,Torino v AC Milan,19:45:00,Match 12
+4536,2022-10-31,Serie A,Verona v Roma,17:30:00,Match 12
 4537,2022-11-06,Serie A,AC Milan v Spezia,,Match 13
 4538,2022-11-06,Serie A,Atalanta v Napoli,,Match 13
 4539,2022-11-06,Serie A,Bologna v Torino,,Match 13
@@ -3803,12 +3727,7 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5334,2022-09-15,USA MLS,Colorado Rapids v San Jose Earthquakes,02:00:00,Regular Season
-5335,2022-09-15,USA MLS,Vancouver Whitecaps v Los Angeles Galaxy,02:00:00,Regular Season
-5336,2022-09-17,USA MLS,New York City FC v New York Red Bulls,17:00:00,Regular Season
-5337,2022-09-17,USA MLS,Atlanta United FC v Philadelphia Union,19:30:00,Regular Season
-5338,2022-09-17,USA MLS,New England Revolution v CF Montréal,23:30:00,Regular Season
-5339,2022-09-17,USA MLS,Orlando City SC v Toronto FC,23:30:00,Regular Season
+5333,2022-09-25,USA MLS,San Jose Earthquakes v Los Angeles Galaxy,02:00:00,Regular Season
 5340,2022-09-18,USA MLS,Chicago Fire v Charlotte FC,00:00:00,Regular Season
 5341,2022-09-18,USA MLS,Sporting Kansas City v Minnesota United FC,00:30:00,Regular Season
 5342,2022-09-18,USA MLS,Austin FC v Nashville SC,01:00:00,Regular Season
@@ -3848,6 +3767,8 @@ ID,date,league,teams,time,note_1
 5376,2022-10-09,USA MLS,Minnesota United FC v Vancouver Whitecaps,21:00:00,Regular Season
 5377,2022-10-09,USA MLS,Real Salt Lake v Portland Timbers,21:00:00,Regular Season
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
+5379,2022-10-05,USA MLS,Charlotte FC v Columbus Crew,23:00:00,Regular Season
+5380,2022-10-06,USA MLS,Inter Miami CF v Orlando City SC,00:00:00,Regular Season
 5426,2022-09-22,World Cup 2022,Brazil v Argentina,19:00:00,Qualifiers (replay)
 5427,2022-11-21,World Cup 2022,Senegal v Netherlands,10:00:00,Group Stage (A)
 5428,2022-11-21,World Cup 2022,England v Iran,13:00:00,Group Stage (B)
@@ -3977,22 +3898,6 @@ ID,date,league,teams,time,note_1
 5593,2022-11-02,UEFA Champions League,Juventus v Paris Saint-Germain,20:00:00,Group stage – Match 6
 5594,2022-11-02,UEFA Champions League,Maccabi Haifa v Benfica,20:00:00,Group stage – Match 6
 5595,2022-11-02,UEFA Champions League,Manchester City v Sevilla,20:00:00,Group stage – Match 6
-5614,2022-09-15,UEFA Europa Conference League,AA Gent v Shamrock Rovers,16:45:00,Group stage – Match 2
-5615,2022-09-15,UEFA Europa Conference League,AZ Alkmaar v FC Vaduz,16:45:00,Group stage – Match 2
-5616,2022-09-15,UEFA Europa Conference League,Apollon Limassol v Dnipro-1,16:45:00,Group stage – Match 2
-5617,2022-09-15,UEFA Europa Conference League,CFR Cluj-Napoca v Sivasspor,16:45:00,Group stage – Match 2
-5618,2022-09-15,UEFA Europa Conference League,Djurgardens IF v Molde,16:45:00,Group stage – Match 2
-5619,2022-09-15,UEFA Europa Conference League,Pyunik Yerevan v SK Slovan Bratislava,16:45:00,Group stage – Match 2
-5620,2022-09-15,UEFA Europa Conference League,Slavia Prague v Ballkani,16:45:00,Group stage – Match 2
-5621,2022-09-15,UEFA Europa Conference League,VMFD Zalgiris v Basel,16:45:00,Group stage – Match 2
-5622,2022-09-15,UEFA Europa Conference League,Cologne v Slovácko,19:00:00,Group stage – Match 2
-5623,2022-09-15,UEFA Europa Conference League,FC Steaua Bucuresti v Anderlecht,19:00:00,Group stage – Match 2
-5624,2022-09-15,UEFA Europa Conference League,Hapoel Beer-Sheva v Villarreal,19:00:00,Group stage – Match 2
-5625,2022-09-15,UEFA Europa Conference League,Istanbul Buyuksehir v Fiorentina,19:00:00,Group stage – Match 2
-5626,2022-09-15,UEFA Europa Conference League,Lech Poznan v Austria Wien,19:00:00,Group stage – Match 2
-5627,2022-09-15,UEFA Europa Conference League,Partizan Belgrade v Nice,19:00:00,Group stage – Match 2
-5628,2022-09-15,UEFA Europa Conference League,Rigas Futbola Skola v Hearts,19:00:00,Group stage – Match 2
-5629,2022-09-15,UEFA Europa Conference League,Silkeborg v West Ham United,19:00:00,Group stage – Match 2
 5630,2022-10-06,UEFA Europa Conference League,Anderlecht v West Ham United,16:45:00,Group stage – Match 3
 5631,2022-10-06,UEFA Europa Conference League,Dnipro-1 v FC Vaduz,16:45:00,Group stage – Match 3
 5632,2022-10-06,UEFA Europa Conference League,Lech Poznan v Hapoel Beer-Sheva,16:45:00,Group stage – Match 3
@@ -4057,21 +3962,7 @@ ID,date,league,teams,time,note_1
 5691,2022-11-03,UEFA Europa Conference League,Lech Poznan v Villarreal,20:00:00,Group stage – Match 6
 5692,2022-11-03,UEFA Europa Conference League,Partizan Belgrade v Slovácko,20:00:00,Group stage – Match 6
 5693,2022-11-03,UEFA Europa Conference League,Silkeborg v Anderlecht,20:00:00,Group stage – Match 6
-5710,2022-09-15,UEFA Europa League,FC Midtjylland v Lazio,16:45:00,Group stage – Match 2
-5711,2022-09-15,UEFA Europa League,Feyenoord v Sturm Graz,16:45:00,Group stage – Match 2
-5712,2022-09-15,UEFA Europa League,Monaco v Ferencvaros,16:45:00,Group stage – Match 2
-5713,2022-09-15,UEFA Europa League,Olympiakos FC v SC Freiburg,16:45:00,Group stage – Match 2
-5714,2022-09-15,UEFA Europa League,Qarabag FK v Nantes,16:45:00,Group stage – Match 2
-5715,2022-09-15,UEFA Europa League,Real Sociedad v Omonia Nicosia,16:45:00,Group stage – Match 2
-5716,2022-09-15,UEFA Europa League,Sheriff Tiraspol (Mol) v Manchester United,16:45:00,Group stage – Match 2
-5717,2022-09-15,UEFA Europa League,Trabzonspor v Crvena Zvezda,16:45:00,Group stage – Match 2
-5719,2022-09-15,UEFA Europa League,Bodo/Glimt v FC Zurich,19:00:00,Group stage – Match 2
-5720,2022-09-15,UEFA Europa League,Braga v 1. FC Union Berlin,19:00:00,Group stage – Match 2
-5721,2022-09-15,UEFA Europa League,Dynamo Kiev v AEK Larnaca,19:00:00,Group stage – Match 2
-5722,2022-09-15,UEFA Europa League,Real Betis v Ludogorets,19:00:00,Group stage – Match 2
-5723,2022-09-15,UEFA Europa League,Rennes v Fenerbahce,19:00:00,Group stage – Match 2
-5724,2022-09-15,UEFA Europa League,Roma v HJK Helsinki,19:00:00,Group stage – Match 2
-5725,2022-09-15,UEFA Europa League,Union Saint-Gilloise v Malmo FF,19:00:00,Group stage – Match 2
+5709,2022-10-20,UEFA Europa League,Arsenal v PSV Eindhoven,17:00:00,Group stage – Match 2
 5726,2022-10-06,UEFA Europa League,Crvena Zvezda v Ferencvaros,16:45:00,Group stage – Match 3
 5727,2022-10-06,UEFA Europa League,FC Zurich v PSV Eindhoven,16:45:00,Group stage – Match 3
 5728,2022-10-06,UEFA Europa League,HJK Helsinki v Ludogorets,16:45:00,Group stage – Match 3
