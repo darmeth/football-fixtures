@@ -1,8 +1,4 @@
 ID,date,league,teams,time,note_1
-10,2022-09-18,Frauen-Bundesliga,Werder Bremen v Potsdam,14:00:00,Match 1
-11,2022-09-18,Frauen-Bundesliga,Duisburg v Leverkusen,14:00:00,Match 1
-13,2022-09-18,Frauen-Bundesliga,Köln v Hoffenheim,11:00:00,Match 1
-14,2022-09-18,Frauen-Bundesliga,Meppen v Freiburg,11:00:00,Match 1
 16,2022-09-25,Frauen-Bundesliga,Bayern v Werder Bremen,11:00:00,Match 2
 17,2022-09-25,Frauen-Bundesliga,Freiburg v Eintracht Frankfurt,14:00:00,Match 2
 18,2022-09-24,Frauen-Bundesliga,Hoffenheim v Wolfsburg,15:55:00,Match 2
@@ -129,12 +125,27 @@ ID,date,league,teams,time,note_1
 139,2023-05-28,Frauen-Bundesliga,Eintracht Frankfurt v Meppen,,Match 22
 140,2023-05-28,Frauen-Bundesliga,Köln v SGS Essen,,Match 22
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
-144,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
-145,2022-10-09,International Friendly,Japan v New Zealand,,Nagano U Stadium (Japan)
-202,2022-09-18,Swedish Damallsvenskan,BP v Djurgården,11:00:00,Round 20
-203,2022-09-18,Swedish Damallsvenskan,Örebro v AIK,13:00:00,Round 20
-206,2022-09-19,Swedish Damallsvenskan,Umeå IK v Piteå,17:00:00,Round 20
-207,2022-09-19,Swedish Damallsvenskan,Vittsjö v Linköping,17:00:00,Round 20
+144,2022-09-30,International Friendly,Botswana v Namibia,12:45:00,Botswana National Stadium
+145,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
+146,2022-10-06,International Friendly,Cyprus v Liechtenstein,11:00:00,Athlítiko Kentro Zenon (Cyprus)
+147,2022-10-07,International Friendly,Czech Republic v Hungary,,Letná Stadion (Czech Republic)
+148,2022-10-07,International Friendly,Germany v France,18:30:00,Glücksgas Stadium (Germany)
+149,2022-10-07,International Friendly,Spain v Sweden,18:30:00,Estadio Nuevo Arcángel (Spain)
+150,2022-10-07,International Friendly,England v United States,19:00:00,Wembley Stadium (England)
+151,2022-10-07,International Friendly,Norway v Brazil,17:00:00,Ullevaal Stadion (Norway)
+152,2022-10-08,International Friendly,Australia v South Africa,11:30:00,
+153,2022-10-08,International Friendly,Costa Rica v Philippines,01:00:00,Estadio Alejandro Morera Soto (Costa Rica)
+154,2022-10-09,International Friendly,Japan v New Zealand,05:55:00,Nagano U Stadium (Japan)
+155,2022-10-09,International Friendly,Cyprus v Liechtenstein,07:00:00,Athlítiko Kentro Zenon (Cyprus)
+156,2022-10-11,International Friendly,Sweden v France,16:30:00,Gamla Ullevi (Sweden)
+157,2022-10-11,International Friendly,England v Czech Republic,19:00:00,Falmer Stadium (England)
+158,2022-10-11,International Friendly,Costa Rica v Philippines,,
+159,2022-10-11,International Friendly,Denmark v Australia,16:00:00,Energi Viborg Arena (Denmark)
+160,2022-10-11,International Friendly,Netherlands v Norway,18:00:00,ADO Den Haag Stadium (Netherlands)
+161,2022-10-11,International Friendly,Spain v United States,18:30:00,Estadio El Sadar (Spain)
+162,2022-11-11,International Friendly,United States v Germany,00:00:00,DRV PNK Stadium (FL USA)
+163,2022-11-12,International Friendly,Australia v Sweden,03:45:00,Melbourne Rectangular Stadium (Australia)
+164,2022-11-13,International Friendly,United States v Germany,22:00:00,Red Bull Arena (NJ USA)
 208,2022-09-24,Swedish Damallsvenskan,Rosengård v Vittsjö,14:00:00,Round 21
 209,2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
 210,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
@@ -179,10 +190,6 @@ ID,date,league,teams,time,note_1
 249,2022-11-05,Swedish Damallsvenskan,Örebro v Linköping,10:00:00,Round 26
 260,2022-09-28,Women's Super League,Chelsea v West Ham United,18:05:00,Match 1
 261,2022-09-29,Women's Super League,Everton v Leicester City,17:30:00,Match 1
-262,2022-09-18,Women's Super League,Aston Villa v Manchester City,11:30:00,Match 2
-263,2022-09-18,Women's Super League,Leicester City v Tottenham Hotspur,14:00:00,Match 2
-264,2022-09-18,Women's Super League,Liverpool v Chelsea,16:00:00,Match 2
-266,2022-09-18,Women's Super League,West Ham United v Everton,14:00:00,Match 2
 267,2022-09-24,Women's Super League,Arsenal v Tottenham Hotspur,12:30:00,Match 3
 268,2022-09-25,Women's Super League,Brighton and Hove Albion v Reading,13:00:00,Match 3
 269,2022-09-25,Women's Super League,Chelsea v Manchester City,15:00:00,Match 3
@@ -303,10 +310,6 @@ ID,date,league,teams,time,note_1
 384,2023-05-28,Women's Super League,Manchester City v Everton,,Match 22
 385,2023-05-28,Women's Super League,Reading v Chelsea,,Match 22
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,,Match 22
-428,2022-10-06,International Friendly,Cyprus v Liechtenstein,,
-430,2022-10-09,International Friendly,Cyprus v Liechtenstein,,
-456,2022-09-18,Division 1 Féminine,Lyon v Soyaux,10:45:00,Match 2
-457,2022-09-18,Division 1 Féminine,Le Havre v Guingamp,10:45:00,Match 2
 458,2022-09-23,Division 1 Féminine,Paris FC v Le Havre,16:30:00,Match 3
 459,2022-09-23,Division 1 Féminine,Montpellier v Lyon,19:00:00,Match 3
 460,2022-09-24,Division 1 Féminine,Soyaux v Rodez,12:30:00,Match 3
@@ -427,9 +430,6 @@ ID,date,league,teams,time,note_1
 575,2023-05-27,Division 1 Féminine,Fleury v Guingamp,,Match 22
 576,2023-05-27,Division 1 Féminine,Soyaux v Paris St Germain,,Match 22
 577,2023-05-27,Division 1 Féminine,Le Havre v Bordeaux,,Match 22
-590,2022-09-18,Primera División Femenina,Athletic Club v Sporting Huelva,10:00:00,Match 2
-591,2022-09-18,Primera División Femenina,Alhama v Levante,10:00:00,Match 2
-593,2022-09-18,Primera División Femenina,Real Betis v Levante Las Planas,16:00:00,Match 2
 594,2022-09-25,Primera División Femenina,Granadilla Tenerife v Real Madrid,19:00:00,Match 3
 595,2022-09-25,Primera División Femenina,Levante v Athletic Club,17:00:00,Match 3
 596,2022-09-25,Primera División Femenina,Atletico Madrid v Alavés,10:00:00,Match 3
@@ -654,9 +654,6 @@ ID,date,league,teams,time,note_1
 815,2023-05-21,Primera División Femenina,Athletic Club v Villarreal,,Match 30
 816,2023-05-21,Primera División Femenina,Atletico Madrid v Granadilla Tenerife,,Match 30
 817,2023-05-21,Primera División Femenina,Madrid CFF v Barcelona,,Match 30
-825,2022-09-18,Serie A Femminile,Fiorentina v Parma,10:30:00,Match 3
-826,2022-09-18,Serie A Femminile,Como v Sampdoria,12:30:00,Match 3
-827,2022-09-18,Serie A Femminile,AC Milan v Sassuolo,12:30:00,Match 3
 828,2022-09-25,Serie A Femminile,Pomigliano Calcio v Como,10:30:00,Match 4
 829,2022-09-24,Serie A Femminile,Parma v AC Milan,12:30:00,Match 4
 830,2022-09-24,Serie A Femminile,Sassuolo v Juventus,10:30:00,Match 4
@@ -745,11 +742,3 @@ ID,date,league,teams,time,note_1
 913,2023-02-22,Women’s World Cup 2023,TBA v TBA,,Inter-Confederation play-offs
 914,2023-02-22,Women’s World Cup 2023,TBA v TBA,,Inter-Confederation play-offs
 915,2023-02-23,Women’s World Cup 2023,TBA v TBA,,Inter-Confederation play-offs
-916,2022-10-07,International Friendly,Czech Republic v Hungary,,Letná Stadion
-917,2022-10-07,International Friendly,Germany v France,18:30:00,Glücksgas Stadium
-918,2022-10-07,International Friendly,Spain v Sweden,18:30:00,Estadio Nuevo Arcángel
-919,2022-10-07,International Friendly,England v United States,19:00:00,Wembley stadium
-920,2022-10-08,International Friendly,Australia v South Africa,11:30:00,
-921,2022-10-11,International Friendly,Sweden v France,16:30:00,Gamla Ullevi
-922,2022-10-11,International Friendly,England v Czech Republic,19:00:00,Falmer Stadium
-923,2022-11-12,International Friendly,Australia v Sweden,02:45:00,Melbourne Rectangular Stadium
