@@ -2000,9 +2000,6 @@ ID,date,league,teams,time,note_1
 2718,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2719,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
 2720,2022-09-23,International Friendly,Equatorial Guinea v Rwanda,15:00:00,
-2721,2022-09-21,International Friendly,Vietnam v Singapore,12:00:00,Thống Nhất Stadium (Vietnam)
-2722,2022-09-21,International Friendly,Hong Kong v Myanmar,12:00:00,Mong Kok Stadium (Hong Kong)
-2724,2022-09-21,International Friendly,Libya v Uganda,17:00:00,Martyrs of February Stadium (Libya)
 2729,2022-09-22,International Friendly,Venezuela v Iceland,16:00:00,motion_invest Arena (Austria)
 2730,2022-09-22,International Friendly,Australia v New Zealand,10:00:00,Suncorp Stadium (Australia)
 2731,2022-09-22,International Friendly,Cambodia v Bangladesh,12:00:00,Morodok Techo National Stadium (Cambodia)
@@ -2015,65 +2012,57 @@ ID,date,league,teams,time,note_1
 2739,2022-09-23,International Friendly,Iran v Uruguay,16:00:00,NV Arena (Austria)
 2740,2022-09-23,International Friendly,Paraguay v United Arab Emirates,16:00:00,Stadion Wiener Neustadt (Austria)
 2741,2022-09-23,International Friendly,South Korea v Costa Rica,11:00:00,Deokyang Eoulim Nuri Stadium (South Korea)
-2742,2022-09-22,International Friendly,Cameroon v Uzbekistan,15:00:00,
-2743,2022-09-24,International Friendly,Argentina v Honduras,00:00:00,Hard Rock Stadium (FL USA)
-2744,2022-09-23,International Friendly,Egypt v Niger,15:00:00,Borg El Arab Stadium (Egypt)
+2742,2022-09-22,International Friendly,Cameroon v Uzbekistan,06:00:00,Goyang Stadium (South Korea)
+2743,2022-09-23,International Friendly,Argentina v Honduras,23:30:00,Hard Rock Stadium (FL USA)
+2744,2022-09-23,International Friendly,Egypt v Niger,18:00:00,Borg El Arab Stadium (Egypt)
 2745,2022-09-23,International Friendly,Brazil v Ghana,18:30:00,Stade Océane (France)
 2746,2022-09-23,International Friendly,Morocco v Chile,19:00:00,Estadi Cornellà-El Prat (Spain)
 2747,2022-09-23,International Friendly,Algeria v Guinea,19:00:00,Oran Olympic Stadium (Algeria)
 2748,2022-09-23,International Friendly,DR Congo v Burkina Faso,15:00:00,
 2749,2022-09-23,International Friendly,Bahrain v Cape Verde,15:30:00,Bahrain National Stadium
-2750,2022-09-23,International Friendly,Jordan v Syria,13:30:00,
+2750,2022-09-23,International Friendly,Jordan v Syria,13:30:00,King Abdullah II Stadium (Jordan)
 2751,2022-09-23,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
-2752,2022-09-23,International Friendly,Iraq v Oman,,
-2753,2022-09-23,International Friendly,Tunisia v Comoros,,
+2753,2022-09-22,International Friendly,Comoros v Tunisia,14:30:00,Stade de la Source (France)
 2754,2022-09-24,International Friendly,Colombia v Guatemala,23:30:00,Red Bull Arena (NJ USA)
-2755,2022-09-24,International Friendly,Honduras v El Salvador,,
-2756,2022-09-24,International Friendly,Laos v Maldives,08:00:00,National Football Association of Brunei Darussalam Stadium
-2757,2022-09-24,International Friendly,Hong Kong v Myanmar,,Hong Kong Stadium
-2758,2022-09-24,International Friendly,Mali v Zambia,,Martyrs of February Stadium (Libya)
+2755,2022-09-26,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
+2756,2022-09-24,International Friendly,Laos v Maldives,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
+2757,2022-09-24,International Friendly,Hong Kong v Myanmar,12:00:00,Hong Kong Stadium
 2759,2022-09-24,International Friendly,Indonesia v Curaçao,,Gelora Bandung Lautan Api Stadium (Indonesia)
 2760,2022-09-24,International Friendly,Kyrgyzstan v Russia,14:00:00,Dolen Omurzakov Stadium (Kyrgyzstan)
 2761,2022-09-24,International Friendly,Ivory Coast v Togo,16:00:00,Stade Robert-Diochon (France)
-2762,2022-09-24,International Friendly,Bolivia v Senegal,17:00:00,Stade de la Source (France)
+2762,2022-09-24,International Friendly,Bolivia v Senegal,16:30:00,Stade de la Source (France)
 2763,2022-09-24,International Friendly,India v Singapore,12:00:00,Thống Nhất Stadium (Vietnam)
-2764,2022-09-24,International Friendly,Benin v Mauritania,,
-2765,2022-09-24,International Friendly,Martinique v Guinea-Bissau,,
-2766,2022-09-24,International Friendly,Madagascar v Congo,,
-2767,2022-09-24,International Friendly,Uganda v Tanzania,,
-2768,2022-09-24,International Friendly,Papua New Guinea v Vanuatu,04:00:00,
-2769,2022-09-24,International Friendly,Solomon Islands v Fiji,04:00:00,
-2770,2022-09-24,International Friendly,South Africa v Sierra Leone,13:00:00,
-2771,2022-09-24,International Friendly,Grenada v St Vincent and the Grenadines,20:30:00,
+2767,2022-09-24,International Friendly,Tanzania v Uganda,17:00:00,Martyrs of February Stadium (Libya)
+2770,2022-09-24,International Friendly,South Africa v Sierra Leone,13:00:00,FNB Stadium (South Africa)
+2771,2022-09-24,International Friendly,Grenada v St Vincent and the Grenadines,20:00:00,Lauriston Mini Stadium (Grenada)
 2772,2022-09-25,International Friendly,Mexico v Peru,01:00:00,Rose Bowl (CA USA)
 2773,2022-09-25,International Friendly,New Zealand v Australia,03:00:00,Eden Park (New Zealand)
-2774,2022-09-25,International Friendly,Niger v Liberia,,
-2775,2022-09-27,International Friendly,Saudi Arabia v USA,17:00:00,Estadio de La Condomina (Spain)
+2774,2022-09-25,International Friendly,Niger v Liberia,15:00:00,Cairo International Stadium (Egypt)
+2775,2022-09-27,International Friendly,Saudi Arabia v USA,18:00:00,Estadio de La Condomina (Spain)
 2776,2022-09-27,International Friendly,Canada v Uruguay,16:00:00,Tehelné pole (Slovakia)
 2777,2022-09-27,International Friendly,Qatar v Chile,17:00:00,Franz Horr Stadium (Austria)
-2778,2022-09-27,International Friendly,Mexico v Colombia,22:00:00,Levi's Stadium (CA USA)
+2778,2022-09-28,International Friendly,Mexico v Colombia,02:00:00,Levi's Stadium (CA USA)
 2779,2022-09-27,International Friendly,Paraguay v Morocco,19:00:00,Estadio Benito Villamarín (Spain)
-2780,2022-09-27,International Friendly,Brunei v Laos,08:00:00,National Football Association of Brunei Darussalam Stadium
-2781,2022-09-27,International Friendly,Libya v Mali,,Martyrs of February Stadium (Libya)
-2782,2022-09-27,International Friendly,Nepal v Bangladesh,,
+2780,2022-09-27,International Friendly,Brunei v Laos,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
+2781,2022-09-27,International Friendly,Libya v Tanzania,17:00:00,Martyrs of February Stadium (Libya)
+2782,2022-09-27,International Friendly,Nepal v Bangladesh,11:45:00,Dasharath Stadium (Nepal)
 2783,2022-09-27,International Friendly,DR Congo v Sierra Leone,,
 2784,2022-09-27,International Friendly,South Korea v Cameroon,11:00:00,Seoul World Cup Stadium
 2785,2022-09-27,International Friendly,Ecuador v Japan,11:55:00,Merkur Spiel-Arena (Germany)
 2786,2022-09-27,International Friendly,Nicaragua v Ghana,18:00:00,Estadio Francisco Artés Carrasco (Spain)
-2787,2022-09-27,International Friendly,Egypt v Liberia,,
-2788,2022-09-27,International Friendly,Indonesia v Curaçao,,Jakarta International Stadium (Indonesia)
-2789,2022-09-27,International Friendly,United Arab Emirates v Venezuela,,
+2787,2022-09-27,International Friendly,Egypt v Liberia,18:00:00,Borg El Arab Stadium (Egypt)
+2788,2022-09-27,International Friendly,Indonesia v Curaçao,,Stadion Pakansari (Indonesia)
+2789,2022-09-27,International Friendly,United Arab Emirates v Venezuela,17:00:00,
 2790,2022-09-27,International Friendly,Iran v Senegal,17:00:00,
 2791,2022-09-27,International Friendly,Bahrain v Panama,16:00:00,Bahrain National Stadium
 2792,2022-09-27,International Friendly,Uzbekistan v Costa Rica,18:00:00,Suwon World Cup Stadium (South Korea)
 2793,2022-09-27,International Friendly,Ivory Coast v Guinea,18:00:00,Stade de la Licorne (France)
 2794,2022-09-27,International Friendly,Brazil v Tunisia,18:30:00,Parc des Princes (France)
 2795,2022-09-27,International Friendly,Algeria v Nigeria,19:00:00,Oran Olympic Stadium (Algeria)
-2796,2022-09-27,International Friendly,Vietnam v India,12:00:00,
+2796,2022-09-27,International Friendly,Vietnam v India,12:00:00,Thống Nhất Stadium (Vietnam)
 2797,2022-09-27,International Friendly,Malta v Israel,19:00:00,Ta' Qali National Stadium (Malta)
-2798,2022-09-27,International Friendly,Burkina Faso v Comoros,,
-2799,2022-09-27,International Friendly,Benin v Madagascar,,
-2800,2022-09-27,International Friendly,South Africa v Botswana,13:00:00,
+2798,2022-09-27,International Friendly,Burkina Faso v Comoros,,Stade Père Jégo (Morocco)
+2800,2022-09-27,International Friendly,South Africa v Botswana,13:00:00,FNB Stadium (South Africa)
 2801,2022-09-28,International Friendly,Honduras v Guatemala,01:00:00,PNC Stadium (TX USA)
 2802,2022-09-28,International Friendly,Jamaica v Argentina,00:00:00,Red Bull Academy (NJ USA)
 2803,2022-09-28,International Friendly,Peru v El Salvador,00:00:00,Audi Field (D.C. USA)
@@ -3634,7 +3623,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-5139,2022-09-21,UEFA Nations League,Scotland v Ukraine,18:45:00,Group Stage
 5140,2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
 5141,2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
 5142,2022-09-22,UEFA Nations League,Croatia v Denmark,18:45:00,Group Stage
