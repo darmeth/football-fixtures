@@ -1999,35 +1999,28 @@ ID,date,league,teams,time,note_1
 2717,2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
 2718,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2719,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
-2720,2022-09-23,International Friendly,Equatorial Guinea v Rwanda,15:00:00,
-2729,2022-09-22,International Friendly,Venezuela v Iceland,16:00:00,motion_invest Arena (Austria)
-2730,2022-09-22,International Friendly,Australia v New Zealand,10:00:00,Suncorp Stadium (Australia)
-2731,2022-09-22,International Friendly,Cambodia v Bangladesh,12:00:00,Morodok Techo National Stadium (Cambodia)
-2732,2022-09-22,International Friendly,Suriname v Nicaragua,18:00:00,Yanmar Stadion (The Netherlands)
-2734,2022-09-22,International Friendly,Trinidad and Tobago v Tajikistan,10:30:00,700th Anniversary Stadium (Thailand)
-2735,2022-09-22,International Friendly,Thailand v Malaysia,13:30:00,700th Anniversary Stadium (Thailand)
+2720,2022-09-23,International Friendly,Equatorial Guinea v Rwanda,17:00:00,Martyrs of February Stadium (Libya)
+2721,2022-09-23,International Friendly,Iraq v Oman,15:00:00,King Abdullah II Stadium (Jordan)
 2736,2022-09-23,International Friendly,Saudi Arabia v Ecuador,18:00:00,Estadio de La Condomina (Spain)
 2737,2022-09-23,International Friendly,Japan v USA,12:25:00,Merkur Spiel-Arena (Germany)
 2738,2022-09-23,International Friendly,Qatar v Canada,17:00:00,Franz Horr Stadium (Austria)
 2739,2022-09-23,International Friendly,Iran v Uruguay,16:00:00,NV Arena (Austria)
 2740,2022-09-23,International Friendly,Paraguay v United Arab Emirates,16:00:00,Stadion Wiener Neustadt (Austria)
 2741,2022-09-23,International Friendly,South Korea v Costa Rica,11:00:00,Deokyang Eoulim Nuri Stadium (South Korea)
-2742,2022-09-22,International Friendly,Cameroon v Uzbekistan,06:00:00,Goyang Stadium (South Korea)
-2743,2022-09-23,International Friendly,Argentina v Honduras,23:30:00,Hard Rock Stadium (FL USA)
+2743,2022-09-24,International Friendly,Argentina v Honduras,00:00:00,Hard Rock Stadium (FL USA)
 2744,2022-09-23,International Friendly,Egypt v Niger,18:00:00,Borg El Arab Stadium (Egypt)
 2745,2022-09-23,International Friendly,Brazil v Ghana,18:30:00,Stade Océane (France)
 2746,2022-09-23,International Friendly,Morocco v Chile,19:00:00,Estadi Cornellà-El Prat (Spain)
 2747,2022-09-23,International Friendly,Algeria v Guinea,19:00:00,Oran Olympic Stadium (Algeria)
-2748,2022-09-23,International Friendly,DR Congo v Burkina Faso,15:00:00,
+2748,2022-09-23,International Friendly,DR Congo v Burkina Faso,16:00:00,Stade Père Jégo (Morocco)
 2749,2022-09-23,International Friendly,Bahrain v Cape Verde,15:30:00,Bahrain National Stadium
-2750,2022-09-23,International Friendly,Jordan v Syria,13:30:00,King Abdullah II Stadium (Jordan)
+2750,2022-09-23,International Friendly,Jordan v Syria,18:00:00,King Abdullah II Stadium (Jordan)
 2751,2022-09-23,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
-2753,2022-09-22,International Friendly,Comoros v Tunisia,14:30:00,Stade de la Source (France)
 2754,2022-09-24,International Friendly,Colombia v Guatemala,23:30:00,Red Bull Arena (NJ USA)
 2755,2022-09-26,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
 2756,2022-09-24,International Friendly,Laos v Maldives,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
 2757,2022-09-24,International Friendly,Hong Kong v Myanmar,12:00:00,Hong Kong Stadium
-2759,2022-09-24,International Friendly,Indonesia v Curaçao,,Gelora Bandung Lautan Api Stadium (Indonesia)
+2759,2022-09-24,International Friendly,Indonesia v Curaçao,13:00:00,Gelora Bandung Lautan Api Stadium (Indonesia)
 2760,2022-09-24,International Friendly,Kyrgyzstan v Russia,14:00:00,Dolen Omurzakov Stadium (Kyrgyzstan)
 2761,2022-09-24,International Friendly,Ivory Coast v Togo,16:00:00,Stade Robert-Diochon (France)
 2762,2022-09-24,International Friendly,Bolivia v Senegal,16:30:00,Stade de la Source (France)
@@ -3623,16 +3616,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-5140,2022-09-22,UEFA Nations League,Kazakhstan v Belarus,14:00:00,Group Stage
-5141,2022-09-22,UEFA Nations League,Belgium v Wales,18:45:00,Group Stage
-5142,2022-09-22,UEFA Nations League,Croatia v Denmark,18:45:00,Group Stage
-5143,2022-09-22,UEFA Nations League,France v Austria,18:45:00,Group Stage
-5144,2022-09-22,UEFA Nations League,Latvia v Moldova,16:00:00,Group Stage
-5145,2022-09-22,UEFA Nations League,Liechtenstein v Andorra,18:45:00,Group Stage
-5146,2022-09-22,UEFA Nations League,Lithuania v Faroe Islands,18:45:00,Group Stage
-5147,2022-09-22,UEFA Nations League,Poland v Netherlands,18:45:00,Group Stage
-5148,2022-09-22,UEFA Nations League,Slovakia v Azerbaijan,18:45:00,Group Stage
-5149,2022-09-22,UEFA Nations League,Turkey v Luxembourg,18:45:00,Group Stage
 5150,2022-09-23,UEFA Nations League,Georgia v North Macedonia,16:00:00,Group Stage
 5151,2022-09-23,UEFA Nations League,Bosnia and Herzegovina v Montenegro,18:45:00,Group Stage
 5152,2022-09-23,UEFA Nations League,Bulgaria v Gibraltar,18:45:00,Group Stage
@@ -3707,7 +3690,6 @@ ID,date,league,teams,time,note_1
 5378,2022-10-09,USA MLS,Seattle Sounders FC v San Jose Earthquakes ,21:00:00,Regular Season
 5379,2022-10-05,USA MLS,Charlotte FC v Columbus Crew,23:00:00,Regular Season
 5380,2022-10-06,USA MLS,Inter Miami CF v Orlando City SC,00:00:00,Regular Season
-5426,2022-09-22,World Cup 2022,Brazil v Argentina,19:00:00,Qualifiers (replay)
 5427,2022-11-21,World Cup 2022,Senegal v Netherlands,10:00:00,Group Stage (A)
 5428,2022-11-21,World Cup 2022,England v Iran,13:00:00,Group Stage (B)
 5429,2022-11-20,World Cup 2022,Qatar v Ecuador,16:00:00,Group Stage (A)
