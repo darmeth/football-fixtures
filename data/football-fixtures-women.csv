@@ -438,14 +438,14 @@ ID,date,league,teams,time,note_1
 599,2022-09-24,Primera División Femenina,Valencia v Sevilla,14:00:00,Match 3
 600,2022-09-25,Primera División Femenina,Villarreal v Barcelona,15:00:00,Match 3
 601,2022-09-24,Primera División Femenina,Madrid CFF v Levante Las Planas,10:00:00,Match 3
-602,2022-10-02,Primera División Femenina,Levante v Atletico Madrid,,Match 4
-603,2022-10-02,Primera División Femenina,Levante Las Planas v Alhama,,Match 4
-604,2022-10-02,Primera División Femenina,Alavés v Villarreal,,Match 4
-605,2022-10-02,Primera División Femenina,Real Betis v Granadilla Tenerife,,Match 4
-606,2022-10-02,Primera División Femenina,Barcelona v Madrid CFF,,Match 4
-607,2022-10-02,Primera División Femenina,Athletic Club v Real Madrid,,Match 4
-608,2022-10-02,Primera División Femenina,Sporting Huelva v Valencia,,Match 4
-609,2022-10-02,Primera División Femenina,Sevilla v Real Sociedad,,Match 4
+602,2022-10-02,Primera División Femenina,Levante v Atletico Madrid,10:00:00,Match 4
+603,2022-10-02,Primera División Femenina,Levante Las Planas v Alhama,10:00:00,Match 4
+604,2022-10-01,Primera División Femenina,Alavés v Villarreal,10:00:00,Match 4
+605,2022-10-01,Primera División Femenina,Real Betis v Granadilla Tenerife,10:00:00,Match 4
+606,2022-10-01,Primera División Femenina,Barcelona v Madrid CFF,16:15:00,Match 4
+607,2022-10-02,Primera División Femenina,Athletic Club v Real Madrid,16:00:00,Match 4
+608,2022-10-01,Primera División Femenina,Sporting Huelva v Valencia,14:00:00,Match 4
+609,2022-10-02,Primera División Femenina,Sevilla v Real Sociedad,14:00:00,Match 4
 610,2022-10-16,Primera División Femenina,Real Sociedad v Granadilla Tenerife,,Match 5
 611,2022-10-16,Primera División Femenina,Villarreal v Sevilla,,Match 5
 612,2022-10-16,Primera División Femenina,Levante Las Planas v Levante,,Match 5
@@ -659,11 +659,11 @@ ID,date,league,teams,time,note_1
 830,2022-09-24,Serie A Femminile,Sassuolo v Juventus,10:30:00,Match 4
 831,2022-09-25,Serie A Femminile,Sampdoria v Inter,12:30:00,Match 4
 832,2022-09-24,Serie A Femminile,Roma v Fiorentina,12:30:00,Match 4
-833,2022-10-01,Serie A Femminile,Fiorentina v Sassuolo,,Match 5
-834,2022-10-01,Serie A Femminile,Roma v Parma,,Match 5
-835,2022-10-01,Serie A Femminile,Como v Inter,,Match 5
-836,2022-10-01,Serie A Femminile,Juventus v Pomigliano Calcio,,Match 5
-837,2022-10-01,Serie A Femminile,AC Milan v Sampdoria,,Match 5
+833,2022-10-01,Serie A Femminile,Fiorentina v Sassuolo,10:30:00,Match 5
+834,2022-10-02,Serie A Femminile,Roma v Parma,12:30:00,Match 5
+835,2022-09-30,Serie A Femminile,Como v Inter,17:00:00,Match 5
+836,2022-10-02,Serie A Femminile,Juventus v Pomigliano Calcio,10:30:00,Match 5
+837,2022-10-01,Serie A Femminile,AC Milan v Sampdoria,12:30:00,Match 5
 838,2022-10-15,Serie A Femminile,Pomigliano Calcio v Fiorentina,,Match 6
 839,2022-10-15,Serie A Femminile,Sampdoria v Juventus,,Match 6
 840,2022-10-15,Serie A Femminile,Inter v AC Milan,,Match 6
