@@ -835,14 +835,6 @@ ID,date,league,teams,time,note_1
 1302,2022-10-04,EFL League One,Plymouth Argyle v Sheffield Wednesday,18:45:00,Match 8
 1303,2022-10-11,EFL League One,Peterborough United v Forest Green Rovers,18:45:00,Match 8
 1304,2022-10-11,EFL League One,Milton Keynes Dons v Bristol Rovers,18:45:00,Match 8
-1305,2022-09-24,EFL League One,Barnsley v Charlton Athletic,14:00:00,Match 11
-1306,2022-09-24,EFL League One,Bristol Rovers v Accrington Stanley,14:00:00,Match 11
-1308,2022-09-24,EFL League One,Forest Green Rovers v Exeter City,11:30:00,Match 11
-1310,2022-09-24,EFL League One,Morecambe v Cambridge United,14:00:00,Match 11
-1312,2022-09-24,EFL League One,Peterborough United v Port Vale,14:00:00,Match 11
-1313,2022-09-25,EFL League One,Plymouth Argyle v Ipswich Town,11:30:00,Match 11
-1315,2022-09-24,EFL League One,Sheffield Wednesday v Wycombe Wanderers,14:00:00,Match 11
-1316,2022-09-24,EFL League One,Shrewsbury Town v Burton Albion,14:00:00,Match 11
 1317,2022-10-01,EFL League One,Accrington Stanley v Morecambe,14:00:00,Match 12
 1318,2022-10-01,EFL League One,Bolton Wanderers v Lincoln City,14:00:00,Match 12
 1319,2022-10-01,EFL League One,Burton Albion v Forest Green Rovers,14:00:00,Match 12
@@ -1268,18 +1260,6 @@ ID,date,league,teams,time,note_1
 1842,2022-10-04,EFL League Two,Swindon Town v Newport County AFC,18:45:00,Match 8
 1843,2022-10-04,EFL League Two,Stevenage v Sutton United,18:45:00,Match 8
 1844,2022-09-27,EFL League Two,Grimsby Town v Carlisle,18:45:00,Match 4
-1857,2022-09-24,EFL League Two,Barrow v Leyton Orient,14:00:00,Match 11
-1858,2022-09-24,EFL League Two,Bradford City v AFC Wimbledon,14:00:00,Match 11
-1859,2022-09-24,EFL League Two,Colchester United v Rochdale,14:00:00,Match 11
-1860,2022-09-24,EFL League Two,Crewe Alexandra v Mansfield Town,14:00:00,Match 11
-1861,2022-09-24,EFL League Two,Doncaster Rovers v Crawley Town,14:00:00,Match 11
-1862,2022-09-24,EFL League Two,Grimsby Town v Swindon Town,14:00:00,Match 11
-1863,2022-09-24,EFL League Two,Hartlepool United v Gillingham,14:00:00,Match 11
-1864,2022-09-24,EFL League Two,Newport County AFC v Carlisle United,14:00:00,Match 11
-1865,2022-09-24,EFL League Two,Northampton Town v Stockport County,13:00:00,Match 11
-1866,2022-09-24,EFL League Two,Stevenage v Harrogate Town,14:00:00,Match 11
-1867,2022-09-24,EFL League Two,Sutton United v Salford City,14:00:00,Match 11
-1868,2022-09-24,EFL League Two,Walsall v Tranmere Rovers,14:00:00,Match 11
 1869,2022-10-01,EFL League Two,Harrogate Town v Bradford City,12:00:00,Match 12
 1870,2022-10-01,EFL League Two,AFC Wimbledon v Colchester United,14:00:00,Match 12
 1871,2022-10-01,EFL League Two,Carlisle United v Crewe Alexandra,14:00:00,Match 12
@@ -1999,38 +1979,7 @@ ID,date,league,teams,time,note_1
 2717,2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
 2718,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2719,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
-2720,2022-09-23,International Friendly,Equatorial Guinea v Rwanda,17:00:00,Martyrs of February Stadium (Libya)
-2721,2022-09-23,International Friendly,Iraq v Oman,15:00:00,King Abdullah II Stadium (Jordan)
-2736,2022-09-23,International Friendly,Saudi Arabia v Ecuador,18:00:00,Estadio de La Condomina (Spain)
-2737,2022-09-23,International Friendly,Japan v USA,12:25:00,Merkur Spiel-Arena (Germany)
-2738,2022-09-23,International Friendly,Qatar v Canada,17:00:00,Franz Horr Stadium (Austria)
-2739,2022-09-23,International Friendly,Iran v Uruguay,16:00:00,NV Arena (Austria)
-2740,2022-09-23,International Friendly,Paraguay v United Arab Emirates,16:00:00,Stadion Wiener Neustadt (Austria)
-2741,2022-09-23,International Friendly,South Korea v Costa Rica,11:00:00,Deokyang Eoulim Nuri Stadium (South Korea)
-2743,2022-09-24,International Friendly,Argentina v Honduras,00:00:00,Hard Rock Stadium (FL USA)
-2744,2022-09-23,International Friendly,Egypt v Niger,18:00:00,Borg El Arab Stadium (Egypt)
-2745,2022-09-23,International Friendly,Brazil v Ghana,18:30:00,Stade Océane (France)
-2746,2022-09-23,International Friendly,Morocco v Chile,19:00:00,Estadi Cornellà-El Prat (Spain)
-2747,2022-09-23,International Friendly,Algeria v Guinea,19:00:00,Oran Olympic Stadium (Algeria)
-2748,2022-09-23,International Friendly,DR Congo v Burkina Faso,16:00:00,Stade Père Jégo (Morocco)
-2749,2022-09-23,International Friendly,Bahrain v Cape Verde,15:30:00,Bahrain National Stadium
-2750,2022-09-23,International Friendly,Jordan v Syria,18:00:00,King Abdullah II Stadium (Jordan)
-2751,2022-09-23,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
-2754,2022-09-24,International Friendly,Colombia v Guatemala,23:30:00,Red Bull Arena (NJ USA)
-2755,2022-09-26,International Friendly,Mali v Zambia,19:00:00,Stade du 26 Mars (Mali)
-2756,2022-09-24,International Friendly,Laos v Maldives,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
-2757,2022-09-24,International Friendly,Hong Kong v Myanmar,12:00:00,Hong Kong Stadium
-2759,2022-09-24,International Friendly,Indonesia v Curaçao,13:00:00,Gelora Bandung Lautan Api Stadium (Indonesia)
-2760,2022-09-24,International Friendly,Kyrgyzstan v Russia,14:00:00,Dolen Omurzakov Stadium (Kyrgyzstan)
-2761,2022-09-24,International Friendly,Ivory Coast v Togo,16:00:00,Stade Robert-Diochon (France)
-2762,2022-09-24,International Friendly,Bolivia v Senegal,16:30:00,Stade de la Source (France)
-2763,2022-09-24,International Friendly,India v Singapore,12:00:00,Thống Nhất Stadium (Vietnam)
-2767,2022-09-24,International Friendly,Tanzania v Uganda,17:00:00,Martyrs of February Stadium (Libya)
-2770,2022-09-24,International Friendly,South Africa v Sierra Leone,13:00:00,FNB Stadium (South Africa)
-2771,2022-09-24,International Friendly,Grenada v St Vincent and the Grenadines,20:00:00,Lauriston Mini Stadium (Grenada)
-2772,2022-09-25,International Friendly,Mexico v Peru,01:00:00,Rose Bowl (CA USA)
-2773,2022-09-25,International Friendly,New Zealand v Australia,03:00:00,Eden Park (New Zealand)
-2774,2022-09-25,International Friendly,Niger v Liberia,15:00:00,Cairo International Stadium (Egypt)
+2774,2022-09-27,International Friendly,Equatorial Guinea v Togo,14:00:00,
 2775,2022-09-27,International Friendly,Saudi Arabia v USA,18:00:00,Estadio de La Condomina (Spain)
 2776,2022-09-27,International Friendly,Canada v Uruguay,16:00:00,Tehelné pole (Slovakia)
 2777,2022-09-27,International Friendly,Qatar v Chile,17:00:00,Franz Horr Stadium (Austria)
@@ -2039,23 +1988,23 @@ ID,date,league,teams,time,note_1
 2780,2022-09-27,International Friendly,Brunei v Laos,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
 2781,2022-09-27,International Friendly,Libya v Tanzania,17:00:00,Martyrs of February Stadium (Libya)
 2782,2022-09-27,International Friendly,Nepal v Bangladesh,11:45:00,Dasharath Stadium (Nepal)
-2783,2022-09-27,International Friendly,DR Congo v Sierra Leone,,
+2783,2022-09-27,International Friendly,DR Congo v Sierra Leone,12:00:00,
 2784,2022-09-27,International Friendly,South Korea v Cameroon,11:00:00,Seoul World Cup Stadium
-2785,2022-09-27,International Friendly,Ecuador v Japan,11:55:00,Merkur Spiel-Arena (Germany)
+2785,2022-09-27,International Friendly,Japan v Ecuador,11:55:00,Merkur Spiel-Arena (Germany)
 2786,2022-09-27,International Friendly,Nicaragua v Ghana,18:00:00,Estadio Francisco Artés Carrasco (Spain)
 2787,2022-09-27,International Friendly,Egypt v Liberia,18:00:00,Borg El Arab Stadium (Egypt)
-2788,2022-09-27,International Friendly,Indonesia v Curaçao,,Stadion Pakansari (Indonesia)
-2789,2022-09-27,International Friendly,United Arab Emirates v Venezuela,17:00:00,
-2790,2022-09-27,International Friendly,Iran v Senegal,17:00:00,
-2791,2022-09-27,International Friendly,Bahrain v Panama,16:00:00,Bahrain National Stadium
+2788,2022-09-27,International Friendly,Indonesia v Curaçao,13:00:00,Stadion Pakansari (Indonesia)
+2789,2022-09-27,International Friendly,United Arab Emirates v Venezuela,15:00:00,
+2790,2022-09-27,International Friendly,Senegal v Iran,14:30:00,
+2791,2022-09-27,International Friendly,Bahrain v Panama,15:30:00,Bahrain National Stadium
 2792,2022-09-27,International Friendly,Uzbekistan v Costa Rica,18:00:00,Suwon World Cup Stadium (South Korea)
 2793,2022-09-27,International Friendly,Ivory Coast v Guinea,18:00:00,Stade de la Licorne (France)
 2794,2022-09-27,International Friendly,Brazil v Tunisia,18:30:00,Parc des Princes (France)
 2795,2022-09-27,International Friendly,Algeria v Nigeria,19:00:00,Oran Olympic Stadium (Algeria)
 2796,2022-09-27,International Friendly,Vietnam v India,12:00:00,Thống Nhất Stadium (Vietnam)
 2797,2022-09-27,International Friendly,Malta v Israel,19:00:00,Ta' Qali National Stadium (Malta)
-2798,2022-09-27,International Friendly,Burkina Faso v Comoros,,Stade Père Jégo (Morocco)
-2800,2022-09-27,International Friendly,South Africa v Botswana,13:00:00,FNB Stadium (South Africa)
+2798,2022-09-27,International Friendly,Burkina Faso v Comoros,17:00:00,Stade Père Jégo (Morocco)
+2800,2022-09-27,International Friendly,South Africa v Botswana,16:00:00,FNB Stadium (South Africa)
 2801,2022-09-28,International Friendly,Honduras v Guatemala,01:00:00,PNC Stadium (TX USA)
 2802,2022-09-28,International Friendly,Jamaica v Argentina,00:00:00,Red Bull Academy (NJ USA)
 2803,2022-09-28,International Friendly,Peru v El Salvador,00:00:00,Audi Field (D.C. USA)
@@ -3616,39 +3565,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-5150,2022-09-23,UEFA Nations League,Georgia v North Macedonia,16:00:00,Group Stage
-5151,2022-09-23,UEFA Nations League,Bosnia and Herzegovina v Montenegro,18:45:00,Group Stage
-5152,2022-09-23,UEFA Nations League,Bulgaria v Gibraltar,18:45:00,Group Stage
-5153,2022-09-23,UEFA Nations League,Estonia v Malta,16:00:00,Group Stage
-5154,2022-09-23,UEFA Nations League,Finland v Romania,18:45:00,Group Stage
-5155,2022-09-23,UEFA Nations League,Germany v Hungary,18:45:00,Group Stage
-5156,2022-09-23,UEFA Nations League,Italy v England,18:45:00,Group Stage
-5157,2022-09-24,UEFA Nations League,Armenia v Ukraine,13:00:00,Group Stage
-5158,2022-09-24,UEFA Nations League,Northern Ireland v Kosovo,16:00:00,Group Stage
-5159,2022-09-24,UEFA Nations League,Slovenia v Norway,16:00:00,Group Stage
-5160,2022-09-24,UEFA Nations League,Scotland v Republic of Ireland,18:45:00,Group Stage
-5161,2022-09-24,UEFA Nations League,Cyprus v Greece,18:45:00,Group Stage
-5162,2022-09-24,UEFA Nations League,Czech Republic v Portugal,18:45:00,Group Stage
-5163,2022-09-24,UEFA Nations League,Israel v Albania,18:45:00,Group Stage
-5164,2022-09-24,UEFA Nations League,Serbia v Sweden,18:45:00,Group Stage
-5165,2022-09-24,UEFA Nations League,Spain v Switzerland,18:45:00,Group Stage
-5166,2022-09-25,UEFA Nations League,Andorra v Latvia,13:00:00,Group Stage
-5167,2022-09-25,UEFA Nations League,Moldova v Liechtenstein,13:00:00,Group Stage
-5168,2022-09-25,UEFA Nations League,Azerbaijan v Kazakhstan,16:00:00,Group Stage
-5169,2022-09-25,UEFA Nations League,Slovakia v Belarus,16:00:00,Group Stage
-5170,2022-09-25,UEFA Nations League,Austria v Croatia,18:45:00,Group Stage
-5171,2022-09-25,UEFA Nations League,Denmark v France,18:45:00,Group Stage
-5172,2022-09-25,UEFA Nations League,Faroe Islands v Turkey,18:45:00,Group Stage
-5173,2022-09-25,UEFA Nations League,Luxembourg v Lithuania,18:45:00,Group Stage
-5174,2022-09-25,UEFA Nations League,Netherlands v Belgium,18:45:00,Group Stage
-5175,2022-09-25,UEFA Nations League,Wales v Poland,18:45:00,Group Stage
-5176,2022-09-26,UEFA Nations League,England v Germany,18:45:00,Group Stage
-5177,2022-09-26,UEFA Nations League,Gibraltar v Georgia,18:45:00,Group Stage
-5178,2022-09-26,UEFA Nations League,Hungary v Italy,18:45:00,Group Stage
-5179,2022-09-26,UEFA Nations League,Montenegro v Finland,18:45:00,Group Stage
-5180,2022-09-26,UEFA Nations League,North Macedonia v Bulgaria,18:45:00,Group Stage
-5181,2022-09-26,UEFA Nations League,Romania v Bosnia and Herzegovina,18:45:00,Group Stage
-5182,2022-09-26,UEFA Nations League,San Marino v Estonia,18:45:00,Group Stage
 5183,2022-09-27,UEFA Nations League,Republic of Ireland v Armenia,18:45:00,Group Stage
 5184,2022-09-27,UEFA Nations League,Ukraine v Scotland,18:45:00,Group Stage
 5185,2022-09-27,UEFA Nations League,Albania v Iceland,18:45:00,Group Stage
@@ -3658,7 +3574,6 @@ ID,date,league,teams,time,note_1
 5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
 5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
 5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
-5333,2022-09-25,USA MLS,San Jose Earthquakes v Los Angeles Galaxy,02:00:00,Regular Season
 5350,2022-09-28,USA MLS,Seattle Sounders FC v FC Cincinnati,02:00:00,Regular Season
 5351,2022-09-30,USA MLS,Toronto FC v Inter Miami CF,23:30:00,Regular Season
 5352,2022-10-01,USA MLS,New England Revolution v Atlanta United FC,17:30:00,Regular Season

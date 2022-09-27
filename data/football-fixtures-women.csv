@@ -1,10 +1,4 @@
 ID,date,league,teams,time,note_1
-16,2022-09-25,Frauen-Bundesliga,Bayern v Werder Bremen,11:00:00,Match 2
-17,2022-09-25,Frauen-Bundesliga,Freiburg v Eintracht Frankfurt,14:00:00,Match 2
-18,2022-09-24,Frauen-Bundesliga,Hoffenheim v Wolfsburg,15:55:00,Match 2
-19,2022-09-23,Frauen-Bundesliga,Leverkusen v Köln,17:15:00,Match 2
-20,2022-09-25,Frauen-Bundesliga,Potsdam v Duisburg,11:00:00,Match 2
-21,2022-09-25,Frauen-Bundesliga,SGS Essen v Meppen,14:00:00,Match 2
 22,2022-10-02,Frauen-Bundesliga,Duisburg v Bayern,14:01:00,Match 3
 23,2022-10-02,Frauen-Bundesliga,Eintracht Frankfurt v Werder Bremen,11:01:00,Match 3
 24,2022-10-02,Frauen-Bundesliga,Freiburg v SGS Essen,14:01:00,Match 3
@@ -146,13 +140,6 @@ ID,date,league,teams,time,note_1
 162,2022-11-11,International Friendly,United States v Germany,00:00:00,DRV PNK Stadium (FL USA)
 163,2022-11-12,International Friendly,Australia v Sweden,03:45:00,Melbourne Rectangular Stadium (Australia)
 164,2022-11-13,International Friendly,United States v Germany,22:00:00,Red Bull Arena (NJ USA)
-208,2022-09-24,Swedish Damallsvenskan,Rosengård v Vittsjö,14:00:00,Round 21
-209,2022-09-24,Swedish Damallsvenskan,Häcken v BP,13:00:00,Round 21
-210,2022-09-24,Swedish Damallsvenskan,Kristianstad v Djurgården,13:00:00,Round 21
-211,2022-09-25,Swedish Damallsvenskan,IFK Kalmar v Piteå,11:00:00,Round 21
-212,2022-09-25,Swedish Damallsvenskan,AIK v Eskilstuna,13:00:00,Round 21
-213,2022-09-25,Swedish Damallsvenskan,Umeå IK v Örebro,13:00:00,Round 21
-214,2022-09-26,Swedish Damallsvenskan,Hammarby v Linköping,17:00:00,Round 21
 215,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
 216,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
 217,2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
@@ -190,12 +177,6 @@ ID,date,league,teams,time,note_1
 249,2022-11-05,Swedish Damallsvenskan,Örebro v Linköping,10:00:00,Round 26
 260,2022-09-28,Women's Super League,Chelsea v West Ham United,18:05:00,Match 1
 261,2022-09-29,Women's Super League,Everton v Leicester City,17:30:00,Match 1
-267,2022-09-24,Women's Super League,Arsenal v Tottenham Hotspur,12:30:00,Match 3
-268,2022-09-25,Women's Super League,Brighton and Hove Albion v Reading,13:00:00,Match 3
-269,2022-09-25,Women's Super League,Chelsea v Manchester City,15:00:00,Match 3
-270,2022-09-25,Women's Super League,Leicester City v Aston Villa,14:00:00,Match 3
-271,2022-09-25,Women's Super League,Liverpool v Everton,17:45:00,Match 3
-272,2022-09-25,Women's Super League,West Ham United v Manchester United,14:00:00,Match 3
 273,2022-10-15,Women's Super League,Aston Villa v West Ham United,11:30:00,Match 4
 274,2022-10-16,Women's Super League,Everton v Chelsea,12:00:00,Match 4
 275,2022-10-16,Women's Super League,Manchester City v Leicester City,13:00:00,Match 4
@@ -310,12 +291,6 @@ ID,date,league,teams,time,note_1
 384,2023-05-28,Women's Super League,Manchester City v Everton,,Match 22
 385,2023-05-28,Women's Super League,Reading v Chelsea,,Match 22
 386,2023-05-28,Women's Super League,West Ham United v Tottenham Hotspur,,Match 22
-458,2022-09-23,Division 1 Féminine,Paris FC v Le Havre,16:30:00,Match 3
-459,2022-09-23,Division 1 Féminine,Montpellier v Lyon,19:00:00,Match 3
-460,2022-09-24,Division 1 Féminine,Soyaux v Rodez,12:30:00,Match 3
-461,2022-09-24,Division 1 Féminine,Guingamp v Dijon,12:30:00,Match 3
-462,2022-09-24,Division 1 Féminine,Bordeaux v Reims,12:30:00,Match 3
-463,2022-09-25,Division 1 Féminine,Paris St Germain v Fleury,10:45:00,Match 3
 464,2022-10-01,Division 1 Féminine,Fleury v Soyaux,12:30:00,Match 4
 465,2022-10-01,Division 1 Féminine,Reims v Guingamp,12:30:00,Match 4
 466,2022-10-01,Division 1 Féminine,Lyon v Rodez,12:30:00,Match 4
@@ -430,14 +405,6 @@ ID,date,league,teams,time,note_1
 575,2023-05-27,Division 1 Féminine,Fleury v Guingamp,,Match 22
 576,2023-05-27,Division 1 Féminine,Soyaux v Paris St Germain,,Match 22
 577,2023-05-27,Division 1 Féminine,Le Havre v Bordeaux,,Match 22
-594,2022-09-25,Primera División Femenina,Granadilla Tenerife v Real Madrid,19:00:00,Match 3
-595,2022-09-25,Primera División Femenina,Levante v Athletic Club,17:00:00,Match 3
-596,2022-09-25,Primera División Femenina,Atletico Madrid v Alavés,10:00:00,Match 3
-597,2022-09-24,Primera División Femenina,Real Sociedad v Real Betis,16:00:00,Match 3
-598,2022-09-24,Primera División Femenina,Sporting Huelva v Alhama,10:00:00,Match 3
-599,2022-09-24,Primera División Femenina,Valencia v Sevilla,14:00:00,Match 3
-600,2022-09-25,Primera División Femenina,Villarreal v Barcelona,15:00:00,Match 3
-601,2022-09-24,Primera División Femenina,Madrid CFF v Levante Las Planas,10:00:00,Match 3
 602,2022-10-02,Primera División Femenina,Levante v Atletico Madrid,10:00:00,Match 4
 603,2022-10-02,Primera División Femenina,Levante Las Planas v Alhama,10:00:00,Match 4
 604,2022-10-01,Primera División Femenina,Alavés v Villarreal,10:00:00,Match 4
@@ -654,11 +621,6 @@ ID,date,league,teams,time,note_1
 815,2023-05-21,Primera División Femenina,Athletic Club v Villarreal,,Match 30
 816,2023-05-21,Primera División Femenina,Atletico Madrid v Granadilla Tenerife,,Match 30
 817,2023-05-21,Primera División Femenina,Madrid CFF v Barcelona,,Match 30
-828,2022-09-25,Serie A Femminile,Pomigliano Calcio v Como,10:30:00,Match 4
-829,2022-09-24,Serie A Femminile,Parma v AC Milan,12:30:00,Match 4
-830,2022-09-24,Serie A Femminile,Sassuolo v Juventus,10:30:00,Match 4
-831,2022-09-25,Serie A Femminile,Sampdoria v Inter,12:30:00,Match 4
-832,2022-09-24,Serie A Femminile,Roma v Fiorentina,12:30:00,Match 4
 833,2022-10-01,Serie A Femminile,Fiorentina v Sassuolo,10:30:00,Match 5
 834,2022-10-02,Serie A Femminile,Roma v Parma,12:30:00,Match 5
 835,2022-09-30,Serie A Femminile,Como v Inter,17:00:00,Match 5
