@@ -7,22 +7,22 @@ ID,date,league,teams,time,note_1
 76,2022-10-02,Allsvenskan,Kalmar FF v Helsingborgs IF,15:30:00,Match 24
 77,2022-10-01,Allsvenskan,Malmö FF v Hammarby IF,13:00:00,Match 24
 78,2022-10-02,Allsvenskan,Varbergs BoIS v BK Häcken,13:00:00,Match 24
-79,2022-10-09,Allsvenskan,AIK v Helsingborgs IF,,Match 25
-80,2022-10-09,Allsvenskan,Degerfors IF v IK Sirius,,Match 25
-81,2022-10-09,Allsvenskan,Djurgårdens IF v BK Häcken,,Match 25
-82,2022-10-09,Allsvenskan,GIF Sundsvall v IFK Göteborg,,Match 25
-83,2022-10-09,Allsvenskan,Hammarby IF v Varbergs BoIS,,Match 25
-84,2022-10-09,Allsvenskan,IF Elfsborg v Kalmar FF,,Match 25
-85,2022-10-09,Allsvenskan,IFK Norrköping v Mjällby AIF,,Match 25
-86,2022-10-09,Allsvenskan,Malmö FF v IFK Värnamo,,Match 25
-87,2022-10-16,Allsvenskan,BK Häcken v GIF Sundsvall,,Match 26
-88,2022-10-16,Allsvenskan,Djurgårdens IF v AIK,,Match 26
-89,2022-10-16,Allsvenskan,Helsingborgs IF v Varbergs BoIS,,Match 26
-90,2022-10-16,Allsvenskan,IF Elfsborg v Degerfors IF,,Match 26
-91,2022-10-16,Allsvenskan,IFK Göteborg v Malmö FF,,Match 26
-92,2022-10-16,Allsvenskan,IFK Värnamo v Kalmar FF,,Match 26
-93,2022-10-16,Allsvenskan,IK Sirius v IFK Norrköping,,Match 26
-94,2022-10-16,Allsvenskan,Mjällby AIF v Hammarby IF,,Match 26
+79,2022-10-09,Allsvenskan,AIK v Helsingborgs IF,15:30:00,Match 25
+80,2022-10-08,Allsvenskan,Degerfors IF v IK Sirius,13:00:00,Match 25
+81,2022-10-09,Allsvenskan,Djurgårdens IF v BK Häcken,15:30:00,Match 25
+82,2022-10-09,Allsvenskan,GIF Sundsvall v IFK Göteborg,13:00:00,Match 25
+83,2022-10-10,Allsvenskan,Hammarby IF v Varbergs BoIS,17:10:00,Match 25
+84,2022-10-09,Allsvenskan,IF Elfsborg v Kalmar FF,13:00:00,Match 25
+85,2022-10-10,Allsvenskan,IFK Norrköping v Mjällby AIF,17:00:00,Match 25
+86,2022-10-09,Allsvenskan,Malmö FF v IFK Värnamo,13:00:00,Match 25
+87,2022-10-15,Allsvenskan,BK Häcken v GIF Sundsvall,13:00:00,Match 26
+88,2022-10-16,Allsvenskan,Djurgårdens IF v AIK,13:00:00,Match 26
+89,2022-10-15,Allsvenskan,Helsingborgs IF v Varbergs BoIS,13:00:00,Match 26
+90,2022-10-14,Allsvenskan,IF Elfsborg v Degerfors IF,17:00:00,Match 26
+91,2022-10-17,Allsvenskan,IFK Göteborg v Malmö FF,17:10:00,Match 26
+92,2022-10-15,Allsvenskan,IFK Värnamo v Kalmar FF,15:30:00,Match 26
+93,2022-10-15,Allsvenskan,IK Sirius v IFK Norrköping,15:30:00,Match 26
+94,2022-10-16,Allsvenskan,Mjällby AIF v Hammarby IF,15:30:00,Match 26
 95,2022-10-19,Allsvenskan,AIK v BK Häcken,,Match 27
 96,2022-10-19,Allsvenskan,Degerfors IF v IFK Göteborg,,Match 27
 97,2022-10-19,Allsvenskan,GIF Sundsvall v IFK Värnamo,,Match 27
@@ -57,34 +57,33 @@ ID,date,league,teams,time,note_1
 126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
 217,2022-09-28,Brazilian Série A,Santos v Atletico Paranaense,00:30:00,Match 28
 218,2022-09-28,Brazilian Série A,Corinthians v Atletico Goianiense,22:00:00,Match 28
-219,2022-09-27,Brazilian Série A,Sao Paulo v Avai,22:00:00,Match 28
 220,2022-09-28,Brazilian Série A,Fluminense v Juventude,22:00:00,Match 28
-221,2022-09-29,Brazilian Série A,Coritiba v Ceara,00:45:00,Match 28
+221,2022-09-28,Brazilian Série A,Coritiba v Ceara,22:00:00,Match 28
 222,2022-09-29,Brazilian Série A,Atletico Mineiro v Palmeiras,00:45:00,Match 28
 223,2022-09-29,Brazilian Série A,Cuiaba v America Mineiro,00:00:00,Match 28
 224,2022-09-29,Brazilian Série A,Goias v Botafogo,00:45:00,Match 28
 225,2022-09-28,Brazilian Série A,Fortaleza v Flamengo,22:00:00,Match 28
-226,2022-09-28,Brazilian Série A,Internacional v Bragantino,22:00:00,Match 28
-227,2022-10-01,Brazilian Série A,Ceara v America Mineiro,,Match 29
-228,2022-10-01,Brazilian Série A,Atletico Paranaense v Juventude,,Match 29
-229,2022-10-01,Brazilian Série A,Avai v Atletico Goianiense,,Match 29
-230,2022-10-01,Brazilian Série A,Goias v Fortaleza,,Match 29
-231,2022-10-01,Brazilian Série A,Internacional v Santos,,Match 29
-232,2022-10-01,Brazilian Série A,Botafogo v Palmeiras,,Match 29
-233,2022-10-01,Brazilian Série A,Corinthians v Cuiaba,,Match 29
-234,2022-10-01,Brazilian Série A,Sao Paulo v Coritiba,,Match 29
-235,2022-10-01,Brazilian Série A,Atletico Mineiro v Fluminense,,Match 29
-236,2022-10-01,Brazilian Série A,Flamengo v Bragantino,,Match 29
-237,2022-10-05,Brazilian Série A,Santos v Atletico Mineiro,,Match 30
-238,2022-10-05,Brazilian Série A,Juventude v Corinthians,,Match 30
-239,2022-10-05,Brazilian Série A,Bragantino v Cuiaba,,Match 30
-240,2022-10-05,Brazilian Série A,Palmeiras v Coritiba,,Match 30
-241,2022-10-05,Brazilian Série A,Ceara v Goias,,Match 30
-242,2022-10-05,Brazilian Série A,America Mineiro v Sao Paulo,,Match 30
-243,2022-10-05,Brazilian Série A,Atletico Goianiense v Fluminense,,Match 30
-244,2022-10-05,Brazilian Série A,Avai v Botafogo,,Match 30
-245,2022-10-05,Brazilian Série A,Atletico Paranaense v Fortaleza,,Match 30
-246,2022-10-05,Brazilian Série A,Flamengo v Internacional,,Match 30
+226,2022-09-29,Brazilian Série A,Internacional v Bragantino,00:45:00,Match 28
+227,2022-10-01,Brazilian Série A,Ceara v America Mineiro,18:00:00,Match 29
+228,2022-10-01,Brazilian Série A,Atletico Paranaense v Juventude,22:00:00,Match 29
+229,2022-10-01,Brazilian Série A,Avai v Atletico Goianiense,22:00:00,Match 29
+230,2022-10-01,Brazilian Série A,Goias v Fortaleza,22:00:00,Match 29
+231,2022-10-01,Brazilian Série A,Internacional v Santos,18:00:00,Match 29
+232,2022-10-03,Brazilian Série A,Botafogo v Palmeiras,23:00:00,Match 29
+233,2022-10-02,Brazilian Série A,Corinthians v Cuiaba,00:00:00,Match 29
+234,2022-10-20,Brazilian Série A,Sao Paulo v Coritiba,23:00:00,Match 29
+235,2022-10-01,Brazilian Série A,Atletico Mineiro v Fluminense,18:00:00,Match 29
+236,2022-10-01,Brazilian Série A,Flamengo v Bragantino,22:00:00,Match 29
+237,2022-10-06,Brazilian Série A,Santos v Atletico Mineiro,00:30:00,Match 30
+238,2022-10-05,Brazilian Série A,Juventude v Corinthians,00:30:00,Match 30
+239,2022-10-05,Brazilian Série A,Bragantino v Cuiaba,22:00:00,Match 30
+240,2022-10-06,Brazilian Série A,Palmeiras v Coritiba,22:00:00,Match 30
+241,2022-10-05,Brazilian Série A,Ceara v Goias,22:00:00,Match 30
+242,2022-10-06,Brazilian Série A,America Mineiro v Sao Paulo,23:00:00,Match 30
+243,2022-10-05,Brazilian Série A,Atletico Goianiense v Fluminense,22:00:00,Match 30
+244,2022-10-06,Brazilian Série A,Avai v Botafogo,22:00:00,Match 30
+245,2022-10-05,Brazilian Série A,Atletico Paranaense v Fortaleza,22:30:00,Match 30
+246,2022-10-06,Brazilian Série A,Flamengo v Internacional,00:30:00,Match 30
 247,2022-10-09,Brazilian Série A,Sao Paulo v Botafogo,,Match 31
 248,2022-10-09,Brazilian Série A,Corinthians v Atletico Paranaense,,Match 31
 249,2022-10-09,Brazilian Série A,Santos v Juventude,,Match 31
@@ -831,6 +830,9 @@ ID,date,league,teams,time,note_1
 1182,2023-05-06,EFL Championship,Swansea City v West Bromwich Albion,,Match 46
 1183,2023-05-06,EFL Championship,Watford v Stoke City,,Match 46
 1184,2023-05-06,EFL Championship,Wigan Athletic v Rotherham United,,Match 46
+1298,2022-10-11,EFL League One,Charlton Athletic v Exeter City,18:45:00,Match 8
+1299,2022-10-04,EFL League One,Cheltenham Town v Bolton Wanderers,18:45:00,Match 8
+1300,2022-10-04,EFL League One,Burton Albion v Fleetwood Town,18:45:00,Match 8
 1301,2022-10-04,EFL League One,Ipswich Town v Cambridge United,18:45:00,Match 8
 1302,2022-10-04,EFL League One,Plymouth Argyle v Sheffield Wednesday,18:45:00,Match 8
 1303,2022-10-11,EFL League One,Peterborough United v Forest Green Rovers,18:45:00,Match 8
@@ -863,7 +865,7 @@ ID,date,league,teams,time,note_1
 1342,2022-10-15,EFL League One,Bolton Wanderers v Barnsley,14:00:00,Match 14
 1343,2022-10-15,EFL League One,Burton Albion v Morecambe,14:00:00,Match 14
 1344,2022-10-15,EFL League One,Cambridge United v Sheffield Wednesday,14:00:00,Match 14
-1345,2022-10-15,EFL League One,Charlton Athletic v Portsmouth,14:00:00,Match 14
+1345,2022-10-17,EFL League One,Charlton Athletic v Portsmouth,19:00:00,Match 14
 1346,2022-10-15,EFL League One,Cheltenham Town v Bristol Rovers,14:00:00,Match 14
 1347,2022-10-15,EFL League One,Exeter City v Oxford United,14:00:00,Match 14
 1348,2022-10-15,EFL League One,Fleetwood Town v Shrewsbury Town,14:00:00,Match 14
@@ -877,8 +879,8 @@ ID,date,league,teams,time,note_1
 1356,2022-10-22,EFL League One,Cambridge United v Port Vale,14:00:00,Match 15
 1357,2022-10-22,EFL League One,Exeter City v Fleetwood Town,14:00:00,Match 15
 1358,2022-10-22,EFL League One,Forest Green Rovers v Portsmouth,14:00:00,Match 15
-1359,2022-10-22,EFL League One,Ipswich Town v Derby County,14:00:00,Match 15
-1360,2022-10-22,EFL League One,Lincoln City v Sheffield Wednesday,14:00:00,Match 15
+1359,2022-10-21,EFL League One,Ipswich Town v Derby County,19:00:00,Match 15
+1360,2022-10-22,EFL League One,Lincoln City v Sheffield Wednesday,12:00:00,Match 15
 1361,2022-10-22,EFL League One,Milton Keynes Dons v Wycombe Wanderers,14:00:00,Match 15
 1362,2022-10-22,EFL League One,Morecambe v Barnsley,14:00:00,Match 15
 1363,2022-10-22,EFL League One,Oxford United v Peterborough United,14:00:00,Match 15
@@ -893,7 +895,7 @@ ID,date,league,teams,time,note_1
 1372,2022-10-25,EFL League One,Plymouth Argyle v Shrewsbury Town,18:45:00,Match 16
 1373,2022-10-25,EFL League One,Port Vale v Ipswich Town,18:45:00,Match 16
 1374,2022-10-25,EFL League One,Portsmouth v Oxford United,18:45:00,Match 16
-1375,2022-10-25,EFL League One,Sheffield Wednesday v Bristol Rovers,18:45:00,Match 16
+1375,2022-10-26,EFL League One,Sheffield Wednesday v Bristol Rovers,19:00:00,Match 16
 1376,2022-10-25,EFL League One,Wycombe Wanderers v Cambridge United,18:45:00,Match 16
 1377,2022-10-29,EFL League One,Barnsley v Forest Green Rovers,14:00:00,Match 17
 1378,2022-10-29,EFL League One,Bolton Wanderers v Oxford United,14:00:00,Match 17
@@ -902,7 +904,7 @@ ID,date,league,teams,time,note_1
 1381,2022-10-29,EFL League One,Derby County v Bristol Rovers,14:00:00,Match 17
 1382,2022-10-29,EFL League One,Fleetwood Town v Accrington Stanley,14:00:00,Match 17
 1383,2022-10-29,EFL League One,Peterborough United v Cambridge United,14:00:00,Match 17
-1384,2022-10-29,EFL League One,Plymouth Argyle v Exeter City,14:00:00,Match 17
+1384,2022-10-31,EFL League One,Plymouth Argyle v Exeter City,20:00:00,Match 17
 1385,2022-10-29,EFL League One,Port Vale v Lincoln City,14:00:00,Match 17
 1386,2022-10-29,EFL League One,Portsmouth v Shrewsbury Town,14:00:00,Match 17
 1387,2022-10-29,EFL League One,Sheffield Wednesday v Burton Albion,14:00:00,Match 17
@@ -1259,7 +1261,6 @@ ID,date,league,teams,time,note_1
 1841,2022-10-04,EFL League Two,Hartlepool United v Doncaster Rovers,18:45:00,Match 8
 1842,2022-10-04,EFL League Two,Swindon Town v Newport County AFC,18:45:00,Match 8
 1843,2022-10-04,EFL League Two,Stevenage v Sutton United,18:45:00,Match 8
-1844,2022-09-27,EFL League Two,Grimsby Town v Carlisle,18:45:00,Match 4
 1869,2022-10-01,EFL League Two,Harrogate Town v Bradford City,12:00:00,Match 12
 1870,2022-10-01,EFL League Two,AFC Wimbledon v Colchester United,14:00:00,Match 12
 1871,2022-10-01,EFL League Two,Carlisle United v Crewe Alexandra,14:00:00,Match 12
@@ -1979,32 +1980,7 @@ ID,date,league,teams,time,note_1
 2717,2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
 2718,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2719,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
-2774,2022-09-27,International Friendly,Equatorial Guinea v Togo,14:00:00,
-2775,2022-09-27,International Friendly,Saudi Arabia v USA,18:00:00,Estadio de La Condomina (Spain)
-2776,2022-09-27,International Friendly,Canada v Uruguay,16:00:00,Tehelné pole (Slovakia)
-2777,2022-09-27,International Friendly,Qatar v Chile,17:00:00,Franz Horr Stadium (Austria)
 2778,2022-09-28,International Friendly,Mexico v Colombia,02:00:00,Levi's Stadium (CA USA)
-2779,2022-09-27,International Friendly,Paraguay v Morocco,19:00:00,Estadio Benito Villamarín (Spain)
-2780,2022-09-27,International Friendly,Brunei v Laos,08:00:00,Hassanal Bolkiah National Stadium (Brunei)
-2781,2022-09-27,International Friendly,Libya v Tanzania,17:00:00,Martyrs of February Stadium (Libya)
-2782,2022-09-27,International Friendly,Nepal v Bangladesh,11:45:00,Dasharath Stadium (Nepal)
-2783,2022-09-27,International Friendly,DR Congo v Sierra Leone,12:00:00,
-2784,2022-09-27,International Friendly,South Korea v Cameroon,11:00:00,Seoul World Cup Stadium
-2785,2022-09-27,International Friendly,Japan v Ecuador,11:55:00,Merkur Spiel-Arena (Germany)
-2786,2022-09-27,International Friendly,Nicaragua v Ghana,18:00:00,Estadio Francisco Artés Carrasco (Spain)
-2787,2022-09-27,International Friendly,Egypt v Liberia,18:00:00,Borg El Arab Stadium (Egypt)
-2788,2022-09-27,International Friendly,Indonesia v Curaçao,13:00:00,Stadion Pakansari (Indonesia)
-2789,2022-09-27,International Friendly,United Arab Emirates v Venezuela,15:00:00,
-2790,2022-09-27,International Friendly,Senegal v Iran,14:30:00,
-2791,2022-09-27,International Friendly,Bahrain v Panama,15:30:00,Bahrain National Stadium
-2792,2022-09-27,International Friendly,Uzbekistan v Costa Rica,18:00:00,Suwon World Cup Stadium (South Korea)
-2793,2022-09-27,International Friendly,Ivory Coast v Guinea,18:00:00,Stade de la Licorne (France)
-2794,2022-09-27,International Friendly,Brazil v Tunisia,18:30:00,Parc des Princes (France)
-2795,2022-09-27,International Friendly,Algeria v Nigeria,19:00:00,Oran Olympic Stadium (Algeria)
-2796,2022-09-27,International Friendly,Vietnam v India,12:00:00,Thống Nhất Stadium (Vietnam)
-2797,2022-09-27,International Friendly,Malta v Israel,19:00:00,Ta' Qali National Stadium (Malta)
-2798,2022-09-27,International Friendly,Burkina Faso v Comoros,17:00:00,Stade Père Jégo (Morocco)
-2800,2022-09-27,International Friendly,South Africa v Botswana,16:00:00,FNB Stadium (South Africa)
 2801,2022-09-28,International Friendly,Honduras v Guatemala,01:00:00,PNC Stadium (TX USA)
 2802,2022-09-28,International Friendly,Jamaica v Argentina,00:00:00,Red Bull Academy (NJ USA)
 2803,2022-09-28,International Friendly,Peru v El Salvador,00:00:00,Audi Field (D.C. USA)
@@ -3565,15 +3541,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-5183,2022-09-27,UEFA Nations League,Republic of Ireland v Armenia,18:45:00,Group Stage
-5184,2022-09-27,UEFA Nations League,Ukraine v Scotland,18:45:00,Group Stage
-5185,2022-09-27,UEFA Nations League,Albania v Iceland,18:45:00,Group Stage
-5186,2022-09-27,UEFA Nations League,Greece v Northern Ireland,18:45:00,Group Stage
-5187,2022-09-27,UEFA Nations League,Kosovo v Cyprus,18:45:00,Group Stage
-5188,2022-09-27,UEFA Nations League,Norway v Serbia,18:45:00,Group Stage
-5189,2022-09-27,UEFA Nations League,Portugal v Spain,18:45:00,Group Stage
-5190,2022-09-27,UEFA Nations League,Sweden v Slovenia,18:45:00,Group Stage
-5191,2022-09-27,UEFA Nations League,Switzerland v Czech Republic,18:45:00,Group Stage
 5350,2022-09-28,USA MLS,Seattle Sounders FC v FC Cincinnati,02:00:00,Regular Season
 5351,2022-09-30,USA MLS,Toronto FC v Inter Miami CF,23:30:00,Regular Season
 5352,2022-10-01,USA MLS,New England Revolution v Atlanta United FC,17:30:00,Regular Season
