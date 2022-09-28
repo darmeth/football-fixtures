@@ -5,30 +5,30 @@ ID,date,league,teams,time,note_1
 25,2022-10-01,Frauen-Bundesliga,Köln v Potsdam,11:01:00,Match 3
 26,2022-10-02,Frauen-Bundesliga,Meppen v Hoffenheim,11:01:00,Match 3
 27,2022-09-30,Frauen-Bundesliga,Wolfsburg v Leverkusen,17:16:00,Match 3
-28,2022-10-16,Frauen-Bundesliga,Bayern v Köln,,Match 4
-29,2022-10-16,Frauen-Bundesliga,Werder Bremen v Duisburg,,Match 4
-30,2022-10-16,Frauen-Bundesliga,Hoffenheim v Freiburg,,Match 4
-31,2022-10-16,Frauen-Bundesliga,Leverkusen v Meppen,,Match 4
-32,2022-10-16,Frauen-Bundesliga,Potsdam v Wolfsburg,,Match 4
-33,2022-10-16,Frauen-Bundesliga,SGS Essen v Eintracht Frankfurt,,Match 4
-34,2022-10-23,Frauen-Bundesliga,Eintracht Frankfurt v Duisburg,,Match 5
-35,2022-10-23,Frauen-Bundesliga,Freiburg v Leverkusen,,Match 5
-36,2022-10-23,Frauen-Bundesliga,Köln v Werder Bremen,,Match 5
-37,2022-10-23,Frauen-Bundesliga,Meppen v Potsdam,,Match 5
-38,2022-10-23,Frauen-Bundesliga,SGS Essen v Hoffenheim,,Match 5
-39,2022-10-23,Frauen-Bundesliga,Wolfsburg v Bayern,,Match 5
-40,2022-10-30,Frauen-Bundesliga,Bayern v Meppen,,Match 6
-41,2022-10-30,Frauen-Bundesliga,Werder Bremen v Wolfsburg,,Match 6
-42,2022-10-30,Frauen-Bundesliga,Duisburg v Köln,,Match 6
-43,2022-10-30,Frauen-Bundesliga,Hoffenheim v Eintracht Frankfurt,,Match 6
-44,2022-10-30,Frauen-Bundesliga,Leverkusen v SGS Essen,,Match 6
-45,2022-10-30,Frauen-Bundesliga,Potsdam v Freiburg,,Match 6
-46,2022-11-05,Frauen-Bundesliga,Eintracht Frankfurt v Köln,,Match 7
-47,2022-11-05,Frauen-Bundesliga,Freiburg v Bayern,,Match 7
-48,2022-11-05,Frauen-Bundesliga,Hoffenheim v Leverkusen,,Match 7
-49,2022-11-05,Frauen-Bundesliga,Meppen v Werder Bremen,,Match 7
-50,2022-11-05,Frauen-Bundesliga,SGS Essen v Potsdam,,Match 7
-51,2022-11-05,Frauen-Bundesliga,Wolfsburg v Duisburg,,Match 7
+28,2022-10-16,Frauen-Bundesliga,Bayern v Köln,11:01:00,Match 4
+29,2022-10-16,Frauen-Bundesliga,Werder Bremen v Duisburg,14:01:00,Match 4
+30,2022-10-14,Frauen-Bundesliga,Hoffenheim v Freiburg,17:16:00,Match 4
+31,2022-10-16,Frauen-Bundesliga,Leverkusen v Meppen,11:01:00,Match 4
+32,2022-10-15,Frauen-Bundesliga,Potsdam v Wolfsburg,11:01:00,Match 4
+33,2022-10-16,Frauen-Bundesliga,SGS Essen v Eintracht Frankfurt,14:01:00,Match 4
+34,2022-10-23,Frauen-Bundesliga,Eintracht Frankfurt v Duisburg,14:00:00,Match 5
+35,2022-10-22,Frauen-Bundesliga,Freiburg v Leverkusen,11:00:00,Match 5
+36,2022-10-23,Frauen-Bundesliga,Köln v Werder Bremen,14:00:00,Match 5
+37,2022-10-21,Frauen-Bundesliga,Meppen v Potsdam,17:15:00,Match 5
+38,2022-10-23,Frauen-Bundesliga,SGS Essen v Hoffenheim,11:00:00,Match 5
+39,2022-10-23,Frauen-Bundesliga,Wolfsburg v Bayern,12:00:00,Match 5
+40,2022-10-30,Frauen-Bundesliga,Bayern v Meppen,12:00:00,Match 6
+41,2022-10-30,Frauen-Bundesliga,Werder Bremen v Wolfsburg,15:00:00,Match 6
+42,2022-10-28,Frauen-Bundesliga,Duisburg v Köln,17:15:00,Match 6
+43,2022-10-29,Frauen-Bundesliga,Hoffenheim v Eintracht Frankfurt,11:00:00,Match 6
+44,2022-10-30,Frauen-Bundesliga,Leverkusen v SGS Essen,15:00:00,Match 6
+45,2022-10-30,Frauen-Bundesliga,Potsdam v Freiburg,12:00:00,Match 6
+46,2022-11-06,Frauen-Bundesliga,Eintracht Frankfurt v Köln,15:00:00,Match 7
+47,2022-11-05,Frauen-Bundesliga,Freiburg v Bayern,12:00:00,Match 7
+48,2022-11-04,Frauen-Bundesliga,Hoffenheim v Leverkusen,18:15:00,Match 7
+49,2022-11-06,Frauen-Bundesliga,Meppen v Werder Bremen,15:00:00,Match 7
+50,2022-11-06,Frauen-Bundesliga,SGS Essen v Potsdam,12:00:00,Match 7
+51,2022-11-06,Frauen-Bundesliga,Wolfsburg v Duisburg,12:00:00,Match 7
 52,2022-11-26,Frauen-Bundesliga,Bayern v SGS Essen,,Match 8
 53,2022-11-26,Frauen-Bundesliga,Werder Bremen v Freiburg,,Match 8
 54,2022-11-26,Frauen-Bundesliga,Duisburg v Meppen,,Match 8
@@ -121,16 +121,16 @@ ID,date,league,teams,time,note_1
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
 144,2022-09-30,International Friendly,Botswana v Namibia,12:45:00,Botswana National Stadium
 145,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
-146,2022-10-06,International Friendly,Cyprus v Liechtenstein,11:00:00,Athlítiko Kentro Zenon (Cyprus)
-147,2022-10-07,International Friendly,Czech Republic v Hungary,,Letná Stadion (Czech Republic)
+146,2022-10-06,International Friendly,Cyprus v Liechtenstein,13:00:00,Athlítiko Kentro Zenon (Cyprus)
+147,2022-10-07,International Friendly,Czech Republic v Hungary,16:00:00,Letná Stadion (Czech Republic)
 148,2022-10-07,International Friendly,Germany v France,18:30:00,Glücksgas Stadium (Germany)
 149,2022-10-07,International Friendly,Spain v Sweden,18:30:00,Estadio Nuevo Arcángel (Spain)
 150,2022-10-07,International Friendly,England v United States,19:00:00,Wembley Stadium (England)
 151,2022-10-07,International Friendly,Norway v Brazil,17:00:00,Ullevaal Stadion (Norway)
-152,2022-10-08,International Friendly,Australia v South Africa,11:30:00,
+152,2022-10-08,International Friendly,Australia v South Africa,11:30:00,Kingsmeadow (England)
 153,2022-10-08,International Friendly,Costa Rica v Philippines,01:00:00,Estadio Alejandro Morera Soto (Costa Rica)
 154,2022-10-09,International Friendly,Japan v New Zealand,05:55:00,Nagano U Stadium (Japan)
-155,2022-10-09,International Friendly,Cyprus v Liechtenstein,07:00:00,Athlítiko Kentro Zenon (Cyprus)
+155,2022-10-09,International Friendly,Cyprus v Liechtenstein,08:00:00,Athlítiko Kentro Zenon (Cyprus)
 156,2022-10-11,International Friendly,Sweden v France,16:30:00,Gamla Ullevi (Sweden)
 157,2022-10-11,International Friendly,England v Czech Republic,19:00:00,Falmer Stadium (England)
 158,2022-10-11,International Friendly,Costa Rica v Philippines,,
@@ -140,6 +140,11 @@ ID,date,league,teams,time,note_1
 162,2022-11-11,International Friendly,United States v Germany,00:00:00,DRV PNK Stadium (FL USA)
 163,2022-11-12,International Friendly,Australia v Sweden,03:45:00,Melbourne Rectangular Stadium (Australia)
 164,2022-11-13,International Friendly,United States v Germany,22:00:00,Red Bull Arena (NJ USA)
+165,2022-10-06,International Friendly,Argentina v Canada,,Estadio Municipal de Chapín (Spain)
+166,2022-10-06,International Friendly,Netherlands v Zambia,16:45:00,Rat Verlegh Stadion (Netherlands)
+167,2022-10-07,International Friendly,Poland v Mexico,,
+168,2022-10-08,International Friendly,Colombia v Paraguay,22:00:00,Estadio Deportivo Cali (Colombia)
+169,2022-10-09,International Friendly,Argentina v Poland,,
 215,2022-10-02,Swedish Damallsvenskan,BP v IFK Kalmar,11:00:00,Round 22
 216,2022-10-02,Swedish Damallsvenskan,Vittsjö v Umeå IK,11:00:00,Round 22
 217,2022-10-02,Swedish Damallsvenskan,Eskilstuna v Kristianstad,13:00:00,Round 22
@@ -152,7 +157,7 @@ ID,date,league,teams,time,note_1
 224,2022-10-16,Swedish Damallsvenskan,IFK Kalmar v Häcken,13:00:00,Round 23
 225,2022-10-16,Swedish Damallsvenskan,Örebro v Kristianstad,13:00:00,Round 23
 226,2022-10-16,Swedish Damallsvenskan,Piteå v Linköping,13:00:00,Round 23
-227,2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,,Round 23
+227,2022-10-16,Swedish Damallsvenskan,Umeå IK v Djurgården,13:00:00,Round 23
 228,2022-10-17,Swedish Damallsvenskan,AIK v Hammarby,17:00:00,Round 23
 229,2022-10-23,Swedish Damallsvenskan,Hammarby v BP,,Round 24
 230,2022-10-23,Swedish Damallsvenskan,Eskilstuna v Umeå IK,,Round 24
@@ -168,13 +173,13 @@ ID,date,league,teams,time,note_1
 240,2022-10-30,Swedish Damallsvenskan,Linköping v Kristianstad,,Round 25
 241,2022-10-30,Swedish Damallsvenskan,Piteå v Vittsjö,,Round 25
 242,2022-10-30,Swedish Damallsvenskan,IFK Kalmar v Eskilstuna,,Round 25
-243,2022-11-05,Swedish Damallsvenskan,Djurgården v Häcken,10:00:00,Round 26
-244,2022-11-05,Swedish Damallsvenskan,AIK v IFK Kalmar,10:00:00,Round 26
-245,2022-11-05,Swedish Damallsvenskan,Eskilstuna v Piteå,10:00:00,Round 26
-246,2022-11-05,Swedish Damallsvenskan,BP v Rosengård,10:00:00,Round 26
-247,2022-11-05,Swedish Damallsvenskan,Kristianstad v Umeå IK,10:00:00,Round 26
-248,2022-11-05,Swedish Damallsvenskan,Vittsjö v Hammarby,10:00:00,Round 26
-249,2022-11-05,Swedish Damallsvenskan,Örebro v Linköping,10:00:00,Round 26
+243,2022-11-05,Swedish Damallsvenskan,Djurgården v Häcken,11:00:00,Round 26
+244,2022-11-05,Swedish Damallsvenskan,AIK v IFK Kalmar,11:00:00,Round 26
+245,2022-11-05,Swedish Damallsvenskan,Eskilstuna v Piteå,11:00:00,Round 26
+246,2022-11-05,Swedish Damallsvenskan,BP v Rosengård,11:00:00,Round 26
+247,2022-11-05,Swedish Damallsvenskan,Kristianstad v Umeå IK,11:00:00,Round 26
+248,2022-11-05,Swedish Damallsvenskan,Vittsjö v Hammarby,11:00:00,Round 26
+249,2022-11-05,Swedish Damallsvenskan,Örebro v Linköping,11:00:00,Round 26
 260,2022-09-28,Women's Super League,Chelsea v West Ham United,18:05:00,Match 1
 261,2022-09-29,Women's Super League,Everton v Leicester City,17:30:00,Match 1
 273,2022-10-15,Women's Super League,Aston Villa v West Ham United,11:30:00,Match 4
