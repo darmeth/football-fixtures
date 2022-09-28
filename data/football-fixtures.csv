@@ -23,14 +23,14 @@ ID,date,league,teams,time,note_1
 92,2022-10-15,Allsvenskan,IFK Värnamo v Kalmar FF,15:30:00,Match 26
 93,2022-10-15,Allsvenskan,IK Sirius v IFK Norrköping,15:30:00,Match 26
 94,2022-10-16,Allsvenskan,Mjällby AIF v Hammarby IF,15:30:00,Match 26
-95,2022-10-19,Allsvenskan,AIK v BK Häcken,,Match 27
-96,2022-10-19,Allsvenskan,Degerfors IF v IFK Göteborg,,Match 27
-97,2022-10-19,Allsvenskan,GIF Sundsvall v IFK Värnamo,,Match 27
-98,2022-10-19,Allsvenskan,Hammarby IF v IK Sirius,,Match 27
-99,2022-10-19,Allsvenskan,IFK Norrköping v Helsingborgs IF,,Match 27
-100,2022-10-19,Allsvenskan,Kalmar FF v Mjällby AIF,,Match 27
-101,2022-10-19,Allsvenskan,Malmö FF v Djurgårdens IF,,Match 27
-102,2022-10-19,Allsvenskan,Varbergs BoIS v IF Elfsborg,,Match 27
+95,2022-10-19,Allsvenskan,AIK v BK Häcken,17:00:00,Match 27
+96,2022-10-20,Allsvenskan,Degerfors IF v IFK Göteborg,17:00:00,Match 27
+97,2022-10-19,Allsvenskan,GIF Sundsvall v IFK Värnamo,17:00:00,Match 27
+98,2022-10-20,Allsvenskan,Hammarby IF v IK Sirius,17:00:00,Match 27
+99,2022-10-19,Allsvenskan,IFK Norrköping v Helsingborgs IF,17:00:00,Match 27
+100,2022-10-20,Allsvenskan,Kalmar FF v Mjällby AIF,17:00:00,Match 27
+101,2022-10-20,Allsvenskan,Malmö FF v Djurgårdens IF,17:00:00,Match 27
+102,2022-10-19,Allsvenskan,Varbergs BoIS v IF Elfsborg,17:00:00,Match 27
 103,2022-10-23,Allsvenskan,BK Häcken v Malmö FF,,Match 28
 104,2022-10-23,Allsvenskan,Djurgårdens IF v GIF Sundsvall,,Match 28
 105,2022-10-23,Allsvenskan,Helsingborgs IF v Degerfors IF,,Match 28
@@ -84,46 +84,46 @@ ID,date,league,teams,time,note_1
 244,2022-10-06,Brazilian Série A,Avai v Botafogo,22:00:00,Match 30
 245,2022-10-05,Brazilian Série A,Atletico Paranaense v Fortaleza,22:30:00,Match 30
 246,2022-10-06,Brazilian Série A,Flamengo v Internacional,00:30:00,Match 30
-247,2022-10-09,Brazilian Série A,Sao Paulo v Botafogo,,Match 31
-248,2022-10-09,Brazilian Série A,Corinthians v Atletico Paranaense,,Match 31
-249,2022-10-09,Brazilian Série A,Santos v Juventude,,Match 31
-250,2022-10-09,Brazilian Série A,Fluminense v America Mineiro,,Match 31
-251,2022-10-09,Brazilian Série A,Cuiaba v Flamengo,,Match 31
-252,2022-10-09,Brazilian Série A,Atletico Mineiro v Ceara,,Match 31
-253,2022-10-09,Brazilian Série A,Internacional v Goias,,Match 31
-254,2022-10-09,Brazilian Série A,Fortaleza v Avai,,Match 31
-255,2022-10-09,Brazilian Série A,Atletico Goianiense v Palmeiras,,Match 31
-256,2022-10-09,Brazilian Série A,Coritiba v Bragantino,,Match 31
-257,2022-10-16,Brazilian Série A,Palmeiras v Sao Paulo,,Match 32
-258,2022-10-16,Brazilian Série A,Goias v Corinthians,,Match 32
-259,2022-10-16,Brazilian Série A,Botafogo v Internacional,,Match 32
-260,2022-10-16,Brazilian Série A,Flamengo v Atletico Mineiro,,Match 32
-261,2022-10-16,Brazilian Série A,America Mineiro v Fortaleza,,Match 32
-262,2022-10-16,Brazilian Série A,Bragantino v Santos,,Match 32
-263,2022-10-16,Brazilian Série A,Juventude v Atletico Goianiense,,Match 32
-264,2022-10-16,Brazilian Série A,Ceara v Cuiaba,,Match 32
-265,2022-10-16,Brazilian Série A,Avai v Fluminense,,Match 32
-266,2022-10-16,Brazilian Série A,Atletico Paranaense v Coritiba,,Match 32
-267,2022-10-23,Brazilian Série A,Juventude v Sao Paulo,,Match 33
-268,2022-10-23,Brazilian Série A,Fortaleza v Atletico Mineiro,,Match 33
-269,2022-10-23,Brazilian Série A,America Mineiro v Flamengo,,Match 33
-270,2022-10-23,Brazilian Série A,Atletico Goianiense v Ceara,,Match 33
-271,2022-10-23,Brazilian Série A,Bragantino v Atletico Paranaense,,Match 33
-272,2022-10-23,Brazilian Série A,Coritiba v Internacional,,Match 33
-273,2022-10-23,Brazilian Série A,Santos v Corinthians,,Match 33
-274,2022-10-23,Brazilian Série A,Palmeiras v Avai,,Match 33
-275,2022-10-23,Brazilian Série A,Fluminense v Botafogo,,Match 33
-276,2022-10-23,Brazilian Série A,Cuiaba v Goias,,Match 33
-277,2022-10-26,Brazilian Série A,Flamengo v Santos,,Match 34
-278,2022-10-26,Brazilian Série A,Sao Paulo v Atletico Goianiense,,Match 34
-279,2022-10-26,Brazilian Série A,Corinthians v Fluminense,,Match 34
-280,2022-10-26,Brazilian Série A,Botafogo v Bragantino,,Match 34
-281,2022-10-26,Brazilian Série A,Atletico Paranaense v Palmeiras,,Match 34
-282,2022-10-26,Brazilian Série A,Fortaleza v Coritiba,,Match 34
-283,2022-10-26,Brazilian Série A,Goias v America Mineiro,,Match 34
-284,2022-10-26,Brazilian Série A,Atletico Mineiro v Juventude,,Match 34
-285,2022-10-26,Brazilian Série A,Cuiaba v Avai,,Match 34
-286,2022-10-26,Brazilian Série A,Internacional v Ceara,,Match 34
+247,2022-10-09,Brazilian Série A,Sao Paulo v Botafogo,19:00:00,Match 31
+248,2022-10-09,Brazilian Série A,Corinthians v Atletico Paranaense,00:00:00,Match 31
+249,2022-10-10,Brazilian Série A,Santos v Juventude,23:00:00,Match 31
+250,2022-10-09,Brazilian Série A,Fluminense v America Mineiro,21:00:00,Match 31
+251,2022-10-08,Brazilian Série A,Cuiaba v Flamengo,22:00:00,Match 31
+252,2022-10-09,Brazilian Série A,Atletico Mineiro v Ceara,21:00:00,Match 31
+253,2022-10-09,Brazilian Série A,Internacional v Goias,14:00:00,Match 31
+254,2022-10-09,Brazilian Série A,Fortaleza v Avai,19:00:00,Match 31
+255,2022-10-10,Brazilian Série A,Atletico Goianiense v Palmeiras,21:00:00,Match 31
+256,2022-10-09,Brazilian Série A,Coritiba v Bragantino,21:00:00,Match 31
+257,2022-10-16,Brazilian Série A,Palmeiras v Sao Paulo,19:00:00,Match 32
+258,2022-10-15,Brazilian Série A,Goias v Corinthians,22:00:00,Match 32
+259,2022-10-16,Brazilian Série A,Botafogo v Internacional,21:00:00,Match 32
+260,2022-10-15,Brazilian Série A,Flamengo v Atletico Mineiro,23:30:00,Match 32
+261,2022-10-15,Brazilian Série A,America Mineiro v Fortaleza,23:30:00,Match 32
+262,2022-10-17,Brazilian Série A,Bragantino v Santos,23:00:00,Match 32
+263,2022-10-16,Brazilian Série A,Juventude v Atletico Goianiense,21:00:00,Match 32
+264,2022-10-16,Brazilian Série A,Ceara v Cuiaba,19:00:00,Match 32
+265,2022-10-16,Brazilian Série A,Avai v Fluminense,22:00:00,Match 32
+266,2022-10-16,Brazilian Série A,Atletico Paranaense v Coritiba,22:00:00,Match 32
+267,2022-10-23,Brazilian Série A,Juventude v Sao Paulo,19:00:00,Match 33
+268,2022-10-23,Brazilian Série A,Fortaleza v Atletico Mineiro,23:00:00,Match 33
+269,2022-10-22,Brazilian Série A,America Mineiro v Flamengo,22:00:00,Match 33
+270,2022-10-23,Brazilian Série A,Atletico Goianiense v Ceara,21:00:00,Match 33
+271,2022-10-22,Brazilian Série A,Bragantino v Atletico Paranaense,19:30:00,Match 33
+272,2022-10-23,Brazilian Série A,Coritiba v Internacional,21:00:00,Match 33
+273,2022-10-22,Brazilian Série A,Santos v Corinthians,22:00:00,Match 33
+274,2022-10-23,Brazilian Série A,Palmeiras v Avai,00:00:00,Match 33
+275,2022-10-23,Brazilian Série A,Fluminense v Botafogo,19:00:00,Match 33
+276,2022-10-23,Brazilian Série A,Cuiaba v Goias,21:00:00,Match 33
+277,2022-10-26,Brazilian Série A,Flamengo v Santos,00:45:00,Match 34
+278,2022-10-27,Brazilian Série A,Sao Paulo v Atletico Goianiense,22:00:00,Match 34
+279,2022-10-27,Brazilian Série A,Corinthians v Fluminense,00:45:00,Match 34
+280,2022-10-26,Brazilian Série A,Botafogo v Bragantino,22:00:00,Match 34
+281,2022-10-26,Brazilian Série A,Atletico Paranaense v Palmeiras,00:45:00,Match 34
+282,2022-10-27,Brazilian Série A,Fortaleza v Coritiba,22:00:00,Match 34
+283,2022-10-27,Brazilian Série A,Goias v America Mineiro,00:45:00,Match 34
+284,2022-10-28,Brazilian Série A,Atletico Mineiro v Juventude,00:30:00,Match 34
+285,2022-10-27,Brazilian Série A,Cuiaba v Avai,23:00:00,Match 34
+286,2022-10-27,Brazilian Série A,Internacional v Ceara,00:45:00,Match 34
 287,2022-10-29,Brazilian Série A,Flamengo v Corinthians,,Match 35
 288,2022-10-29,Brazilian Série A,Palmeiras v Fortaleza,,Match 35
 289,2022-10-29,Brazilian Série A,Botafogo v Cuiaba,,Match 35
@@ -182,60 +182,60 @@ ID,date,league,teams,time,note_1
 405,2022-10-09,Bundesliga,Mönchengladbach v Köln,13:30:00,Match 9
 406,2022-10-08,Bundesliga,Mainz v RB Leipzig,13:30:00,Match 9
 407,2022-10-09,Bundesliga,VfB Stuttgart v Union Berlin,17:30:00,Match 9
-408,2022-10-15,Bundesliga,Union Berlin v Dortmund,,Match 10
-409,2022-10-15,Bundesliga,Bayern v SC Freiburg,,Match 10
-410,2022-10-15,Bundesliga,Köln v Augsburg,,Match 10
-411,2022-10-15,Bundesliga,Eintracht Frankfurt v Leverkusen,,Match 10
-412,2022-10-15,Bundesliga,RB Leipzig v Hertha,,Match 10
-413,2022-10-15,Bundesliga,Schalke v Hoffenheim,,Match 10
-414,2022-10-15,Bundesliga,VfB Stuttgart v VfL Bochum,,Match 10
-415,2022-10-15,Bundesliga,Werder v Mainz,,Match 10
-416,2022-10-15,Bundesliga,Wolfsburg v Mönchengladbach,,Match 10
-417,2022-10-22,Bundesliga,Leverkusen v Wolfsburg,,Match 11
-418,2022-10-22,Bundesliga,VfL Bochum v Union Berlin,,Match 11
-419,2022-10-22,Bundesliga,Dortmund v VfB Stuttgart,,Match 11
-420,2022-10-22,Bundesliga,Augsburg v RB Leipzig,,Match 11
-421,2022-10-22,Bundesliga,Hertha v Schalke,,Match 11
-422,2022-10-22,Bundesliga,Hoffenheim v Bayern,,Match 11
-423,2022-10-22,Bundesliga,Mönchengladbach v Eintracht Frankfurt,,Match 11
-424,2022-10-22,Bundesliga,Mainz v Köln,,Match 11
-425,2022-10-22,Bundesliga,SC Freiburg v Werder,,Match 11
-426,2022-10-29,Bundesliga,Union Berlin v Mönchengladbach,,Match 12
-427,2022-10-29,Bundesliga,Bayern v Mainz,,Match 12
-428,2022-10-29,Bundesliga,Köln v Hoffenheim,,Match 12
-429,2022-10-29,Bundesliga,Eintracht Frankfurt v Dortmund,,Match 12
-430,2022-10-29,Bundesliga,RB Leipzig v Leverkusen,,Match 12
-431,2022-10-29,Bundesliga,Schalke v SC Freiburg,,Match 12
-432,2022-10-29,Bundesliga,VfB Stuttgart v Augsburg,,Match 12
-433,2022-10-29,Bundesliga,Werder v Hertha,,Match 12
-434,2022-10-29,Bundesliga,Wolfsburg v VfL Bochum,,Match 12
-435,2022-11-05,Bundesliga,Leverkusen v Union Berlin,,Match 13
-436,2022-11-05,Bundesliga,Dortmund v VfL Bochum,,Match 13
-437,2022-11-05,Bundesliga,Augsburg v Eintracht Frankfurt,,Match 13
-438,2022-11-05,Bundesliga,Hertha v Bayern,,Match 13
-439,2022-11-05,Bundesliga,Hoffenheim v RB Leipzig,,Match 13
-440,2022-11-05,Bundesliga,Mönchengladbach v VfB Stuttgart,,Match 13
-441,2022-11-05,Bundesliga,Mainz v Wolfsburg,,Match 13
-442,2022-11-05,Bundesliga,SC Freiburg v Köln,,Match 13
-443,2022-11-05,Bundesliga,Werder v Schalke,,Match 13
-444,2022-11-08,Bundesliga,Union Berlin v Augsburg,,Match 14
-445,2022-11-08,Bundesliga,Bayern v Werder,,Match 14
-446,2022-11-08,Bundesliga,VfL Bochum v Mönchengladbach,,Match 14
-447,2022-11-08,Bundesliga,Köln v Leverkusen,,Match 14
-448,2022-11-08,Bundesliga,Eintracht Frankfurt v Hoffenheim,,Match 14
-449,2022-11-08,Bundesliga,RB Leipzig v SC Freiburg,,Match 14
-450,2022-11-08,Bundesliga,Schalke v Mainz,,Match 14
-451,2022-11-08,Bundesliga,VfB Stuttgart v Hertha,,Match 14
-452,2022-11-08,Bundesliga,Wolfsburg v Dortmund,,Match 14
-453,2022-11-12,Bundesliga,Leverkusen v VfB Stuttgart,,Match 15
-454,2022-11-12,Bundesliga,Augsburg v VfL Bochum,,Match 15
-455,2022-11-12,Bundesliga,Hertha v Köln,,Match 15
-456,2022-11-12,Bundesliga,Hoffenheim v Wolfsburg,,Match 15
-457,2022-11-12,Bundesliga,Mönchengladbach v Dortmund,,Match 15
-458,2022-11-12,Bundesliga,Mainz v Eintracht Frankfurt,,Match 15
-459,2022-11-12,Bundesliga,SC Freiburg v Union Berlin,,Match 15
-460,2022-11-12,Bundesliga,Schalke v Bayern,,Match 15
-461,2022-11-12,Bundesliga,Werder v RB Leipzig,,Match 15
+408,2022-10-16,Bundesliga,Union Berlin v Dortmund,15:30:00,Match 10
+409,2022-10-16,Bundesliga,Bayern v SC Freiburg,17:30:00,Match 10
+410,2022-10-16,Bundesliga,Köln v Augsburg,13:30:00,Match 10
+411,2022-10-15,Bundesliga,Eintracht Frankfurt v Leverkusen,13:30:00,Match 10
+412,2022-10-15,Bundesliga,RB Leipzig v Hertha,16:30:00,Match 10
+413,2022-10-14,Bundesliga,Schalke v Hoffenheim,18:30:00,Match 10
+414,2022-10-15,Bundesliga,VfB Stuttgart v VfL Bochum,13:30:00,Match 10
+415,2022-10-15,Bundesliga,Werder v Mainz,13:30:00,Match 10
+416,2022-10-15,Bundesliga,Wolfsburg v Mönchengladbach,13:30:00,Match 10
+417,2022-10-22,Bundesliga,Leverkusen v Wolfsburg,13:30:00,Match 11
+418,2022-10-23,Bundesliga,VfL Bochum v Union Berlin,13:30:00,Match 11
+419,2022-10-22,Bundesliga,Dortmund v VfB Stuttgart,13:30:00,Match 11
+420,2022-10-22,Bundesliga,Augsburg v RB Leipzig,13:30:00,Match 11
+421,2022-10-23,Bundesliga,Hertha v Schalke,15:30:00,Match 11
+422,2022-10-22,Bundesliga,Hoffenheim v Bayern,13:30:00,Match 11
+423,2022-10-22,Bundesliga,Mönchengladbach v Eintracht Frankfurt,16:30:00,Match 11
+424,2022-10-21,Bundesliga,Mainz v Köln,18:30:00,Match 11
+425,2022-10-22,Bundesliga,SC Freiburg v Werder,13:30:00,Match 11
+426,2022-10-30,Bundesliga,Union Berlin v Mönchengladbach,14:30:00,Match 12
+427,2022-10-29,Bundesliga,Bayern v Mainz,13:30:00,Match 12
+428,2022-10-30,Bundesliga,Köln v Hoffenheim,18:30:00,Match 12
+429,2022-10-29,Bundesliga,Eintracht Frankfurt v Dortmund,16:30:00,Match 12
+430,2022-10-29,Bundesliga,RB Leipzig v Leverkusen,13:30:00,Match 12
+431,2022-10-30,Bundesliga,Schalke v SC Freiburg,16:30:00,Match 12
+432,2022-10-29,Bundesliga,VfB Stuttgart v Augsburg,13:30:00,Match 12
+433,2022-10-28,Bundesliga,Werder v Hertha,18:30:00,Match 12
+434,2022-10-29,Bundesliga,Wolfsburg v VfL Bochum,13:30:00,Match 12
+435,2022-11-06,Bundesliga,Leverkusen v Union Berlin,14:30:00,Match 13
+436,2022-11-05,Bundesliga,Dortmund v VfL Bochum,14:30:00,Match 13
+437,2022-11-05,Bundesliga,Augsburg v Eintracht Frankfurt,14:30:00,Match 13
+438,2022-11-05,Bundesliga,Hertha v Bayern,14:30:00,Match 13
+439,2022-11-05,Bundesliga,Hoffenheim v RB Leipzig,14:30:00,Match 13
+440,2022-11-04,Bundesliga,Mönchengladbach v VfB Stuttgart,19:30:00,Match 13
+441,2022-11-05,Bundesliga,Mainz v Wolfsburg,14:30:00,Match 13
+442,2022-11-06,Bundesliga,SC Freiburg v Köln,16:30:00,Match 13
+443,2022-11-05,Bundesliga,Werder v Schalke,17:30:00,Match 13
+444,2022-11-09,Bundesliga,Union Berlin v Augsburg,19:30:00,Match 14
+445,2022-11-08,Bundesliga,Bayern v Werder,19:30:00,Match 14
+446,2022-11-08,Bundesliga,VfL Bochum v Mönchengladbach,19:30:00,Match 14
+447,2022-11-09,Bundesliga,Köln v Leverkusen,17:30:00,Match 14
+448,2022-11-09,Bundesliga,Eintracht Frankfurt v Hoffenheim,19:30:00,Match 14
+449,2022-11-09,Bundesliga,RB Leipzig v SC Freiburg,19:30:00,Match 14
+450,2022-11-09,Bundesliga,Schalke v Mainz,19:30:00,Match 14
+451,2022-11-08,Bundesliga,VfB Stuttgart v Hertha,19:30:00,Match 14
+452,2022-11-08,Bundesliga,Wolfsburg v Dortmund,17:30:00,Match 14
+453,2022-11-12,Bundesliga,Leverkusen v VfB Stuttgart,14:30:00,Match 15
+454,2022-11-12,Bundesliga,Augsburg v VfL Bochum,14:30:00,Match 15
+455,2022-11-12,Bundesliga,Hertha v Köln,14:30:00,Match 15
+456,2022-11-12,Bundesliga,Hoffenheim v Wolfsburg,14:30:00,Match 15
+457,2022-11-11,Bundesliga,Mönchengladbach v Dortmund,19:30:00,Match 15
+458,2022-11-13,Bundesliga,Mainz v Eintracht Frankfurt,14:30:00,Match 15
+459,2022-11-13,Bundesliga,SC Freiburg v Union Berlin,16:30:00,Match 15
+460,2022-11-12,Bundesliga,Schalke v Bayern,17:30:00,Match 15
+461,2022-11-12,Bundesliga,Werder v RB Leipzig,14:30:00,Match 15
 462,2023-01-21,Bundesliga,Union Berlin v Hoffenheim,,Match 16
 463,2023-01-21,Bundesliga,VfL Bochum v Hertha,,Match 16
 464,2023-01-21,Bundesliga,Dortmund v Augsburg,,Match 16
