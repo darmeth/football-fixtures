@@ -31,38 +31,33 @@ ID,date,league,teams,time,note_1
 100,2022-10-20,Allsvenskan,Kalmar FF v Mjällby AIF,17:00:00,Match 27
 101,2022-10-20,Allsvenskan,Malmö FF v Djurgårdens IF,17:00:00,Match 27
 102,2022-10-19,Allsvenskan,Varbergs BoIS v IF Elfsborg,17:00:00,Match 27
-103,2022-10-23,Allsvenskan,BK Häcken v Malmö FF,,Match 28
-104,2022-10-23,Allsvenskan,Djurgårdens IF v GIF Sundsvall,,Match 28
-105,2022-10-23,Allsvenskan,Helsingborgs IF v Degerfors IF,,Match 28
-106,2022-10-23,Allsvenskan,IF Elfsborg v Hammarby IF,,Match 28
-107,2022-10-23,Allsvenskan,IFK Göteborg v AIK,,Match 28
-108,2022-10-23,Allsvenskan,IFK Värnamo v IFK Norrköping,,Match 28
-109,2022-10-23,Allsvenskan,IK Sirius v Kalmar FF,,Match 28
-110,2022-10-23,Allsvenskan,Mjällby AIF v Varbergs BoIS,,Match 28
-111,2022-10-30,Allsvenskan,Degerfors IF v IFK Värnamo,,Match 29
-112,2022-10-30,Allsvenskan,GIF Sundsvall v IK Sirius,,Match 29
-113,2022-10-30,Allsvenskan,Hammarby IF v Kalmar FF,,Match 29
-114,2022-10-30,Allsvenskan,IF Elfsborg v Helsingborgs IF,,Match 29
-115,2022-10-30,Allsvenskan,IFK Göteborg v BK Häcken,,Match 29
-116,2022-10-30,Allsvenskan,IFK Norrköping v Djurgårdens IF,,Match 29
-117,2022-10-30,Allsvenskan,Mjällby AIF v AIK,,Match 29
-118,2022-10-30,Allsvenskan,Varbergs BoIS v Malmö FF,,Match 29
-119,2022-11-06,Allsvenskan,AIK v IF Elfsborg,,Match 30
-120,2022-11-06,Allsvenskan,BK Häcken v IFK Norrköping,,Match 30
-121,2022-11-06,Allsvenskan,Djurgårdens IF v Mjällby AIF,,Match 30
-122,2022-11-06,Allsvenskan,Helsingborgs IF v Hammarby IF,,Match 30
-123,2022-11-06,Allsvenskan,IFK Värnamo v IFK Göteborg,,Match 30
-124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,,Match 30
-125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,,Match 30
-126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,,Match 30
-217,2022-09-28,Brazilian Série A,Santos v Atletico Paranaense,00:30:00,Match 28
-218,2022-09-28,Brazilian Série A,Corinthians v Atletico Goianiense,22:00:00,Match 28
-220,2022-09-28,Brazilian Série A,Fluminense v Juventude,22:00:00,Match 28
-221,2022-09-28,Brazilian Série A,Coritiba v Ceara,22:00:00,Match 28
+103,2022-10-23,Allsvenskan,BK Häcken v Malmö FF,15:30:00,Match 28
+104,2022-10-24,Allsvenskan,Djurgårdens IF v GIF Sundsvall,17:00:00,Match 28
+105,2022-10-23,Allsvenskan,Helsingborgs IF v Degerfors IF,13:00:00,Match 28
+106,2022-10-23,Allsvenskan,IF Elfsborg v Hammarby IF,13:00:00,Match 28
+107,2022-10-24,Allsvenskan,IFK Göteborg v AIK,17:10:00,Match 28
+108,2022-10-24,Allsvenskan,IFK Värnamo v IFK Norrköping,17:00:00,Match 28
+109,2022-10-24,Allsvenskan,IK Sirius v Kalmar FF,17:00:00,Match 28
+110,2022-10-24,Allsvenskan,Mjällby AIF v Varbergs BoIS,17:00:00,Match 28
+111,2022-10-29,Allsvenskan,Degerfors IF v IFK Värnamo,13:00:00,Match 29
+112,2022-10-30,Allsvenskan,GIF Sundsvall v IK Sirius,14:00:00,Match 29
+113,2022-10-30,Allsvenskan,Hammarby IF v Kalmar FF,16:30:00,Match 29
+114,2022-10-31,Allsvenskan,IF Elfsborg v Helsingborgs IF,18:00:00,Match 29
+115,2022-10-30,Allsvenskan,IFK Göteborg v BK Häcken,14:00:00,Match 29
+116,2022-10-31,Allsvenskan,IFK Norrköping v Djurgårdens IF,18:10:00,Match 29
+117,2022-10-30,Allsvenskan,Mjällby AIF v AIK,14:00:00,Match 29
+118,2022-10-30,Allsvenskan,Varbergs BoIS v Malmö FF,16:30:00,Match 29
+119,2022-11-06,Allsvenskan,AIK v IF Elfsborg,14:00:00,Match 30
+120,2022-11-06,Allsvenskan,BK Häcken v IFK Norrköping,14:00:00,Match 30
+121,2022-11-06,Allsvenskan,Djurgårdens IF v Mjällby AIF,14:00:00,Match 30
+122,2022-11-06,Allsvenskan,Helsingborgs IF v Hammarby IF,14:00:00,Match 30
+123,2022-11-06,Allsvenskan,IFK Värnamo v IFK Göteborg,14:00:00,Match 30
+124,2022-11-06,Allsvenskan,IK Sirius v Varbergs BoIS,14:00:00,Match 30
+125,2022-11-06,Allsvenskan,Kalmar FF v GIF Sundsvall,14:00:00,Match 30
+126,2022-11-06,Allsvenskan,Malmö FF v Degerfors IF,14:00:00,Match 30
 222,2022-09-29,Brazilian Série A,Atletico Mineiro v Palmeiras,00:45:00,Match 28
 223,2022-09-29,Brazilian Série A,Cuiaba v America Mineiro,00:00:00,Match 28
 224,2022-09-29,Brazilian Série A,Goias v Botafogo,00:45:00,Match 28
-225,2022-09-28,Brazilian Série A,Fortaleza v Flamengo,22:00:00,Match 28
 226,2022-09-29,Brazilian Série A,Internacional v Bragantino,00:45:00,Match 28
 227,2022-10-01,Brazilian Série A,Ceara v America Mineiro,18:00:00,Match 29
 228,2022-10-01,Brazilian Série A,Atletico Paranaense v Juventude,22:00:00,Match 29
@@ -124,16 +119,16 @@ ID,date,league,teams,time,note_1
 284,2022-10-28,Brazilian Série A,Atletico Mineiro v Juventude,00:30:00,Match 34
 285,2022-10-27,Brazilian Série A,Cuiaba v Avai,23:00:00,Match 34
 286,2022-10-27,Brazilian Série A,Internacional v Ceara,00:45:00,Match 34
-287,2022-10-29,Brazilian Série A,Flamengo v Corinthians,,Match 35
-288,2022-10-29,Brazilian Série A,Palmeiras v Fortaleza,,Match 35
-289,2022-10-29,Brazilian Série A,Botafogo v Cuiaba,,Match 35
-290,2022-10-29,Brazilian Série A,Juventude v Coritiba,,Match 35
-291,2022-10-29,Brazilian Série A,America Mineiro v Internacional,,Match 35
-292,2022-10-29,Brazilian Série A,Sao Paulo v Atletico Mineiro,,Match 35
-293,2022-10-29,Brazilian Série A,Ceara v Fluminense,,Match 35
-294,2022-10-29,Brazilian Série A,Atletico Goianiense v Santos,,Match 35
-295,2022-10-29,Brazilian Série A,Avai v Bragantino,,Match 35
-296,2022-10-29,Brazilian Série A,Atletico Paranaense v Goias,,Match 35
+287,2022-11-03,Brazilian Série A,Flamengo v Corinthians,00:30:00,Match 35
+288,2022-11-02,Brazilian Série A,Palmeiras v Fortaleza,19:00:00,Match 35
+289,2022-11-01,Brazilian Série A,Botafogo v Cuiaba,22:00:00,Match 35
+290,2022-11-02,Brazilian Série A,Juventude v Coritiba,22:00:00,Match 35
+291,2022-11-02,Brazilian Série A,America Mineiro v Internacional,19:00:00,Match 35
+292,2022-11-02,Brazilian Série A,Sao Paulo v Atletico Mineiro,00:30:00,Match 35
+293,2022-10-31,Brazilian Série A,Ceara v Fluminense,23:00:00,Match 35
+294,2022-11-02,Brazilian Série A,Atletico Goianiense v Santos,22:00:00,Match 35
+295,2022-11-02,Brazilian Série A,Avai v Bragantino,22:00:00,Match 35
+296,2022-11-02,Brazilian Série A,Atletico Paranaense v Goias,19:00:00,Match 35
 297,2022-11-06,Brazilian Série A,Fluminense v Sao Paulo,,Match 36
 298,2022-11-06,Brazilian Série A,Bragantino v America Mineiro,,Match 36
 299,2022-11-06,Brazilian Série A,Corinthians v Ceara,,Match 36
@@ -236,15 +231,15 @@ ID,date,league,teams,time,note_1
 459,2022-11-13,Bundesliga,SC Freiburg v Union Berlin,16:30:00,Match 15
 460,2022-11-12,Bundesliga,Schalke v Bayern,17:30:00,Match 15
 461,2022-11-12,Bundesliga,Werder v RB Leipzig,14:30:00,Match 15
-462,2023-01-21,Bundesliga,Union Berlin v Hoffenheim,,Match 16
-463,2023-01-21,Bundesliga,VfL Bochum v Hertha,,Match 16
-464,2023-01-21,Bundesliga,Dortmund v Augsburg,,Match 16
-465,2023-01-21,Bundesliga,Köln v Werder,,Match 16
-466,2023-01-21,Bundesliga,Eintracht Frankfurt v Schalke,,Match 16
-467,2023-01-21,Bundesliga,Mönchengladbach v Leverkusen,,Match 16
-468,2023-01-21,Bundesliga,RB Leipzig v Bayern,,Match 16
-469,2023-01-21,Bundesliga,VfB Stuttgart v Mainz,,Match 16
-470,2023-01-21,Bundesliga,Wolfsburg v SC Freiburg,,Match 16
+462,2023-01-21,Bundesliga,Union Berlin v Hoffenheim,14:30:00,Match 16
+463,2023-01-21,Bundesliga,VfL Bochum v Hertha,14:30:00,Match 16
+464,2023-01-22,Bundesliga,Dortmund v Augsburg,14:30:00,Match 16
+465,2023-01-21,Bundesliga,Köln v Werder,17:30:00,Match 16
+466,2023-01-21,Bundesliga,Eintracht Frankfurt v Schalke,14:30:00,Match 16
+467,2023-01-22,Bundesliga,Mönchengladbach v Leverkusen,16:30:00,Match 16
+468,2023-01-20,Bundesliga,RB Leipzig v Bayern,19:30:00,Match 16
+469,2023-01-21,Bundesliga,VfB Stuttgart v Mainz,14:30:00,Match 16
+470,2023-01-21,Bundesliga,Wolfsburg v SC Freiburg,14:30:00,Match 16
 471,2023-01-24,Bundesliga,Leverkusen v VfL Bochum,,Match 17
 472,2023-01-24,Bundesliga,Bayern v Köln,,Match 17
 473,2023-01-24,Bundesliga,Augsburg v Mönchengladbach,,Match 17
@@ -1980,10 +1975,6 @@ ID,date,league,teams,time,note_1
 2717,2023-05-28,Eredivisie,Fortuna Sittard v NEC Nijmegen,12:30:00,Match 34
 2718,2023-05-28,Eredivisie,Groningen v Sparta Rotterdam,12:30:00,Match 34
 2719,2023-05-28,Eredivisie,Heerenveen v Go Ahead Eagles,12:30:00,Match 34
-2778,2022-09-28,International Friendly,Mexico v Colombia,02:00:00,Levi's Stadium (CA USA)
-2801,2022-09-28,International Friendly,Honduras v Guatemala,01:00:00,PNC Stadium (TX USA)
-2802,2022-09-28,International Friendly,Jamaica v Argentina,00:00:00,Red Bull Academy (NJ USA)
-2803,2022-09-28,International Friendly,Peru v El Salvador,00:00:00,Audi Field (D.C. USA)
 2804,2022-10-30,International Friendly,Saudi Arabia v Honduras,,
 2805,2022-11-06,International Friendly,Iceland v Saudi Arabia,16:00:00,
 2806,2022-11-16,International Friendly,Croatia v Saudi Arabia,16:00:00,
@@ -3541,7 +3532,6 @@ ID,date,league,teams,time,note_1
 4794,2023-06-04,Serie A,Sassuolo v Fiorentina,,Match 38
 4795,2023-06-04,Serie A,Torino v Inter Milan,,Match 38
 4796,2023-06-04,Serie A,Udinese v Juventus,,Match 38
-5350,2022-09-28,USA MLS,Seattle Sounders FC v FC Cincinnati,02:00:00,Regular Season
 5351,2022-09-30,USA MLS,Toronto FC v Inter Miami CF,23:30:00,Regular Season
 5352,2022-10-01,USA MLS,New England Revolution v Atlanta United FC,17:30:00,Regular Season
 5353,2022-10-03,USA MLS,New York City FC v Orlando City SC,17:00:00,Regular Season
