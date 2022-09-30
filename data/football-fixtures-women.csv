@@ -119,6 +119,7 @@ ID,date,league,teams,time,note_1
 139,2023-05-28,Frauen-Bundesliga,Eintracht Frankfurt v Meppen,,Match 22
 140,2023-05-28,Frauen-Bundesliga,Köln v SGS Essen,,Match 22
 141,2023-05-28,Frauen-Bundesliga,Wolfsburg v Freiburg,,Match 22
+143,2022-10-06,International Friendly,Jordan v Egypt,,
 144,2022-09-30,International Friendly,Botswana v Namibia,12:45:00,Botswana National Stadium
 145,2022-10-06,International Friendly,Japan v Nigeria,07:25:00,Misaki Park Stadium (Japan)
 146,2022-10-06,International Friendly,Cyprus v Liechtenstein,13:00:00,Athlítiko Kentro Zenon (Cyprus)
@@ -140,7 +141,7 @@ ID,date,league,teams,time,note_1
 162,2022-11-11,International Friendly,United States v Germany,00:00:00,DRV PNK Stadium (FL USA)
 163,2022-11-12,International Friendly,Australia v Sweden,03:45:00,Melbourne Rectangular Stadium (Australia)
 164,2022-11-13,International Friendly,United States v Germany,22:00:00,Red Bull Arena (NJ USA)
-165,2022-10-06,International Friendly,Argentina v Canada,,Estadio Municipal de Chapín (Spain)
+165,2022-10-06,International Friendly,Argentina v Canada,17:00:00,Estadio Municipal de Chapín (Spain)
 166,2022-10-06,International Friendly,Netherlands v Zambia,16:45:00,Rat Verlegh Stadion (Netherlands)
 167,2022-10-07,International Friendly,Poland v Mexico,,
 168,2022-10-08,International Friendly,Colombia v Paraguay,22:00:00,Estadio Deportivo Cali (Colombia)
@@ -180,7 +181,6 @@ ID,date,league,teams,time,note_1
 247,2022-11-05,Swedish Damallsvenskan,Kristianstad v Umeå IK,11:00:00,Round 26
 248,2022-11-05,Swedish Damallsvenskan,Vittsjö v Hammarby,11:00:00,Round 26
 249,2022-11-05,Swedish Damallsvenskan,Örebro v Linköping,11:00:00,Round 26
-261,2022-09-29,Women's Super League,Everton v Leicester City,17:30:00,Match 1
 273,2022-10-15,Women's Super League,Aston Villa v West Ham United,11:30:00,Match 4
 274,2022-10-16,Women's Super League,Everton v Chelsea,12:00:00,Match 4
 275,2022-10-16,Women's Super League,Manchester City v Leicester City,13:00:00,Match 4
@@ -417,14 +417,14 @@ ID,date,league,teams,time,note_1
 607,2022-10-02,Primera División Femenina,Athletic Club v Real Madrid,16:00:00,Match 4
 608,2022-10-01,Primera División Femenina,Sporting Huelva v Valencia,14:00:00,Match 4
 609,2022-10-02,Primera División Femenina,Sevilla v Real Sociedad,14:00:00,Match 4
-610,2022-10-16,Primera División Femenina,Real Sociedad v Granadilla Tenerife,,Match 5
-611,2022-10-16,Primera División Femenina,Villarreal v Sevilla,,Match 5
-612,2022-10-16,Primera División Femenina,Levante Las Planas v Levante,,Match 5
-613,2022-10-16,Primera División Femenina,Real Madrid v Alavés,,Match 5
-614,2022-10-16,Primera División Femenina,Atletico Madrid v Sporting Huelva,,Match 5
-615,2022-10-16,Primera División Femenina,Madrid CFF v Real Betis,,Match 5
-616,2022-10-16,Primera División Femenina,Athletic Club v Barcelona,,Match 5
-617,2022-10-16,Primera División Femenina,Alhama v Valencia,,Match 5
+610,2022-10-15,Primera División Femenina,Real Sociedad v Granadilla Tenerife,10:00:00,Match 5
+611,2022-10-16,Primera División Femenina,Villarreal v Sevilla,10:00:00,Match 5
+612,2022-10-15,Primera División Femenina,Levante Las Planas v Levante,10:00:00,Match 5
+613,2022-10-16,Primera División Femenina,Real Madrid v Alavés,10:00:00,Match 5
+614,2022-10-15,Primera División Femenina,Atletico Madrid v Sporting Huelva,14:00:00,Match 5
+615,2022-10-16,Primera División Femenina,Madrid CFF v Real Betis,16:00:00,Match 5
+616,2022-10-15,Primera División Femenina,Athletic Club v Barcelona,16:15:00,Match 5
+617,2022-10-16,Primera División Femenina,Alhama v Valencia,14:00:00,Match 5
 618,2022-10-23,Primera División Femenina,Sporting Huelva v Real Sociedad,,Match 6
 619,2022-10-23,Primera División Femenina,Levante v Real Madrid,,Match 6
 620,2022-10-23,Primera División Femenina,Alavés v Athletic Club,,Match 6
@@ -630,11 +630,11 @@ ID,date,league,teams,time,note_1
 835,2022-09-30,Serie A Femminile,Como v Inter,17:00:00,Match 5
 836,2022-10-02,Serie A Femminile,Juventus v Pomigliano Calcio,10:30:00,Match 5
 837,2022-10-01,Serie A Femminile,AC Milan v Sampdoria,12:30:00,Match 5
-838,2022-10-15,Serie A Femminile,Pomigliano Calcio v Fiorentina,,Match 6
-839,2022-10-15,Serie A Femminile,Sampdoria v Juventus,,Match 6
-840,2022-10-15,Serie A Femminile,Inter v AC Milan,,Match 6
-841,2022-10-15,Serie A Femminile,Como v Parma,,Match 6
-842,2022-10-15,Serie A Femminile,Sassuolo v Roma,,Match 6
+838,2022-10-15,Serie A Femminile,Pomigliano Calcio v Fiorentina,10:30:00,Match 6
+839,2022-10-16,Serie A Femminile,Sampdoria v Juventus,12:30:00,Match 6
+840,2022-10-15,Serie A Femminile,Inter v AC Milan,12:30:00,Match 6
+841,2022-10-15,Serie A Femminile,Como v Parma,12:30:00,Match 6
+842,2022-10-16,Serie A Femminile,Sassuolo v Roma,10:30:00,Match 6
 843,2022-10-22,Serie A Femminile,AC Milan v Juventus,,Match 7
 844,2022-10-22,Serie A Femminile,Sassuolo v Inter,,Match 7
 845,2022-10-22,Serie A Femminile,Parma v Pomigliano Calcio,,Match 7
